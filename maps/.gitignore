@@ -1,23 +1,32 @@
-# output data — never sync these between machines
+# ── pass 1 output ────────────────────────────────────────────────────────────
 urls.json
 urls_*.json
 scan_progress.json
 
-# logs
+# ── pass 2 output ────────────────────────────────────────────────────────────
+places.db
+places.db-shm
+places.db-wal
+places.xlsx
+html/
+
+# ── logs ─────────────────────────────────────────────────────────────────────
 scraper.log
 scraper_*.log
 pass2.log
 pass2_*.log
 
-# temp files
-*.tmp
+# ── backup / copy files ───────────────────────────────────────────────────────
+scrapper copy.py
 
-# chrome driver copies
+# ── temp & lock files ─────────────────────────────────────────────────────────
+*.tmp
+*.lock
+
+# ── chromedriver worker copies ────────────────────────────────────────────────
 undetected_chromedriver_*
 
-# sqlite
-*.db
-
-# python cache
+# ── python ────────────────────────────────────────────────────────────────────
 __pycache__/
 *.pyc
+*.pyo

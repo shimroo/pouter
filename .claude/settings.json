@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"import pandas, openpyxl; print\\('pandas', pandas.__version__, '/ openpyxl', openpyxl.__version__\\)\")"
+    ]
+  }
+}
