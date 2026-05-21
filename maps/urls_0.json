@@ -1,4 +1,18 @@
 {
+  "https://www.google.com/maps/place/1800+Emergency+Dentist+Toledo+24+Hour/data=!4m7!3m6!1s0x883c7900628d18a9:0x7dbc58a0d3f1fb3!8m2!3d41.6470496!4d-83.6642291!16s%2Fg%2F11mt0p747r!19sChIJqRiNYgB5PIgRsx8_DYrF2wc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:37",
+    "keyword": "Dental Clinics",
+    "name": "1800 Emergency Dentist Toledo 24 Hour",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/419+DENTAL+GROUP/data=!4m7!3m6!1s0x883c7de3bffb8943:0x4f4b4e7ab0b19f34!8m2!3d41.7213742!4d-83.755319!16s%2Fg%2F11m_6dgq32!19sChIJQ4n7v-N9PIgRNJ-xsHpOS08?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:42",
+    "keyword": "Dental Clinics",
+    "name": "419 DENTAL GROUP",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/419+DENTIST+SERVICE+SYlVANIA/data=!4m7!3m6!1s0x883c7dd26c655771:0x9411c84b4cd4ded4!8m2!3d41.7213742!4d-83.755319!16s%2Fg%2F11yx__pl7y!19sChIJcVdlbNJ9PIgR1N7UTEvIEZQ?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:51:25",
     "keyword": "Dental Clinics",
@@ -10,6 +24,34 @@
     "discovered_at": "2026-05-22T01:52:55",
     "keyword": "Med Spas",
     "name": "419 Dental & Esthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/A%26J+Mosquito+Spray+LLC/data=!4m7!3m6!1s0x417bca2766d4b38b:0x327b063be35327f5!8m2!3d41.5411336!4d-83.3291175!16s%2Fg%2F11m6kgc5q4!19sChIJi7PUZifKe0ER9SdT4zsGezI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:54",
+    "keyword": "Pest Control",
+    "name": "A&J Mosquito Spray LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/A%2B+Self+Storage/data=!4m7!3m6!1s0x883b8014c28a7d7d:0xc895924cf61d32e8!8m2!3d41.7223264!4d-83.5746661!16s%2Fg%2F1tdm4d8h!19sChIJfX2KwhSAO4gR6DId9kySlcg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:58",
+    "keyword": "Pest Control",
+    "name": "A+ Self Storage",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/A+Beautiful+You+Medical+Spa/data=!4m7!3m6!1s0x887f84c634fd58e1:0xaccb85c8e17df946!8m2!3d35.0988713!4d-89.83812!16s%2Fg%2F1vxzbct5!19sChIJ4Vj9NMaEf4gRRvl94ciFy6w?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:20",
+    "keyword": "Med Spas",
+    "name": "A Beautiful You Medical Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/AAA+Standard/data=!4m7!3m6!1s0x883c7903e734a92f:0xe0949b153a21292c!8m2!3d41.6304626!4d-83.6389617!16s%2Fg%2F1tdftthx!19sChIJL6k05wN5PIgRLCkhOhWblOA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:50",
+    "keyword": "Pest Control",
+    "name": "AAA Standard",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -34,10 +76,66 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/ASAP+American+Sewer+And+Plumbing+Services+Inc/data=!4m7!3m6!1s0x883b80521f8e0aa7:0x898de29b50c3a94c!8m2!3d41.7079001!4d-83.554899!16s%2Fg%2F11b6qwclp0!19sChIJpwqOH1KAO4gRTKnDUJvijYk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:12",
+    "keyword": "Plumbing Services",
+    "name": "ASAP American Sewer And Plumbing Services Inc",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Abed+Orthodontics/data=!4m7!3m6!1s0x88235cf286c74ded:0x7cc777ee27230ee5!8m2!3d42.1587517!4d-83.226116!16s%2Fg%2F1td8zsyf!19sChIJ7U3HhvJcI4gR5Q4jJ-53x3w?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:30",
+    "keyword": "Orthodontists",
+    "name": "Abed Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Abell+Pest+Control+Inc./data=!4m7!3m6!1s0x883c7a00b8eaaaab:0x4b0bff102d24bd1d!8m2!3d41.588449!4d-83.6817943!16s%2Fg%2F11gh49rny7!19sChIJq6rquAB6PIgRHb0kLRD_C0s?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:47",
+    "keyword": "Pest Control",
+    "name": "Abell Pest Control Inc.",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Able+Master+Sewer+Company/data=!4m7!3m6!1s0x883c7f9cc4daf35b:0xf530b65560afa229!8m2!3d41.6976299!4d-83.6041556!16s%2Fg%2F1tdjrtn0!19sChIJW_PaxJx_PIgRKaKvYFW2MPU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:16",
+    "keyword": "Plumbing Services",
+    "name": "Able Master Sewer Company",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Abundance+Treatment+Outpatient+Rehab+Toledo,+OH/data=!4m7!3m6!1s0x883c798ac3649bbb:0xcf73998b3d78409d!8m2!3d41.6356307!4d-83.6648884!16s%2Fg%2F11xcl11mpm!19sChIJu5tkw4p5PIgRnUB4PYuZc88?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "Abundance Treatment Outpatient Rehab Toledo, OH",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Ace+Plumbing/data=!4m7!3m6!1s0x883c80208c562c3f:0x3ce6ec5b4f8343a7!8m2!3d41.7053108!4d-83.6037937!16s%2Fg%2F1tfj3vbv!19sChIJPyxWjCCAPIgRp0ODT1vs5jw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:12",
+    "keyword": "Plumbing Services",
+    "name": "Ace Plumbing",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/Advanced+Dental+Care+of+Toledo/data=!4m7!3m6!1s0x883c7f45ea13abd5:0xfbde8d4f57b0b98c!8m2!3d41.7224591!4d-83.6246388!16s%2Fg%2F11t30rb3zg!19sChIJ1asT6kV_PIgRjLmwV0-N3vs?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:51:23",
     "keyword": "Dental Clinics",
     "name": "Advanced Dental Care of Toledo",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Advanced+Emergency+Dental+Services/data=!4m7!3m6!1s0x883c7fadfea695d9:0xd6ca5877ceea1b07!8m2!3d41.6983651!4d-83.6410551!16s%2Fg%2F11z7fxqkt5!19sChIJ2ZWm_q1_PIgRBxvqzndYytY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:44",
+    "keyword": "Dental Clinics",
+    "name": "Advanced Emergency Dental Services",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Aesthetic+Club/data=!4m7!3m6!1s0x391903007fea7187:0x3cf774972bf2adf7!8m2!3d31.4687653!4d74.2744182!16s%2Fg%2F11vzv7y793!19sChIJh3HqfwADGTkR963yK5d09zw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:59",
+    "keyword": "Aesthetic Clinics",
+    "name": "Aesthetic Club",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -48,10 +146,73 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Aesthetics+Hub/data=!4m7!3m6!1s0x391901a1b5b2474f:0xecd672faf60c2258!8m2!3d31.4538461!4d74.2747656!16s%2Fg%2F11t89c6rj_!19sChIJT0eytaEBGTkRWCIM9vpy1uw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:57",
+    "keyword": "Aesthetic Clinics",
+    "name": "Aesthetics Hub",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Aesthetics+Lab/data=!4m7!3m6!1s0x391901a1c0736711:0x9adbb2932a7ab253!8m2!3d31.4616431!4d74.2749247!16s%2Fg%2F11l5tgh5gx!19sChIJEWdzwKEBGTkRU7J6KpOy25o?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:57",
+    "keyword": "Aesthetic Clinics",
+    "name": "Aesthetics Lab",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Aesthetify/data=!4m7!3m6!1s0x391903000dfe8785:0x1d53f05dfc2ad1c2!8m2!3d31.4706071!4d74.2781161!16s%2Fg%2F11y6c_rr4x!19sChIJhYf-DQADGTkRwtEq_F3wUx0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:57",
+    "keyword": "Aesthetic Clinics",
+    "name": "Aesthetify",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Affordable+Dentures+%26+Implants/data=!4m7!3m6!1s0x883c7dc9d1697979:0x70f32279bfadc983!8m2!3d41.7146024!4d-83.6981918!16s%2Fg%2F1wyc4_r5!19sChIJeXlp0cl9PIgRg8mtv3ki83A?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:37",
+    "keyword": "Dental Clinics",
+    "name": "Affordable Dentures & Implants",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/Ahava+Spa+and+Wellness+Center/data=!4m7!3m6!1s0x883b86c52ac733eb:0xdd4ca6cf5deada0d!8m2!3d41.6466661!4d-83.5389752!16s%2Fg%2F1tqpzxyt!19sChIJ6zPHKsWGO4gRDdrqXc-mTN0?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:36",
     "keyword": "Med Spas",
     "name": "Ahava Spa and Wellness Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/All+About+Orthodontics+%28Braces+Made+Affordable%29/data=!4m7!3m6!1s0x883b37a03599d7d5:0xd881cf6e2ef1a550!8m2!3d42.196086!4d-83.2137832!16s%2Fg%2F11q95rl6_m!19sChIJ1deZNaA3O4gRUKXxLm7Pgdg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:30",
+    "keyword": "Orthodontists",
+    "name": "All About Orthodontics (Braces Made Affordable)",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/All+About+You+Aesthetics+And+Wellness/data=!4m7!3m6!1s0x883c0b879da396bb:0x3f0c6f3158288ab7!8m2!3d41.3751814!4d-83.6506986!16s%2Fg%2F11vhvhd6vc!19sChIJu5ajnYcLPIgRt4ooWDFvDD8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:20",
+    "keyword": "Med Spas",
+    "name": "All About You Aesthetics And Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/All+Seasons+Plumbing/data=!4m7!3m6!1s0x883b80b263f8aeb5:0xe2a7dde78901e66f!8m2!3d41.5456307!4d-83.5806005!16s%2Fg%2F1tkjlw8t!19sChIJta74Y7KAO4gRb-YBiefdp-I?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:12",
+    "keyword": "Plumbing Services",
+    "name": "All Seasons Plumbing",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Alternative+Physical+Therapy+Ltd./data=!4m7!3m6!1s0x883c79705b749edf:0x7af33bfdf5203b42!8m2!3d41.6687312!4d-83.6674448!16s%2Fg%2F1wg5yp9j!19sChIJ3550W3B5PIgRQjsg9f0783o?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:42",
+    "keyword": "Rehab Practices",
+    "name": "Alternative Physical Therapy Ltd.",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Alternative+Plumbing+Plus+Inc/data=!4m7!3m6!1s0x883b82742948d561:0x945b7da9b0da7f66!8m2!3d41.7322794!4d-83.4805197!16s%2Fg%2F1260j_bql!19sChIJYdVIKXSCO4gRZn_asKl9W5Q?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:16",
+    "keyword": "Plumbing Services",
+    "name": "Alternative Plumbing Plus Inc",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -62,10 +223,38 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Amazing+Smiles+Orthodontics+-+Dr.+Paul+Hwang/data=!4m7!3m6!1s0x883c68604f052f9f:0xae0fc05c02f89e4!8m2!3d41.5807798!4d-83.891606!16s%2Fg%2F1tdcxryx!19sChIJny8FT2BoPIgR5IkvwAX84Ao?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:07:17",
+    "keyword": "Orthodontists",
+    "name": "Amazing Smiles Orthodontics - Dr. Paul Hwang",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Amazing+Smiles+Orthodontics/data=!4m7!3m6!1s0x883c68604f04c3a7:0xba7ca5700fc82350!8m2!3d41.5807891!4d-83.8915685!16s%2Fg%2F11h7v7l1q4!19sChIJp8MET2BoPIgRUCPID3ClfLo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:05",
+    "keyword": "Orthodontists",
+    "name": "Amazing Smiles Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Amazing+Smiles+Orthodontics/data=!4m7!3m6!1s0x883c7c8ce32a2897:0xe1ab01d4fbd66662!8m2!3d41.6867982!4d-83.7261305!16s%2Fg%2F1td18j25!19sChIJlygq44x8PIgRYmbW-9QBq-E?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:07:17",
+    "keyword": "Orthodontists",
+    "name": "Amazing Smiles Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/Amor+Health+and+Wellness/data=!4m7!3m6!1s0x883c79579007b637:0xd29f60ab641785f5!8m2!3d41.6145492!4d-83.6642871!16s%2Fg%2F11xglsmxd_!19sChIJN7YHkFd5PIgR9YUXZKtgn9I?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:46",
     "keyword": "Med Spas",
     "name": "Amor Health and Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Ams+Services+Toledo/data=!4m7!3m6!1s0x883c7b912939c619:0xe51dcb3d024eeda0!8m2!3d41.6562745!4d-83.571897!16s%2Fg%2F11n05y7w58!19sChIJGcY5KZF7PIgRoO1OAj3LHeU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:50",
+    "keyword": "Pest Control",
+    "name": "Ams Services Toledo",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -90,6 +279,13 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Annette+R.+Millie,+MD-+MATAAS/data=!4m7!3m6!1s0x883b84b6bb11d96d:0x230b6fda7d8076e!8m2!3d41.6367968!4d-83.4276043!16s%2Fg%2F1vkxmyj9!19sChIJbdkRu7aEO4gRbgfYp_22MAI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:20",
+    "keyword": "Med Spas",
+    "name": "Annette R. Millie, MD- MATAAS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/Annica+Transformation/data=!4m7!3m6!1s0x883c797a9532d14f:0xe6830ebe939b0112!8m2!3d41.6118622!4d-83.6236062!16s%2Fg%2F11mlh7n5vy!19sChIJT9EylXp5PIgREgGbk74Og-Y?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:36",
     "keyword": "Med Spas",
@@ -101,6 +297,13 @@
     "discovered_at": "2026-05-22T01:52:30",
     "keyword": "Med Spas",
     "name": "Apricity Renew You Med Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Aptive+Pest+Control/data=!4m7!3m6!1s0x883c7b44d820e76b:0x3258440cb94da348!8m2!3d41.6505685!4d-83.6830877!16s%2Fg%2F11sy08k2ph!19sChIJa-cg2ER7PIgRSKNNuQxEWDI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:44",
+    "keyword": "Pest Control",
+    "name": "Aptive Pest Control",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -125,6 +328,27 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Aspen+Dental+-+Holland,+OH/data=!4m7!3m6!1s0x883c7a40d6d9dcc7:0xd3608bfc585f5434!8m2!3d41.6128254!4d-83.7014008!16s%2Fg%2F1tm8fngd!19sChIJx9zZ1kB6PIgRNFRfWPyLYNM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:40",
+    "keyword": "Dental Clinics",
+    "name": "Aspen Dental - Holland, OH",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Aspen+Dental+-+Toledo,+OH/data=!4m7!3m6!1s0x883c7ef000f5ef33:0x3504a4932ce4cd3f!8m2!3d41.694826!4d-83.645462!16s%2Fg%2F1vzqsycm!19sChIJM-_1APB-PIgRP83kLJOkBDU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:42",
+    "keyword": "Dental Clinics",
+    "name": "Aspen Dental - Toledo, OH",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Attain+Behavioral+Health:+Drug+%26+Alcohol+Rehab+%7C+Addiction+Treatment+In+Toledo,+Ohio/data=!4m7!3m6!1s0x883c7d02eabae957:0xe97f9457d19b78fd!8m2!3d41.6779525!4d-83.7006542!16s%2Fg%2F11l2c1l3m7!19sChIJV-m66gJ9PIgR_Xib0VeUf-k?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "Attain Behavioral Health: Drug & Alcohol Rehab | Addiction Treatment In Toledo, Ohio",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/Avanti+Med+Spa/data=!4m7!3m6!1s0x883c70b1ce47e793:0xb26181179236e89f!8m2!3d41.577056!4d-83.6847435!16s%2Fg%2F1th0nkvp!19sChIJk-dHzrFwPIgRn-g2kheBYbI?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:28",
     "keyword": "Med Spas",
@@ -146,10 +370,31 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/BCS+Contractor+And+Chimney+Sweep+%26+Repair+And+Gas+Fireplace+Services+LLC/data=!4m7!3m6!1s0x883c7c73e747a3d3:0xbd93c520251903e6!8m2!3d41.5744855!4d-83.6608002!16s%2Fg%2F11bv1cgll9!19sChIJ06NH53N8PIgR5gMZJSDFk70?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:58",
+    "keyword": "Pest Control",
+    "name": "BCS Contractor And Chimney Sweep & Repair And Gas Fireplace Services LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/Balance+Wellness+Spa,+LLC/data=!4m7!3m6!1s0x883c7dd673a31369:0x42cfbf8988d99f11!8m2!3d41.7115287!4d-83.6794015!16s%2Fg%2F11fz7w6bxb!19sChIJaROjc9Z9PIgREZ_ZiIm_z0I?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:48",
     "keyword": "Med Spas",
     "name": "Balance Wellness Spa, LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Balanced+Aesthetics+%2B+Wellness/data=!4m7!3m6!1s0x88f505ef3409988f:0x8a95292b93378dde!8m2!3d33.8607758!4d-84.3338812!16s%2Fg%2F11kksyp6d4!19sChIJj5gJNO8F9YgR3o03kysplYo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:20",
+    "keyword": "Med Spas",
+    "name": "Balanced Aesthetics + Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Banfax+Pest+Control/data=!4m7!3m6!1s0x883c0c9896e624d3:0xb46a5a453661f48!8m2!3d41.4070571!4d-83.6840801!16s%2Fg%2F1tvw5ls1!19sChIJ0yTmlpgMPIgRSB9mU6SlRgs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:58",
+    "keyword": "Pest Control",
+    "name": "Banfax Pest Control",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -164,6 +409,13 @@
     "discovered_at": "2026-05-22T01:53:13",
     "keyword": "Aesthetic Clinics",
     "name": "Beauty By Brandi",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Bed+Bug+Exterminator+Toledo/data=!4m7!3m6!1s0x883b8158da6c0889:0xdb48f4e2b2150145!8m2!3d41.6708353!4d-83.5555237!16s%2Fg%2F11f9x9d6mr!19sChIJiQhs2liBO4gRRQEVsuL0SNs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:45",
+    "keyword": "Pest Control",
+    "name": "Bed Bug Exterminator Toledo",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -188,6 +440,20 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Black+Diamond+Lawn+Service/data=!4m7!3m6!1s0x883b8112547bb629:0x4de50f72b63d8de2!8m2!3d41.6972412!4d-83.5916819!16s%2Fg%2F11mwzjywrb!19sChIJKbZ7VBKBO4gR4o09tnIP5U0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:58",
+    "keyword": "Pest Control",
+    "name": "Black Diamond Lawn Service",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Blanchard+Tree+%26+Lawn/data=!4m7!3m6!1s0x883c7ac86efc98b1:0x3d79a051b1d163e5!8m2!3d41.612736!4d-83.752651!16s%2Fg%2F1vzv4b73!19sChIJsZj8bsh6PIgR5WPRsVGgeT0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:12:01",
+    "keyword": "Pest Control",
+    "name": "Blanchard Tree & Lawn",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/Blush+Aesthetics/data=!4m7!3m6!1s0x883c76f92550598f:0xba0e2c7f4b1406f0!8m2!3d41.5160645!4d-83.6401391!16s%2Fg%2F11dxbphxl1!19sChIJj1lQJfl2PIgR8AYUS38sDro?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:53:10",
     "keyword": "Aesthetic Clinics",
@@ -202,10 +468,66 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Bowman+Douglas+R+DDS/data=!4m7!3m6!1s0x883c7ef4b6c7ee0d:0xad34fa836fcdc40f!8m2!3d41.7010547!4d-83.6557867!16s%2Fg%2F12622l81k!19sChIJDe7HtvR-PIgRD8TNb4P6NK0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:24",
+    "keyword": "Orthodontists",
+    "name": "Bowman Douglas R DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Brookview+Dental/data=!4m7!3m6!1s0x883c7c5e01480f4f:0x8b65e898999e177c!8m2!3d41.6888564!4d-83.7148119!16s%2Fg%2F1tdj4wr1!19sChIJTw9IAV58PIgRfBeemZjoZYs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:38",
+    "keyword": "Dental Clinics",
+    "name": "Brookview Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Bruckner+Elaine+PHD/data=!4m7!3m6!1s0x883c7f02b988a7d3:0xde89faeb20264dc6!8m2!3d41.6938357!4d-83.6343532!16s%2Fg%2F113hfzrr7!19sChIJ06eIuQJ_PIgRxk0mIOv6id4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:19",
+    "keyword": "Orthodontists",
+    "name": "Bruckner Elaine PHD",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Buckeye+Wildlife+Solutions+NW/data=!4m7!3m6!1s0x883bc95fad5c4e41:0xf2206f7fe501abf!8m2!3d41.2103555!4d-83.3453655!16s%2Fg%2F11q4qpls50!19sChIJQU5crV_JO4gRvxpQ_vcGIg8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:45",
+    "keyword": "Pest Control",
+    "name": "Buckeye Wildlife Solutions NW",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Charleston+Medical+Spa/data=!4m7!3m6!1s0x88fe7960be7f6b95:0x8feb3344851bd91!8m2!3d32.762913!4d-79.985402!16s%2Fg%2F1tnssskq!19sChIJlWt_vmB5_ogRkb1RSDSz_gg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:20",
+    "keyword": "Med Spas",
+    "name": "Charleston Medical Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/Cheeky+Skin+%26+Wax+Studio/data=!4m7!3m6!1s0x883c7d19b26ec70d:0x8e002b3f67325dca!8m2!3d41.6958177!4d-83.6883783!16s%2Fg%2F11t7hmcglr!19sChIJDcdushl9PIgRyl0yZz8rAI4?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:50",
     "keyword": "Med Spas",
     "name": "Cheeky Skin & Wax Studio",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Christopher+Clark,+DDS/data=!4m7!3m6!1s0x883b881fea793919:0xe881f550d35cd81f!8m2!3d41.5635901!4d-83.5911237!16s%2Fg%2F1td48n7z!19sChIJGTl56h-IO4gRH9hc01D1geg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:19",
+    "keyword": "Orthodontists",
+    "name": "Christopher Clark, DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Classic+Smiles+Dental+Toledo/data=!4m7!3m6!1s0x883c790a2816185d:0xe9136534572251f3!8m2!3d41.6005583!4d-83.6709414!16s%2Fg%2F11ww6gm8hs!19sChIJXRgWKAp5PIgR81EiVzRlE-k?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:42",
+    "keyword": "Dental Clinics",
+    "name": "Classic Smiles Dental Toledo",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/CommunityCare+Free+Medical+Clinics/data=!4m7!3m6!1s0x883c78375971479f:0x7c4bc8e906891c2a!8m2!3d41.5998319!4d-83.6244884!16s%2Fg%2F11c1v2p07c!19sChIJn0dxWTd4PIgRKhyJBunIS3w?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:57",
+    "keyword": "Aesthetic Clinics",
+    "name": "CommunityCare Free Medical Clinics",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -216,10 +538,80 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Comprehensive+Pest+Solutions/data=!4m7!3m6!1s0x650d8234f8e674db:0xf83c82b44a2f03d5!8m2!3d41.616494!4d-83.5454725!16s%2Fg%2F11y50yr1x4!19sChIJ23Tm-DSCDWUR1QMvSrSCPPg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:54",
+    "keyword": "Pest Control",
+    "name": "Comprehensive Pest Solutions",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Cordelia+Martin+Community+Health+Center/data=!4m7!3m6!1s0x883b8726c0cef739:0x41d9f0f391550fdb!8m2!3d41.6457401!4d-83.5528339!16s%2Fg%2F1v9lcf_t!19sChIJOffOwCaHO4gR2w9VkfPw2UE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:41",
+    "keyword": "Dental Clinics",
+    "name": "Cordelia Martin Community Health Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/Corner+Dental+-+Lewis/data=!4m7!3m6!1s0x883c7efa9da4fea9:0x104a21250f251795!8m2!3d41.7229844!4d-83.5671799!16s%2Fg%2F1vcjmy1b!19sChIJqf6knfp-PIgRlRclDyUhShA?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:51:23",
     "keyword": "Dental Clinics",
     "name": "Corner Dental - Lewis",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Corner+Dental+-+Sylvania/data=!4m7!3m6!1s0x883c79451205d009:0xfc0a17c24c87b482!8m2!3d41.68943!4d-83.7274022!16s%2Fg%2F1tg879zt!19sChIJCdAFEkV5PIgRgrSHTMIXCvw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:41",
+    "keyword": "Dental Clinics",
+    "name": "Corner Dental - Sylvania",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Corner+Dental/data=!4m7!3m6!1s0x883b84673830b329:0x359e76e770a7636!8m2!3d41.6363058!4d-83.4705127!16s%2Fg%2F1w_vnyy0!19sChIJKbMwOGeEO4gRNnYKd27nWQM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:44",
+    "keyword": "Dental Clinics",
+    "name": "Corner Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Corner+Dental/data=!4m7!3m6!1s0x883c7753356bdbed:0xee4467990bf18741!8m2!3d41.5826017!4d-83.6780209!16s%2Fg%2F1wc48n00!19sChIJ7dtrNVN3PIgRQYfxC5lnRO4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:17",
+    "keyword": "Orthodontists",
+    "name": "Corner Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Corner+Dental/data=!4m7!3m6!1s0x883c79451205d009:0x2745b2a02b7a62a8!8m2!3d41.6962606!4d-83.6456851!16s%2Fg%2F1tf6mwmt!19sChIJCdAFEkV5PIgRqGJ6K6CyRSc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:37",
+    "keyword": "Dental Clinics",
+    "name": "Corner Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Cosmetic+%26+Family+Dental+Studios,+LLC/data=!4m7!3m6!1s0x883c78e5b9042867:0x6921f33100d6f7fc!8m2!3d41.6371564!4d-83.6272971!16s%2Fg%2F1v3gsk_b!19sChIJZygEueV4PIgR_PfWADHzIWk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:42",
+    "keyword": "Dental Clinics",
+    "name": "Cosmetic & Family Dental Studios, LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Cosmika+Aesthetic+clinic+%26+Makeup+studio/data=!4m7!3m6!1s0x3919030b309e6eb1:0xc20e66091c2088f3!8m2!3d31.4669162!4d74.2739885!16s%2Fg%2F11vxx_nyl2!19sChIJsW6eMAsDGTkR84ggHAlmDsI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:59",
+    "keyword": "Aesthetic Clinics",
+    "name": "Cosmika Aesthetic clinic & Makeup studio",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/CosmoMedics+Aesthetic+%26+Medical+Center%7C+Johar+Town+lahore+Pakistan/data=!4m7!3m6!1s0x391903c5f4631f19:0xf455960d0dbe5d5d!8m2!3d31.4719753!4d74.2777938!16s%2Fg%2F11k2hrrwm1!19sChIJGR9j9MUDGTkRXV2-DQ2WVfQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:57",
+    "keyword": "Aesthetic Clinics",
+    "name": "CosmoMedics Aesthetic & Medical Center| Johar Town lahore Pakistan",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Cousino+Restoration+%26+Environmental+of+Perrysburg/data=!4m7!3m6!1s0x883c76fc5feeeba3:0x4999a497addef143!8m2!3d41.5413035!4d-83.6447589!16s%2Fg%2F1tdch0q0!19sChIJo-vuX_x2PIgRQ_HerZekmUk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:54",
+    "keyword": "Pest Control",
+    "name": "Cousino Restoration & Environmental of Perrysburg",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -237,10 +629,66 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Critter+Control+of+Toledo/data=!4m7!3m6!1s0x883c79667146c12d:0x2161a431836404de!8m2!3d41.6258423!4d-83.6549164!16s%2Fg%2F11jg11lghj!19sChIJLcFGcWZ5PIgR3gRkgzGkYSE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:45",
+    "keyword": "Pest Control",
+    "name": "Critter Control of Toledo",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Crystal+Hoak,+LMT/data=!4m7!3m6!1s0x883c7feaf5b463d7:0x808beb3830204454!8m2!3d41.6840593!4d-83.6284853!16s%2Fg%2F11ssmt1cbf!19sChIJ12O09ep_PIgRVEQgMDjri4A?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:20",
+    "keyword": "Med Spas",
+    "name": "Crystal Hoak, LMT",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Curts+Critter+Gitters/data=!4m7!3m6!1s0x883c77640ca8b08f:0x19b6747892d5799c!8m2!3d41.603525!4d-83.59905!16s%2Fg%2F11gg6559qg!19sChIJj7CoDGR3PIgRnHnVknh0thk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:58",
+    "keyword": "Pest Control",
+    "name": "Curts Critter Gitters",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/DENTAL+DEFINITIONS/data=!4m7!3m6!1s0x883c79857a6760e1:0x8cc79ebcc6c26d5d!8m2!3d41.6170215!4d-83.668667!16s%2Fg%2F1trplwhs!19sChIJ4WBneoV5PIgRXW3Cxryex4w?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:41",
+    "keyword": "Dental Clinics",
+    "name": "DENTAL DEFINITIONS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/DR.+FARRUKH+SKIN+CLINIC/data=!4m7!3m6!1s0x39190334fdd21a93:0x67a55644b22431ac!8m2!3d31.4722093!4d74.2588495!16s%2Fg%2F11rx2_zlmf!19sChIJkxrS_TQDGTkRrDEkskRWpWc?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:53:13",
     "keyword": "Aesthetic Clinics",
     "name": "DR. FARRUKH SKIN CLINIC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Delroy+Products+%26+Pest+Control+Inc./data=!4m7!3m6!1s0x883b8135a2e4485f:0x15b65848c66207d4!8m2!3d41.6613606!4d-83.5297279!16s%2Fg%2F1vc_r0lp!19sChIJX0jkojWBO4gR1AdixkhYthU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:45",
+    "keyword": "Pest Control",
+    "name": "Delroy Products & Pest Control Inc.",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Delving+Pest+Control/data=!4m7!3m6!1s0x883b93c366c1bdd1:0xb9500f15b26ec8d5!8m2!3d41.4753108!4d-83.2956686!16s%2Fg%2F11hds5ppjy!19sChIJ0b3BZsOTO4gR1chushUPULk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:54",
+    "keyword": "Pest Control",
+    "name": "Delving Pest Control",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Dental+Center+of+NW+Ohio:+Johnston+John+R+DDS/data=!4m7!3m6!1s0x883b872ab411d77b:0x25e5884dd5f00659!8m2!3d41.6591633!4d-83.550711!16s%2Fg%2F1tmxg6s4!19sChIJe9cRtCqHO4gRWQbw1U2I5SU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:39",
+    "keyword": "Dental Clinics",
+    "name": "Dental Center of NW Ohio: Johnston John R DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Dental+Excellence+of+Maumee/data=!4m7!3m6!1s0x883c70bcf4a8ae8b:0xff32d2a4f873dbfe!8m2!3d41.5758618!4d-83.6947215!16s%2Fg%2F1tdml4fg!19sChIJi66o9LxwPIgR_ttz-KTSMv8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:42",
+    "keyword": "Dental Clinics",
+    "name": "Dental Excellence of Maumee",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -262,6 +710,48 @@
     "discovered_at": "2026-05-22T01:51:25",
     "keyword": "Dental Clinics",
     "name": "Dental Health Associates",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Dental+Innovations/data=!4m7!3m6!1s0x883c7715ae7300b3:0xe7d4801f534b18b8!8m2!3d41.5408317!4d-83.6350347!16s%2Fg%2F1tgjlz9d!19sChIJswBzrhV3PIgRuBhLUx-A1Oc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:44",
+    "keyword": "Dental Clinics",
+    "name": "Dental Innovations",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Dental+Office+of+Drs.+Nicholas,+Baburek+%26+Rogaliner/data=!4m7!3m6!1s0x883c7f0fbf9c3067:0x982dcc244eb6a2ca!8m2!3d41.6946097!4d-83.6227038!16s%2Fg%2F1tffkf_6!19sChIJZzCcvw9_PIgRyqK2TiTMLZg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:34",
+    "keyword": "Dental Clinics",
+    "name": "Dental Office of Drs. Nicholas, Baburek & Rogaliner",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Dental+Reflections+at+Briarfield/data=!4m7!3m6!1s0x883c70a26b31b5ef:0x72557ca8414358e4!8m2!3d41.5818905!4d-83.6977913!16s%2Fg%2F1td18j1w!19sChIJ77Uxa6JwPIgR5FhDQah8VXI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:37",
+    "keyword": "Dental Clinics",
+    "name": "Dental Reflections at Briarfield",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/DentalWorks+%26+Orthodontics+Secor+Square/data=!4m7!3m6!1s0x883c7f2370c1d727:0xd147e967229fb956!8m2!3d41.6839465!4d-83.6221234!16s%2Fg%2F1tdpmrmy!19sChIJJ9fBcCN_PIgRVrmfImfpR9E?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:37",
+    "keyword": "Dental Clinics",
+    "name": "DentalWorks & Orthodontics Secor Square",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Dentist+in+Oregon/data=!4m7!3m6!1s0x883b848a255a8745:0xc3afc07e5bb2b1bf!8m2!3d41.6382865!4d-83.4626083!16s%2Fg%2F1w8wbpqc!19sChIJRYdaJYqEO4gRv7GyW37Ar8M?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:37",
+    "keyword": "Dental Clinics",
+    "name": "Dentist in Oregon",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Dentist+in+Perrysburg/data=!4m7!3m6!1s0x883c77cfe1cc7de3:0x5c90392fe313343b!8m2!3d41.5454889!4d-83.619503!16s%2Fg%2F11tp0yrcy5!19sChIJ433M4c93PIgROzQT4y85kFw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:41",
+    "keyword": "Dental Clinics",
+    "name": "Dentist in Perrysburg",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -293,10 +783,31 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Dose+Aesthetics/data=!4m7!3m6!1s0x883c0b12d7f9eca5:0x24540e1eb1a844fb!8m2!3d41.3745621!4d-83.6500753!16s%2Fg%2F11jzqt8x3w!19sChIJpez51xILPIgR-0SosR4OVCQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:16",
+    "keyword": "Med Spas",
+    "name": "Dose Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/Dose+Aesthetics/data=!4m7!3m6!1s0x883c77bc306d8e85:0xf1c58f7d0ff18880!8m2!3d41.566936!4d-83.6543661!16s%2Fg%2F11v_4zkgw9!19sChIJhY5tMLx3PIgRgIjxD32PxfE?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:31",
     "keyword": "Med Spas",
     "name": "Dose Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Dot+Clinics+-+Hair+Transplant,+Laser,+Aesthetic+%26+Dermatology+Clinic/data=!4m7!3m6!1s0x3919014e5bb2882b:0x42a0be47bce6566f!8m2!3d31.4580359!4d74.2759769!16s%2Fg%2F11yrf1h5w8!19sChIJK4iyW04BGTkRb1bmvEe-oEI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:57",
+    "keyword": "Aesthetic Clinics",
+    "name": "Dot Clinics - Hair Transplant, Laser, Aesthetic & Dermatology Clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Downey+Orthodontics/data=!4m7!3m6!1s0x883c0b83255743ad:0x89b4deb79a31e005!8m2!3d41.3732032!4d-83.6703414!16s%2Fg%2F1vfp8ws7!19sChIJrUNXJYMLPIgRBeAxmrfetIk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:30",
+    "keyword": "Orthodontists",
+    "name": "Downey Orthodontics",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -307,6 +818,41 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Dr+Shelley+Schnoor+Family+Dentistry/data=!4m7!3m6!1s0x883c807c302ffa5d:0x223f833de3fd4fd4!8m2!3d41.7494759!4d-83.6301002!16s%2Fg%2F1tp_71qj!19sChIJXfovMHyAPIgR1E_94z2DPyI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:41",
+    "keyword": "Dental Clinics",
+    "name": "Dr Shelley Schnoor Family Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Dr+Simon/data=!4m7!3m6!1s0x883c70c5a430ac63:0x7c9514a23fc154e3!8m2!3d41.56067!4d-83.6896202!16s%2Fg%2F1tg5csg1!19sChIJY6wwpMVwPIgR41TBP6IUlXw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:17",
+    "keyword": "Orthodontists",
+    "name": "Dr Simon",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Andr%C3%A9+Haerian/data=!4m7!3m6!1s0x883c70c5a40cf143:0xf79b4eaab204ff11!8m2!3d41.56067!4d-83.6896202!16s%2Fg%2F1262fw8t9!19sChIJQ_EMpMVwPIgREf8EsqpOm_c?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:08",
+    "keyword": "Orthodontists",
+    "name": "Dr. André Haerian",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Andre+Haerian/data=!4m7!3m6!1s0x883c7db13da1f595:0x1249c18591f7534c!8m2!3d41.715206!4d-83.69872!16s%2Fg%2F1tf16k32!19sChIJlfWhPbF9PIgRTFP3kYXBSRI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:08",
+    "keyword": "Orthodontists",
+    "name": "Dr. Andre Haerian",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Andre+Haerian/data=!4m7!3m6!1s0x883c8066771717d9:0xd3168a2f786ebd48!8m2!3d41.7578196!4d-83.625!16s%2Fg%2F1w4f8sd2!19sChIJ2RcXd2aAPIgRSL1ueC-KFtM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:12",
+    "keyword": "Orthodontists",
+    "name": "Dr. Andre Haerian",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/Dr.+Atta-ul-Haq+Plastic+Surgeon/data=!4m7!3m6!1s0x391906130dc05a99:0x1e550faa2aa449e5!8m2!3d31.4738661!4d74.2588858!16s%2Fg%2F11g7z0cc4h!19sChIJmVrADRMGGTkR5UmkKqoPVR4?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:53:15",
     "keyword": "Aesthetic Clinics",
@@ -314,10 +860,143 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Dr.+David+Shall/data=!4m7!3m6!1s0x883c7e7f18cac43b:0xd55c2ec5fcfd22e!8m2!3d41.709764!4d-83.67507!16s%2Fg%2F11bwyr_6gs!19sChIJO8TKGH9-PIgRLtLPX-zCVQ0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:24",
+    "keyword": "Orthodontists",
+    "name": "Dr. David Shall",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Jennifer+Ludwig/data=!4m7!3m6!1s0x883c7163602af893:0xb879309ce9c0a07a!8m2!3d41.5606266!4d-83.6897866!16s%2Fg%2F11fgrn9rc2!19sChIJk_gqYGNxPIgReqDA6Zwwebg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:08",
+    "keyword": "Orthodontists",
+    "name": "Dr. Jennifer Ludwig",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Jennifer+Ludwig/data=!4m7!3m6!1s0x883c7db13da1f595:0xf7029ef88593118a!8m2!3d41.7151308!4d-83.698652!16s%2Fg%2F1tt0rs_g!19sChIJlfWhPbF9PIgRihGThfieAvc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:05",
+    "keyword": "Orthodontists",
+    "name": "Dr. Jennifer Ludwig",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Jennifer+Ludwig/data=!4m7!3m6!1s0x883c8066771717d9:0xdc8e926866202789!8m2!3d41.7577572!4d-83.625007!16s%2Fg%2F1tzlzmvp!19sChIJ2RcXd2aAPIgRiScgZmiSjtw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:12",
+    "keyword": "Orthodontists",
+    "name": "Dr. Jennifer Ludwig",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+John+Carle,+DDS/data=!4m7!3m6!1s0x883c7c8ce32a2897:0x5075f1b824a25125!8m2!3d41.6873162!4d-83.7276576!16s%2Fg%2F1tcvvjj4!19sChIJlygq44x8PIgRJVGiJLjxdVA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:30",
+    "keyword": "Orthodontists",
+    "name": "Dr. John Carle, DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Joseph+P.+Brennan,+DDS/data=!4m7!3m6!1s0x883c68604a2992fd:0x340f69e44adb92bd!8m2!3d41.5812747!4d-83.8911576!16s%2Fg%2F1tf7st86!19sChIJ_ZIpSmBoPIgRvZLbSuRpDzQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:44",
+    "keyword": "Dental Clinics",
+    "name": "Dr. Joseph P. Brennan, DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Kirk+McKibben+-+Dental+Health+Associates+of+Whitehouse/data=!4m7!3m6!1s0x883c6e155c494aa1:0x52a222003307277a!8m2!3d41.5326664!4d-83.7825043!16s%2Fg%2F11hbr2p3ql!19sChIJoUpJXBVuPIgReicHMwAiolI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:26",
+    "keyword": "Orthodontists",
+    "name": "Dr. Kirk McKibben - Dental Health Associates of Whitehouse",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Kristan+E.+Nicholas,+DDS/data=!4m7!3m6!1s0x883c7f0fbf9c3067:0x95a9be92d01073ee!8m2!3d41.6946097!4d-83.6227038!16s%2Fg%2F1v96mgh6!19sChIJZzCcvw9_PIgR7nMQ0JK-qZU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:44",
+    "keyword": "Dental Clinics",
+    "name": "Dr. Kristan E. Nicholas, DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Mark+G.+Benedict,+DDS/data=!4m7!3m6!1s0x883c7f050dc5dbd3:0x14233367673092b!8m2!3d41.6955883!4d-83.6255582!16s%2Fg%2F1tf3c6b2!19sChIJ09vFDQV_PIgRKwlzdjYzQgE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:24",
+    "keyword": "Orthodontists",
+    "name": "Dr. Mark G. Benedict, DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Nanette+Mick+DDS/data=!4m7!3m6!1s0x883c7c8ce32a2897:0xe902f4d71ba6be5c!8m2!3d41.6873161!4d-83.7276576!16s%2Fg%2F1thghq3v!19sChIJlygq44x8PIgRXL6mG9f0Auk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:12",
+    "keyword": "Orthodontists",
+    "name": "Dr. Nanette Mick DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Stephen+Branam/data=!4m7!3m6!1s0x883b845d6e900001:0xdbde62d12c492c15!8m2!3d41.6343732!4d-83.4732322!16s%2Fg%2F11rwxfynvn!19sChIJAQCQbl2EO4gRFSxJLNFi3ts?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:19",
+    "keyword": "Orthodontists",
+    "name": "Dr. Stephen Branam",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Timothy+Thetford,+DDS/data=!4m7!3m6!1s0x883c68604a2992fd:0x6e79107abaf5660a!8m2!3d41.5812747!4d-83.8911576!16s%2Fg%2F1wf22j9v!19sChIJ_ZIpSmBoPIgRCmb1unoQeW4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:12",
+    "keyword": "Orthodontists",
+    "name": "Dr. Timothy Thetford, DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Drain+Doctor/data=!4m7!3m6!1s0x883c7e46b9155555:0x91f2e9c8ed97ea99!8m2!3d41.7206293!4d-83.6499072!16s%2Fg%2F11fll65v45!19sChIJVVUVuUZ-PIgRmeqX7cjp8pE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:12",
+    "keyword": "Plumbing Services",
+    "name": "Drain Doctor",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Drain+Master/data=!4m7!3m6!1s0x883c7dba99964ebf:0x8df10704ca87ee24!8m2!3d41.6609432!4d-83.704486!16s%2Fg%2F11hdjgvlj2!19sChIJv06Wmbp9PIgRJO6HygQH8Y0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:16",
+    "keyword": "Plumbing Services",
+    "name": "Drain Master",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/Drip+IV+Hydration+And+Aesthetics/data=!4m7!3m6!1s0x883c7f29152d0543:0x128cdd7eb021e9c9!8m2!3d41.697319!4d-83.6454544!16s%2Fg%2F11j7vk0h8n!19sChIJQwUtFSl_PIgRyekhsH7djBI?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:31",
     "keyword": "Med Spas",
     "name": "Drip IV Hydration And Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Drs.+Duggan+%26+Knierim+Toledo+Family+Dental+Practice/data=!4m7!3m6!1s0x883c7ef07eda176d:0x94c8a5de0a7e5f19!8m2!3d41.6968341!4d-83.6463503!16s%2Fg%2F1tdcbgz5!19sChIJbRfafvB-PIgRGV9-Ct6lyJQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:38",
+    "keyword": "Dental Clinics",
+    "name": "Drs. Duggan & Knierim Toledo Family Dental Practice",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Duchon+Stuart+DDS/data=!4m7!3m6!1s0x883c784e3566afd7:0x1f80e21633e724e8!8m2!3d41.6128743!4d-83.6269651!16s%2Fg%2F1trtv_7n!19sChIJ169mNU54PIgR6CTnMxbigB8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:05",
+    "keyword": "Orthodontists",
+    "name": "Duchon Stuart DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/East+Point+Physical+Therapy/data=!4m7!3m6!1s0x883b82258bbfffff:0xd91ae5b4811295ca!8m2!3d41.70677!4d-83.5000069!16s%2Fg%2F11fll6j1x_!19sChIJ__-_iyWCO4gRypUSgbTlGtk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:42",
+    "keyword": "Rehab Practices",
+    "name": "East Point Physical Therapy",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/EcoPest+Solutions+-+Pest+%26+Wildlife+Management/data=!4m7!3m6!1s0x883b875ae1cdbe6f:0x59b46966409fbb1e!8m2!3d41.5733227!4d-83.6586754!16s%2Fg%2F11pdrdhsqb!19sChIJb77N4VqHO4gRHrufQGZptFk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:45",
+    "keyword": "Pest Control",
+    "name": "EcoPest Solutions - Pest & Wildlife Management",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Eden+Pest+Control+Services/data=!4m7!3m6!1s0x391903b67e49eee9:0xa82c6719fb5765f1!8m2!3d31.4625982!4d74.2442182!16s%2Fg%2F11p14xkzgf!19sChIJ6e5JfrYDGTkR8WVX-xlnLKg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:12:01",
+    "keyword": "Pest Control",
+    "name": "Eden Pest Control Services",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -332,6 +1011,69 @@
     "discovered_at": "2026-05-22T01:52:31",
     "keyword": "Med Spas",
     "name": "Elite Beauty",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Elizabeth+M.+McCartney,+D.D.S.,+M.S./data=!4m7!3m6!1s0x883c7714337a7149:0x3938075b3de43104!8m2!3d41.5616818!4d-83.6534875!16s%2Fg%2F1tcvjs70!19sChIJSXF6MxR3PIgRBDHkPVsHODk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:05",
+    "keyword": "Orthodontists",
+    "name": "Elizabeth M. McCartney, D.D.S., M.S.",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Emergency+Dentist+24%2F7+Perrysburg/data=!4m7!3m6!1s0x883c77a6851db73d:0x6ec278a319cc293a!8m2!3d41.545675!4d-83.5938381!16s%2Fg%2F11j2yrzxqx!19sChIJPbcdhaZ3PIgROinMGaN4wm4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:44",
+    "keyword": "Dental Clinics",
+    "name": "Emergency Dentist 24/7 Perrysburg",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Emergency+Dentist+24%2F7+Perrysburg/data=!4m7!3m6!1s0x883c77deb7831359:0x90f20d70909a3270!8m2!3d41.5408317!4d-83.6350347!16s%2Fg%2F11j2ys04cy!19sChIJWRODt953PIgRcDKakHAN8pA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:44",
+    "keyword": "Dental Clinics",
+    "name": "Emergency Dentist 24/7 Perrysburg",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Emergency+Dentist+24%2F7+Toledo/data=!4m7!3m6!1s0x883c7f7488691f2d:0x8ad340c021e3637d!8m2!3d41.6834578!4d-83.6282751!16s%2Fg%2F11j2ys2ksn!19sChIJLR9piHR_PIgRfWPjIcBA04o?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:38",
+    "keyword": "Dental Clinics",
+    "name": "Emergency Dentist 24/7 Toledo",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Emergency+Dentist+24%2F7+Toledo/data=!4m7!3m6!1s0x883c7fd2863c9aa7:0xaf6d4407bb674943!8m2!3d41.6948387!4d-83.6454416!16s%2Fg%2F11j8lpqrqg!19sChIJp5o8htJ_PIgRQ0lnuwdEba8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:39",
+    "keyword": "Dental Clinics",
+    "name": "Emergency Dentist 24/7 Toledo",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Encompass+Health+Rehabilitation+Hospital+of+Toledo/data=!4m7!3m6!1s0x883c7f6357ae639b:0xc0ea3e07e4e7b122!8m2!3d41.6896174!4d-83.6252092!16s%2Fg%2F11kkzqy__r!19sChIJm2OuV2N_PIgRIrHn5Ac-6sA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "Encompass Health Rehabilitation Hospital of Toledo",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Erie+Pest+Control/data=!4m7!3m6!1s0x608bdb603d535cb3:0x98593ff95ecb36db!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11nb_g2h_6!19sChIJs1xTPWDbi2AR2zbLXvk_WZg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:54",
+    "keyword": "Pest Control",
+    "name": "Erie Pest Control",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Erin+Knierim/data=!4m7!3m6!1s0x883c7f126cb5aaab:0xea29bb338483d3b5!8m2!3d41.6921643!4d-83.6175387!16s%2Fg%2F11p07924h0!19sChIJq6q1bBJ_PIgRtdODhDO7Keo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:17",
+    "keyword": "Orthodontists",
+    "name": "Erin Knierim",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Ernie%27s+Pest+Control/data=!4m7!3m6!1s0x883b85698ce0341d:0xf86a69e2de5510b4!8m2!3d41.5889723!4d-83.4445707!16s%2Fg%2F1th24gwn!19sChIJHTTgjGmFO4gRtBBV3uJpavg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:45",
+    "keyword": "Pest Control",
+    "name": "Ernie's Pest Control",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -363,10 +1105,199 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Extreme+Spray+Foam+of+Toledo/data=!4m7!3m6!1s0x1a93df502b6811d:0xa6903fcf2eba2c1b!8m2!3d41.5623755!4d-83.711178!16s%2Fg%2F11w21grjnm!19sChIJHYG2AvU9qQERGyy6Ls8_kKY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:12:03",
+    "keyword": "Pest Control",
+    "name": "Extreme Spray Foam of Toledo",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/FM+AESTHETICS/data=!4m7!3m6!1s0x3919030046b3f45d:0xce246ae87d1cb87b!8m2!3d31.4699103!4d74.2720785!16s%2Fg%2F11w7j4kj51!19sChIJXfSzRgADGTkRe7gcfehqJM4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:57",
+    "keyword": "Aesthetic Clinics",
+    "name": "FM AESTHETICS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/FSS,+Inc./data=!4m7!3m6!1s0x883c7da2d6d6412f:0x959fc2e9e96b17b8!8m2!3d41.6768984!4d-83.7460594!16s%2Fg%2F11ldsxj_0n!19sChIJL0HW1qJ9PIgRuBdr6enCn5U?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:50",
+    "keyword": "Pest Control",
+    "name": "FSS, Inc.",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Fairwood+Chiropractic+%26+Physical+Therapy/data=!4m7!3m6!1s0x883c7ef4220627d9:0xccf6dce0462c4861!8m2!3d41.7004101!4d-83.6514713!16s%2Fg%2F1v1tnrnd!19sChIJ2ScGIvR-PIgRYUgsRuDc9sw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:30",
+    "keyword": "Orthodontists",
+    "name": "Fairwood Chiropractic & Physical Therapy",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Fickwood+Plumbing/data=!4m7!3m6!1s0x883b86ceaaffffff:0x3e133acae3e72afd!8m2!3d41.6840899!4d-83.7550563!16s%2Fg%2F1tdz0mk_!19sChIJ____qs6GO4gR_Srn48o6Ez4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:12",
+    "keyword": "Plumbing Services",
+    "name": "Fickwood Plumbing",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Finley+Dentistry/data=!4m7!3m6!1s0x883c7f11edafea41:0xd885ccec53f00ee3!8m2!3d41.6920161!4d-83.6197301!16s%2Fg%2F1tgc0fwl!19sChIJQeqv7RF_PIgR4w7wU-zMhdg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:40",
+    "keyword": "Dental Clinics",
+    "name": "Finley Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Fort+Meigs+Dental,+LLC/data=!4m7!3m6!1s0x883c76fea287d3b1:0x24d262862f524b22!8m2!3d41.5413933!4d-83.6398101!16s%2Fg%2F1tj5rdkv!19sChIJsdOHov52PIgRIktSL4Zi0iQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:42",
+    "keyword": "Dental Clinics",
+    "name": "Fort Meigs Dental, LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Four+Corners+Restoration+Of+Ohio/data=!4m7!3m6!1s0xba9039c9dc3fadd:0x496ffe7ff13b7b88!8m2!3d41.6562745!4d-83.5325964!16s%2Fg%2F11z6g5s8db!19sChIJ3frDnZwDqQsRiHs78X_-b0k?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:58",
+    "keyword": "Pest Control",
+    "name": "Four Corners Restoration Of Ohio",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Frame%27s+Pest+Control,+Inc./data=!4m7!3m6!1s0x883c7f81bba3e881:0x7fd910b586517131!8m2!3d41.717823!4d-83.662735!16s%2Fg%2F1thp8njv!19sChIJgeiju4F_PIgRMXFRhrUQ2X8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:44",
+    "keyword": "Pest Control",
+    "name": "Frame's Pest Control, Inc.",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Frankel+%26+Puhl+Dentistry/data=!4m7!3m6!1s0x883c70c5a3f4e9a3:0xfb6de62e275ac137!8m2!3d41.5606424!4d-83.6896795!16s%2Fg%2F1tcw8vv3!19sChIJo-n0o8VwPIgRN8FaJy7mbfs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:35",
+    "keyword": "Dental Clinics",
+    "name": "Frankel & Puhl Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Frankel+Dentistry+-+Oregon/data=!4m7!3m6!1s0x883b845d1230a4e3:0xf7af9ab15f1e453b!8m2!3d41.633764!4d-83.473151!16s%2Fg%2F1w04ksdm!19sChIJ46QwEl2EO4gRO0UeX7Gar_c?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:40",
+    "keyword": "Dental Clinics",
+    "name": "Frankel Dentistry - Oregon",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Frankel+Dentistry+-+Toledo/data=!4m7!3m6!1s0x883c7e57915377d9:0x92cbfacb21732462!8m2!3d41.7059288!4d-83.6447143!16s%2Fg%2F1th24gyf!19sChIJ2XdTkVd-PIgRYiRzIcv6y5I?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:39",
+    "keyword": "Dental Clinics",
+    "name": "Frankel Dentistry - Toledo",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Franklin+Paul+C+DDS/data=!4m7!3m6!1s0x883c7c06a8b55b73:0xecf37b30e53f1912!8m2!3d41.6715209!4d-83.6833266!16s%2Fg%2F1trvm2zv!19sChIJc1u1qAZ8PIgREhk_5TB78-w?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:26",
+    "keyword": "Orthodontists",
+    "name": "Franklin Paul C DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Fremont+Orthodontics/data=!4m7!3m6!1s0x883bc65986b19415:0xc22038cf011757c2!8m2!3d41.3451245!4d-83.121257!16s%2Fg%2F1tsbmsy0!19sChIJFZSxhlnGO4gRwlcXAc84IMI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:30",
+    "keyword": "Orthodontists",
+    "name": "Fremont Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Friend%27s+Termite+and+Pest+Control/data=!4m7!3m6!1s0x883c7f0688655957:0x1606273d7cc362d1!8m2!3d41.686728!4d-83.4396317!16s%2Fg%2F11c6lbh1np!19sChIJV1lliAZ_PIgR0WLDfD0nBhY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:50",
+    "keyword": "Pest Control",
+    "name": "Friend's Termite and Pest Control",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Fry+Heating,+Cooling+%26+Plumbing/data=!4m7!3m6!1s0x883b808236c98263:0xd1bb21b26d03a9e!8m2!3d41.6433494!4d-83.5478697!16s%2Fg%2F1vbl87ry!19sChIJY4LJNoKAO4gRnjrQJhuyGw0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:12",
+    "keyword": "Plumbing Services",
+    "name": "Fry Heating, Cooling & Plumbing",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/GHC+Medical+Complex+Global+Aesthetics+Cosmo+Derma+Institute,+Dental+%26+Eye+Care+Clinic+%26+Institue+Health+Sciences,+Mind+Care/data=!4m7!3m6!1s0x391903d115d49487:0xc4e1e40ee58da6db!8m2!3d31.4769824!4d74.280551!16s%2Fg%2F11f7bzzyl7!19sChIJh5TUFdEDGTkR26aN5Q7k4cQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:59",
+    "keyword": "Aesthetic Clinics",
+    "name": "GHC Medical Complex Global Aesthetics Cosmo Derma Institute, Dental & Eye Care Clinic & Institue Health Sciences, Mind Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/George+Namay/data=!4m7!3m6!1s0x883c7c70fcd5b63f:0x63eb5e42fcf4f92b!8m2!3d41.6750132!4d-83.706807!16s%2Fg%2F11t86z3rlf!19sChIJP7bV_HB8PIgRK_n0_EJe62M?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:17",
+    "keyword": "Orthodontists",
+    "name": "George Namay",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/George-Brenner+Family+Dentistry/data=!4m7!3m6!1s0x883c71267ad331a7:0xc340cd8878fc6c4e!8m2!3d41.5845422!4d-83.6789861!16s%2Fg%2F11l7m1_4tf!19sChIJpzHTeiZxPIgRTmz8eIjNQMM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:40",
+    "keyword": "Dental Clinics",
+    "name": "George-Brenner Family Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Get+your+own+email+and+phone+bum/data=!4m7!3m6!1s0x883c7c90ea7ef03b:0xbd90e0400e7ae5fb!8m2!3d41.6104898!4d-83.7529918!16s%2Fg%2F1ttyxdj_!19sChIJO_B-6pB8PIgR--V6DkDgkL0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:58",
+    "keyword": "Pest Control",
+    "name": "Get your own email and phone bum",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Gill-Roy%27s+Hardware%2F+Stihl-+Lambertville+Hardware/data=!4m7!3m6!1s0x883c80679762417d:0xd4aab36167e5f904!8m2!3d41.76156!4d-83.6253797!16s%2Fg%2F1vr3dvfl!19sChIJfUFil2eAPIgRBPnlZ2GzqtQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:58",
+    "keyword": "Pest Control",
+    "name": "Gill-Roy's Hardware/ Stihl- Lambertville Hardware",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Gladieux+Home+Center/data=!4m7!3m6!1s0x883b84b45cc39715:0x8aae0945daa610fc!8m2!3d41.6369434!4d-83.4250812!16s%2Fg%2F1tdvkvq3!19sChIJFZfDXLSEO4gR_BCm2kUJroo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:58",
+    "keyword": "Pest Control",
+    "name": "Gladieux Home Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Glanzman+Jerry+DDS/data=!4m7!3m6!1s0x883c7837b303e4fb:0xcbb7bae5726e29a0!8m2!3d41.6025026!4d-83.6267747!16s%2Fg%2F1td6ysrp!19sChIJ--QDszd4PIgRoClucuW6t8s?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:26",
+    "keyword": "Orthodontists",
+    "name": "Glanzman Jerry DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/Glass+City+Beauty/data=!4m7!3m6!1s0x883c7f3735ca31b9:0x63ac69e9d781a690!8m2!3d41.7003751!4d-83.6523085!16s%2Fg%2F11rss_l7hm!19sChIJuTHKNTd_PIgRkKaB1-lprGM?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:53:08",
     "keyword": "Aesthetic Clinics",
     "name": "Glass City Beauty",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Glass+City+Endodontics/data=!4m7!3m6!1s0x883c7fda77316645:0xa06d4104dbad9f6!8m2!3d41.6893767!4d-83.6313783!16s%2Fg%2F11gxx7j3sp!19sChIJRWYxd9p_PIgR9tm6TRDUBgo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:17",
+    "keyword": "Orthodontists",
+    "name": "Glass City Endodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Glass+City+Orthopaedic+%26+Spine+Center+at+the+Toledo+Clinic/data=!4m7!3m6!1s0x883c7f050dc5dbd3:0xfb9a41059674d51f!8m2!3d41.6956492!4d-83.6242501!16s%2Fg%2F11b7hffd46!19sChIJ09vFDQV_PIgRH9V0lgVBmvs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:26",
+    "keyword": "Orthodontists",
+    "name": "Glass City Orthopaedic & Spine Center at the Toledo Clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Good+To+Glow+Med+Spa+and+Wellness/data=!4m7!3m6!1s0x89c80342e94e0923:0x3f4a26b710271ae!8m2!3d39.2799438!4d-76.5744028!16s%2Fg%2F11t4q22lmx!19sChIJIwlO6UIDyIkRrnECcWui9AM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:20",
+    "keyword": "Med Spas",
+    "name": "Good To Glow Med Spa and Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Grainger+Industrial+Supply/data=!4m7!3m6!1s0x883b87d30985e3c7:0x8d048561d2b12ee8!8m2!3d41.5859152!4d-83.5534796!16s%2Fg%2F1tgs1lzc!19sChIJx-OFCdOHO4gR6C6x0mGFBI0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:54",
+    "keyword": "Pest Control",
+    "name": "Grainger Industrial Supply",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -377,10 +1308,108 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Great+Smiles+Family+Dentistry/data=!4m7!3m6!1s0x883c7e8b4f3daa79:0xed83b5dd1ec8077a!8m2!3d41.7008405!4d-83.6559038!16s%2Fg%2F1tg7splh!19sChIJeao9T4t-PIgRegfIHt21g-0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:37",
+    "keyword": "Dental Clinics",
+    "name": "Great Smiles Family Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Greater+Toledo+Dental+Society/data=!4m7!3m6!1s0x883c7efd1127b965:0x750dee1a52d6c377!8m2!3d41.6936387!4d-83.6882832!16s%2Fg%2F1tmqs0qz!19sChIJZbknEf1-PIgRd8PWUhruDXU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:44",
+    "keyword": "Dental Clinics",
+    "name": "Greater Toledo Dental Society",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Greenix+Pest+Control/data=!4m7!3m6!1s0x883b81081953b65f:0xd1a80d8bbe917fe!8m2!3d41.7117979!4d-83.5520126!16s%2Fg%2F11pdxzg9yv!19sChIJX7ZTGQiBO4gR_hfpu9iAGg0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:44",
+    "keyword": "Pest Control",
+    "name": "Greenix Pest Control",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Grewal+Dental+Care,+LLC/data=!4m7!3m6!1s0x883c7430f3ac6a53:0xe5b367ed057cebd4!8m2!3d41.5371699!4d-83.6372197!16s%2Fg%2F1tfsj1zv!19sChIJU2qs8zB0PIgR1Ot8Be1ns-U?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:24",
+    "keyword": "Orthodontists",
+    "name": "Grewal Dental Care, LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/H+%26+M+Exterminators/data=!4m7!3m6!1s0x883b826d6adf6c8f:0x57762f747ac38b67!8m2!3d41.7240806!4d-83.48418!16s%2Fg%2F1wk4dqr0!19sChIJj2zfam2CO4gRZ4vDenQvdlc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:50",
+    "keyword": "Pest Control",
+    "name": "H & M Exterminators",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/HLH+Orthodontics+-+Lambertville/data=!4m7!3m6!1s0x883c8066771717d9:0xcd8eb3bf8006684e!8m2!3d41.7578076!4d-83.6251198!16s%2Fg%2F1thz2b55!19sChIJ2RcXd2aAPIgRTmgGgL-zjs0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:07:17",
+    "keyword": "Orthodontists",
+    "name": "HLH Orthodontics - Lambertville",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/HLH+Orthodontics+-+Maumee/data=!4m7!3m6!1s0x883c70c5a3f4e9a3:0xabbdb7b2f722a57d!8m2!3d41.560211!4d-83.6895516!16s%2Fg%2F1hc3s9mch!19sChIJo-n0o8VwPIgRfaUi97K3vas?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:07:17",
+    "keyword": "Orthodontists",
+    "name": "HLH Orthodontics - Maumee",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/HLH+Orthodontics+-+Sylvania/data=!4m7!3m6!1s0x883c7db13da1f595:0x2fd008f2e2628696!8m2!3d41.715131!4d-83.698652!16s%2Fg%2F1td13yqs!19sChIJlfWhPbF9PIgRloZi4vII0C8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:07:17",
+    "keyword": "Orthodontists",
+    "name": "HLH Orthodontics - Sylvania",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Halim+Clinic/data=!4m7!3m6!1s0x883c7b9091c4d23b:0xf632ecaace2061bb!8m2!3d41.6827155!4d-83.6094935!16s%2Fg%2F11g_x9bp6l!19sChIJO9LEkZB7PIgRu2EgzqrsMvY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:38",
+    "keyword": "Dental Clinics",
+    "name": "Halim Clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Harbor+Light+Oral+%26+Maxillofacial+Surgery,+Implants+%26+Periodontal+Surgery/data=!4m7!3m6!1s0x883c7e8b4f3daa79:0x2dc931a2a422873b!8m2!3d41.7008921!4d-83.6558802!16s%2Fg%2F1tfq9xdd!19sChIJeao9T4t-PIgRO4cipKIxyS0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:17",
+    "keyword": "Orthodontists",
+    "name": "Harbor Light Oral & Maxillofacial Surgery, Implants & Periodontal Surgery",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Haven+Dental/data=!4m7!3m6!1s0x883c7f9ec607e685:0x4b96c63b305d70ec!8m2!3d41.7068531!4d-83.6098794!16s%2Fg%2F1tdch0qp!19sChIJheYHxp5_PIgR7HBdMDvGlks?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:38",
+    "keyword": "Dental Clinics",
+    "name": "Haven Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Hens+Mowing+%26+Landscaping/data=!4m7!3m6!1s0x883b885a637f56c1:0xacd46fcc6ba6594d!8m2!3d41.5805776!4d-83.5573624!16s%2Fg%2F1tptr8rq!19sChIJwVZ_Y1qIO4gRTVmma8xv1Kw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:12:03",
+    "keyword": "Pest Control",
+    "name": "Hens Mowing & Landscaping",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/Hires+Dental+Care/data=!4m7!3m6!1s0x883c7ee3b17d0505:0x96bccd711a2b63f8!8m2!3d41.6909379!4d-83.6378729!16s%2Fg%2F1tczfkx8!19sChIJBQV9seN-PIgR-GMrGnHNvJY?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:51:23",
     "keyword": "Dental Clinics",
     "name": "Hires Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Hoen%27s+Garden+Center+%26+Landscaping/data=!4m7!3m6!1s0x883c7a42077f5e21:0x6dd5eb740f520b40!8m2!3d41.6098506!4d-83.704773!16s%2Fg%2F1tp1zg_m!19sChIJIV5_B0J6PIgRQAtSD3Tr1W0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:54",
+    "keyword": "Pest Control",
+    "name": "Hoen's Garden Center & Landscaping",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Holy+Moley+Mole+Removal/data=!4m7!3m6!1s0xab67287ba3beb7cf:0x44455414cdce3a93!8m2!3d41.646872!4d-83.5996681!16s%2Fg%2F11z9tj07rt!19sChIJz7e-o3soZ6sRkzrOzRRURUQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:54",
+    "keyword": "Pest Control",
+    "name": "Holy Moley Mole Removal",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -398,10 +1427,24 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Ideal+Image+Toledo/data=!4m7!3m6!1s0x883c76f49aa85d8d:0xf0b030a64bd84951!8m2!3d41.5268767!4d-83.639104!16s%2Fg%2F11b6hqxcxv!19sChIJjV2omvR2PIgRUUnYS6YwsPA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:07:59",
+    "keyword": "Med Spas",
+    "name": "Ideal Image Toledo",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/In+Touch+Therapy+Center/data=!4m7!3m6!1s0x883c7f6ad76ff829:0x4914b0ff872d709f!8m2!3d41.6851292!4d-83.6127575!16s%2Fg%2F1w0h85fs!19sChIJKfhv12p_PIgRn3Ath_-wFEk?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:48",
     "keyword": "Med Spas",
     "name": "In Touch Therapy Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Inclusive+Aesthetics+Beauty+Bar+%26+Makeup+Studio/data=!4m7!3m6!1s0x3919010c40e6ec4f:0x6efa5e5c9f45fbfc!8m2!3d31.4582322!4d74.2766244!16s%2Fg%2F11sdb94xf3!19sChIJT-zmQAwBGTkR_PtFn1xe-m4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:57",
+    "keyword": "Aesthetic Clinics",
+    "name": "Inclusive Aesthetics Beauty Bar & Makeup Studio",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -412,10 +1455,164 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Insight+Pest+Solutions+-+Toledo/data=!4m7!3m6!1s0x8086e7396309e6c3:0x879fedbf1d5d599b!8m2!3d41.6781149!4d-83.6270994!16s%2Fg%2F11pz0c7vwl!19sChIJw-YJYznnhoARm1ldHb_tn4c?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:44",
+    "keyword": "Pest Control",
+    "name": "Insight Pest Solutions - Toledo",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Insight+Pest+Solutions/data=!4m7!3m6!1s0x883c77babec41d7b:0x4dc76e437397af8!8m2!3d41.5397678!4d-83.6354158!16s%2Fg%2F11kc4v6r82!19sChIJex3Evrp3PIgR-Ho5N-R23AQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:44",
+    "keyword": "Pest Control",
+    "name": "Insight Pest Solutions",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/J+K+Orthodontics:+Kay+M+Jean+DDS/data=!4m7!3m6!1s0x883c77958c78adad:0xdd149f32a8b5fd9f!8m2!3d41.5642156!4d-83.6172589!16s%2Fg%2F1tk4rv31!19sChIJra14jJV3PIgRn_21qDKfFN0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:17",
+    "keyword": "Orthodontists",
+    "name": "J K Orthodontics: Kay M Jean DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/JUST+ASK+HOME+IMPROVEMENT+LLC/data=!4m7!3m6!1s0x883b8780ae56da57:0x73f85619a1569fe4!8m2!3d41.5882613!4d-83.6816779!16s%2Fg%2F11fjz_wnsn!19sChIJV9pWroCHO4gR5J9WoRlW-HM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:54",
+    "keyword": "Pest Control",
+    "name": "JUST ASK HOME IMPROVEMENT LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Jag+Plumbing+%26+Drains/data=!4m7!3m6!1s0x8143c5a1e0524b8f:0xa54dd95148d0693b!8m2!3d41.7138985!4d-83.4787269!16s%2Fg%2F11rk5g3wxf!19sChIJj0tS4KHFQ4ERO2nQSFHZTaU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:16",
+    "keyword": "Plumbing Services",
+    "name": "Jag Plumbing & Drains",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Jay+Orthodontics+PC/data=!4m7!3m6!1s0x883b6fa38055fbab:0xe9670a0ced165ac3!8m2!3d41.9205927!4d-83.3948589!16s%2Fg%2F1tcx25w0!19sChIJq_tVgKNvO4gRw1oW7QwKZ-k?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:30",
+    "keyword": "Orthodontists",
+    "name": "Jay Orthodontics PC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/John+F.+Zavell,+MD,+FACS/data=!4m7!3m6!1s0x883c7eaf3121f101:0xf32bb5fe29473f3c!8m2!3d41.6737939!4d-83.6721182!16s%2Fg%2F1tk6q_fl!19sChIJAfEhMa9-PIgRPD9HKf61K_M?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:46",
     "keyword": "Med Spas",
     "name": "John F. Zavell, MD, FACS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Julius+Robert+B+DDS/data=!4m7!3m6!1s0x883c7732e96996bb:0x71bf571703a19a9c!8m2!3d41.5579722!4d-83.6763469!16s%2Fg%2F1tq4rrns!19sChIJu5Zp6TJ3PIgRnJqhAxdXv3E?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:24",
+    "keyword": "Orthodontists",
+    "name": "Julius Robert B DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/K1+Implant+Choice/data=!4m7!3m6!1s0x883b81cb0f655eab:0x6b872c0ce58ece1d!8m2!3d41.6888589!4d-83.6370017!16s%2Fg%2F11bw82n2h1!19sChIJq15lD8uBO4gRHc6O5Qwsh2s?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:40",
+    "keyword": "Dental Clinics",
+    "name": "K1 Implant Choice",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Kay+%26+Paulus+Orthodontics/data=!4m7!3m6!1s0x883c7732e96996bb:0xfa855b75c0b4681e!8m2!3d41.557922!4d-83.676435!16s%2Fg%2F1tf8ts6z!19sChIJu5Zp6TJ3PIgRHmi0wHVbhfo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:05",
+    "keyword": "Orthodontists",
+    "name": "Kay & Paulus Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Kay+%26+Paulus+Orthodontics/data=!4m7!3m6!1s0x883c77958c78adad:0x86c303d8a7bbcdd!8m2!3d41.5642245!4d-83.6172712!16s%2Fg%2F1tr7dgkc!19sChIJra14jJV3PIgR3bx7ij0wbAg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:05",
+    "keyword": "Orthodontists",
+    "name": "Kay & Paulus Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Kay+%26+Paulus+Orthodontics/data=!4m7!3m6!1s0x883c7dd09a5d9c57:0x28bdefb37039d39f!8m2!3d41.7160283!4d-83.6844905!16s%2Fg%2F11b70fczxp!19sChIJV5xdmtB9PIgRn9M5cLPvvSg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:05",
+    "keyword": "Orthodontists",
+    "name": "Kay & Paulus Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Kay+M+Jean+DDS/data=!4m7!3m6!1s0x883c7732e96996bb:0x909eb69659e710b4!8m2!3d41.5578323!4d-83.6764481!16s%2Fg%2F1vwlpt3p!19sChIJu5Zp6TJ3PIgRtBDnWZa2npA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:24",
+    "keyword": "Orthodontists",
+    "name": "Kay M Jean DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Knierim+Gerald+R+DDS/data=!4m7!3m6!1s0x883c7ef7d93e59a9:0x97c668024166966e!8m2!3d41.70437!4d-83.647219!16s%2Fg%2F1tdzm6z1!19sChIJqVk-2fd-PIgRbpZmQQJoxpc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:24",
+    "keyword": "Orthodontists",
+    "name": "Knierim Gerald R DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Koraleski%E2%80%99sFloweCenter/data=!4m7!3m6!1s0x883c7fcedea062a5:0x71166fd365da4f88!8m2!3d41.7345084!4d-83.6169624!16s%2Fg%2F11h91_b4rz!19sChIJpWKg3s5_PIgRiE_aZdNvFnE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:58",
+    "keyword": "Pest Control",
+    "name": "Koraleski’sFloweCenter",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Kouba+Dermatology+of+Lambertville/data=!4m7!3m6!1s0x883c7f050dc5dbd3:0xd2d65ac3ed39dcca!8m2!3d41.7467614!4d-83.6265172!16s%2Fg%2F1tfh_7z3!19sChIJ09vFDQV_PIgRytw57cNa1tI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:14",
+    "keyword": "Med Spas",
+    "name": "Kouba Dermatology of Lambertville",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Kozy+Dental+Care/data=!4m7!3m6!1s0x883c7f222e6fa511:0xbbc7c1881c55d23d!8m2!3d41.6815045!4d-83.6293486!16s%2Fg%2F1hm5z8z1f!19sChIJEaVvLiJ_PIgRPdJVHIjBx7s?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:38",
+    "keyword": "Dental Clinics",
+    "name": "Kozy Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/L+E+Savory+Tree+%26+Lawn+Services+Inc/data=!4m7!3m6!1s0x883c7b7afda846c3:0xa3f7b14c9e4d6584!8m2!3d41.6617703!4d-83.7279398!16s%2Fg%2F1tdwwc5s!19sChIJw0ao_Xp7PIgRhGVNnkyx96M?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:58",
+    "keyword": "Pest Control",
+    "name": "L E Savory Tree & Lawn Services Inc",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/LOCK+-IT-UP+SELF+STORAGE/data=!4m7!3m6!1s0x883c7857117d943f:0xe078f0ce8e5fe4cd!8m2!3d41.6206704!4d-83.6263859!16s%2Fg%2F1tg6l6pg!19sChIJP5R9EVd4PIgRzeRfjs7weOA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:12:03",
+    "keyword": "Pest Control",
+    "name": "LOCK -IT-UP SELF STORAGE",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Laboe+Orthodontics/data=!4m7!3m6!1s0x883b6f129742c595:0x5392f4ec56ec10cb!8m2!3d41.939125!4d-83.398428!16s%2Fg%2F1tjmf9wp!19sChIJlcVClxJvO4gRyxDsVuz0klM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:30",
+    "keyword": "Orthodontists",
+    "name": "Laboe Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Land+Art+Lawn+Care+Service+and+Turf+Management/data=!4m7!3m6!1s0x883b888c43e45bf9:0x9e99a7a1039fdfcc!8m2!3d41.5577665!4d-83.5390381!16s%2Fg%2F1tgnb8pf!19sChIJ-VvkQ4yIO4gRzN-fA6GnmZ4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:50",
+    "keyword": "Pest Control",
+    "name": "Land Art Lawn Care Service and Turf Management",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Lantzy+Steve+DDS/data=!4m7!3m6!1s0x883c7efa9da4fea9:0x1c0d9102b252ea28!8m2!3d41.5326945!4d-83.7825472!16s%2Fg%2F1td5gt1b!19sChIJqf6knfp-PIgRKOpSsgKRDRw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:26",
+    "keyword": "Orthodontists",
+    "name": "Lantzy Steve DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Laser+%26+Beauty+Clinic/data=!4m7!3m6!1s0x391903c812614e0d:0xffad72947415900d!8m2!3d31.4701364!4d74.2600666!16s%2Fg%2F11v42wg9yr!19sChIJDU5hEsgDGTkRDZAVdJRyrf8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:59",
+    "keyword": "Aesthetic Clinics",
+    "name": "Laser & Beauty Clinic",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -433,6 +1630,55 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/LawnStarter+Lawn+Care+Service/data=!4m7!3m6!1s0x883c79c3e625ca9d:0x669c783244b7e4a3!8m2!3d41.5999753!4d-83.6493773!16s%2Fg%2F11fcv4jfbs!19sChIJncol5sN5PIgRo-S3RDJ4nGY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:54",
+    "keyword": "Pest Control",
+    "name": "LawnStarter Lawn Care Service",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Lenhart+Orthodontics/data=!4m7!3m6!1s0x883c7c34140f126b:0xb36625a0727fb27!8m2!3d41.6955831!4d-83.6899149!16s%2Fg%2F1tj3lrnr!19sChIJaxIPFDR8PIgRJ_snB1piNgs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:07:17",
+    "keyword": "Orthodontists",
+    "name": "Lenhart Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Lenhart,+David+M+DDS+MSD+Inc/data=!4m7!3m6!1s0x883c7c3aeb87ee0b:0xc0adbc35074df669!8m2!3d41.6955843!4d-83.6899163!16s%2Fg%2F11b6xbmkzn!19sChIJC-6H6zp8PIgRafZNBzW8rcA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:12",
+    "keyword": "Orthodontists",
+    "name": "Lenhart, David M DDS MSD Inc",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Light+Touch+Dental+Care/data=!4m7!3m6!1s0x883c7a5ce4fdd2b3:0xe5135e0ac7066171!8m2!3d41.6112975!4d-83.7092419!16s%2Fg%2F1tdp13yc!19sChIJs9L95Fx6PIgRcWEGxwpeE-U?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:42",
+    "keyword": "Dental Clinics",
+    "name": "Light Touch Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Live+Laugh+Smile+Orthodontics/data=!4m7!3m6!1s0x883c7db11e1fee49:0x1f01a2c7b28a905!8m2!3d41.7144067!4d-83.7052118!16s%2Fg%2F1260tpc67!19sChIJSe4fHrF9PIgRBakoeywa8AE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:08",
+    "keyword": "Orthodontists",
+    "name": "Live Laugh Smile Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Live+Young+Aesthetics/data=!4m7!3m6!1s0x391901442076831d:0x91de273e6b0652dc!8m2!3d31.4605351!4d74.2759605!16s%2Fg%2F11ll5ln_60!19sChIJHYN2IEQBGTkR3FIGaz4n3pE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:57",
+    "keyword": "Aesthetic Clinics",
+    "name": "Live Young Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/London+Aesthetics+%26+Rejuvenation+Center+-+Thokar+Niaz+Baig/data=!4m7!3m6!1s0x391903de99d75555:0x74834b13dfde4e7!8m2!3d31.4674509!4d74.2379767!16s%2Fg%2F11wtlv0j96!19sChIJVVXXmd4DGTkR5-T9PbE0SAc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:59",
+    "keyword": "Aesthetic Clinics",
+    "name": "London Aesthetics & Rejuvenation Center - Thokar Niaz Baig",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/Love+Your+Skin+by+Jodi/data=!4m7!3m6!1s0x883c81641349da55:0x4ae0469ab9281e28!8m2!3d41.7629294!4d-83.5677854!16s%2Fg%2F11srkr83d9!19sChIJVdpJE2SBPIgRKB4ouZpG4Eo?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:46",
     "keyword": "Med Spas",
@@ -447,6 +1693,20 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Lowe%27s+Home+Improvement/data=!4m7!3m6!1s0x883c798f7db346a9:0xe356482e0c08356e!8m2!3d41.616304!4d-83.669857!16s%2Fg%2F1tr8m7nd!19sChIJqUazfY95PIgRbjUIDC5IVuM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:12:03",
+    "keyword": "Pest Control",
+    "name": "Lowe's Home Improvement",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Lowe%27s+Home+Improvement/data=!4m7!3m6!1s0x883c7c7a41195afd:0x2d919a7e05266225!8m2!3d41.676169!4d-83.711625!16s%2Fg%2F1wrgkv44!19sChIJ_VoZQXp8PIgRJWImBX6akS0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:12:03",
+    "keyword": "Pest Control",
+    "name": "Lowe's Home Improvement",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/Luxe+Laser+Center+Toledo/data=!4m7!3m6!1s0x883c7ff2be4341d9:0xbcbc36cc66b929c!8m2!3d41.691226!4d-83.6310878!16s%2Fg%2F11w_kzgh1d!19sChIJ2UFDvvJ_PIgRnJJrxmzDyws?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:46",
     "keyword": "Med Spas",
@@ -458,6 +1718,13 @@
     "discovered_at": "2026-05-22T01:52:33",
     "keyword": "Med Spas",
     "name": "Luxe Laser Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Luxury+Hair+and+Nail+Salon/data=!4m7!3m6!1s0x883c785aaff1b4e7:0x93a86f652d13115a!8m2!3d41.6386749!4d-83.6657796!16s%2Fg%2F11g6rdrxfy!19sChIJ57Txr1p4PIgRWhETLWVvqJM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:14",
+    "keyword": "Med Spas",
+    "name": "Luxury Hair and Nail Salon",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -489,6 +1756,20 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Maley+Family+Dental/data=!4m7!3m6!1s0x883c7b7f4a2ef2bb:0x1e3071eab01e1f0!8m2!3d41.6852774!4d-83.7212004!16s%2Fg%2F1tdm4db2!19sChIJu_IuSn97PIgR8OEBqx4H4wE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:42",
+    "keyword": "Dental Clinics",
+    "name": "Maley Family Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Mark+N+Stuckey,+DDS/data=!4m7!3m6!1s0x883c70bcf4a8ae8b:0xb459afc9d2bcb772!8m2!3d41.575854!4d-83.6948731!16s%2Fg%2F1tz96dyw!19sChIJi66o9LxwPIgRcre80smvWbQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:24",
+    "keyword": "Orthodontists",
+    "name": "Mark N Stuckey, DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/Mary+Michalak+Esthetics+LLC/data=!4m7!3m6!1s0x883b85d14f663c51:0x415a272ef85a74b6!8m2!3d41.6367453!4d-83.4658139!16s%2Fg%2F11lj1gfxzm!19sChIJUTxmT9GFO4gRtnRa-C4nWkE?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:48",
     "keyword": "Med Spas",
@@ -517,6 +1798,34 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Master+Pest+Management/data=!4m7!3m6!1s0x3919035f15b6d5ed:0xe267de3e9eeaa7a1!8m2!3d31.4584619!4d74.2737045!16s%2Fg%2F11gj0zkspc!19sChIJ7dW2FV8DGTkRoafqnj7eZ-I?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:12:01",
+    "keyword": "Pest Control",
+    "name": "Master Pest Management",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Matthew+W.+Nakfoor,+DDS/data=!4m7!3m6!1s0x883c7f1c24455db9:0x5c46c4a7460d1eae!8m2!3d41.689244!4d-83.6313079!16s%2Fg%2F11b88lc0px!19sChIJuV1FJBx_PIgRrh4NRqfERlw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:17",
+    "keyword": "Orthodontists",
+    "name": "Matthew W. Nakfoor, DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Maumee+Pediatric+Dental/data=!4m7!3m6!1s0x883c7732b9922b01:0x93b40348486326d5!8m2!3d41.5582516!4d-83.6758155!16s%2Fg%2F113gj6rwf!19sChIJASuSuTJ3PIgR1SZjSEgDtJM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:30",
+    "keyword": "Orthodontists",
+    "name": "Maumee Pediatric Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Mccartney+Dentist+Braces+Tld/data=!4m7!3m6!1s0x883c77143376ee95:0xeced2165f142632c!8m2!3d41.561776!4d-83.653475!16s%2Fg%2F1262hqh8_!19sChIJle52MxR3PIgRLGNC8WUh7ew?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:08",
+    "keyword": "Orthodontists",
+    "name": "Mccartney Dentist Braces Tld",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/Med+Spa+SEO/data=!4m7!3m6!1s0xa214473cb824e10d:0xc96a3599b82ac491!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11n9w8z44m!19sChIJDeEkuDxHFKIRkcQquJk1ask?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:55",
     "keyword": "Med Spas",
@@ -535,6 +1844,97 @@
     "discovered_at": "2026-05-22T01:52:48",
     "keyword": "Med Spas",
     "name": "Members Only Medical LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Mercy+Health+%E2%80%94+Acute+Inpatient+Rehabilitation/data=!4m7!3m6!1s0x883b85bbfec99be5:0x8f4e78486e5a99d0!8m2!3d41.6351684!4d-83.4851913!16s%2Fg%2F11x1199zxv!19sChIJ5ZvJ_ruFO4gR0Jlabkh4To8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:42",
+    "keyword": "Rehab Practices",
+    "name": "Mercy Health — Acute Inpatient Rehabilitation",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Mercy+Health+-+Fallen+Timbers+Physical+Medicine+and+Rehabilitation/data=!4m7!3m6!1s0x883c7733f122bbd7:0xacfd31937a137ccb!8m2!3d41.5577943!4d-83.6846616!16s%2Fg%2F11jfs8ny_8!19sChIJ17si8TN3PIgRy3wTepMx_aw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "Mercy Health - Fallen Timbers Physical Medicine and Rehabilitation",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Mercy+Health+-+Maumee+Outpatient+Rehabilitation+and+Therapy/data=!4m7!3m6!1s0x883c715368cca98d:0x1b9b91675e25002f!8m2!3d41.5783088!4d-83.6817541!16s%2Fg%2F11lgzlp0pr!19sChIJjanMaFNxPIgRLwAlXmeRmxs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:42",
+    "keyword": "Rehab Practices",
+    "name": "Mercy Health - Maumee Outpatient Rehabilitation and Therapy",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Mercy+Health+-+Oregon+Outpatient+Rehabilitation+and+Therapy/data=!4m7!3m6!1s0x883b84410c6d9863:0x4779ad6832cf473d!8m2!3d41.6388934!4d-83.4560474!16s%2Fg%2F11b6dq8wv0!19sChIJY5htDEGEO4gRPUfPMmiteUc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "Mercy Health - Oregon Outpatient Rehabilitation and Therapy",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Mercy+Health+-+Perrysburg+Outpatient+Rehabilitation+and+Therapy/data=!4m7!3m6!1s0x883c76e620f5c155:0x98dfbc091ace3c70!8m2!3d41.5359898!4d-83.6526682!16s%2Fg%2F1tg6wcbx!19sChIJVcH1IOZ2PIgRcDzOGgm835g?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:42",
+    "keyword": "Rehab Practices",
+    "name": "Mercy Health - Perrysburg Outpatient Rehabilitation and Therapy",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Mercy+Health+-+St.+Charles+Physical+Medicine+and+Rehabilitation/data=!4m7!3m6!1s0x883b85ea47e64875:0xacfbc0c5b4815c38!8m2!3d41.6354817!4d-83.4848566!16s%2Fg%2F11j5v4nh0k!19sChIJdUjmR-qFO4gROFyBtMXA-6w?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:42",
+    "keyword": "Rehab Practices",
+    "name": "Mercy Health - St. Charles Physical Medicine and Rehabilitation",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Mercy+Health+-+St.+Luke%27s+Outpatient+Rehabilitation+and+Therapy/data=!4m7!3m6!1s0x883c71d8be83a9bf:0xdaf7a41cc0e7b3ba!8m2!3d41.5579937!4d-83.6796262!16s%2Fg%2F11fn5s8bg8!19sChIJv6mDvthxPIgRurPnwByk99o?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "Mercy Health - St. Luke's Outpatient Rehabilitation and Therapy",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Mercy+Health+-+St.+Vincent+Outpatient+Rehabilitation+and+Therapy/data=!4m7!3m6!1s0x883b812588706ec5:0x269dbe0fe8d9ea96!8m2!3d41.668598!4d-83.5429355!16s%2Fg%2F1tl4dq1z!19sChIJxW5wiCWBO4gRlurZ6A--nSY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:42",
+    "keyword": "Rehab Practices",
+    "name": "Mercy Health - St. Vincent Outpatient Rehabilitation and Therapy",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Mercy+Health+-+Sunforest+Outpatient+Rehabilitation+and+Therapy/data=!4m7!3m6!1s0x883c7f1c45a06ac1:0x55e0db2661334f62!8m2!3d41.690402!4d-83.6308759!16s%2Fg%2F1tpbcng4!19sChIJwWqgRRx_PIgRYk8zYSbb4FU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "Mercy Health - Sunforest Outpatient Rehabilitation and Therapy",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Mercy+Health+-+Swanton+Outpatient+Rehabilitation+and+Therapy/data=!4m7!3m6!1s0x883c6893a99f3ac7:0xfcdc574744c69a07!8m2!3d41.5793395!4d-83.8766625!16s%2Fg%2F1tpn373k!19sChIJxzqfqZNoPIgRB5rGREdX3Pw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:42",
+    "keyword": "Rehab Practices",
+    "name": "Mercy Health - Swanton Outpatient Rehabilitation and Therapy",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Mercy+Health+-+Sylvania+Outpatient+Rehabilitation+and+Therapy/data=!4m7!3m6!1s0x883c7da389ffd1a9:0xc113cea1ac0a358!8m2!3d41.689407!4d-83.7274187!16s%2Fg%2F11jdbc6qd6!19sChIJqdH_iaN9PIgRWKPAGuo8EQw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:42",
+    "keyword": "Rehab Practices",
+    "name": "Mercy Health - Sylvania Outpatient Rehabilitation and Therapy",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Mercy+Health+-+Sylvania+Physical+Medicine+and+Rehabilitation/data=!4m7!3m6!1s0x883c7dd673a312e3:0xa288b41fde1a39c9!8m2!3d41.7110033!4d-83.6784217!16s%2Fg%2F11g6rk_q2h!19sChIJ4xKjc9Z9PIgRyTka3h-0iKI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:42",
+    "keyword": "Rehab Practices",
+    "name": "Mercy Health - Sylvania Physical Medicine and Rehabilitation",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Merit+Dental+-+Toledo/data=!4m7!3m6!1s0x883c7c223f4d483d:0x1a0b029068f76c90!8m2!3d41.6884431!4d-83.6840755!16s%2Fg%2F1tj4zcpp!19sChIJPUhNPyJ8PIgRkGz3aJACCxo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:44",
+    "keyword": "Dental Clinics",
+    "name": "Merit Dental - Toledo",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -559,6 +1959,27 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Midwest+Dental+Center/data=!4m7!3m6!1s0x883b8122c1552e3d:0x102b4e3872b62695!8m2!3d41.6667637!4d-83.5393615!16s%2Fg%2F11c58229fc!19sChIJPS5VwSKBO4gRlSa2cjhOKxA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:37",
+    "keyword": "Dental Clinics",
+    "name": "Midwest Dental Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Midwest+Dental+Center/data=!4m7!3m6!1s0x883c79857a6760e1:0xc545c399a8766528!8m2!3d41.6170504!4d-83.6686309!16s%2Fg%2F1tlgymbm!19sChIJ4WBneoV5PIgRKGV2qJnDRcU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:38",
+    "keyword": "Dental Clinics",
+    "name": "Midwest Dental Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Midwest+Detox+Center/data=!4m7!3m6!1s0x883c7a07949b031f:0x6d24a4373f8889b6!8m2!3d41.5885193!4d-83.6865721!16s%2Fg%2F11f_j62jk7!19sChIJHwOblAd6PIgRtomIPzekJG0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:39",
+    "keyword": "Rehab Practices",
+    "name": "Midwest Detox Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/Millie%E2%80%99s+Alternative+Therapy+%26+Anti-Aging+Spa/data=!4m7!3m6!1s0x883b84b6bb11d96d:0xb2327ff512ab9ba2!8m2!3d41.6367948!4d-83.4276389!16s%2Fg%2F1tkmn6x4!19sChIJbdkRu7aEO4gRopurEvV_MrI?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:55",
     "keyword": "Med Spas",
@@ -573,6 +1994,13 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Mistic+Bay+Restoration/data=!4m7!3m6!1s0xa0dc1867d4f624c7:0x4eba76589f749343!8m2!3d43.0386414!4d-85.4685484!16s%2Fg%2F11z0wl8mnj!19sChIJxyT21GcY3KARQ5N0n1h2uk4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:12:03",
+    "keyword": "Pest Control",
+    "name": "Mistic Bay Restoration",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/Mitchell+Dermatology/data=!4m7!3m6!1s0x406790fa0cd52875:0x46e92c2503e31303!8m2!3d41.5432012!4d-83.6392483!16s%2Fg%2F11b6_zkjwq!19sChIJdSjVDPqQZ0ARAxPjAyUs6UY?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:53:07",
     "keyword": "Aesthetic Clinics",
@@ -580,10 +2008,129 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Mk+Aesthetics+Studio/data=!4m7!3m6!1s0x391903000dc8713f:0x57d9a0cea7638c84!8m2!3d31.4667934!4d74.2430817!16s%2Fg%2F11y56mxvzv!19sChIJP3HIDQADGTkRhIxjp86g2Vc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:57",
+    "keyword": "Aesthetic Clinics",
+    "name": "Mk Aesthetics Studio",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Mosquito+Fighters+LLC/data=!4m7!3m6!1s0xa1ab4cc322f199f3:0x5829a69de93c0ba7!8m2!3d41.513338!4d-83.878997!16s%2Fg%2F11y2nw7mjr!19sChIJ85nxIsNMq6ERpws86Z2mKVg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:58",
+    "keyword": "Pest Control",
+    "name": "Mosquito Fighters LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Mosquito+Fighters,+LLC/data=!4m4!3m3!1s0x883c714af82f9039:0x50f5809359a7c48b!16s%2Fg%2F11hffp9tkz!19sChIJOZAv-EpxPIgRi8SnWZOA9VA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:54",
+    "keyword": "Pest Control",
+    "name": "Mosquito Fighters, LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Mosquito+Hero/data=!4m7!3m6!1s0x883c7972d9a6d0c5:0x8d8eced330639c84!8m2!3d41.474295!4d-83.711178!16s%2Fg%2F11rxr8q8d9!19sChIJxdCm2XJ5PIgRhJxjMNPOjo0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:58",
+    "keyword": "Pest Control",
+    "name": "Mosquito Hero",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Mosquito+Joe+of+Toledo/data=!4m7!3m6!1s0x883c76f4665afa09:0xadf9ee6d2870ec48!8m2!3d41.301631!4d-83.6202914!16s%2Fg%2F11btx6sc38!19sChIJCfpaZvR2PIgRSOxwKG3u-a0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:50",
+    "keyword": "Pest Control",
+    "name": "Mosquito Joe of Toledo",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Motto+Clear+Aligners/data=!4m7!3m6!1s0x883c77cbf0a188fd:0xe89dd8ed8d13ebb!8m2!3d41.5459031!4d-83.5944479!16s%2Fg%2F11vrvg4vpx!19sChIJ_Yih8Mt3PIgRuz7R2I7diQ4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:26",
+    "keyword": "Orthodontists",
+    "name": "Motto Clear Aligners",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Mr.+Rooter+Plumbing+of+Toledo/data=!4m7!3m6!1s0x883c76bfcb192ab1:0x8056895edb96d94!8m2!3d41.5398014!4d-83.6414061!16s%2Fg%2F1tgpbysf!19sChIJsSoZy792PIgRlG257ZVoBQg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:16",
+    "keyword": "Plumbing Services",
+    "name": "Mr. Rooter Plumbing of Toledo",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/NDX+Dresch/data=!4m7!3m6!1s0x883c7c2386af15eb:0x5e69c208c04868e6!8m2!3d41.6849983!4d-83.7529306!16s%2Fg%2F1tg68slb!19sChIJ6xWvhiN8PIgR5mhIwAjCaV4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:26",
+    "keyword": "Orthodontists",
+    "name": "NDX Dresch",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/NEOSkin+Center+-+Botox+%26+Injectables+Waterville/data=!4m7!3m6!1s0x883c738abdb7885d:0x133e8cb50a8e2f66!8m2!3d41.5004437!4d-83.7193117!16s%2Fg%2F11vqg_pdq0!19sChIJXYi3vYpzPIgRZi-OCrWMPhM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:13",
+    "keyword": "Med Spas",
+    "name": "NEOSkin Center - Botox & Injectables Waterville",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/NOMS+CPW+Healthcare/data=!4m7!3m6!1s0x883c7c72c26e6555:0x1cd297d619ef85bb!8m2!3d41.6762344!4d-83.7000605!16s%2Fg%2F11b7q324lr!19sChIJVWVuwnJ8PIgRu4XvGdaX0hw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "NOMS CPW Healthcare",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/NUR+SKIN+%26+AESTHETICS/data=!4m7!3m6!1s0x3919010aa7a5a967:0xc5833d998110d4f7!8m2!3d31.4513878!4d74.2716448!16s%2Fg%2F11shpr8jrs!19sChIJZ6mlpwoBGTkR99QQgZk9g8U?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:59",
+    "keyword": "Aesthetic Clinics",
+    "name": "NUR SKIN & AESTHETICS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/Nahhas+Dermatology+%26+Aesthetics+-+Toledo+Clinic/data=!4m7!3m6!1s0x883c7f7d6369b4a5:0xbbea3e5648700d99!8m2!3d41.6957531!4d-83.624679!16s%2Fg%2F11p5mx762b!19sChIJpbRpY31_PIgRmQ1wSFY-6rs?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:55",
     "keyword": "Med Spas",
     "name": "Nahhas Dermatology & Aesthetics - Toledo Clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Namay+Dentistry/data=!4m7!3m6!1s0x883b85a5efbb8011:0xe2f8c29e6182293a!8m2!3d41.6046606!4d-83.4703654!16s%2Fg%2F1tj1n5jw!19sChIJEYC776WFO4gROimCYZ7C-OI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:40",
+    "keyword": "Dental Clinics",
+    "name": "Namay Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Namay+Dentistry/data=!4m7!3m6!1s0x883c70b45bdb0fcf:0xb832f0e2cbb029ab!8m2!3d41.570612!4d-83.6802298!16s%2Fg%2F1tk4rv2v!19sChIJzw_bW7RwPIgRqymwy-LwMrg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:44",
+    "keyword": "Dental Clinics",
+    "name": "Namay Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Namay+Dentistry/data=!4m7!3m6!1s0x883c7c70ee9fa785:0x567bb3f3c4f7db5!8m2!3d41.675448!4d-83.7073579!16s%2Fg%2F1tflgxc1!19sChIJhaef7nB8PIgRtX1PPD-7ZwU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:41",
+    "keyword": "Dental Clinics",
+    "name": "Namay Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Nature%27s+Corner/data=!4m7!3m6!1s0x883c7a33b42ff755:0xeecad645c18a49a0!8m2!3d41.6242319!4d-83.6850449!16s%2Fg%2F1wcxds3s!19sChIJVfcvtDN6PIgRoEmKwUXWyu4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:54",
+    "keyword": "Pest Control",
+    "name": "Nature's Corner",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Nature%27s+Doorstep/data=!4m7!3m6!1s0x81315d36c1cef089:0x529e287fd30a2b85!8m2!3d41.616494!4d-83.557797!16s%2Fg%2F11sd6xn0_9!19sChIJifDOwTZdMYERhSsK038onlI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:58",
+    "keyword": "Pest Control",
+    "name": "Nature's Doorstep",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Nayab+Pest+Control+Services/data=!4m7!3m6!1s0x391903c52db14197:0x24be3784de52a73f!8m2!3d31.4772607!4d74.2803295!16s%2Fg%2F11csr366ws!19sChIJl0GxLcUDGTkRP6dS3oQ3viQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:58",
+    "keyword": "Pest Control",
+    "name": "Nayab Pest Control Services",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -601,10 +2148,31 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Nexus+Healthcare/data=!4m7!3m6!1s0x883b86d69fc42781:0x29d39f02bd14ab22!8m2!3d41.6543433!4d-83.5452957!16s%2Fg%2F11c509f6vp!19sChIJgSfEn9aGO4gRIqsUvQKf0yk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:41",
+    "keyword": "Dental Clinics",
+    "name": "Nexus Healthcare",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Ngo+Taiwo+DDS/data=!4m7!3m6!1s0x883b80344fa54557:0xca0057a7277ecc5d!8m2!3d41.7223236!4d-83.553028!16s%2Fg%2F1260fbgh_!19sChIJV0WlTzSAO4gRXcx-J6dXAMo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:24",
+    "keyword": "Orthodontists",
+    "name": "Ngo Taiwo DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/Northwest+Ohio+Plastic+Surgery:+Nabeel+Khan,+MD,+FACS/data=!4m7!3m6!1s0x883c7f10a1fe8a7f:0xb92f52cbf68d6aa5!8m2!3d41.6735368!4d-83.6719094!16s%2Fg%2F11xmkr96tx!19sChIJf4r-oRB_PIgRpWqN9stSL7k?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:50",
     "keyword": "Med Spas",
     "name": "Northwest Ohio Plastic Surgery: Nabeel Khan, MD, FACS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/NovaCare+Prosthetics+%26+Orthotics+-+Toledo/data=!4m7!3m6!1s0x883c7f121ec45357:0xf39c9c130bf004ee!8m2!3d41.6784508!4d-83.6204644!16s%2Fg%2F1w3478hb!19sChIJV1PEHhJ_PIgR7gTwCxOcnPM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:19",
+    "keyword": "Orthodontists",
+    "name": "NovaCare Prosthetics & Orthotics - Toledo",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -615,10 +2183,31 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Ohio+Kids+Dental/data=!4m7!3m6!1s0x883c77dcff01d1e5:0xbe8c99a8ba57642f!8m2!3d41.5664437!4d-83.656676!16s%2Fg%2F11yfdcjypw!19sChIJ5dEB_9x3PIgRL2RXuqiZjL4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:41",
+    "keyword": "Dental Clinics",
+    "name": "Ohio Kids Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Ohio+Treatment+Center/data=!4m7!3m6!1s0x883c7decff5a1359:0x96dea2ec763c2f0b!8m2!3d41.6925403!4d-83.6297236!16s%2Fg%2F11h22q4kxy!19sChIJWRNa_-x9PIgRCy88duyi3pY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "Ohio Treatment Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/Ohio+Wellness+Spa/data=!4m7!3m6!1s0x883b8777256911cf:0x6698c3e78f830a40!8m2!3d41.5993745!4d-83.5700608!16s%2Fg%2F11cjhbnyny!19sChIJzxFpJXeHO4gRQAqDj-fDmGY?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:38",
     "keyword": "Med Spas",
     "name": "Ohio Wellness Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Old+West+End+Community+Health+Center/data=!4m7!3m6!1s0x883b80d6bd8fffff:0x2582a11b88466112!8m2!3d41.6654667!4d-83.5536682!16s%2Fg%2F11py8wcpn6!19sChIJ__-PvdaAO4gREmFGiBuhgiU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:39",
+    "keyword": "Dental Clinics",
+    "name": "Old West End Community Health Center",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -629,10 +2218,73 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Ondrus+Hardware+Co.+Inc./data=!4m7!3m6!1s0x883b86befbed955d:0x68db06bcd297c946!8m2!3d41.6410322!4d-83.525122!16s%2Fg%2F1tqclwz1!19sChIJXZXt-76GO4gRRsmX0rwG22g?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:54",
+    "keyword": "Pest Control",
+    "name": "Ondrus Hardware Co. Inc.",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/One+Earth+Pest+Control/data=!4m7!3m6!1s0x6678704401edfa0b:0xd9e40fe975b85b7d!8m2!3d41.4605155!4d-83.64498!16s%2Fg%2F11sb7c24jl!19sChIJC_rtAURweGYRfVu4dekP5Nk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:58",
+    "keyword": "Pest Control",
+    "name": "One Earth Pest Control",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/Open+Arms+Wellness+Center/data=!4m7!3m6!1s0x883b843e1e6b40eb:0x374493cab3e3cad!8m2!3d41.6362045!4d-83.4929387!16s%2Fg%2F11g_4lcxh!19sChIJ60BrHj6EO4gRrTw-qzxJdAM?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:48",
     "keyword": "Med Spas",
     "name": "Open Arms Wellness Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Oregon+Pediatric+Dentistry/data=!4m7!3m6!1s0x883b845d6fa7c3f5:0x669127f532e75b29!8m2!3d41.6343732!4d-83.4732322!16s%2Fg%2F1v4k75gq!19sChIJ9cOnb12EO4gRKVvnMvUnkWY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:19",
+    "keyword": "Orthodontists",
+    "name": "Oregon Pediatric Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Orkin/data=!4m7!3m6!1s0x883c7867c07230df:0xb1600318d6940da7!8m2!3d41.6237096!4d-83.6973143!16s%2Fg%2F1tdg8grp!19sChIJ3zBywGd4PIgRpw2U1hgDYLE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:44",
+    "keyword": "Pest Control",
+    "name": "Orkin",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Orkin/data=!4m7!3m6!1s0x883c7867c07230df:0xb1600318d6940da7!8m2!3d41.62371!4d-83.697314!16s%2Fg%2F1tdg8grp!19sChIJ3zBywGd4PIgRpw2U1hgDYLE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:44",
+    "keyword": "Pest Control",
+    "name": "Orkin",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Ott+Plumbing/data=!4m7!3m6!1s0x883c79919fadcac7:0x1c202990e50dc6f1!8m2!3d41.612268!4d-83.6642897!16s%2Fg%2F1tk_pyvp!19sChIJx8qtn5F5PIgR8cYN5ZApIBw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:16",
+    "keyword": "Plumbing Services",
+    "name": "Ott Plumbing",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Ottawa+County+Pest+Control/data=!4m7!3m6!1s0x883bbbad8f8e46b9:0x6c00fd39884dd6b3!8m2!3d41.531432!4d-83.1566859!16s%2Fg%2F1tnmsd7v!19sChIJuUaOj627O4gRs9ZNiDn9AGw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:50",
+    "keyword": "Pest Control",
+    "name": "Ottawa County Pest Control",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/PROFESSIONAL+DENTAL+ALLIANCE+OF+COVINGTON,+LLC/data=!4m7!3m6!1s0x883b86eaf25aaaab:0xbd6c237e51ddd4e0!8m2!3d41.6370843!4d-83.53048!16s%2Fg%2F11nn367k0m!19sChIJq6pa8uqGO4gR4NTdUX4jbL0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:44",
+    "keyword": "Dental Clinics",
+    "name": "PROFESSIONAL DENTAL ALLIANCE OF COVINGTON, LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/PROTEC+Termite+%26+Pest+Control+LLC/data=!4m7!3m6!1s0x883c7c195c7ac571:0xdf9bf38d2c13843a!8m2!3d41.7109126!4d-83.6256145!16s%2Fg%2F11c5_6g36c!19sChIJccV6XBl8PIgROoQTLI3zm98?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:45",
+    "keyword": "Pest Control",
+    "name": "PROTEC Termite & Pest Control LLC",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -643,10 +2295,101 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Parfitt+Francis+J+DDS/data=!4m7!3m6!1s0x883c7a268f071f3f:0x59cfa0fb16ddee6b!8m2!3d41.6144764!4d-83.6832099!16s%2Fg%2F1tcxvxps!19sChIJPx8HjyZ6PIgRa-7dFvugz1k?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:12",
+    "keyword": "Orthodontists",
+    "name": "Parfitt Francis J DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Perfection+Property+Beautification/data=!4m7!3m6!1s0x883c79f187eee6ab:0x47f5bd9c5de2421c!8m2!3d41.6620377!4d-83.6064646!16s%2Fg%2F11nj3jzrq_!19sChIJq-buh_F5PIgRHELiXZy99Uc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:50",
+    "keyword": "Pest Control",
+    "name": "Perfection Property Beautification",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Perrysburg+Family+Dentistry/data=!4m7!3m6!1s0x883c7706d62ced97:0x43c0a47cf66b1eb6!8m2!3d41.5503265!4d-83.6374831!16s%2Fg%2F1td20ydb!19sChIJl-0s1gZ3PIgRth5r9nykwEM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:42",
+    "keyword": "Dental Clinics",
+    "name": "Perrysburg Family Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Perrysburg+Office+Location/data=!4m7!3m6!1s0x883c76f92550598f:0x5556cdea51efeb06!8m2!3d41.5393453!4d-83.6384355!16s%2Fg%2F11hy_y5lmr!19sChIJj1lQJfl2PIgRBuvvUerNVlU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:30",
+    "keyword": "Orthodontists",
+    "name": "Perrysburg Office Location",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Pest+Predicaments/data=!4m7!3m6!1s0x462c4bf66345c82f:0xaaf039aad294fa0e!8m2!3d41.5411336!4d-83.769334!16s%2Fg%2F11vwy4_z6w!19sChIJL8hFY_ZLLEYRDvqU0qo58Ko?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:54",
+    "keyword": "Pest Control",
+    "name": "Pest Predicaments",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Pest+Predicaments/data=!4m7!3m6!1s0x883c7a63e4936e4f:0xbcf8aab218f3e70d!8m2!3d41.6036605!4d-83.7153714!16s%2Fg%2F11wy3xs9hc!19sChIJT26T5GN6PIgRDefzGLKq-Lw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:50",
+    "keyword": "Pest Control",
+    "name": "Pest Predicaments",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Pet+Supplies+Plus+Airport/data=!4m7!3m6!1s0x883c79855941cc31:0xf21d863b4ace437d!8m2!3d41.616257!4d-83.6675!16s%2Fg%2F1vxf_vfx!19sChIJMcxBWYV5PIgRfUPOSjuGHfI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:58",
+    "keyword": "Pest Control",
+    "name": "Pet Supplies Plus Airport",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/PflegMed:+Healthy+by+Dr.+Jen/data=!4m7!3m6!1s0x883c77a12d3236c3:0x9dc844d6796f053e!8m2!3d41.5596578!4d-83.6316004!16s%2Fg%2F11hbv6lc2k!19sChIJwzYyLaF3PIgRPgVvedZEyJ0?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:46",
     "keyword": "Med Spas",
     "name": "PflegMed: Healthy by Dr. Jen",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Phelan+Orthodontics/data=!4m7!3m6!1s0x883b8460481b01d1:0x28dacfb5e837d96e!8m2!3d41.6367601!4d-83.4658458!16s%2Fg%2F1tsbmsxr!19sChIJ0QEbSGCEO4gRbtk36LXP2ig?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:07:17",
+    "keyword": "Orthodontists",
+    "name": "Phelan Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Phelan+Orthodontics/data=!4m7!3m6!1s0x883c76fea287d3b1:0x2d6d9dfe5e50e8a8!8m2!3d41.5414027!4d-83.6398738!16s%2Fg%2F1tgxjqzb!19sChIJsdOHov52PIgRqOhQXv6dbS0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:07:17",
+    "keyword": "Orthodontists",
+    "name": "Phelan Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Philip+R.+Sprague,+DDS/data=!4m7!3m6!1s0x883c7dd09bd40355:0x36f51f384fd54d14!8m2!3d41.7160192!4d-83.6844647!16s%2Fg%2F1tdbxf7g!19sChIJVQPUm9B9PIgRFE3VTzgf9TY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:26",
+    "keyword": "Orthodontists",
+    "name": "Philip R. Sprague, DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Phoenix+Salon/data=!4m7!3m6!1s0x883c7855964db11b:0xe824c9c9001e937!8m2!3d41.6992846!4d-83.6481741!16s%2Fg%2F11bbrky0_r!19sChIJG7FNllV4PIgRN-kBkJxMgg4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:20",
+    "keyword": "Med Spas",
+    "name": "Phoenix Salon",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Physical+Medicine+Rehab+Clinic/data=!4m7!3m6!1s0x883c785f1c2fddc3:0x907c95cc4ccdcbe5!8m2!3d41.6204274!4d-83.6166014!16s%2Fg%2F113g18l1x!19sChIJw90vHF94PIgR5cvNTMyVfJA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:42",
+    "keyword": "Rehab Practices",
+    "name": "Physical Medicine Rehab Clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Pipe+Doctor+Plumbing+and+Heating/data=!4m7!3m6!1s0x883b805f3acb2d83:0x79b603f9cf889f2c!8m2!3d41.7018855!4d-83.5662855!16s%2Fg%2F1tg4xhzb!19sChIJgy3LOl-AO4gRLJ-Iz_kDtnk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:16",
+    "keyword": "Plumbing Services",
+    "name": "Pipe Doctor Plumbing and Heating",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -657,10 +2400,143 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Plastic+Surgery+Consultants/data=!4m7!3m6!1s0x883c7f591e8df951:0x4c94816cd5ff7021!8m2!3d41.6752914!4d-83.5954417!16s%2Fg%2F1tdr3_0n!19sChIJUfmNHll_PIgRIXD_1WyBlEw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:57",
+    "keyword": "Aesthetic Clinics",
+    "name": "Plastic Surgery Consultants",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/Point+Place+dental+care/data=!4m7!3m6!1s0x883b8245eb0f048d:0x325a68c910643347!8m2!3d41.7061299!4d-83.4790754!16s%2Fg%2F1tmxrplg!19sChIJjQQP60WCO4gRRzNkEMloWjI?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:51:23",
     "keyword": "Dental Clinics",
     "name": "Point Place dental care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Potts+Brittany+DDS/data=!4m7!3m6!1s0x883c7f02a1b253cf:0x837adc82d38559e7!8m2!3d41.6938357!4d-83.6343532!16s%2Fg%2F1tz96dzd!19sChIJz1OyoQJ_PIgR51mF04LceoM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:08",
+    "keyword": "Orthodontists",
+    "name": "Potts Brittany DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Precision+Orthodontics/data=!4m7!3m6!1s0x883c7ef076fc8971:0xbbd29d33c62c9059!8m2!3d41.6962482!4d-83.6456909!16s%2Fg%2F11fxz491jg!19sChIJcYn8dvB-PIgRWZAsxjOd0rs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:05",
+    "keyword": "Orthodontists",
+    "name": "Precision Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Presto-X+Pest+Control/data=!4m7!3m6!1s0x883b8d94f015baa1:0x26a2f9387f679f88!8m2!3d41.574443!4d-83.6969309!16s%2Fg%2F11h6mnmz5z!19sChIJoboV8JSNO4gRiJ9nfzj5oiY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:45",
+    "keyword": "Pest Control",
+    "name": "Presto-X Pest Control",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Prime+Wildlife+Removal+LLC/data=!4m7!3m6!1s0xa99091ea459bf9b5:0x781354021b00b654!8m2!3d41.6505435!4d-83.6742654!16s%2Fg%2F11x1xyy8l4!19sChIJtfmbReqRkKkRVLYAGwJUE3g?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:12:01",
+    "keyword": "Pest Control",
+    "name": "Prime Wildlife Removal LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Priority+Emergency+Dental+Care/data=!4m7!3m6!1s0x883c791a16973bc5:0x41ab51eb2450c53c!8m2!3d41.5996958!4d-83.667287!16s%2Fg%2F11w9qjfn7x!19sChIJxTuXFhp5PIgRPMVQJOtRq0E?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:35",
+    "keyword": "Dental Clinics",
+    "name": "Priority Emergency Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/ProMedica+Eidi+Family+Rehabilitation+Center/data=!4m7!3m6!1s0x883c7dcb4b915389:0x3f9fe9ec298a08d1!8m2!3d41.7115277!4d-83.6922837!16s%2Fg%2F11ggs3dpm6!19sChIJiVORS8t9PIgR0QiKKezpnz8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "ProMedica Eidi Family Rehabilitation Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/ProMedica+Flower+Hospital+Inpatient+Rehabilitation/data=!4m7!3m6!1s0x883c7d67020ac4c5:0x8b5f2295710958bd!8m2!3d41.7074288!4d-83.690883!16s%2Fg%2F11y7k68t78!19sChIJxcQKAmd9PIgRvVgJcZUiX4s?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:42",
+    "keyword": "Rehab Practices",
+    "name": "ProMedica Flower Hospital Inpatient Rehabilitation",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/ProMedica+Total+Rehab+-+Flower+Hospital/data=!4m7!3m6!1s0x883c7dcb4b90202f:0xcf301eca274e662b!8m2!3d41.7073849!4d-83.6909149!16s%2Fg%2F1tf29c0z!19sChIJLyCQS8t9PIgRK2ZOJ8oeMM8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "ProMedica Total Rehab - Flower Hospital",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/ProMedica+Total+Rehab+-+Oregon/data=!4m7!3m6!1s0x883b84495f813cc1:0x35d31eed0b8af6e6!8m2!3d41.6214328!4d-83.4807319!16s%2Fg%2F1w6_ph53!19sChIJwTyBX0mEO4gR5vaKC-0e0zU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "ProMedica Total Rehab - Oregon",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/ProMedica+Total+Rehab+-+Swanton/data=!4m7!3m6!1s0x883c6892e103c579:0xadf284ab68a741cf!8m2!3d41.579347!4d-83.876647!16s%2Fg%2F11cr_p2n1x!19sChIJecUD4ZJoPIgRz0GnaKuE8q0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:42",
+    "keyword": "Rehab Practices",
+    "name": "ProMedica Total Rehab - Swanton",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/ProMedica+Total+Rehab+-+Temperance/data=!4m7!3m6!1s0x883c7f5f38e4c057:0xf68c1f06f966b170!8m2!3d41.765612!4d-83.5966096!16s%2Fg%2F1tf_nzrn!19sChIJV8DkOF9_PIgRcLFm-QYfjPY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:42",
+    "keyword": "Rehab Practices",
+    "name": "ProMedica Total Rehab - Temperance",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/ProMedica+Total+Rehab+-+Toledo/data=!4m7!3m6!1s0x883c7f5ec424cf51:0x625e7f487e07c41c!8m2!3d41.678248!4d-83.5965572!16s%2Fg%2F1wn34bgt!19sChIJUc8kxF5_PIgRHMQHfkh_XmI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "ProMedica Total Rehab - Toledo",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/ProMedica+Total+Rehab+-+Wildwood/data=!4m7!3m6!1s0x883c7ea8d6f1ca39:0x41c6078eaa96fcce!8m2!3d41.6735368!4d-83.6719094!16s%2Fg%2F11c1p45l71!19sChIJOcrx1qh-PIgRzvyWqo4HxkE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "ProMedica Total Rehab - Wildwood",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/ProMedica+Total+Rehab+Pediatrics/data=!4m7!3m6!1s0x883c7ee3914cf413:0x888a88b26c029e1a!8m2!3d41.6909439!4d-83.6394185!16s%2Fg%2F11g68yl66k!19sChIJE_RMkeN-PIgRGp4CbLKIiog?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:42",
+    "keyword": "Rehab Practices",
+    "name": "ProMedica Total Rehab Pediatrics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/ProMedica+Total+Rehab+Sports+Medicine+-+Wildwood/data=!4m7!3m6!1s0x883c7ea8d6f1ca39:0x34f434baa130a191!8m2!3d41.6735368!4d-83.6719094!16s%2Fg%2F11c1p487w8!19sChIJOcrx1qh-PIgRkaEwobo09DQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "ProMedica Total Rehab Sports Medicine - Wildwood",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Progressive+Therapy+%26+Aquatic+Center/data=!4m7!3m6!1s0x883c7cf32c359a07:0x14d3104f7a220f6c!8m2!3d41.689429!4d-83.7273704!16s%2Fg%2F1td4qcp8!19sChIJB5o1LPN8PIgRbA8iek8Q0xQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:16",
+    "keyword": "Med Spas",
+    "name": "Progressive Therapy & Aquatic Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Progressive+Wellness/data=!4m7!3m6!1s0x883c7cf32dd3be6b:0x511dbe50548c5cde!8m2!3d41.689405!4d-83.7274986!16s%2Fg%2F11c2ld4m8k!19sChIJa77TLfN8PIgR3lyMVFC-HVE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:16",
+    "keyword": "Med Spas",
+    "name": "Progressive Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/R%26R+Aesthetics/data=!4m7!3m6!1s0x883c7752665c3f09:0x66cf503fcc04581a!8m2!3d41.5266633!4d-83.6392425!16s%2Fg%2F11x0j0wgng!19sChIJCT9cZlJ3PIgRGlgEzD9Qz2Y?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:05",
+    "keyword": "Med Spas",
+    "name": "R&R Aesthetics",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -671,10 +2547,45 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Ram+Exterminators+LLC/data=!4m7!3m6!1s0x883b85fefd69b845:0x2e7ce76ad0f32116!8m2!3d41.6425769!4d-83.494732!16s%2Fg%2F11wj47jz3b!19sChIJRbhp_f6FO4gRFiHz0GrnfC4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:50",
+    "keyword": "Pest Control",
+    "name": "Ram Exterminators LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/ReSure+Aesthetics/data=!4m7!3m6!1s0x39190334959943ab:0xd869bfa632bffa22!8m2!3d31.4690021!4d74.2514215!16s%2Fg%2F11lf1plywl!19sChIJq0OZlTQDGTkRIvq_Mqa_adg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:57",
+    "keyword": "Aesthetic Clinics",
+    "name": "ReSure Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/Reconstructive+and+Aesthetic+Surgeons,+Inc./data=!4m7!3m6!1s0x883c7eaf3121f101:0x9e9aaa3763b4bef3!8m2!3d41.6735368!4d-83.6719094!16s%2Fg%2F1tf6647w!19sChIJAfEhMa9-PIgR8760Yzeqmp4?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:53:10",
     "keyword": "Aesthetic Clinics",
     "name": "Reconstructive and Aesthetic Surgeons, Inc.",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Regal+Nails,+Salon+%26+Spa/data=!4m7!3m6!1s0x883c7869d85e887d:0xdf47482b1d79171d!8m2!3d41.6098686!4d-83.6125593!16s%2Fg%2F1thtq7y8!19sChIJfYhe2Gl4PIgRHRd5HStIR98?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:20",
+    "keyword": "Med Spas",
+    "name": "Regal Nails, Salon & Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Rehab+Dynamics,+Inc./data=!4m7!3m6!1s0x883c7c72bca66daf:0xa41591e9a4de6cf3!8m2!3d41.6769022!4d-83.7001322!16s%2Fg%2F1td1knr7!19sChIJr22mvHJ8PIgR82zepOmRFaQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "Rehab Dynamics, Inc.",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Rehabilitation+Hospital+of+Northwest+Ohio/data=!4m7!3m6!1s0x883c785b42967b61:0x786001b92a25ec0e!8m2!3d41.6154469!4d-83.6198214!16s%2Fg%2F11cn2m9w_k!19sChIJYXuWQlt4PIgRDuwlKrkBYHg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "Rehabilitation Hospital of Northwest Ohio",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -685,10 +2596,66 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Reliance+Inspections/data=!4m7!3m6!1s0x883c71aab57b660f:0x33e0021edaa11af8!8m2!3d41.362845!4d-83.534463!16s%2Fg%2F11h3vbmtnc!19sChIJD2Z7tapxPIgR-Bqh2h4C4DM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:54",
+    "keyword": "Pest Control",
+    "name": "Reliance Inspections",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Reliance+Pest+Control/data=!4m7!3m6!1s0x2b39ff81c21cadb:0x599408397efe65d3!8m2!3d41.3887275!4d-83.6145315!16s%2Fg%2F11q8jt6m19!19sChIJ28ohHPifswIR02X-fjkIlFk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:44",
+    "keyword": "Pest Control",
+    "name": "Reliance Pest Control",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Reliance+Radon+Services/data=!4m7!3m6!1s0x883c7228385d6179:0x841ff959e79c6e02!8m2!3d41.5375025!4d-83.7296783!16s%2Fg%2F11c1vkx9y9!19sChIJeWFdOChyPIgRAm6c51n5H4Q?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:58",
+    "keyword": "Pest Control",
+    "name": "Reliance Radon Services",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Rememberable+services+llc/data=!4m7!3m6!1s0x4d8f89fa067d88b1:0xa086060a9269701f!8m2!3d41.686728!4d-83.4396317!16s%2Fg%2F11n9rx2k_q!19sChIJsYh9BvqJj00RH3BpkgoGhqA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:54",
+    "keyword": "Pest Control",
+    "name": "Rememberable services llc",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Renaissance+Toledo+Downtown+Hotel/data=!4m7!3m6!1s0x883b86c912e5438b:0x60e4f5b04f95a5d2!8m2!3d41.6525955!4d-83.5312957!16s%2Fg%2F11c5btw30q!19sChIJi0PlEsmGO4gR0qWVT7D15GA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:20",
+    "keyword": "Med Spas",
+    "name": "Renaissance Toledo Downtown Hotel",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Repellent+Pest+Control+-+Best+Termite+Treatment+Services+in+Lahore/data=!4m7!3m6!1s0x391901006ea97fed:0xa29f0143e7646560!8m2!3d31.4387123!4d74.2622268!16s%2Fg%2F11yxz1r43w!19sChIJ7X-pbgABGTkRYGVk50MBn6I?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:12:03",
+    "keyword": "Pest Control",
+    "name": "Repellent Pest Control - Best Termite Treatment Services in Lahore",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Revive+Wellness+Group/data=!4m7!3m6!1s0x883c7a43bcdaaaab:0x8bb2b8eba761e736!8m2!3d41.5398757!4d-83.6388748!16s%2Fg%2F11nnwg2_2r!19sChIJq6ravEN6PIgRNudhp-u4sos?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:07:50",
+    "keyword": "Med Spas",
+    "name": "Revive Wellness Group",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/River+East+Dental+Group/data=!4m7!3m6!1s0x883b86eaf3f7b823:0x6948dc4d332ab3f!8m2!3d41.6370515!4d-83.5304351!16s%2Fg%2F1tfq9xc6!19sChIJI7j38-qGO4gRP6sy08SNlAY?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:51:23",
     "keyword": "Dental Clinics",
     "name": "River East Dental Group",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Riverside+Family+Dentistry/data=!4m7!3m6!1s0x883b7ffb547f99e3:0x59b3110eac1c7ed8!8m2!3d41.7511063!4d-83.5872077!16s%2Fg%2F1tcv236t!19sChIJ45l_VPt_O4gR2H4crA4Rs1k?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:44",
+    "keyword": "Dental Clinics",
+    "name": "Riverside Family Dentistry",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -699,10 +2666,122 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Rooter+Man,+LLC/data=!4m7!3m6!1s0x883c7f4dce3f69db:0xcdbe3908b73872ef!8m2!3d41.7120496!4d-83.5990501!16s%2Fg%2F11h1j2z0sj!19sChIJ22k_zk1_PIgR73I4twg5vs0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:16",
+    "keyword": "Plumbing Services",
+    "name": "Rooter Man, LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Rooter+Master/data=!4m7!3m6!1s0x883b80518b93ffa7:0x38b3fef0750c89ec!8m2!3d41.7079!4d-83.554899!16s%2Fg%2F1263cyhqm!19sChIJp_-Ti1GAO4gR7IkMdfD-szg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:12",
+    "keyword": "Plumbing Services",
+    "name": "Rooter Master",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Rooter+Right+Plumbing+%26+Drain/data=!4m7!3m6!1s0x883c660c4dc26bf1:0xc39f02012d87b340!8m2!3d41.6508562!4d-83.6116825!16s%2Fg%2F119tlpr6h!19sChIJ8WvCTQxmPIgRQLOHLQECn8M?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:16",
+    "keyword": "Plumbing Services",
+    "name": "Rooter Right Plumbing & Drain",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Rose+Pest+Solutions+Toledo/data=!4m7!3m6!1s0x883c7b609aac376b:0x206235a7dc69863b!8m2!3d41.6671289!4d-83.7404438!16s%2Fg%2F1tfb771x!19sChIJazesmmB7PIgRO4Zp3Kc1YiA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:44",
+    "keyword": "Pest Control",
+    "name": "Rose Pest Solutions Toledo",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Roto+Rooter+Plumbing+%26+Drain+Service/data=!4m7!3m6!1s0x883b819450a16779:0xd7a8580bbbffc4e4!8m2!3d41.7130164!4d-83.5466078!16s%2Fg%2F1th0nktn!19sChIJeWehUJSBO4gR5MT_uwtYqNc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:12",
+    "keyword": "Plumbing Services",
+    "name": "Roto Rooter Plumbing & Drain Service",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Royal+Aesthetic+%26+Medicos+Clinic/data=!4m7!3m6!1s0x3919010034e40d1f:0x8bf1f4655de493d2!8m2!3d31.4546738!4d74.2827343!16s%2Fg%2F11x20gc203!19sChIJHw3kNAABGTkR0pPkXWX08Ys?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:57",
+    "keyword": "Aesthetic Clinics",
+    "name": "Royal Aesthetic & Medicos Clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/S%26S+Pest+Control/data=!4m7!3m6!1s0x883b81e647ff7407:0xbf1fc3e79f825b45!8m2!3d41.7217585!4d-83.4432586!16s%2Fg%2F11hfxt6w52!19sChIJB3T_R-aBO4gRRVuCn-fDH78?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:50",
+    "keyword": "Pest Control",
+    "name": "S&S Pest Control",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/SBK+Orthodontics-Saline/data=!4m7!3m6!1s0x883cbb196a3548a3:0xbea3e8f93665c6ab!8m2!3d42.1736056!4d-83.7634838!16s%2Fg%2F1tfyf78m!19sChIJo0g1ahm7PIgRq8ZlNvnoo74?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:30",
+    "keyword": "Orthodontists",
+    "name": "SBK Orthodontics-Saline",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/SN+Show+Room/data=!4m7!3m6!1s0x391903a4889b4a79:0x42b25603292f5c26!8m2!3d31.471325!4d74.2561307!16s%2Fg%2F11v3gcd_xh!19sChIJeUqbiKQDGTkRJlwvKQNWskI?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:53:13",
     "keyword": "Aesthetic Clinics",
     "name": "SN Show Room",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Sabreen+O+Owais,+DDS/data=!4m7!3m6!1s0x883c7b845dc01059:0x36e45eddbdabb9ce!8m2!3d41.6144764!4d-83.6832099!16s%2Fg%2F11qn8wpq08!19sChIJWRDAXYR7PIgRzrmrvd1e5DY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:19",
+    "keyword": "Orthodontists",
+    "name": "Sabreen O Owais, DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Saline+Orthodontics/data=!4m7!3m6!1s0x883ca506664c5803:0xbe33a709ded7129d!8m2!3d42.1756097!4d-83.7591036!16s%2Fg%2F11dyxksc7z!19sChIJA1hMZgalPIgRnRLX3gmnM74?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:30",
+    "keyword": "Orthodontists",
+    "name": "Saline Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Sammy%27s+Visionary+Landscape/data=!4m7!3m6!1s0x82bbe69d62094eb3:0x8f45afd15152d286!8m2!3d41.7057454!4d-83.4396317!16s%2Fg%2F11tmn49qfw!19sChIJs04JYp3mu4IRhtJSUdGvRY8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:12:01",
+    "keyword": "Pest Control",
+    "name": "Sammy's Visionary Landscape",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Sammy%27s+lawn+Service/data=!4m7!3m6!1s0x81adc397f0c493fb:0x20d82f4257a9292b!8m2!3d41.613287!4d-83.6700305!16s%2Fg%2F11y28m2ndj!19sChIJ-5PE8JfDrYERKympV0Iv2CA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:12:01",
+    "keyword": "Pest Control",
+    "name": "Sammy's lawn Service",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Sandals+Nail-Spa,+LLC/data=!4m7!3m6!1s0x883c7c8c91eeb171:0x781f2b5272dfabab!8m2!3d41.6881084!4d-83.7276545!16s%2Fg%2F1tf6y064!19sChIJcbHukYx8PIgRq6vfclIrH3g?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:05",
+    "keyword": "Med Spas",
+    "name": "Sandals Nail-Spa, LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Sandusky+Orthodontics/data=!4m7!3m6!1s0x883a45df3956bb69:0xc45195ec53062e2b!8m2!3d41.4516769!4d-82.7086948!16s%2Fg%2F11g9qv6622!19sChIJabtWOd9FOogRKy4GU-yVUcQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:30",
+    "keyword": "Orthodontists",
+    "name": "Sandusky Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Schmeltz+Plumbing/data=!4m7!3m6!1s0x883c791b03ae24d7:0x14b1007a68039f59!8m2!3d41.5921677!4d-83.6595987!16s%2Fg%2F11p15rw2b1!19sChIJ1ySuAxt5PIgRWZ8DaHoAsRQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:16",
+    "keyword": "Plumbing Services",
+    "name": "Schmeltz Plumbing",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Scott+Louderback,+DDS/data=!4m7!3m6!1s0x883b841526072119:0x88d0fa59871ddad9!8m2!3d41.6383815!4d-83.4862732!16s%2Fg%2F1tkl3_4p!19sChIJGSEHJhWEO4gR2dodh1n60Ig?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:12",
+    "keyword": "Orthodontists",
+    "name": "Scott Louderback, DDS",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -713,10 +2792,31 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Second+Street+Dental/data=!4m7!3m6!1s0x883c77a408465111:0x6cac232d2e36e99f!8m2!3d41.5594572!4d-83.6282359!16s%2Fg%2F11b6vd8t6p!19sChIJEVFGCKR3PIgRn-k2Li0jrGw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:12",
+    "keyword": "Orthodontists",
+    "name": "Second Street Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Serenity+Clean+of+Toledo/data=!4m7!3m6!1s0x85920737fb353c29:0x6ebbb5d461cc0e2c!8m2!3d41.6816873!4d-83.6067025!16s%2Fg%2F11tjclv7_m!19sChIJKTw1-zcHkoURLA7MYdS1u24?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:50",
+    "keyword": "Pest Control",
+    "name": "Serenity Clean of Toledo",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/Serenity+Health+%26+Wellness+Center/data=!4m7!3m6!1s0x883c7715ae7300b3:0xa06724ad3881a510!8m2!3d41.586767!4d-83.670047!16s%2Fg%2F1vb9dqyy!19sChIJswBzrhV3PIgREKWBOK0kZ6A?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:38",
     "keyword": "Med Spas",
     "name": "Serenity Health & Wellness Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Serenity+Nail+Salon+%26+Spa/data=!4m7!3m6!1s0x883c7756179aaaab:0xcfbe085723b7153d!8m2!3d41.5860337!4d-83.6708683!16s%2Fg%2F11fm_74xxk!19sChIJq6qaF1Z3PIgRPRW3I1cIvs8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:16",
+    "keyword": "Med Spas",
+    "name": "Serenity Nail Salon & Spa",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -727,10 +2827,24 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Shine+Ortho+Studio/data=!4m7!3m6!1s0x883c376d13ad40d1:0x154536e9d19861cf!8m2!3d41.3919998!4d-84.1523386!16s%2Fg%2F11j4szl6b7!19sChIJ0UCtE203PIgRz2GY0ek2RRU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:30",
+    "keyword": "Orthodontists",
+    "name": "Shine Ortho Studio",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/Signature+Smiles+by+Dr.+Mike+Schweizer/data=!4m7!3m6!1s0x883c7f12108ca8e5:0xa95cb38044687ee5!8m2!3d41.6923207!4d-83.6180255!16s%2Fg%2F1tdwwc64!19sChIJ5aiMEBJ_PIgR5X5oRICzXKk?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:57",
     "keyword": "Med Spas",
     "name": "Signature Smiles by Dr. Mike Schweizer",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Simon+Eugene+S+DDS/data=!4m7!3m6!1s0x883c7da593cf0da7:0xe944bfc64f4fe664!8m2!3d41.7189489!4d-83.7130093!16s%2Fg%2F1263yyp9_!19sChIJpw3Pk6V9PIgRZOZPT8a_ROk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:30",
+    "keyword": "Orthodontists",
+    "name": "Simon Eugene S DDS",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -769,10 +2883,31 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Smiles+of+Ohio+Orthodontics/data=!4m7!3m6!1s0x883c4f0533b57e4d:0x35887781751d893e!8m2!3d41.554089!4d-84.133862!16s%2Fg%2F1t_hznkg!19sChIJTX61MwVPPIgRPokddYF3iDU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:30",
+    "keyword": "Orthodontists",
+    "name": "Smiles of Ohio Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Smiles+of+Toledo+Dental/data=!4m7!3m6!1s0x6c90a9aeb29a7a63:0xa87e20aa7c464cf7!8m2!3d41.6819287!4d-83.6799265!16s%2Fg%2F11srvzf84d!19sChIJY3qasq6pkGwR90xGfKogfqg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:38",
+    "keyword": "Dental Clinics",
+    "name": "Smiles of Toledo Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/SnatchedMD/data=!4m7!3m6!1s0x883c79a5e7159473:0x637ac5816c96a171!8m2!3d41.6215147!4d-83.640184!16s%2Fg%2F11xy_dmc3t!19sChIJc5QV56V5PIgRcaGWbIHFemM?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:46",
     "keyword": "Med Spas",
     "name": "SnatchedMD",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Sohail+Termite+Control/data=!4m7!3m6!1s0x391903f8bd4b2807:0x81a9e216e16e78d4!8m2!3d31.4700457!4d74.2896495!16s%2Fg%2F11s5vq124v!19sChIJByhLvfgDGTkR1Hhu4RbiqYE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:12:03",
+    "keyword": "Pest Control",
+    "name": "Sohail Termite Control",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -783,6 +2918,27 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Soto+Signature/data=!4m7!3m6!1s0x883c76564aa90d9b:0x6ab481f08bb65c26!8m2!3d41.5371882!4d-83.6333822!16s%2Fg%2F1td7zrs2!19sChIJmw2pSlZ2PIgRJly2i_CBtGo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:09",
+    "keyword": "Med Spas",
+    "name": "Soto Signature",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/South+Toledo+Physical+Therapy/data=!4m7!3m6!1s0x883c7838336b536f:0x59b878c81d38f077!8m2!3d41.6015623!4d-83.6233417!16s%2Fg%2F11cm04qdmk!19sChIJb1NrMzh4PIgRd_A4Hch4uFk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:42",
+    "keyword": "Rehab Practices",
+    "name": "South Toledo Physical Therapy",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Sparkling+Clean+Carpet+Care+Toledo,+Ohio/data=!4m7!3m6!1s0x883c7f6cef16df57:0x14c99cd12faab0e!8m2!3d41.7116329!4d-83.5528567!16s%2Fg%2F1w4vklyw!19sChIJV98W72x_PIgRDqv6Es2ZTAE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:50",
+    "keyword": "Pest Control",
+    "name": "Sparkling Clean Carpet Care Toledo, Ohio",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/Spring+Valley+Dental/data=!4m7!3m6!1s0x883c7a25cdb1ffbf:0xe042f531b557a3e8!8m2!3d41.615185!4d-83.6835518!16s%2Fg%2F1t_tkzhz!19sChIJv_-xzSV6PIgR6KNXtTH1QuA?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:51:25",
     "keyword": "Dental Clinics",
@@ -790,10 +2946,24 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Stanchin+%26+Son%27s+Pest+Control/data=!4m7!3m6!1s0x883c7f043be70419:0xf3f4a86780b4f78b!8m2!3d43.0386414!4d-85.4685484!16s%2Fg%2F1v27w4_5!19sChIJGQTnOwR_PIgRi_e0gGeo9PM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:50",
+    "keyword": "Pest Control",
+    "name": "Stanchin & Son's Pest Control",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/Stilla+Salon+Spa+Boutique/data=!4m7!3m6!1s0x883c7d3bd4ef51d3:0x36bbde22cb3f721b!8m2!3d41.7040529!4d-83.7034319!16s%2Fg%2F11r3lr6snv!19sChIJ01Hv1Dt9PIgRG3I_yyLeuzY?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:36",
     "keyword": "Med Spas",
     "name": "Stilla Salon Spa Boutique",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Summit+Rehabilatation+Services,+LLC/data=!4m7!3m6!1s0x883b850eacd257cb:0x6d9dda45875fdcf1!8m2!3d41.6014247!4d-83.4607054!16s%2Fg%2F12614z_j2!19sChIJy1fSrA6FO4gR8dxfh0XanW0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "Summit Rehabilatation Services, LLC",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -811,10 +2981,59 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Swanton+Dental/data=!4m7!3m6!1s0x883c688a42e2a02b:0x5311b20966698bc2!8m2!3d41.5817453!4d-83.8880968!16s%2Fg%2F11bc8cjqrg!19sChIJK6DiQopoPIgRwotpZgmyEVM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:44",
+    "keyword": "Dental Clinics",
+    "name": "Swanton Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Sylvania+%26+Lambertville+Orth/data=!4m7!3m6!1s0x883c8066771717d9:0x1695ea4f4d7744c9!8m2!3d41.7578196!4d-83.6250004!16s%2Fg%2F1txy3005!19sChIJ2RcXd2aAPIgRyUR3TU_qlRY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:05",
+    "keyword": "Orthodontists",
+    "name": "Sylvania & Lambertville Orth",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Sylvania+Smile+Design/data=!4m7!3m6!1s0x883c7c3a9292ebb5:0xf9356ceb528e0da!8m2!3d41.6958995!4d-83.6899531!16s%2Fg%2F113g18l1y!19sChIJteuSkjp8PIgR2uAotc5Wkw8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:40",
+    "keyword": "Dental Clinics",
+    "name": "Sylvania Smile Design",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/Synergy+Primary+Care+and+Wellness+By+Dr+Bushra+Ali/data=!4m7!3m6!1s0x883c7c6d5efe8769:0x242c276179635fff!8m2!3d41.6956918!4d-83.6368282!16s%2Fg%2F11hczlfsk6!19sChIJaYf-Xm18PIgR_19jeWEnLCQ?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:36",
     "keyword": "Med Spas",
     "name": "Synergy Primary Care and Wellness By Dr Bushra Ali",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/T%26J+Rooter+Service/data=!4m7!3m6!1s0x883c78f08be14ebf:0x361388049f523154!8m2!3d41.6311093!4d-83.6208415!16s%2Fg%2F1tdhmhf0!19sChIJv07hi_B4PIgRVDFSnwSIEzY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:12",
+    "keyword": "Plumbing Services",
+    "name": "T&J Rooter Service",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/TDR+Specialists+in+Orthodontics+-+Taylor/data=!4m7!3m6!1s0x883b37f4975c974d:0xe1c41895881e0783!8m2!3d42.1990524!4d-83.2328757!16s%2Fg%2F1tj4c4m2!19sChIJTZdcl_Q3O4gRgwceiJUYxOE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:30",
+    "keyword": "Orthodontists",
+    "name": "TDR Specialists in Orthodontics - Taylor",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/THE+SPA+@+SKIN+CARE+EXPERTS/data=!4m7!3m6!1s0x883c774c012d3623:0xc078b1802abe6eaa!8m2!3d41.539045!4d-83.6381283!16s%2Fg%2F11ytwgy62d!19sChIJIzYtAUx3PIgRqm6-KoCxeMA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:07:59",
+    "keyword": "Med Spas",
+    "name": "THE SPA @ SKIN CARE EXPERTS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/TIA+Revitalize:+Weight+loss,+Testosterone+Replacement,+IV+Hydration/data=!4m7!3m6!1s0x40f8ff92e23344e1:0x138f31b11e92b30f!8m2!3d41.5951448!4d-83.6465785!16s%2Fg%2F11ltcv68gc!19sChIJ4UQz4pL_-EARD7OSHrExjxM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:07:52",
+    "keyword": "Med Spas",
+    "name": "TIA Revitalize: Weight loss, Testosterone Replacement, IV Hydration",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -825,10 +3044,45 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Team+Recovery+Outpatient/data=!4m7!3m6!1s0x883b80da0f1cc67b:0x466e71c1ae3e372!8m2!3d41.6916849!4d-83.6459366!16s%2Fg%2F11cm1h091w!19sChIJe8YcD9qAO4gRcuPjGhznZgQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "Team Recovery Outpatient",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Tecumseh+Orthodontic+Specialists+-+Tecumseh/data=!4m7!3m6!1s0x883ceb4f53cf51fd:0x2970747d45a18da9!8m2!3d42.011791!4d-83.941353!16s%2Fg%2F1td3gpw7!19sChIJ_VHPU0_rPIgRqY2hRX10cCk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:30",
+    "keyword": "Orthodontists",
+    "name": "Tecumseh Orthodontic Specialists - Tecumseh",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Terminix/data=!4m7!3m6!1s0x883c70bdec914d25:0x362724e8dc73da7f!8m2!3d41.574443!4d-83.6969309!16s%2Fg%2F1td1qkcc!19sChIJJU2R7L1wPIgRf9pz3OgkJzY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:45",
+    "keyword": "Pest Control",
+    "name": "Terminix",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Terminix/data=!4m7!3m6!1s0x883c7ffefe3d1eb3:0xf2f77ee9415a02c0!8m2!3d41.677397!4d-83.645206!16s%2Fg%2F11yxhy_b5g!19sChIJsx49_v5_PIgRwAJaQel-9_I?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:44",
+    "keyword": "Pest Control",
+    "name": "Terminix",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/The+Aesthetic+Clinic+by+Dental+practice/data=!4m7!3m6!1s0x391903b1138b2e6b:0x5e6f967442d32b12!8m2!3d31.479784!4d74.2549117!16s%2Fg%2F11hj7mcwlj!19sChIJay6LE7EDGTkREivTQnSWb14?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:53:17",
     "keyword": "Aesthetic Clinics",
     "name": "The Aesthetic Clinic by Dental practice",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/The+Aesthetic+Lounge/data=!4m7!3m6!1s0x391901971d10e4b3:0x5c4d3220646ff817!8m2!3d31.4682682!4d74.2960426!16s%2Fg%2F11yz8h_zc3!19sChIJs-QQHZcBGTkRF_hvZCAyTVw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:57",
+    "keyword": "Aesthetic Clinics",
+    "name": "The Aesthetic Lounge",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -867,6 +3121,90 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/The+Davey+Tree+Expert+Company/data=!4m7!3m6!1s0x883c78be14d568ed:0xbc186724ffda0218!8m2!3d41.6441049!4d-83.6093611!16s%2Fg%2F1tgx2psn!19sChIJ7WjVFL54PIgRGALa_yRnGLw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:58",
+    "keyword": "Pest Control",
+    "name": "The Davey Tree Expert Company",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/The+Lawn+Father+LLC/data=!4m7!3m6!1s0x419e73063faafa2f:0x1a223b7cf5dee70a!8m2!3d41.6562745!4d-83.571897!16s%2Fg%2F11sqdcw6fn!19sChIJL_qqPwZznkERCufe9Xw7Iho?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:12:01",
+    "keyword": "Pest Control",
+    "name": "The Lawn Father LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/The+Medical+Spa/data=!4m7!3m6!1s0x8815e68ac9a837bf:0x9c1fa965619ea826!8m2!3d41.0415942!4d-85.2357528!16s%2Fg%2F12hy865r2!19sChIJvzeoyYrmFYgRJqieYWWpH5w?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:20",
+    "keyword": "Med Spas",
+    "name": "The Medical Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/The+Medical+Spa/data=!4m7!3m6!1s0x8856bf9828fe403d:0x469638cd1c0eb91e!8m2!3d35.2573356!4d-81.1486282!16s%2Fg%2F1tcvcl_l!19sChIJPUD-KJi_VogRHrkOHM04lkY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:20",
+    "keyword": "Med Spas",
+    "name": "The Medical Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/The+University+of+Toledo+Medical+Center+-+Physical+Medicine+and+Rehabilitation/data=!4m7!3m6!1s0x883c785f1c30dcc3:0x9b606abe31b574d9!8m2!3d41.6178782!4d-83.6163207!16s%2Fg%2F12hk602h6!19sChIJw9wwHF94PIgR2XS1Mb5qYJs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "The University of Toledo Medical Center - Physical Medicine and Rehabilitation",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/The+University+of+Toledo+Medical+Center/data=!4m7!3m6!1s0x883c785c32bfc717:0xe84c000897e46942!8m2!3d41.6178936!4d-83.6166561!16s%2Fg%2F1tdmfk9p!19sChIJF8e_Mlx4PIgRQmnklwgATOg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:44",
+    "keyword": "Dental Clinics",
+    "name": "The University of Toledo Medical Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Thermo+Force+Exterminator%27s/data=!4m7!3m6!1s0x883b811db58f28bb:0xfb18ce13bda8239d!8m2!3d43.8995255!4d-104.0596426!16s%2Fg%2F11h6ry36lm!19sChIJuyiPtR2BO4gRnSOovRPOGPs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:54",
+    "keyword": "Pest Control",
+    "name": "Thermo Force Exterminator's",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Thermo+Force+Exterminators/data=!4m7!3m6!1s0x883b86628534accb:0xd90efdceef21ebe8!8m2!3d41.686728!4d-83.4396317!16s%2Fg%2F11g87ck62_!19sChIJy6w0hWKGO4gR6Osh7879Dtk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:50",
+    "keyword": "Pest Control",
+    "name": "Thermo Force Exterminators",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Timothy+M+Lawrence+Inc/data=!4m7!3m6!1s0x883c7f6a949ba847:0x6ce06a99b22276b!8m2!3d41.6839245!4d-83.6119236!16s%2Fg%2F1tg6wccg!19sChIJR6iblGp_PIgRaycim6kGzgY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:24",
+    "keyword": "Orthodontists",
+    "name": "Timothy M Lawrence Inc",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Today%27s+Orthodontics+-+Woodhaven/data=!4m7!3m6!1s0x883b38f2fa8d6b3b:0xf10ad2496351e30b!8m2!3d42.1468621!4d-83.2270542!16s%2Fg%2F1tf16k0p!19sChIJO2uN-vI4O4gRC-NRY0nSCvE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:30",
+    "keyword": "Orthodontists",
+    "name": "Today's Orthodontics - Woodhaven",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Todd+Russell,+MD,+FACS/data=!4m7!3m6!1s0x883c7f58e1d24a0d:0xe66220a5bbe838e9!8m2!3d41.6741917!4d-83.5948238!16s%2Fg%2F1tkkvk1p!19sChIJDUrS4Vh_PIgR6Tjou6UgYuY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:26",
+    "keyword": "Orthodontists",
+    "name": "Todd Russell, MD, FACS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Toledo+Area+Sanitary+District/data=!4m7!3m6!1s0x883b81bd5b7277bb:0xa32ea250830e6682!8m2!3d41.7087648!4d-83.5287582!16s%2Fg%2F1td_z84x!19sChIJu3dyW72BO4gRgmYOg1CiLqM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:58",
+    "keyword": "Pest Control",
+    "name": "Toledo Area Sanitary District",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/Toledo+Clinic+Dermasurgery/data=!4m7!3m6!1s0x883c7f050dc5dbd3:0x7e5c809010f1e50!8m2!3d41.695753!4d-83.6246791!16s%2Fg%2F1td1f26m!19sChIJ09vFDQV_PIgRUB4PAQnI5Qc?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:53:12",
     "keyword": "Aesthetic Clinics",
@@ -895,10 +3233,52 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Toledo+Dental+Team/data=!4m7!3m6!1s0x883c7f02a1b253cf:0x74fa3b45dab59503!8m2!3d41.6939926!4d-83.6345062!16s%2Fg%2F1tdzgn_g!19sChIJz1OyoQJ_PIgRA5W12kU7-nQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:44",
+    "keyword": "Dental Clinics",
+    "name": "Toledo Dental Team",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Toledo+Emergency+Dentist/data=!4m7!3m6!1s0x883b874136a3012f:0x5d77d6d12979389b!8m2!3d41.6452381!4d-83.5658933!16s%2Fg%2F11qg517gx0!19sChIJLwGjNkGHO4gRmzh5KdHWd10?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:38",
+    "keyword": "Dental Clinics",
+    "name": "Toledo Emergency Dentist",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/Toledo+Family+Dental+Care/data=!4m7!3m6!1s0x883c7a047ae362b9:0xfd0655ee96f43952!8m2!3d41.594383!4d-83.683309!16s%2Fg%2F1tc_x89c!19sChIJuWLjegR6PIgRUjn0lu5VBv0?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:51:23",
     "keyword": "Dental Clinics",
     "name": "Toledo Family Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Toledo+Hospital+Jobst+Tower/data=!4m7!3m6!1s0x883c7f5f2d2f05e9:0xe47bbc84d111874!8m2!3d41.6741917!4d-83.5948238!16s%2Fg%2F11clyq_k26!19sChIJ6QUvLV9_PIgRdBgRTci7Rw4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:44",
+    "keyword": "Dental Clinics",
+    "name": "Toledo Hospital Jobst Tower",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Toledo+Recovery+-+Addiction+Treatment+%26+Detox+Advisors/data=!4m7!3m6!1s0x883b86d200255555:0xa3cec18f2a91b4ac!8m2!3d41.6496733!4d-83.5356467!16s%2Fg%2F11g0k2990s!19sChIJVVUlANKGO4gRrLSRKo_BzqM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:42",
+    "keyword": "Rehab Practices",
+    "name": "Toledo Recovery - Addiction Treatment & Detox Advisors",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Tom%27s+Pest+Control/data=!4m7!3m6!1s0x883c7a64645b818d:0x8926c9072b6b9580!8m2!3d41.6215671!4d-83.7132708!16s%2Fg%2F1tx8twpr!19sChIJjYFbZGR6PIgRgJVrKwfJJok?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:45",
+    "keyword": "Pest Control",
+    "name": "Tom's Pest Control",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Tomase+Dental+Care/data=!4m7!3m6!1s0x883c7da8630b0bcd:0xfd329abcd0a41b86!8m2!3d41.6846466!4d-83.725811!16s%2Fg%2F1tlc8r68!19sChIJzQsLY6h9PIgRhhuk0LyaMv0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:37",
+    "keyword": "Dental Clinics",
+    "name": "Tomase Dental Care",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -909,10 +3289,80 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Tower+Dental+Care/data=!4m7!3m6!1s0x883c687d284264cd:0x894ce01c838f9495!8m2!3d41.5891905!4d-83.8922396!16s%2Fg%2F1td6ysrc!19sChIJzWRCKH1oPIgRlZSPgxzgTIk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:44",
+    "keyword": "Dental Clinics",
+    "name": "Tower Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/Tower+Dental+Care/data=!4m7!3m6!1s0x883c78ccaf939ae1:0x378116a9a6e0ef3e!8m2!3d41.6627833!4d-83.6195441!16s%2Fg%2F1tffdwfh!19sChIJ4ZqTr8x4PIgRPu_gpqkWgTc?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:51:23",
     "keyword": "Dental Clinics",
     "name": "Tower Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Tractor+Supply+Co./data=!4m7!3m6!1s0x883b84927762ba6f:0xe8bccf386334ad58!8m2!3d41.6365776!4d-83.4532955!16s%2Fg%2F1tdkmx87!19sChIJb7pid5KEO4gRWK00YzjPvOg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:12:01",
+    "keyword": "Pest Control",
+    "name": "Tractor Supply Co.",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Tractor+Supply+Co./data=!4m7!3m6!1s0x883c7c8378605517:0xc8f53321a41a82b2!8m2!3d41.6745443!4d-83.7282111!16s%2Fg%2F1tdrg0mx!19sChIJF1VgeIN8PIgRsoIapCEz9cg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:12:01",
+    "keyword": "Pest Control",
+    "name": "Tractor Supply Co.",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Trax+Orthodontics/data=!4m7!3m6!1s0x883c774de63400ad:0xeaebc84a43bd1f39!8m2!3d41.5577842!4d-83.6305893!16s%2Fg%2F11rt_41c8b!19sChIJrQA05k13PIgROR-9Q0rI6-o?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:07:17",
+    "keyword": "Orthodontists",
+    "name": "Trax Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Tru+Family+Dental/data=!4m7!3m6!1s0x883b7fbe320c41ff:0xf0f6a7e894ccca0!8m2!3d41.760275!4d-83.56745!16s%2Fg%2F1tctmg9c!19sChIJ_0EMMr5_O4gRoMxMiX5qDw8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:34",
+    "keyword": "Dental Clinics",
+    "name": "Tru Family Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/TruGreen+Lawn+Care/data=!4m7!3m6!1s0x883c774d6e0ccdd7:0xbb8e6697ecd0cddc!8m2!3d41.5450855!4d-83.641529!16s%2Fg%2F11r9m7sjnd!19sChIJ180Mbk13PIgR3M3Q7Jdmjrs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:54",
+    "keyword": "Pest Control",
+    "name": "TruGreen Lawn Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Trusted+Dental+Care/data=!4m7!3m6!1s0x883c7c4aab26dab9:0xbac5107f0ad2ec5b!8m2!3d41.7084265!4d-83.7010355!16s%2Fg%2F1thz2b4z!19sChIJudomq0p8PIgRW-zSCn8Qxbo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:40",
+    "keyword": "Dental Clinics",
+    "name": "Trusted Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Turner+%26+Turner+Family+Dentistry/data=!4m7!3m6!1s0x883c7e468c09d3c3:0x9e06e7624d051e28!8m2!3d41.7205935!4d-83.6485476!16s%2Fg%2F1td5ryy5!19sChIJw9MJjEZ-PIgRKB4FTWLnBp4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:41",
+    "keyword": "Dental Clinics",
+    "name": "Turner & Turner Family Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/U.S.+Lawns+-+Monroe+MI/data=!4m7!3m6!1s0x481c2da7414b00f:0xd87e5766d6bbe72e!8m2!3d41.91579!4d-83.6395789!16s%2Fg%2F11xs7_289h!19sChIJD7AUdNrCgQQRLue71mZXftg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:12:01",
+    "keyword": "Pest Control",
+    "name": "U.S. Lawns - Monroe MI",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/U.S.+Lawns+-+Toledo/data=!4m7!3m6!1s0x883c7ab7c4bb7b4f:0xb80fce3a709e21d9!8m2!3d41.6105408!4d-83.7526564!16s%2Fg%2F11dxck06c4!19sChIJT3u7xLd6PIgR2SGecDrOD7g?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:50",
+    "keyword": "Pest Control",
+    "name": "U.S. Lawns - Toledo",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -923,6 +3373,20 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Unity+Urgent+Care+%26+Pharmacy/data=!4m7!3m6!1s0x883c7993080f09c9:0x7fad6edae2e575e4!8m2!3d41.6626175!4d-83.6182557!16s%2Fg%2F11ywnlsb04!19sChIJyQkPCJN5PIgR5HXl4tpurX8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:26",
+    "keyword": "Orthodontists",
+    "name": "Unity Urgent Care & Pharmacy",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/University-Toledo+Med-Rehab/data=!4m7!3m6!1s0x883c785f1c30dcc3:0xb5e7546411a56ec1!8m2!3d41.6184732!4d-83.6163948!16s%2Fg%2F1tgc0fw6!19sChIJw9wwHF94PIgRwW6lEWRU57U?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:42",
+    "keyword": "Rehab Practices",
+    "name": "University-Toledo Med-Rehab",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/VIO+Med+Spa+%7C+Toledo/data=!4m7!3m6!1s0x883c7f3d517640a5:0x17105ba4e2f65f1d!8m2!3d41.6924637!4d-83.6439459!16s%2Fg%2F11q99p179m!19sChIJpUB2UT1_PIgRHV_24qRbEBc?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:28",
     "keyword": "Med Spas",
@@ -930,10 +3394,87 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/Venus+Pest+Solutions+%28Pvt.%29+Ltd/data=!4m7!3m6!1s0x39190399e0b5c339:0x87d96ab0d33a!8m2!3d31.4827401!4d74.2986865!16s%2Fg%2F11ydkbydfq!19sChIJOcO14JkDGTkROtOwatmHAAA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:12:03",
+    "keyword": "Pest Control",
+    "name": "Venus Pest Solutions (Pvt.) Ltd",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/Vibe+Aesthetics+by+Lisa+Lincoln,+LLC/data=!4m7!3m6!1s0x883c77b39383740b:0xa5e4a43f9c4e9ad0!8m2!3d41.5393907!4d-83.6385423!16s%2Fg%2F11smg3jt_s!19sChIJC3SDk7N3PIgR0JpOnD-k5KU?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:53:04",
     "keyword": "Aesthetic Clinics",
     "name": "Vibe Aesthetics by Lisa Lincoln, LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Weaver+David+S+DDS/data=!4m7!3m6!1s0x883c7f02a1b253cf:0xc65ed1c7ca05c5f3!8m2!3d41.6938357!4d-83.6343532!16s%2Fg%2F1tdb4z5d!19sChIJz1OyoQJ_PIgR88UFysfRXsY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:12",
+    "keyword": "Orthodontists",
+    "name": "Weaver David S DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Weaver+Potts+Brittany+L+DDS/data=!4m7!3m6!1s0x883c7d21897f68c5:0xbb49f615e68c6338!8m2!3d41.7146532!4d-83.7426834!16s%2Fg%2F1v_w30f2!19sChIJxWh_iSF9PIgROGOM5hX2Sbs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:19",
+    "keyword": "Orthodontists",
+    "name": "Weaver Potts Brittany L DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Weed+Man+Lawn+Care/data=!4m7!3m6!1s0x883c7ab7c4bb7b4f:0x2c7b787d4c4ac984!8m2!3d41.6292287!4d-83.6287362!16s%2Fg%2F1tk9rfm8!19sChIJT3u7xLd6PIgRhMlKTH14eyw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:50",
+    "keyword": "Pest Control",
+    "name": "Weed Man Lawn Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Western+Lake+Erie+Oral+%26+Maxillofacial+Surgeons/data=!4m7!3m6!1s0x883b843fb46a0423:0xb080fbe6a441797f!8m2!3d41.634581!4d-83.4882461!16s%2Fg%2F1v2ky2sz!19sChIJIwRqtD-EO4gRf3lBpOb7gLA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:12",
+    "keyword": "Orthodontists",
+    "name": "Western Lake Erie Oral & Maxillofacial Surgeons",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Westgate+Family+Dental/data=!4m7!3m6!1s0x883c7f3bfef6926b:0xe903b2d9030031b4!8m2!3d41.6815457!4d-83.6295142!16s%2Fg%2F1tc_x89l!19sChIJa5L2_jt_PIgRtDEAA9myA-k?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:40",
+    "keyword": "Dental Clinics",
+    "name": "Westgate Family Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Westgate+Spine+and+Rehab/data=!4m7!3m6!1s0x883c7fe1da43847d:0xb1f98730d1736f4b!8m2!3d41.6781405!4d-83.6270048!16s%2Fg%2F11l34_3ccb!19sChIJfYRD2uF_PIgRS29z0TCH-bE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:42",
+    "keyword": "Rehab Practices",
+    "name": "Westgate Spine and Rehab",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Wheeler+Orthodontics,+LLC+%7C+Toledo,+OH/data=!4m7!3m6!1s0x883c7f1c35b59f17:0xc5bb9fc580d6c7f2!8m2!3d41.6898764!4d-83.6320815!16s%2Fg%2F1tlz_vy1!19sChIJF5-1NRx_PIgR8sfWgMWfu8U?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:07:17",
+    "keyword": "Orthodontists",
+    "name": "Wheeler Orthodontics, LLC | Toledo, OH",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Whitehouse+Family+Dental/data=!4m7!3m6!1s0x883c6e40698af55f:0xba8e99b5cdb4b00b!8m2!3d41.5344138!4d-83.7848265!16s%2Fg%2F11bytn92dm!19sChIJX_WKaUBuPIgRC7C0zbWZjro?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:41",
+    "keyword": "Dental Clinics",
+    "name": "Whitehouse Family Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Wildlife+Pro/data=!4m7!3m6!1s0x883c7925caa1db8b:0xfa5bf3571df37882!8m2!3d41.5715115!4d-83.639924!16s%2Fg%2F11fsbb8xf9!19sChIJi9uhyiV5PIgRgnjzHVfzW_o?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:54",
+    "keyword": "Pest Control",
+    "name": "Wildlife Pro",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Wildman+Inspections+LLC/data=!4m7!3m6!1s0x883bb149b70db6ff:0x5f548c49d66d7639!8m2!3d41.562446!4d-83.3957584!16s%2Fg%2F11j1k3xm4n!19sChIJ_7YNt0mxO4gROXZt1kmMVF8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:12:03",
+    "keyword": "Pest Control",
+    "name": "Wildman Inspections LLC",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
@@ -951,6 +3492,48 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },
+  "https://www.google.com/maps/place/William+M.+Huntzinger+DDS/data=!4m7!3m6!1s0x883c7c8ce32a2897:0xa4127436eab80502!8m2!3d41.6873273!4d-83.7277186!16s%2Fg%2F1tfx5kpg!19sChIJlygq44x8PIgRAgW46jZ0EqQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:35",
+    "keyword": "Dental Clinics",
+    "name": "William M. Huntzinger DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Willow+Creek+Salon/data=!4m7!3m6!1s0x883c7db7d60c296b:0x9113638918ae7149!8m2!3d41.7150688!4d-83.6986846!16s%2Fg%2F1q5hrcgc_!19sChIJaykM1rd9PIgRSXGuGIljE5E?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:30",
+    "keyword": "Orthodontists",
+    "name": "Willow Creek Salon",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Window+Genie+of+Toledo/data=!4m7!3m6!1s0x883c7d82461f90b7:0xd81bd77ee0d3b3b1!8m2!3d41.5896944!4d-83.641225!16s%2Fg%2F11j36czdqq!19sChIJt5AfRoJ9PIgRsbPT4H7XG9g?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:50",
+    "keyword": "Pest Control",
+    "name": "Window Genie of Toledo",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Wiser+Lawn/data=!4m7!3m6!1s0x883c65acfeb45e95:0x99705692a7e6a22d!8m2!3d41.604329!4d-83.8270954!16s%2Fg%2F11fgk2cycs!19sChIJlV60_qxlPIgRLaLmp5JWcJk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:54",
+    "keyword": "Pest Control",
+    "name": "Wiser Lawn",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Wolf+Pest+Control/data=!4m7!3m6!1s0x391903533f1f3eff:0x6b3f1f29253490ce!8m2!3d31.4716453!4d74.2595994!16s%2Fg%2F11rkc_gnf3!19sChIJ_z4fP1MDGTkRzpA0JSkfP2s?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:50",
+    "keyword": "Pest Control",
+    "name": "Wolf Pest Control",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Yaya+Smiles/data=!4m7!3m6!1s0x883b870a87b6c10b:0x64109d91ba377dc6!8m2!3d41.6066815!4d-83.561578!16s%2Fg%2F11mcjn0dhz!19sChIJC8G2hwqHO4gRxn03upGdEGQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:40",
+    "keyword": "Dental Clinics",
+    "name": "Yaya Smiles",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
   "https://www.google.com/maps/place/Yvonne+X+Martinez,+LMT+@+BlueBird+Studio/data=!4m7!3m6!1s0x883c77eab37da193:0xc0f2670e2d8ac83b!8m2!3d41.6768462!4d-83.6207196!16s%2Fg%2F11fn51kpb7!19sChIJk6F9s-p3PIgRO8iKLQ5n8sA?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:57",
     "keyword": "Med Spas",
@@ -962,6 +3545,13 @@
     "discovered_at": "2026-05-22T01:53:04",
     "keyword": "Aesthetic Clinics",
     "name": "Z Aesthetics & Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Z+Plumberz/data=!4m7!3m6!1s0x883b819189610589:0xb973f747af185ede!8m2!3d41.6899636!4d-83.5891405!16s%2Fg%2F11mr2yg0h9!19sChIJiQVhiZGBO4gR3l4Yr0f3c7k?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:12",
+    "keyword": "Plumbing Services",
+    "name": "Z Plumberz",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Toledo,+OH"
   },

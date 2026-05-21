@@ -36,6 +36,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import StaleElementReferenceException
 
 
 # ─── FALLBACK CONFIG ─────────────────────────────────────────────────────────
@@ -124,6 +125,7 @@ KEYWORDS = [
 ]
 
 OUTPUT_FILE  = "urls.json"
+TRACKER_FILE = "scan_progress.json"
 WAIT_TIME    = 10
 HEADLESS     = os.environ.get("DISPLAY") is None  # auto-headless on SSH/no-display
 
@@ -261,6 +263,68 @@ class UrlStore:
     def __len__(self): return len(self.data)
 
 
+# ─── PROGRESS TRACKER ────────────────────────────────────────────────────────
+
+class ProgressTracker:
+    """
+    Shared across workers.  Records which (location, keyword) pairs are fully
+    done and how many URLs were collected for each.
+
+      "https://maps…Toledo,+OH|||Dental Clinics": {
+        "count": 42,
+        "completed_at": "2026-05-22T01:56:00"
+      }
+
+    All reads and writes go through `lock` so multiple workers never corrupt
+    the file.
+    """
+
+    _SEP = "|||"
+
+    def __init__(self, filepath: str, lock):
+        self.path = Path(filepath)
+        self.lock = lock
+
+    @classmethod
+    def _key(cls, location: str, keyword: str) -> str:
+        return f"{location}{cls._SEP}{keyword}"
+
+    def _load(self) -> dict:
+        if self.path.exists():
+            try:
+                content = self.path.read_text().strip()
+                if content:
+                    return json.loads(content)
+            except (json.JSONDecodeError, OSError):
+                pass
+        return {}
+
+    def _save(self, data: dict) -> None:
+        tmp = self.path.with_suffix(".tmp")
+        with tmp.open("w") as f:
+            json.dump(data, f, indent=2, ensure_ascii=False, sort_keys=True)
+        tmp.replace(self.path)
+
+    def is_done(self, location: str, keyword: str) -> bool:
+        with self.lock:
+            return self._key(location, keyword) in self._load()
+
+    def mark_done(self, location: str, keyword: str, count: int) -> None:
+        with self.lock:
+            data = self._load()
+            data[self._key(location, keyword)] = {
+                "count":        count,
+                "completed_at": datetime.now().isoformat(timespec="seconds"),
+            }
+            self._save(data)
+
+    def stats(self) -> tuple[int, int]:
+        """Return (pairs_done, total_urls_collected)."""
+        with self.lock:
+            data = self._load()
+            return len(data), sum(v["count"] for v in data.values())
+
+
 # ─── DRIVER ──────────────────────────────────────────────────────────────────
 
 def _chrome_major_version() -> int | None:
@@ -343,7 +407,7 @@ def search_keyword(wait, keyword: str) -> bool:
         box.send_keys(keyword)
         box.send_keys(Keys.RETURN)
         log.info("Searched: %s", keyword)
-        sleep(3)
+        sleep(6)
         return True
     except Exception as e:
         log.warning("Search box not usable for '%s': %s", keyword, e)
@@ -360,13 +424,19 @@ def feed_has_end_marker(feed) -> bool:
     return False
 
 
+def _refetch_feed(wait):
+    try:
+        return wait.until(EC.presence_of_element_located((By.XPATH, FEED_XPATH)))
+    except Exception:
+        return None
+
+
 def collect_urls(driver, wait, keyword: str,
                  source_url: str, store: UrlStore) -> int:
     """Scroll the results feed, recording every tile href. Returns new-url count."""
-    try:
-        feed = wait.until(EC.presence_of_element_located((By.XPATH, FEED_XPATH)))
-    except Exception as e:
-        log.warning("Results feed not found: %s", e)
+    feed = _refetch_feed(wait)
+    if feed is None:
+        log.warning("Results feed not found")
         return 0
 
     enable_map_move_updates(driver)
@@ -376,23 +446,46 @@ def collect_urls(driver, wait, keyword: str,
     last_total = -1
 
     while True:
-        for a in feed.find_elements(By.XPATH, TILE_LINK_XPATH):
-            href = safe_attr(a, "href")
-            if href and store.add(href,
-                                  name=safe_attr(a, "aria-label"),
-                                  keyword=keyword,
-                                  source_url=source_url):
+        try:
+            links = feed.find_elements(By.XPATH, TILE_LINK_XPATH)
+        except StaleElementReferenceException:
+            feed = _refetch_feed(wait)
+            if feed is None:
+                break
+            continue
+
+        for a in links:
+            try:
+                href = safe_attr(a, "href")
+                name = safe_attr(a, "aria-label")
+            except StaleElementReferenceException:
+                continue
+            if href and store.add(href, name=name,
+                                  keyword=keyword, source_url=source_url):
                 new_count += 1
 
-        if feed_has_end_marker(feed):
-            log.info("End of list reached")
-            break
+        try:
+            if feed_has_end_marker(feed):
+                log.info("End of list reached")
+                break
+            driver.execute_script(
+                "arguments[0].scrollTop = arguments[0].scrollHeight", feed)
+        except StaleElementReferenceException:
+            feed = _refetch_feed(wait)
+            if feed is None:
+                break
+            continue
 
-        driver.execute_script(
-            "arguments[0].scrollTop = arguments[0].scrollHeight", feed)
         sleep(SCROLL_PAUSE)
 
-        current_total = len(feed.find_elements(By.XPATH, TILE_LINK_XPATH))
+        try:
+            current_total = len(feed.find_elements(By.XPATH, TILE_LINK_XPATH))
+        except StaleElementReferenceException:
+            feed = _refetch_feed(wait)
+            if feed is None:
+                break
+            current_total = last_total
+
         if current_total == last_total:
             stall += 1
             if stall >= SCROLL_STALL_LIMIT:
@@ -485,17 +578,20 @@ def pan_and_explore(driver, wait, keyword: str,
 # ─── WORKER ──────────────────────────────────────────────────────────────────
 
 def run_worker(worker_id: int, cities: list[str],
-               keywords: list[str], output_file: str) -> None:
+               keywords: list[str], output_file: str,
+               tracker_lock, tracker_file: str) -> None:
     """
     One parallel worker: owns its own Chrome instance and output file.
     Processes every (city, keyword) combination for its assigned cities.
+    Skips pairs already recorded in the shared ProgressTracker.
     """
     global log
     log = setup_logging(worker_id)
 
-    store  = UrlStore(output_file)
-    driver = build_driver(worker_id)
-    wait   = WebDriverWait(driver, WAIT_TIME)
+    tracker = ProgressTracker(tracker_file, tracker_lock)
+    store   = UrlStore(output_file)
+    driver  = build_driver(worker_id)
+    wait    = WebDriverWait(driver, WAIT_TIME)
 
     try:
         for url in cities:
@@ -505,13 +601,22 @@ def run_worker(worker_id: int, cities: list[str],
             dismiss_popup(driver)
 
             for kw in keywords:
+                if tracker.is_done(url, kw):
+                    log.info("  ── SKIP (done): %s", kw)
+                    continue
+
                 log.info("  ── Keyword: %s", kw)
                 if not search_keyword(wait, kw):
                     continue
+
+                before = len(store)
                 collect_urls(driver, wait,
                              keyword=kw, source_url=url, store=store)
                 pan_and_explore(driver, wait,
                                 keyword=kw, source_url=url, store=store)
+                added = len(store) - before
+                tracker.mark_done(url, kw, added)
+                log.info("  ── Done: %s (+%d urls)", kw, added)
 
     except KeyboardInterrupt:
         log.info("Interrupted — saving …")
@@ -583,15 +688,17 @@ def main() -> None:
     # one dense metro while another gets sparse cities
     chunks = [cities[i::n] for i in range(n)]
 
+    tracker_lock = mp.Lock()
+    _ensure_base_driver(_chrome_major_version())
+
     if n == 1:
-        run_worker(0, chunks[0], keywords, OUTPUT_FILE)
+        run_worker(0, chunks[0], keywords, OUTPUT_FILE, tracker_lock, TRACKER_FILE)
     else:
-        _ensure_base_driver(_chrome_major_version())
         procs = []
         for i, chunk in enumerate(chunks):
             p = mp.Process(
                 target=run_worker,
-                args=(i, chunk, keywords, f"urls_{i}.json"),
+                args=(i, chunk, keywords, f"urls_{i}.json", tracker_lock, TRACKER_FILE),
                 name=f"worker-{i}",
             )
             p.start()

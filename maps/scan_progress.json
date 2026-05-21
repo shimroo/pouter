@@ -1,0 +1,54 @@
+{
+  "https://www.google.com/maps/place/Dayton,+OH|||Dental Clinics": {
+    "completed_at": "2026-05-22T02:16:50",
+    "count": 41
+  },
+  "https://www.google.com/maps/place/Dayton,+OH|||Med Spas": {
+    "completed_at": "2026-05-22T02:18:13",
+    "count": 1
+  },
+  "https://www.google.com/maps/place/Dayton,+OH|||Orthodontists": {
+    "completed_at": "2026-05-22T02:17:23",
+    "count": 65
+  },
+  "https://www.google.com/maps/place/Fort+Wayne,+IN|||Aesthetic Clinics": {
+    "completed_at": "2026-05-22T02:18:11",
+    "count": 0
+  },
+  "https://www.google.com/maps/place/Fort+Wayne,+IN|||Dental Clinics": {
+    "completed_at": "2026-05-22T02:16:45",
+    "count": 35
+  },
+  "https://www.google.com/maps/place/Fort+Wayne,+IN|||Med Spas": {
+    "completed_at": "2026-05-22T02:17:50",
+    "count": 0
+  },
+  "https://www.google.com/maps/place/Fort+Wayne,+IN|||Orthodontists": {
+    "completed_at": "2026-05-22T02:17:18",
+    "count": 51
+  },
+  "https://www.google.com/maps/place/Knoxville,+TN|||Dental Clinics": {
+    "completed_at": "2026-05-22T02:16:52",
+    "count": 40
+  },
+  "https://www.google.com/maps/place/Knoxville,+TN|||Med Spas": {
+    "completed_at": "2026-05-22T02:18:11",
+    "count": 0
+  },
+  "https://www.google.com/maps/place/Knoxville,+TN|||Orthodontists": {
+    "completed_at": "2026-05-22T02:17:30",
+    "count": 79
+  },
+  "https://www.google.com/maps/place/Toledo,+OH|||Dental Clinics": {
+    "completed_at": "2026-05-22T02:16:55",
+    "count": 36
+  },
+  "https://www.google.com/maps/place/Toledo,+OH|||Med Spas": {
+    "completed_at": "2026-05-22T02:18:14",
+    "count": 0
+  },
+  "https://www.google.com/maps/place/Toledo,+OH|||Orthodontists": {
+    "completed_at": "2026-05-22T02:17:30",
+    "count": 80
+  }
+}

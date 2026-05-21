@@ -852,3 +852,34 @@ Stacktrace:
 01:51:40  [main]  INFO      Started worker 1 (pid 37590) — 6 cities
 01:51:40  [main]  INFO      Started worker 2 (pid 37593) — 6 cities
 01:51:40  [main]  INFO      Started worker 3 (pid 37596) — 6 cities
+01:55:21  [main]  INFO      25 cities × 25 keywords = 625 combos across 4 worker(s)
+01:55:21  [main]  INFO      Base chromedriver already patched — skipping download
+01:55:21  [main]  INFO      Started worker 0 (pid 49781) — 7 cities
+01:55:21  [main]  INFO      Started worker 1 (pid 49782) — 6 cities
+01:55:21  [main]  INFO      Started worker 2 (pid 49783) — 6 cities
+01:55:21  [main]  INFO      Started worker 3 (pid 49785) — 6 cities
+02:06:44  [main]  INFO      25 cities × 25 keywords = 625 combos across 4 worker(s)
+02:06:44  [main]  INFO      Base chromedriver already patched — skipping download
+02:06:44  [main]  INFO      Started worker 0 (pid 65518) — 7 cities
+02:06:44  [main]  INFO      Started worker 1 (pid 65519) — 6 cities
+02:06:44  [main]  INFO      Started worker 2 (pid 65521) — 6 cities
+02:06:44  [main]  INFO      Started worker 3 (pid 65524) — 6 cities
+02:14:56  [main]  INFO      25 cities × 25 keywords = 625 combos across 4 worker(s)
+02:14:56  [main]  INFO      Base chromedriver already patched — skipping download
+02:14:56  [main]  INFO      Started worker 0 (pid 91516) — 7 cities
+02:14:56  [main]  INFO      Started worker 1 (pid 91517) — 6 cities
+02:14:56  [main]  INFO      Started worker 2 (pid 91518) — 6 cities
+02:14:56  [main]  INFO      Started worker 3 (pid 91520) — 6 cities
+02:15:07  [main]  INFO      All workers finished — merging …
+02:15:07  [main]  INFO      Existing urls.json: 615 urls
+02:15:07  [main]  INFO      Merged urls_0.json: +394 new (total 1009)
+02:15:07  [main]  INFO      Merged urls_1.json: +338 new (total 1347)
+02:15:07  [main]  INFO      Merged urls_2.json: +483 new (total 1830)
+02:15:07  [main]  INFO      Merged urls_3.json: +397 new (total 2227)
+02:15:07  [main]  INFO      Final: 2227 unique urls → urls.json
+02:16:05  [main]  INFO      25 cities × 25 keywords = 625 combos across 4 worker(s)
+02:16:05  [main]  INFO      Base chromedriver already patched — skipping download
+02:16:05  [main]  INFO      Started worker 0 (pid 94388) — 7 cities
+02:16:05  [main]  INFO      Started worker 1 (pid 94389) — 6 cities
+02:16:05  [main]  INFO      Started worker 2 (pid 94390) — 6 cities
+02:16:05  [main]  INFO      Started worker 3 (pid 94392) — 6 cities

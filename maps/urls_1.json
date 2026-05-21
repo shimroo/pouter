@@ -13,6 +13,34 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/A-1+Able+Pest+Doctors/data=!4m7!3m6!1s0x883f5ba78c740af7:0xd1251123235f09f3!8m2!3d39.9394346!4d-83.8168711!16s%2Fg%2F1wnbyplj!19sChIJ9wp0jKdbP4gR8wlfIyMRJdE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:44",
+    "keyword": "Pest Control",
+    "name": "A-1 Able Pest Doctors",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/A-1+Able+Pest+Doctors/data=!4m7!3m6!1s0x884081630104fd59:0x5e39e1e79c6ff1b8!8m2!3d39.7824003!4d-84.1881879!16s%2Fg%2F1tfbcv4c!19sChIJWf0EAWOBQIgRuPFvnOfhOV4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:44",
+    "keyword": "Pest Control",
+    "name": "A-1 Able Pest Doctors",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/AFFORDABLE+DENTAL+CLINIC+LLC/data=!4m7!3m6!1s0x884085565bdf40c1:0x2378b81d5640d653!8m2!3d39.7323924!4d-84.1115383!16s%2Fg%2F11yyzf_n5q!19sChIJwUDfW1aFQIgRU9ZAVh24eCM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:44",
+    "keyword": "Dental Clinics",
+    "name": "AFFORDABLE DENTAL CLINIC LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/ATG+Rehab/data=!4m7!3m6!1s0x883f7c1dbb12979d:0x51c86d36cfaa54f9!8m2!3d39.9046097!4d-84.1841447!16s%2Fg%2F1tfm7b3v!19sChIJnZcSux18P4gR-VSqzzZtyFE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:46",
+    "keyword": "Pest Control",
+    "name": "ATG Rehab",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Absolute+Smile/data=!4m7!3m6!1s0x884085ed0bb674a5:0x22d59d4f87980b73!8m2!3d39.6438718!4d-84.1338083!16s%2Fg%2F1tfgdxvs!19sChIJpXS2C-2FQIgRcwuYh0-d1SI?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:51:25",
     "keyword": "Dental Clinics",
@@ -27,6 +55,13 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Advanced+Dentistry+of+Dayton/data=!4m7!3m6!1s0x88408fdc9240498d:0x749b72fc83884b1e!8m2!3d39.6322716!4d-84.1798223!16s%2Fg%2F1thqbjn7!19sChIJjUlAktyPQIgRHkuIg_xym3Q?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:40",
+    "keyword": "Dental Clinics",
+    "name": "Advanced Dentistry of Dayton",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Advanced+Laser+%26+Cosmetic+Center/data=!4m7!3m6!1s0x883f803de01c3809:0x88104abfa38cb943!8m2!3d39.8625196!4d-84.2858401!16s%2Fg%2F1wk7rjpc!19sChIJCTgc4D2AP4gRQ7mMo79KEIg?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:38",
     "keyword": "Med Spas",
@@ -38,6 +73,34 @@
     "discovered_at": "2026-05-22T01:52:57",
     "keyword": "Med Spas",
     "name": "Advanced Laser and Cosmetic Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Advanced+Therapeutics+-+Cosmetic+Surgery+and+Rejuvenation/data=!4m7!3m6!1s0x884088d83f737891:0xb9fe96840ab16a72!8m2!3d39.6352424!4d-84.201845!16s%2Fg%2F11_sdb4j_!19sChIJkXhzP9iIQIgRcmqxCoSW_rk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:41",
+    "keyword": "Aesthetic Clinics",
+    "name": "Advanced Therapeutics - Cosmetic Surgery and Rejuvenation",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Aesthetic+Club/data=!4m7!3m6!1s0x391903007fea7187:0x3cf774972bf2adf7!8m2!3d31.4687653!4d74.2744182!16s%2Fg%2F11vzv7y793!19sChIJh3HqfwADGTkR963yK5d09zw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:56",
+    "keyword": "Aesthetic Clinics",
+    "name": "Aesthetic Club",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Aesthetic+Lounge/data=!4m7!3m6!1s0x3918ff007e9cb0a5:0x2ee6167d688bdc59!8m2!3d31.500067!4d74.27586!16s%2Fg%2F11w8jnl9gr!19sChIJpbCcfgD_GDkRWdyLaH0W5i4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:59",
+    "keyword": "Aesthetic Clinics",
+    "name": "Aesthetic Lounge",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Aesthetic+clinic+Lahore/data=!4m7!3m6!1s0x391903d7d8615555:0xe92f226d07b08c0b!8m2!3d31.463011!4d74.2744442!16s%2Fg%2F11t3lst12s!19sChIJVVVh2NcDGTkRC4ywB20iL-k?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:51",
+    "keyword": "Aesthetic Clinics",
+    "name": "Aesthetic clinic Lahore",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -62,10 +125,108 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Aesthetics+Hub/data=!4m7!3m6!1s0x391901a1b5b2474f:0xecd672faf60c2258!8m2!3d31.4538461!4d74.2747656!16s%2Fg%2F11t89c6rj_!19sChIJT0eytaEBGTkRWCIM9vpy1uw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:51",
+    "keyword": "Aesthetic Clinics",
+    "name": "Aesthetics Hub",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Aesthetics+Lab/data=!4m7!3m6!1s0x391901a1c0736711:0x9adbb2932a7ab253!8m2!3d31.4616431!4d74.2749247!16s%2Fg%2F11l5tgh5gx!19sChIJEWdzwKEBGTkRU7J6KpOy25o?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:52",
+    "keyword": "Aesthetic Clinics",
+    "name": "Aesthetics Lab",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Aesthetify/data=!4m7!3m6!1s0x391903000dfe8785:0x1d53f05dfc2ad1c2!8m2!3d31.4706071!4d74.2781161!16s%2Fg%2F11y6c_rr4x!19sChIJhYf-DQADGTkRwtEq_F3wUx0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:52",
+    "keyword": "Aesthetic Clinics",
+    "name": "Aesthetify",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Affordable+Medspa+Services/data=!4m7!3m6!1s0x884085415a3dac21:0xcc8bdd1e1f5e1e62!8m2!3d39.6876955!4d-84.145869!16s%2Fg%2F11fj6jnjft!19sChIJIaw9WkGFQIgRYh5eHx7di8w?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:53:05",
     "keyword": "Med Spas",
     "name": "Affordable Medspa Services",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Aggarwal+Dental+Center/data=!4m7!3m6!1s0x884080e4b1f26299:0x32d9255d1945a500!8m2!3d39.7865476!4d-84.2338866!16s%2Fg%2F1tnhy_rc!19sChIJmWLyseSAQIgRAKVFGV0l2TI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:06",
+    "keyword": "Orthodontists",
+    "name": "Aggarwal Dental Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Airrosti+Far+Hills/data=!4m7!3m6!1s0x8840892665ebda77:0xa856f78583e4c37b!8m2!3d39.6608302!4d-84.1592942!16s%2Fg%2F11c59_s37g!19sChIJd9rrZSaJQIgRe8Pkg4X3Vqg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:46",
+    "keyword": "Pest Control",
+    "name": "Airrosti Far Hills",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Alex+Bell+Dental/data=!4m7!3m6!1s0x88408fa6cbc87733:0x6c2cc79cd4700df5!8m2!3d39.6430734!4d-84.1395482!16s%2Fg%2F1tfh_869!19sChIJM3fIy6aPQIgR9Q1w1JzHLGw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:06",
+    "keyword": "Orthodontists",
+    "name": "Alex Bell Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Aligned+Family+Orthodontics/data=!4m7!3m6!1s0x88409c7ce65c663b:0x2fa1da4bc721a1e8!8m2!3d39.7559831!4d-84.0558561!16s%2Fg%2F1v8x2wj_!19sChIJO2Zc5nycQIgR6KEhx0vaoS8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:04",
+    "keyword": "Orthodontists",
+    "name": "Aligned Family Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Almoney+Dental+Group+-+Delco+Park/data=!4m7!3m6!1s0x884085cce810566b:0x4212a8d388acb537!8m2!3d39.705336!4d-84.123734!16s%2Fg%2F11kj3fc020!19sChIJa1YQ6MyFQIgRN7WsiNOoEkI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:41",
+    "keyword": "Dental Clinics",
+    "name": "Almoney Dental Group - Delco Park",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Almoney+Dental+Group+-+Kettering/data=!4m7!3m6!1s0x88408f9b39e6f7e1:0xe2c2ea26b837508b!8m2!3d39.6581288!4d-84.1366946!16s%2Fg%2F1tcyg43f!19sChIJ4ffmOZuPQIgRi1A3uCbqwuI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:44",
+    "keyword": "Dental Clinics",
+    "name": "Almoney Dental Group - Kettering",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Alpha+Dental+Dayton/data=!4m7!3m6!1s0x884081a0d3309973:0x2ab20907c1b44271!8m2!3d39.7865114!4d-84.2337035!16s%2Fg%2F11rz9kw_xn!19sChIJc5kw06CBQIgRcUK0wQcJsio?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:40",
+    "keyword": "Dental Clinics",
+    "name": "Alpha Dental Dayton",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Alpha+Dental+Springfield/data=!4m7!3m6!1s0x883f5b24fc81e2f1:0x18a48f777e9244b5!8m2!3d39.9231086!4d-83.7712983!16s%2Fg%2F11f776hjf1!19sChIJ8eKB_CRbP4gRtUSSfnePpBg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:06",
+    "keyword": "Orthodontists",
+    "name": "Alpha Dental Springfield",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Alvetro+Orthodontics/data=!4m7!3m6!1s0x883f799ceacf782f:0x598927735c73ac1a!8m2!3d39.9633407!4d-84.1977462!16s%2Fg%2F1tlc8rbc!19sChIJL3jP6px5P4gRGqxzXHMniVk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:01",
+    "keyword": "Orthodontists",
+    "name": "Alvetro Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Andrew+Razzano,+DO/data=!4m7!3m6!1s0x88408975bfc98b65:0xbd614f22a4f22894!8m2!3d39.6079808!4d-84.2264799!16s%2Fg%2F11f1kmq1ky!19sChIJZYvJv3WJQIgRlCjypCJPYb0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:16",
+    "keyword": "Orthodontists",
+    "name": "Andrew Razzano, DO",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Andromeda+Beauty/data=!4m7!3m6!1s0x88409b1e9be3cd37:0x3897d130a8ec64ed!8m2!3d39.7388511!4d-84.0876859!16s%2Fg%2F11stzg_92w!19sChIJN83jmx6bQIgR7WTsqDDRlzg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:46",
+    "keyword": "Aesthetic Clinics",
+    "name": "Andromeda Beauty",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -76,6 +237,27 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Anna+K.+McGuire,+DMD/data=!4m7!3m6!1s0x884085ebcb3de061:0x1907525f45dd49f!8m2!3d39.6884192!4d-84.1689101!16s%2Fg%2F11c1wsyy2h!19sChIJYeA9y-uFQIgRn9Rd9CV1kAE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:16",
+    "keyword": "Orthodontists",
+    "name": "Anna K. McGuire, DMD",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Aptive+Pest+Control/data=!4m7!3m6!1s0x22bc7453be4c3017:0xcb790c77f3b11f14!8m2!3d39.739576!4d-84.2683324!16s%2Fg%2F11vsv55t2n!19sChIJFzBMvlN0vCIRFB-x83cMecs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:44",
+    "keyword": "Pest Control",
+    "name": "Aptive Pest Control",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Armada+Recovery+of+Dayton:+Addiction+Treatment+Center+in+Dayton,+Ohio/data=!4m7!3m6!1s0x8840833e81d3fe5d:0xd0b4d9d23de4dfa0!8m2!3d39.7754186!4d-84.1432069!16s%2Fg%2F11y4t3rffj!19sChIJXf7TgT6DQIgRoN_kPdLZtNA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:42",
+    "keyword": "Rehab Practices",
+    "name": "Armada Recovery of Dayton: Addiction Treatment Center in Dayton, Ohio",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Art+Spa/data=!4m7!3m6!1s0x88409c608f27174b:0x8608d165fafad0cd!8m2!3d39.7668665!4d-84.0560012!16s%2Fg%2F11gh0lk568!19sChIJSxcnj2CcQIgRzdD6-mXRCIY?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:59",
     "keyword": "Med Spas",
@@ -83,10 +265,73 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Artisan+Aesthetics/data=!4m7!3m6!1s0x39190379900215d5:0x60cc211229222d9b!8m2!3d31.4684454!4d74.265951!16s%2Fg%2F11rn7q8lsx!19sChIJ1RUCkHkDGTkRmy0iKRIhzGA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:46",
+    "keyword": "Aesthetic Clinics",
+    "name": "Artisan Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Artisan+Dental+Group+-+Eric+Callejo,+DDS/data=!4m7!3m6!1s0x8840859e35e66475:0x416860f46a926d01!8m2!3d39.6871651!4d-84.1449578!16s%2Fg%2F1tlmn_pt!19sChIJdWTmNZ6FQIgRAW2SavRgaEE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:41",
+    "keyword": "Dental Clinics",
+    "name": "Artisan Dental Group - Eric Callejo, DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Ashford+Salon+%26+Med+Suites/data=!4m7!3m6!1s0x88408f7509aa785d:0x1738c069489e6b8e!8m2!3d39.6278959!4d-84.1425132!16s%2Fg%2F11s8080b8w!19sChIJXXiqCXWPQIgRjmueSGnAOBc?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:53:06",
     "keyword": "Med Spas",
     "name": "Ashford Salon & Med Suites",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Aspen+Dental+-+Beavercreek,+OH/data=!4m7!3m6!1s0x88409c5e815bb051:0xd8fd5a6dac99559e!8m2!3d39.7709571!4d-84.052992!16s%2Fg%2F1thzvgrk!19sChIJUbBbgV6cQIgRnlWZrG1a_dg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:44",
+    "keyword": "Dental Clinics",
+    "name": "Aspen Dental - Beavercreek, OH",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Aspen+Dental+-+Dayton,+OH+-+Miamisburg/data=!4m7!3m6!1s0x884088e3c9ecb73b:0xc0d462e90c736843!8m2!3d39.635379!4d-84.2151368!16s%2Fg%2F1thbxbk9!19sChIJO7fsyeOIQIgRQ2hzDOli1MA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:40",
+    "keyword": "Dental Clinics",
+    "name": "Aspen Dental - Dayton, OH - Miamisburg",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Aspen+Dental+-+Huber+Heights,+OH/data=!4m7!3m6!1s0x883f7d023d891cdb:0x8f2bb81cd46591c!8m2!3d39.8729344!4d-84.1379733!16s%2Fg%2F11h1cr1ln!19sChIJ2xyJPQJ9P4gRHFlGzYG78gg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:38",
+    "keyword": "Dental Clinics",
+    "name": "Aspen Dental - Huber Heights, OH",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Aspen+Dental+-+Richmond,+IN/data=!4m7!3m6!1s0x8840072ed3e950eb:0xb56115d3e0030924!8m2!3d39.831492!4d-84.84909!16s%2Fg%2F1tgjlzgp!19sChIJ61Dp0y4HQIgRJAkD4NMVYbU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:45",
+    "keyword": "Dental Clinics",
+    "name": "Aspen Dental - Richmond, IN",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Aspen+Dental+-+Springfield,+OH/data=!4m7!3m6!1s0x883f5b711856c485:0x897f2192fe2094d1!8m2!3d39.947082!4d-83.83411!16s%2Fg%2F1td0npvm!19sChIJhcRWGHFbP4gR0ZQg_pIhf4k?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:49",
+    "keyword": "Dental Clinics",
+    "name": "Aspen Dental - Springfield, OH",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Aspen+Dental+-+Troy,+OH/data=!4m7!3m6!1s0x883f7720e5940493:0x12cd4a3084f1035c!8m2!3d40.056309!4d-84.242975!16s%2Fg%2F113gjvlp1!19sChIJkwSU5SB3P4gRXAPxhDBKzRI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:44",
+    "keyword": "Dental Clinics",
+    "name": "Aspen Dental - Troy, OH",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Athletico+at+Wright+State/data=!4m7!3m6!1s0x88409d96abd231c5:0xbd396b090c0f157!8m2!3d39.7890131!4d-84.0499837!16s%2Fg%2F11f66gx8tt!19sChIJxTHSq5adQIgRV_HAkLCW0ws?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:46",
+    "keyword": "Pest Control",
+    "name": "Athletico at Wright State",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -111,10 +356,59 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Baum+Dennis+DDS/data=!4m7!3m6!1s0x883f5aee7f64cb45:0xe4a7a27c3f4a78d1!8m2!3d39.9507935!4d-83.7889751!16s%2Fg%2F1ts3g8r5!19sChIJRctkf-5aP4gR0XhKP3yip-Q?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:16",
+    "keyword": "Orthodontists",
+    "name": "Baum Dennis DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Bayer+Pest+Control/data=!4m7!3m6!1s0x883f891c9275f6ef:0xfcf8dc71d7233f92!8m2!3d39.7618576!4d-84.1976276!16s%2Fg%2F11gds76pn3!19sChIJ7_Z1khyJP4gRkj8j13Hc-Pw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:44",
+    "keyword": "Pest Control",
+    "name": "Bayer Pest Control",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Beauty+Mark+Aesthetics/data=!4m7!3m6!1s0x88408f2794911675:0x771d77fe845c748d!8m2!3d39.6278681!4d-84.1425655!16s%2Fg%2F11jsvxxrpd!19sChIJdRaRlCePQIgRjXRchP53HXc?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:46",
     "keyword": "Med Spas",
     "name": "Beauty Mark Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Beavercreek+Dental+Group/data=!4m7!3m6!1s0x88409bdb27973305:0xd52666fbe414d867!8m2!3d39.7592239!4d-84.0559964!16s%2Fg%2F126368vl8!19sChIJBTOXJ9ubQIgRZ9gU5PtmJtU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:49",
+    "keyword": "Dental Clinics",
+    "name": "Beavercreek Dental Group",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Beavercreek+Health+and+Rehab/data=!4m7!3m6!1s0x88409c938045b211:0x8a8ec93128aa7568!8m2!3d39.7659459!4d-84.0747643!16s%2Fg%2F11gmwq42wm!19sChIJEbJFgJOcQIgRaHWqKDHJjoo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "Beavercreek Health and Rehab",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Becca+Bennett+Aesthetics/data=!4m7!3m6!1s0x8840076eb042935b:0xb75bdb844c82d279!8m2!3d39.8279455!4d-84.8415202!16s%2Fg%2F11kpl7cxwr!19sChIJW5NCsG4HQIgRedKCTITbW7c?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:07:57",
+    "keyword": "Med Spas",
+    "name": "Becca Bennett Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Beckstrom+Orthodontics/data=!4m7!3m6!1s0x883f76ce21c1b27b:0x45ff3f319aad977!8m2!3d40.0310895!4d-84.2272491!16s%2Fg%2F11bwgwbsyh!19sChIJe7LBIc52P4gRd9mqGfPzXwQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:04",
+    "keyword": "Orthodontists",
+    "name": "Beckstrom Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Beckstrom+Orthodontics/data=!4m7!3m6!1s0x883f7e8eda49a50b:0xb2c9133417a178b8!8m2!3d39.8838401!4d-84.1989788!16s%2Fg%2F1tdfcsfk!19sChIJC6VJ2o5-P4gRuHihFzQTybI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:04",
+    "keyword": "Orthodontists",
+    "name": "Beckstrom Orthodontics",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -129,6 +423,41 @@
     "discovered_at": "2026-05-22T01:53:06",
     "keyword": "Med Spas",
     "name": "Bella Blue Aesthetics & Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Bella+Care+Aesthetics+Johar+Town+-+The+Best+Aesthetic+Clinic+in+Lahore./data=!4m7!3m6!1s0x3919035bc01336cb:0xd2787d29b27a6de0!8m2!3d31.4669461!4d74.2524759!16s%2Fg%2F11rxrkykgs!19sChIJyzYTwFsDGTkR4G16sil9eNI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:46",
+    "keyword": "Aesthetic Clinics",
+    "name": "Bella Care Aesthetics Johar Town - The Best Aesthetic Clinic in Lahore.",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Bellbrook+Family+Dentistry/data=!4m7!3m6!1s0x884090275eaf58f9:0x599af3ce2be1bc30!8m2!3d39.6404368!4d-84.1009906!16s%2Fg%2F1tjfbymg!19sChIJ-VivXieQQIgRMLzhK87zmlk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:45",
+    "keyword": "Dental Clinics",
+    "name": "Bellbrook Family Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Bellbrook+Neighborhood+Dental/data=!4m7!3m6!1s0x88408fd87b17428f:0x3011b4d742aa2d39!8m2!3d39.6385091!4d-84.101833!16s%2Fg%2F1v16q_0p!19sChIJj0IXe9iPQIgROS2qQte0ETA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:49",
+    "keyword": "Dental Clinics",
+    "name": "Bellbrook Neighborhood Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Bentley+Mark+T+%26+Associates+DDS/data=!4m7!3m6!1s0x883f76cc6133f707:0x3d5bb446ec6c9ed7!8m2!3d40.0554583!4d-84.1885397!16s%2Fg%2F11fy7d8q3b!19sChIJB_czYcx2P4gR155s7Ea0Wz0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:16",
+    "keyword": "Orthodontists",
+    "name": "Bentley Mark T & Associates DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Bethany+Rehabilitation+Center/data=!4m7!3m6!1s0x88408f6bad7261dd:0xb888d4f6df04b371!8m2!3d39.650797!4d-84.1585834!16s%2Fg%2F1262cwtkt!19sChIJ3WFyrWuPQIgRcbME3_bUiLg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "Bethany Rehabilitation Center",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -153,6 +482,13 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Bonomo+Periodontics/data=!4m7!3m6!1s0x88408bcd0a6ee8db:0x81b3f920386c0fd9!8m2!3d39.5797635!4d-84.2257292!16s%2Fg%2F1whdk0lp!19sChIJ2-huCs2LQIgR2Q9sOCD5s4E?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:08",
+    "keyword": "Orthodontists",
+    "name": "Bonomo Periodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Botox+and+Beyond/data=!4m7!3m6!1s0x88408fba3201c715:0x663cc8130e9396ad!8m2!3d39.6285438!4d-84.1642489!16s%2Fg%2F11vpp24qbm!19sChIJFccBMrqPQIgRrZaTDhPIPGY?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:53",
     "keyword": "Med Spas",
@@ -160,10 +496,115 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Braces+for+Dayton/data=!4m7!3m6!1s0x884084489caf3bc9:0xdb7d3f8968619236!8m2!3d39.721387!4d-84.161567!16s%2Fg%2F1tfln33k!19sChIJyTuvnEiEQIgRNpJhaIk_fds?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:12",
+    "keyword": "Orthodontists",
+    "name": "Braces for Dayton",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Brice+W+Beckstrom/data=!4m7!3m6!1s0x883f770818100001:0x17e31661d5e020a6!8m2!3d40.0312122!4d-84.2272621!16s%2Fg%2F11ss_4f8nj!19sChIJAQAQGAh3P4gRpiDg1WEW4xc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:16",
+    "keyword": "Orthodontists",
+    "name": "Brice W Beckstrom",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Bright+Now!+Dental+%26+Orthodontics+-+Centerville,+OH/data=!4m7!3m6!1s0x88408fe793166491:0x4449f105d01a3c04!8m2!3d39.6522119!4d-84.1084488!16s%2Fg%2F1tfnz86q!19sChIJkWQWk-ePQIgRBDwa0AXxSUQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:45",
+    "keyword": "Dental Clinics",
+    "name": "Bright Now! Dental & Orthodontics - Centerville, OH",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Bright+Now!+Dental+%26+Orthodontics+-+Huber+Heights,+OH/data=!4m7!3m6!1s0x883f7d43f0992d71:0xa6ff68796cd3de15!8m2!3d39.8458151!4d-84.1171578!16s%2Fg%2F1hc2t0yv1!19sChIJcS2Z8EN9P4gRFd7TbHlo_6Y?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:44",
+    "keyword": "Dental Clinics",
+    "name": "Bright Now! Dental & Orthodontics - Huber Heights, OH",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Bright+Now!+Dental+%26+Orthodontics+-+Miamisburg,+OH/data=!4m7!3m6!1s0x88408fe793166491:0xc9f40efba1bcc117!8m2!3d39.6376933!4d-84.2259998!16s%2Fg%2F1tgfx9dl!19sChIJkWQWk-ePQIgRF8G8ofsO9Mk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:44",
+    "keyword": "Dental Clinics",
+    "name": "Bright Now! Dental & Orthodontics - Miamisburg, OH",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Bright+Now!+Dental/data=!4m7!3m6!1s0x88407f94aebda12b:0x4e2e4864fab94708!8m2!3d39.8252747!4d-84.2914378!16s%2Fg%2F1tgjlzjt!19sChIJK6G9rpR_QIgRCEe5-mRILk4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:16",
+    "keyword": "Orthodontists",
+    "name": "Bright Now! Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Brilliant+Smiles+Riverside/data=!4m7!3m6!1s0x884083503f22ad5d:0x3461e23c036439d!8m2!3d39.7590347!4d-84.1102771!16s%2Fg%2F1wfvnb3v!19sChIJXa0iP1CDQIgRnUM2wCMeRgM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:44",
+    "keyword": "Dental Clinics",
+    "name": "Brilliant Smiles Riverside",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Brilliant+Smiles+Xenia/data=!4m7!3m6!1s0x8840a27fab23ba21:0xffe8eaa9264f898!8m2!3d39.7019104!4d-83.9290312!16s%2Fg%2F1tdzrtv6!19sChIJIbojq3-iQIgRmPhkkqqO_g8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:41",
+    "keyword": "Dental Clinics",
+    "name": "Brilliant Smiles Xenia",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Brilliant+Tooth+Dental/data=!4m7!3m6!1s0x88408118020255cd:0xa41b3c8212c2c565!8m2!3d39.7761471!4d-84.2174506!16s%2Fg%2F11bwc5dq69!19sChIJzVUCAhiBQIgRZcXCEoI8G6Q?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:51:22",
     "keyword": "Dental Clinics",
     "name": "Brilliant Tooth Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Britt%27s+Beauty+Boutique,+LLC/data=!4m7!3m6!1s0x883f7f75df98664f:0xbc64be118c83cf69!8m2!3d39.8847977!4d-84.2235885!16s%2Fg%2F11kjdnyzpx!19sChIJT2aY33V_P4gRac-DjBG-ZLw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:58",
+    "keyword": "Aesthetic Clinics",
+    "name": "Britt's Beauty Boutique, LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Brown+Pest+Control+Inc/data=!4m7!3m6!1s0x8840858fffffffff:0x77517639d098e01!8m2!3d39.8020931!4d-84.2191303!16s%2Fg%2F1tzlzn0_!19sChIJ_____4-FQIgRAY4JnWMXdQc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:44",
+    "keyword": "Pest Control",
+    "name": "Brown Pest Control Inc",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Buckeye+Orthodontics+-+Dayton/data=!4m7!3m6!1s0x884084a45b2695dd:0x200ffc5f180c2697!8m2!3d39.7431938!4d-84.1152839!16s%2Fg%2F1tfj3vk6!19sChIJ3ZUmW6SEQIgRlyYMGF_8DyA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:04",
+    "keyword": "Orthodontists",
+    "name": "Buckeye Orthodontics - Dayton",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Burke+Orthodontics+-+Huber+Heights/data=!4m7!3m6!1s0x883f7da8051d06c3:0xe679625c1b376357!8m2!3d39.865143!4d-84.1439865!16s%2Fg%2F1td6h4l5!19sChIJwwYdBah9P4gRV2M3G1xieeY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:04",
+    "keyword": "Orthodontists",
+    "name": "Burke Orthodontics - Huber Heights",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Burke+Orthodontics,+Inc./data=!4m7!3m6!1s0x88408f1de5cad335:0x26bdaa63734b1542!8m2!3d39.6298969!4d-84.1591828!16s%2Fg%2F1tj748mc!19sChIJNdPK5R2PQIgRQhVLc2OqvSY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:04",
+    "keyword": "Orthodontists",
+    "name": "Burke Orthodontics, Inc.",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Burton+L+Hagler+Inc/data=!4m7!3m6!1s0x88408fd87b17428f:0x94981e6406fadcc0!8m2!3d39.6385091!4d-84.101833!16s%2Fg%2F1tg7sptn!19sChIJj0IXe9iPQIgRwNz6BmQemJQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:12",
+    "keyword": "Orthodontists",
+    "name": "Burton L Hagler Inc",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Cadence+Dental+Group/data=!4m7!3m6!1s0x883f7e1320b81b47:0x6a5d51b645dca7db!8m2!3d39.8561283!4d-84.1996335!16s%2Fg%2F11c1vjzmdy!19sChIJRxu4IBN-P4gR26fcRbZRXWo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:23",
+    "keyword": "Orthodontists",
+    "name": "Cadence Dental Group",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -181,10 +622,45 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Centerville+Dental+Center/data=!4m7!3m6!1s0x88408eeb525ca993:0x53445102aff28499!8m2!3d39.6086474!4d-84.1599744!16s%2Fg%2F1w04kspp!19sChIJk6lcUuuOQIgRmYTyrwJRRFM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:38",
+    "keyword": "Dental Clinics",
+    "name": "Centerville Dental Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Central+Ohio+Aesthetics+Clinic/data=!4m7!3m6!1s0x8838fbd991546f1b:0xca34a8c56c608a1d!8m2!3d40.1940494!4d-83.0971755!16s%2Fg%2F11sj6lssfw!19sChIJG29Ukdn7OIgRHYpgbMWoNMo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:59",
+    "keyword": "Aesthetic Clinics",
+    "name": "Central Ohio Aesthetics Clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Chacing+Beauty+Med+Spa/data=!4m7!3m6!1s0x8840854e110b856b:0xacfec58af257c095!8m2!3d39.7436316!4d-84.1221268!16s%2Fg%2F11vt279m7y!19sChIJa4ULEU6FQIgRlcBX8orF_qw?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:35",
     "keyword": "Med Spas",
     "name": "Chacing Beauty Med Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Christman+Plastic+Surgery,+Kenneth+Christman,+MD/data=!4m7!3m6!1s0x884088fc78f63a05:0xc7b63a4fe946fa31!8m2!3d39.638089!4d-84.2187521!16s%2Fg%2F1tfzy502!19sChIJBTr2ePyIQIgRMfpG6U86tsc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:51",
+    "keyword": "Aesthetic Clinics",
+    "name": "Christman Plastic Surgery, Kenneth Christman, MD",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Clark+Dental+Care/data=!4m7!3m6!1s0x883f5b2bd2d3110b:0xddde2fcc0c3e113!8m2!3d39.9750886!4d-83.7663132!16s%2Fg%2F11nb6zljlp!19sChIJCxHT0itbP4gRE-HDwPzi3Q0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:06",
+    "keyword": "Orthodontists",
+    "name": "Clark Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Clark+Family+Dental/data=!4m7!3m6!1s0x88407bcad246db1d:0xde534cf741c0aeb3!8m2!3d39.7445862!4d-84.3964962!16s%2Fg%2F11f2wg8kfl!19sChIJHdtG0sp7QIgRs67AQfdMU94?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:06",
+    "keyword": "Orthodontists",
+    "name": "Clark Family Dental",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -202,6 +678,62 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Cochran+Family+Dentistry:+Kevin+P.+Cochran,+DDS/data=!4m7!3m6!1s0x883f5afd05dbc4af:0x49552fb6f192b32d!8m2!3d39.9469518!4d-83.8027628!16s%2Fg%2F1td6h4kx!19sChIJr8TbBf1aP4gRLbOS8bYvVUk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:16",
+    "keyword": "Orthodontists",
+    "name": "Cochran Family Dentistry: Kevin P. Cochran, DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Comfort+Dental+-+Springfield/data=!4m7!3m6!1s0x883f5c86d85739db:0x78c837914601feb0!8m2!3d39.9443824!4d-83.8533654!16s%2Fg%2F1thtq81g!19sChIJ2zlX2IZcP4gRsP4BRpE3yHg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:44",
+    "keyword": "Dental Clinics",
+    "name": "Comfort Dental - Springfield",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Comfort+Dental+-+Xenia/data=!4m7!3m6!1s0x8840a29dc19a5db3:0x84029508a7fb990c!8m2!3d39.6851252!4d-83.9305743!16s%2Fg%2F11btvl9hg1!19sChIJs12awZ2iQIgRDJn7pwiVAoQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:45",
+    "keyword": "Dental Clinics",
+    "name": "Comfort Dental - Xenia",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Comprehensive+Dentistry+of+Troy/data=!4m7!3m6!1s0x883f77767d19012d:0xafae59dcc823dbcb!8m2!3d40.0515833!4d-84.1925316!16s%2Fg%2F11jr9s42t_!19sChIJLQEZfXZ3P4gRy9sjyNxZrq8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:41",
+    "keyword": "Dental Clinics",
+    "name": "Comprehensive Dentistry of Troy",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Cosmetic+and+Family+Dentistry+%7C+Andrew+Katerakis+DDS/data=!4m7!3m6!1s0x883f76f924039897:0xe6ca7466f6b5c0eb!8m2!3d40.048658!4d-84.2248662!16s%2Fg%2F1tf1phyd!19sChIJl5gDJPl2P4gR68C19mZ0yuY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:56",
+    "keyword": "Aesthetic Clinics",
+    "name": "Cosmetic and Family Dentistry | Andrew Katerakis DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Cosmika+Aesthetic+clinic+%26+Makeup+studio/data=!4m7!3m6!1s0x3919030b309e6eb1:0xc20e66091c2088f3!8m2!3d31.4669162!4d74.2739885!16s%2Fg%2F11vxx_nyl2!19sChIJsW6eMAsDGTkR84ggHAlmDsI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:58",
+    "keyword": "Aesthetic Clinics",
+    "name": "Cosmika Aesthetic clinic & Makeup studio",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/CosmoMedics+Aesthetic+%26+Medical+Center%7C+Johar+Town+lahore+Pakistan/data=!4m7!3m6!1s0x391903c5f4631f19:0xf455960d0dbe5d5d!8m2!3d31.4719753!4d74.2777938!16s%2Fg%2F11k2hrrwm1!19sChIJGR9j9MUDGTkRXV2-DQ2WVfQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:56",
+    "keyword": "Aesthetic Clinics",
+    "name": "CosmoMedics Aesthetic & Medical Center| Johar Town lahore Pakistan",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Cosmothetics+%7C+Skin+Care+%26+Aesthetics+Clinic+Lahore/data=!4m7!3m6!1s0x391901becf57d80b:0xcb2865aded93d640!8m2!3d31.4584527!4d74.2283952!16s%2Fg%2F11vb2rps7k!19sChIJC9hXz74BGTkRQNaT7a1lKMs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:59",
+    "keyword": "Aesthetic Clinics",
+    "name": "Cosmothetics | Skin Care & Aesthetics Clinic Lahore",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Cova+Ob%2FGyn+%26+Cova+MedSpa/data=!4m7!3m6!1s0x884088d67d32561f:0x2cd5c44bee021237!8m2!3d39.6143817!4d-84.1588186!16s%2Fg%2F1tdx4tf_!19sChIJH1YyfdaIQIgRNxIC7kvE1Sw?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:36",
     "keyword": "Med Spas",
@@ -209,10 +741,52 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Coyne+Dentistry/data=!4m7!3m6!1s0x8840851ec69ce5e9:0xf24dc593e7303fdc!8m2!3d39.7052497!4d-84.1262741!16s%2Fg%2F113h1grrb!19sChIJ6eWcxh6FQIgR3D8w55PFTfI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:49",
+    "keyword": "Dental Clinics",
+    "name": "Coyne Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Crossroads+Massage+Therapy+LLC/data=!4m7!3m6!1s0x883f7f198a84aa31:0xe228fd832429cbf4!8m2!3d39.8904977!4d-84.195298!16s%2Fg%2F11j3jgx1wv!19sChIJMaqEihl_P4gR9MspJIP9KOI?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:59",
     "keyword": "Med Spas",
     "name": "Crossroads Massage Therapy LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Cutera+Aesthetics/data=!4m7!3m6!1s0x391901bcee8573b5:0x26ae66021e13a506!8m2!3d31.4594481!4d74.2665267!16s%2Fg%2F11pctg9wlg!19sChIJtXOF7rwBGTkRBqUTHgJmriY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:58",
+    "keyword": "Aesthetic Clinics",
+    "name": "Cutera Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/DOCS+Dental:+Wright-Patterson+Air+Force+Base/data=!4m7!3m6!1s0x88409dcce77d8fa7:0xc3c509e138dc1da3!8m2!3d39.8155263!4d-84.0282853!16s%2Fg%2F11vqnz_qhm!19sChIJp49958ydQIgRox3cOOEJxcM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:21",
+    "keyword": "Orthodontists",
+    "name": "DOCS Dental: Wright-Patterson Air Force Base",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/DR.+FARRUKH+SKIN+CLINIC/data=!4m7!3m6!1s0x39190334fdd21a93:0x67a55644b22431ac!8m2!3d31.4722093!4d74.2588495!16s%2Fg%2F11rx2_zlmf!19sChIJkxrS_TQDGTkRrDEkskRWpWc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:46",
+    "keyword": "Aesthetic Clinics",
+    "name": "DR. FARRUKH SKIN CLINIC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dandelion+Pediatric+Dentistry+and+Orthodontics/data=!4m7!3m6!1s0x8840859fe4d0521d:0x7fdc793ebaefbf31!8m2!3d39.6640889!4d-84.160963!16s%2Fg%2F1vs1sk9d!19sChIJHVLQ5J-FQIgRMb_vuj553H8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:06",
+    "keyword": "Orthodontists",
+    "name": "Dandelion Pediatric Dentistry and Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dayton%27s+Hometown+Pest+Control+LLC./data=!4m7!3m6!1s0x88409b7165e745b3:0x96e4372b28ee863f!8m2!3d39.7323983!4d-84.066875!16s%2Fg%2F1th24h4v!19sChIJs0XnZXGbQIgRP4buKCs35JY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:44",
+    "keyword": "Pest Control",
+    "name": "Dayton's Hometown Pest Control LLC.",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -237,6 +811,41 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Dayton+Dental+Collaborative/data=!4m7!3m6!1s0x88408f66eaf54b7f:0xab7d67b0fb63865d!8m2!3d39.6636714!4d-84.1609665!16s%2Fg%2F1td18j99!19sChIJf0v16maPQIgRXYZj-7Bnfas?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:44",
+    "keyword": "Dental Clinics",
+    "name": "Dayton Dental Collaborative",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dayton+Dental+Group/data=!4m7!3m6!1s0x884081af268612d7:0x24b0da2d629b0c46!8m2!3d39.8683933!4d-84.1400203!16s%2Fg%2F1v2f15w8!19sChIJ1xKGJq-BQIgRRgybYi3asCQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:38",
+    "keyword": "Dental Clinics",
+    "name": "Dayton Dental Group",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dayton+Dental+Solutions+North,+Davide+Pipitone,+DDS,+Rachel+Eifert,+DDS/data=!4m7!3m6!1s0x884081c0374c9dd9:0xf03ea3b34a12540c!8m2!3d39.85308!4d-84.2732004!16s%2Fg%2F1thqhflc!19sChIJ2Z1MN8CBQIgRDFQSSrOjPvA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:44",
+    "keyword": "Dental Clinics",
+    "name": "Dayton Dental Solutions North, Davide Pipitone, DDS, Rachel Eifert, DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dayton+Dental+Solutions+South,+Matthew+Brown,+DDS/data=!4m7!3m6!1s0x88408f6004ea3b1f:0x714b4247c0c5ba7a!8m2!3d39.628149!4d-84.1584823!16s%2Fg%2F1pv61bpph!19sChIJHzvqBGCPQIgRerrFwEdCS3E?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:06",
+    "keyword": "Orthodontists",
+    "name": "Dayton Dental Solutions South, Matthew Brown, DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dayton+Pest+Control/data=!4m7!3m6!1s0x883f7d01c6f8d32d:0xdd4ad4bece6d8668!8m2!3d39.758539!4d-84.192227!16s%2Fg%2F1hf3xs66h!19sChIJLdP4xgF9P4gRaIZtzr7USt0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:44",
+    "keyword": "Pest Control",
+    "name": "Dayton Pest Control",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Dayton+Powder+Brows/data=!4m7!3m6!1s0x884085cc94932881:0xf1ae77752464e1b7!8m2!3d39.6891407!4d-84.1690388!16s%2Fg%2F11b6t7kwgy!19sChIJgSiTlMyFQIgRt-FkJHV3rvE?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:53:03",
     "keyword": "Med Spas",
@@ -251,10 +860,38 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Dayton+Trichology+Hair+Loss+Control+Clinic/data=!4m7!3m6!1s0x8840858a8229666b:0x75421deb085dafe7!8m2!3d39.670446!4d-84.162876!16s%2Fg%2F1hdz6fw2y!19sChIJa2YpgoqFQIgR569dCOsdQnU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:51",
+    "keyword": "Aesthetic Clinics",
+    "name": "Dayton Trichology Hair Loss Control Clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dayton+dental+smile/data=!4m7!3m6!1s0x884081a2e20eb7e5:0xc4fb9442cd4c0248!8m2!3d39.8309265!4d-84.1980131!16s%2Fg%2F11ltq5cf89!19sChIJ5bcO4qKBQIgRSAJMzUKU-8Q?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:44",
+    "keyword": "Dental Clinics",
+    "name": "Dayton dental smile",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dental+Loft+at+the+Greene/data=!4m7!3m6!1s0x884085b94f5cd851:0x2917f83541b8ce69!8m2!3d39.6930355!4d-84.1006408!16s%2Fg%2F1tfbjdjh!19sChIJUdhcT7mFQIgRac64QTX4Fyk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:38",
+    "keyword": "Dental Clinics",
+    "name": "Dental Loft at the Greene",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Dental+Smile+Professionals+-+Huber+Heights/data=!4m7!3m6!1s0x883f7d07f8369e81:0x717a7317b68c9747!8m2!3d39.865011!4d-84.14337!16s%2Fg%2F1wh4gjk3!19sChIJgZ42-Ad9P4gRR5eMthdzenE?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:51:22",
     "keyword": "Dental Clinics",
     "name": "Dental Smile Professionals - Huber Heights",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Derma+Divine+Aesthetics+by+DMAC/data=!4m7!3m6!1s0x39190140e2a19437:0x469ce27bbbbd3ba7!8m2!3d31.4609616!4d74.2705948!16s%2Fg%2F11v63n5njk!19sChIJN5Sh4kABGTkRpzu9u3vinEY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:58",
+    "keyword": "Aesthetic Clinics",
+    "name": "Derma Divine Aesthetics by DMAC",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -265,10 +902,115 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Dhingra+Orthodontics/data=!4m7!3m6!1s0x883f5ae2506ec0d1:0x182dab26269bbfea!8m2!3d39.9522483!4d-83.8029062!16s%2Fg%2F1tnqhns_!19sChIJ0cBuUOJaP4gR6r-bJiarLRg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:04",
+    "keyword": "Orthodontists",
+    "name": "Dhingra Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dhingra+Orthodontics/data=!4m7!3m6!1s0x88409c5d2c40ab0b:0x6873947a503f8464!8m2!3d39.7694807!4d-84.0486956!16s%2Fg%2F11c48_9lb1!19sChIJC6tALF2cQIgRZIQ_UHqUc2g?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:04",
+    "keyword": "Orthodontists",
+    "name": "Dhingra Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Divine+Aesthetics/data=!4m7!3m6!1s0x39190312689cd47f:0x18ac39f3ebe3cf6c!8m2!3d31.4694445!4d74.2422837!16s%2Fg%2F11ssrynngj!19sChIJf9ScaBIDGTkRbM_j6_M5rBg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:51",
+    "keyword": "Aesthetic Clinics",
+    "name": "Divine Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Doctors+Aesthetic+Clinic/data=!4m7!3m6!1s0x39190390c9003fad:0xb05bcc2d561b5e31!8m2!3d31.4701156!4d74.2600796!16s%2Fg%2F11v720fysn!19sChIJrT8AyZADGTkRMV4bVi3MW7A?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:53:17",
     "keyword": "Aesthetic Clinics",
     "name": "Doctors Aesthetic Clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Donath+Facial+Plastic+Surgery+-+Dayton+%2F+Centerville+Office/data=!4m7!3m6!1s0x88408f27e8b39b81:0x598db228db0a7408!8m2!3d39.6079411!4d-84.1592475!16s%2Fg%2F11g_2xq_3!19sChIJgZuz6CePQIgRCHQK2yiyjVk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:52",
+    "keyword": "Aesthetic Clinics",
+    "name": "Donath Facial Plastic Surgery - Dayton / Centerville Office",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dorothy+Lane+Dental+Inc/data=!4m7!3m6!1s0x88408661570896af:0xf8ab5b385f0bdc2d!8m2!3d39.7073775!4d-84.2007067!16s%2Fg%2F1wb8vcjk!19sChIJr5YIV2GGQIgRLdwLXzhbq_g?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:44",
+    "keyword": "Dental Clinics",
+    "name": "Dorothy Lane Dental Inc",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dot+Clinics+-+Hair+Transplant,+Laser,+Aesthetic+%26+Dermatology+Clinic/data=!4m7!3m6!1s0x3919014e5bb2882b:0x42a0be47bce6566f!8m2!3d31.4580359!4d74.2759769!16s%2Fg%2F11yrf1h5w8!19sChIJK4iyW04BGTkRb1bmvEe-oEI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:56",
+    "keyword": "Aesthetic Clinics",
+    "name": "Dot Clinics - Hair Transplant, Laser, Aesthetic & Dermatology Clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Douglas+Patton,+DDS/data=!4m7!3m6!1s0x88408f66a6142207:0xeac89a02b6c80cb0!8m2!3d39.6642445!4d-84.1596093!16s%2Fg%2F1tfmcxy9!19sChIJByIUpmaPQIgRsAzItgKayOo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:16",
+    "keyword": "Orthodontists",
+    "name": "Douglas Patton, DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dr+Shakeela%27s+Skin+Laser/data=!4m7!3m6!1s0x3919035128119f9f:0x571b5a9c5251a3a8!8m2!3d31.4686772!4d74.2695915!16s%2Fg%2F11rwsr70nb!19sChIJn58RKFEDGTkRqKNRUpxaG1c?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:51",
+    "keyword": "Aesthetic Clinics",
+    "name": "Dr Shakeela's Skin Laser",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Atta-ul-Haq+Plastic+Surgeon/data=!4m7!3m6!1s0x391906130dc05a99:0x1e550faa2aa449e5!8m2!3d31.4738661!4d74.2588858!16s%2Fg%2F11g7z0cc4h!19sChIJmVrADRMGGTkR5UmkKqoPVR4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:47",
+    "keyword": "Aesthetic Clinics",
+    "name": "Dr. Atta-ul-Haq Plastic Surgeon",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Brenda+O%27brien/data=!4m7!3m6!1s0x883f803e18959dcf:0x248221b30203b610!8m2!3d39.8617525!4d-84.2870719!16s%2Fg%2F11p07bfbjb!19sChIJz52VGD6AP4gRELYDArMhgiQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:08",
+    "keyword": "Orthodontists",
+    "name": "Dr. Brenda O'brien",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Gregory+J.+Austria/data=!4m7!3m6!1s0x8840a27fab23ba21:0xfacb4ab422396eac!8m2!3d39.7019104!4d-83.9290309!16s%2Fg%2F1tjhybcl!19sChIJIbojq3-iQIgRrG45IrRKy_o?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:12",
+    "keyword": "Orthodontists",
+    "name": "Dr. Gregory J. Austria",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Griselle+Ortiz-Ramsey,+DMD/data=!4m7!3m6!1s0x883f7e9a2f314cbf:0x301996e565039427!8m2!3d39.8922944!4d-84.1941818!16s%2Fg%2F1tfxyq4z!19sChIJv0wxL5p-P4gRJ5QDZeWWGTA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:21",
+    "keyword": "Orthodontists",
+    "name": "Dr. Griselle Ortiz-Ramsey, DMD",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Helen+R.+Holte,+DDS/data=!4m7!3m6!1s0x88409c6378f6ab65:0x85390cb49dfc6e0!8m2!3d39.7840992!4d-84.2287499!16s%2Fg%2F1v3knrf1!19sChIJZav2eGOcQIgR4MbfScuQUwg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:08",
+    "keyword": "Orthodontists",
+    "name": "Dr. Helen R. Holte, DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Jamie+Rodman+Physical+Therapy/data=!4m7!3m6!1s0x88408fb5f8079627:0xfd26732223388295!8m2!3d39.6420133!4d-84.1617618!16s%2Fg%2F11j_88sx1h!19sChIJJ5YH-LWPQIgRlYI4IyJzJv0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:42",
+    "keyword": "Rehab Practices",
+    "name": "Dr. Jamie Rodman Physical Therapy",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Jan+E.+Saunders,+DO/data=!4m7!3m6!1s0x883f7e0af289f8df:0x970111c09d456531!8m2!3d39.85441!4d-84.1871931!16s%2Fg%2F1tdkyby4!19sChIJ3_iJ8gp-P4gRMWVFncARAZc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:23",
+    "keyword": "Orthodontists",
+    "name": "Dr. Jan E. Saunders, DO",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -279,10 +1021,129 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Dr.+John+R+Erbaugh+DDS/data=!4m7!3m6!1s0x8840859574f3d525:0x5d8c665ad67104f7!8m2!3d39.6897046!4d-84.1622092!16s%2Fg%2F1tffvm5r!19sChIJJdXzdJWFQIgR9wRx1lpmjF0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:23",
+    "keyword": "Orthodontists",
+    "name": "Dr. John R Erbaugh DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Lisa+Alvetro/data=!4m7!3m6!1s0x883f799ceacf782f:0x684e15635060b47a!8m2!3d39.963163!4d-84.1976869!16s%2Fg%2F113dl3l38!19sChIJL3jP6px5P4gRerRgUGMVTmg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:04",
+    "keyword": "Orthodontists",
+    "name": "Dr. Lisa Alvetro",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Michael+A.+Hess,+DDS/data=!4m7!3m6!1s0x88408f177492fbbd:0xd164277e7960be59!8m2!3d39.6406083!4d-84.1616992!16s%2Fg%2F1thvyz62!19sChIJvfuSdBePQIgRWb5geX4nZNE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:16",
+    "keyword": "Orthodontists",
+    "name": "Dr. Michael A. Hess, DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Monica+Newby+Orthodontist+Office/data=!4m7!3m6!1s0x88408869c504def9:0x220b06730ec91cd2!8m2!3d39.6544612!4d-84.2418498!16s%2Fg%2F11c2c36c10!19sChIJ-d4ExWmIQIgR0hzJDnMGCyI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:04",
+    "keyword": "Orthodontists",
+    "name": "Dr. Monica Newby Orthodontist Office",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Nathaniel+Ritter,+DDS/data=!4m7!3m6!1s0x883f801d59a34903:0x23c61c5177a2149!8m2!3d39.8513481!4d-84.2710352!16s%2Fg%2F1tf7n772!19sChIJA0mjWR2AP4gRSSF6F8VhPAI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:16",
+    "keyword": "Orthodontists",
+    "name": "Dr. Nathaniel Ritter, DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+R+Gregory+Shelhouse,+DDS/data=!4m7!3m6!1s0x88408f66eaf54b7f:0xa4cd0093413e3941!8m2!3d39.6636941!4d-84.1609258!16s%2Fg%2F1vcjmy8f!19sChIJf0v16maPQIgRQTk-QZMAzaQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:23",
+    "keyword": "Orthodontists",
+    "name": "Dr. R Gregory Shelhouse, DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Dr.+Roz+MD,+MEDSPA+at+Total+Health+and+Wellness+-+Dr.+Rosalind+Mascall+GYN/data=!4m7!3m6!1s0x8840884a092bb9b5:0x8e929c2fcd493cdb!8m2!3d39.6375421!4d-84.248541!16s%2Fg%2F1z449tlbv!19sChIJtbkrCUqIQIgR2zxJzS-cko4?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:35",
     "keyword": "Med Spas",
     "name": "Dr. Roz MD, MEDSPA at Total Health and Wellness - Dr. Rosalind Mascall GYN",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Rush+Davidson,+DDS/data=!4m7!3m6!1s0x88409b9f8546fead:0x2901d1feba936f61!8m2!3d39.6949788!4d-84.0942925!16s%2Fg%2F11pwx9vh7h!19sChIJrf5GhZ-bQIgRYW-Tuv7RASk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:08",
+    "keyword": "Orthodontists",
+    "name": "Dr. Rush Davidson, DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Sadie+Campbell+Dental/data=!4m7!3m6!1s0x8840856e6c475293:0x86bf050557c3272a!8m2!3d39.6906869!4d-84.1692655!16s%2Fg%2F11l70vd4k6!19sChIJk1JHbG6FQIgRKifDVwUFv4Y?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:16",
+    "keyword": "Orthodontists",
+    "name": "Dr. Sadie Campbell Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Sarah+Smith/data=!4m7!3m6!1s0x88409c635c653497:0x2033c06a9651daec!8m2!3d39.7583037!4d-84.054228!16s%2Fg%2F11qgb7ffcz!19sChIJlzRlXGOcQIgR7NpRlmrAMyA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:21",
+    "keyword": "Orthodontists",
+    "name": "Dr. Sarah Smith",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Stephen+Burke/data=!4m7!3m6!1s0x88408f1de3daaaab:0xd5597f8d833f6bef!8m2!3d39.6299129!4d-84.159122!16s%2Fg%2F11qgb7nk_p!19sChIJq6ra4x2PQIgR72s_g41_WdU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:12",
+    "keyword": "Orthodontists",
+    "name": "Dr. Stephen Burke",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Stuart+L.+Duchon,+DDS/data=!4m7!3m6!1s0x883f7bd5486b145d:0xbb56d5ddc5c4d55a!8m2!3d39.9578275!4d-84.1837944!16s%2Fg%2F1tflgxhd!19sChIJXRRrSNV7P4gRWtXExd3VVrs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:21",
+    "keyword": "Orthodontists",
+    "name": "Dr. Stuart L. Duchon, DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Drayer+Physical+Therapy+Institute/data=!4m7!3m6!1s0x883f7d83056be6d1:0xe17d675cd5a7d906!8m2!3d39.8683709!4d-84.1392056!16s%2Fg%2F11gr7d7151!19sChIJ0eZrBYN9P4gRBtmn1VxnfeE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:42",
+    "keyword": "Rehab Practices",
+    "name": "Drayer Physical Therapy Institute",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Drayer+Physical+Therapy+Institute/data=!4m7!3m6!1s0x88409b9f3d9fdfad:0x1189c2475071ae4a!8m2!3d39.7652969!4d-84.0607154!16s%2Fg%2F1hm4n58z_!19sChIJrd-fPZ-bQIgRSq5xUEfCiRE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:42",
+    "keyword": "Rehab Practices",
+    "name": "Drayer Physical Therapy Institute",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/EPIC+Physical+Therapy,+LLC/data=!4m7!3m6!1s0x88408fc213aef047:0xa0cf6bc20dd86c1c!8m2!3d39.6872986!4d-84.1451237!16s%2Fg%2F11lzcxrrkr!19sChIJR_CuE8KPQIgRHGzYDcJrz6A?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:42",
+    "keyword": "Rehab Practices",
+    "name": "EPIC Physical Therapy, LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/EasySMILE+Orthodontics/data=!4m7!3m6!1s0x88408b50af1ba7df:0x124bd48ab882191b!8m2!3d39.5586834!4d-84.233503!16s%2Fg%2F11ql_3rjgx!19sChIJ36cbr1CLQIgRGxmCuIrUSxI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:12",
+    "keyword": "Orthodontists",
+    "name": "EasySMILE Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Eaton+Family+Dental/data=!4m7!3m6!1s0x88400c92b7d3f841:0xd62e4a9fd64a66c2!8m2!3d39.755315!4d-84.636161!16s%2Fg%2F1thf972k!19sChIJQfjTt5IMQIgRwmZK1p9KLtY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:21",
+    "keyword": "Orthodontists",
+    "name": "Eaton Family Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/EcoPro+Termite+%26+Pest,+LLC/data=!4m7!3m6!1s0x884087c780569baf:0xc68bc2323eff9432!8m2!3d39.693464!4d-84.0375064!16s%2Fg%2F1tvw5l_c!19sChIJr5tWgMeHQIgRMpT_PjLCi8Y?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:44",
+    "keyword": "Pest Control",
+    "name": "EcoPro Termite & Pest, LLC",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -307,6 +1168,13 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Elevate+Dental+-+Dayton/data=!4m7!3m6!1s0x883f7e9a2222576d:0xf6cc666fdf07b9d6!8m2!3d39.8908992!4d-84.2012028!16s%2Fg%2F1tdcbh1w!19sChIJbVciIpp-P4gR1rkH329mzPY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:40",
+    "keyword": "Dental Clinics",
+    "name": "Elevate Dental - Dayton",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Elevate+You+Dayton/data=!4m7!3m6!1s0x88409b7a9153447f:0x7bc75c4283cebc39!8m2!3d39.7217932!4d-84.0622663!16s%2Fg%2F11wr1dh4dk!19sChIJf0RTkXqbQIgRObzOg0Jcx3s?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:46",
     "keyword": "Med Spas",
@@ -321,10 +1189,31 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Emergency+Dental+Clinic+Xenia/data=!4m7!3m6!1s0x8840991c0ed5e82f:0x3b3a283eacfc67b2!8m2!3d39.6894551!4d-83.9612241!16s%2Fg%2F11y1ygl6hy!19sChIJL-jVDhyZQIgRsmf8rD4oOjs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:49",
+    "keyword": "Dental Clinics",
+    "name": "Emergency Dental Clinic Xenia",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Emergency+Dental+Today+Dayton/data=!4m7!3m6!1s0x88408358657ecd55:0xc1d7f6280cb31f1!8m2!3d39.7611899!4d-84.1828245!16s%2Fg%2F11vx5g8_6g!19sChIJVc1-ZViDQIgR8THLgGJ_HQw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:41",
+    "keyword": "Dental Clinics",
+    "name": "Emergency Dental Today Dayton",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Emergency+Dental+of+Dayton/data=!4m7!3m6!1s0x88408f80019ca637:0xfcce71f46820ef0b!8m2!3d39.6684107!4d-84.1646772!16s%2Fg%2F11wqmylp0k!19sChIJN6acAYCPQIgRC-8gaPRxzvw?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:51:22",
     "keyword": "Dental Clinics",
     "name": "Emergency Dental of Dayton",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Empire+Dental+Specialty+Group+-+Dayton/data=!4m7!3m6!1s0x88409ace5b2b97cb:0xeef66c075820f41f!8m2!3d39.6951213!4d-84.094189!16s%2Fg%2F11b5pkm_bc!19sChIJy5crW86aQIgRH_QgWAds9u4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:40",
+    "keyword": "Dental Clinics",
+    "name": "Empire Dental Specialty Group - Dayton",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -335,10 +1224,94 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Englewood+Clayton+Dental+Care/data=!4m7!3m6!1s0x883f7ff855677d07:0x3b9d73736a62b630!8m2!3d39.8474652!4d-84.2674912!16s%2Fg%2F1s04h9g85!19sChIJB31nVfh_P4gRMLZianNznTs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:44",
+    "keyword": "Dental Clinics",
+    "name": "Englewood Clayton Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Englewood+Health+And+Rehab/data=!4m7!3m6!1s0x883f81e8f0d60e93:0xd77ab6b393535e84!8m2!3d39.8702734!4d-84.3156967!16s%2Fg%2F11h0w9gv_r!19sChIJkw7W8OiBP4gRhF5Tk7O2etc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "Englewood Health And Rehab",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Enhance+Spa+%26+Lash+Studio/data=!4m7!3m6!1s0x88408a4a48461645:0xeb53e889a4e1fe45!8m2!3d39.5687749!4d-84.232515!16s%2Fg%2F1vcjmy88!19sChIJRRZGSEqKQIgRRf7hpInoU-s?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:18:02",
+    "keyword": "Med Spas",
+    "name": "Enhance Spa & Lash Studio",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Eslami+Jaleh+Z+MD/data=!4m7!3m6!1s0x88408673a08c5201:0xc4e3c30fa825cb90!8m2!3d39.6950115!4d-84.1924966!16s%2Fg%2F1thl632k!19sChIJAVKMoHOGQIgRkMslqA_D48Q?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:47",
+    "keyword": "Aesthetic Clinics",
+    "name": "Eslami Jaleh Z MD",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Essential+Pest+Control/data=!4m7!3m6!1s0x883f7ded117a7bbf:0x26b7dbcaaa56a0e2!8m2!3d39.8872595!4d-84.1443674!16s%2Fg%2F11qnb60m7h!19sChIJv3t6Ee19P4gR4qBWqsrbtyY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:44",
+    "keyword": "Pest Control",
+    "name": "Essential Pest Control",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Esteem+Medspa/data=!4m7!3m6!1s0x49377985529f6ce3:0x310a7f5576337297!8m2!3d39.402704!4d-84.567179!16s%2Fg%2F11sqx0l56k!19sChIJ42yfUoV5N0kRl3IzdlV_CjE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:18",
+    "keyword": "Med Spas",
+    "name": "Esteem Medspa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Estelza+Clinic/data=!4m7!3m6!1s0x391903b9c0b2dae5:0x6232b60b395e6b7f!8m2!3d31.4675296!4d74.2574687!16s%2Fg%2F11k9ftnpf_!19sChIJ5dqywLkDGTkRf2teOQu2MmI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:44",
+    "keyword": "Aesthetic Clinics",
+    "name": "Estelza Clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Eterna+Body+Spa/data=!4m7!3m6!1s0x88408b0508534079:0x99c27e825468bf1c!8m2!3d39.5540784!4d-84.2325145!16s%2Fg%2F11pcmr46zm!19sChIJeUBTCAWLQIgRHL9oVIJ-wpk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:12",
+    "keyword": "Med Spas",
+    "name": "Eterna Body Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Everlasting+Beauty+Permanent+Cosmetics+%26+Salon/data=!4m7!3m6!1s0x883f77f98a8fbb33:0x1025144d332df4f6!8m2!3d40.048796!4d-84.2252217!16s%2Fg%2F11ggs9tlmm!19sChIJM7uPivl3P4gR9vQtM00UJRA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:44",
+    "keyword": "Aesthetic Clinics",
+    "name": "Everlasting Beauty Permanent Cosmetics & Salon",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Excellence+in+Dentistry/data=!4m7!3m6!1s0x883f76cc428b7801:0x508319498ac7f52b!8m2!3d40.0554299!4d-84.1886431!16s%2Fg%2F12mkw9f3k!19sChIJAXiLQsx2P4gRK_XHikkZg1A?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:06",
+    "keyword": "Orthodontists",
+    "name": "Excellence in Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Exhale+Esthetics/data=!4m7!3m6!1s0x8840898b59e31f51:0xd390965a5411757!8m2!3d39.6269403!4d-84.1867527!16s%2Fg%2F11k52_23r3!19sChIJUR_jWYuJQIgRVxdBpWUJOQ0?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:50",
     "keyword": "Med Spas",
     "name": "Exhale Esthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Extermital+Termite+%26+Pest+Control/data=!4m7!3m6!1s0x88408407c5caa9e5:0x336a3e0d599e5d3d!8m2!3d39.7514442!4d-84.1760918!16s%2Fg%2F1tvymg0t!19sChIJ5anKxQeEQIgRPV2eWQ0-ajM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:44",
+    "keyword": "Pest Control",
+    "name": "Extermital Termite & Pest Control",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/FM+AESTHETICS/data=!4m7!3m6!1s0x3919030046b3f45d:0xce246ae87d1cb87b!8m2!3d31.4699103!4d74.2720785!16s%2Fg%2F11w7j4kj51!19sChIJXfSzRgADGTkRe7gcfehqJM4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:52",
+    "keyword": "Aesthetic Clinics",
+    "name": "FM AESTHETICS",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -356,6 +1329,20 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Far+Hills+Pest+Control+and+Home+Services/data=!4m7!3m6!1s0x884085930116c4a7:0x7333d124a7993066!8m2!3d39.630866!4d-84.174459!16s%2Fg%2F11h79xp0fx!19sChIJp8QWAZOFQIgRZjCZpyTRM3M?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:44",
+    "keyword": "Pest Control",
+    "name": "Far Hills Pest Control and Home Services",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Far+Oaks+Orthopedists,+Inc/data=!4m7!3m6!1s0x88409cf45098b4c3:0xfdfdd8070d9efd89!8m2!3d39.7709618!4d-84.0623644!16s%2Fg%2F1q64pydxp!19sChIJw7SYUPScQIgRif2eDQfY_f0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:23",
+    "keyword": "Orthodontists",
+    "name": "Far Oaks Orthopedists, Inc",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Five+Rivers+Dental+Clinic/data=!4m7!3m6!1s0x8840a27de8e14825:0xea79cb3493e3fdd7!8m2!3d39.7009811!4d-83.9260177!16s%2Fg%2F11g02crybr!19sChIJJUjh6H2iQIgR1_3jkzTLeeo?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:51:22",
     "keyword": "Dental Clinics",
@@ -370,10 +1357,66 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Flyer+Family+Dental+-+Abigail+M+Platt+DDS+%26+Stephen+M+Joseph+DDS/data=!4m7!3m6!1s0x8840848666472197:0x70226dd80e58c091!8m2!3d39.743103!4d-84.1393578!16s%2Fg%2F1tfv1718!19sChIJlyFHZoaEQIgRkcBYDthtInA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:49",
+    "keyword": "Dental Clinics",
+    "name": "Flyer Family Dental - Abigail M Platt DDS & Stephen M Joseph DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Forty+Eight+Salon+%26+Spa/data=!4m7!3m6!1s0x88408f1a2bb50c55:0x58ce6937a73e1f9a!8m2!3d39.5765579!4d-84.2292174!16s%2Fg%2F11r7w0z3z0!19sChIJVQy1KxqPQIgRmh8-pzdpzlg?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:53:03",
     "keyword": "Med Spas",
     "name": "Forty Eight Salon & Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Franklin+Dental+Care/data=!4m7!3m6!1s0x884061aee53a31ab:0xfbaed255a6b5009f!8m2!3d39.5610178!4d-84.3049287!16s%2Fg%2F11g879q3f5!19sChIJqzE65a5hQIgRnwC1plXSrvs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:35",
+    "keyword": "Dental Clinics",
+    "name": "Franklin Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Free+Bee+Pest+Control/data=!4m7!3m6!1s0x883f810c6621302f:0xd7d950996f2f4aaf!8m2!3d39.8950766!4d-84.3059827!16s%2Fg%2F11c1llt2k1!19sChIJLzAhZgyBP4gRr0ovb5lQ2dc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:44",
+    "keyword": "Pest Control",
+    "name": "Free Bee Pest Control",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Freeman+%26+Hendricks/data=!4m7!3m6!1s0x883f7e1320b74e31:0xe3f284fb7c30f19c!8m2!3d39.8562609!4d-84.1994082!16s%2Fg%2F1wb8vcfk!19sChIJMU63IBN-P4gRnPEwfPuE8uM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:21",
+    "keyword": "Orthodontists",
+    "name": "Freeman & Hendricks",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/GHC+Medical+Complex+Global+Aesthetics+Cosmo+Derma+Institute,+Dental+%26+Eye+Care+Clinic+%26+Institue+Health+Sciences,+Mind+Care/data=!4m7!3m6!1s0x391903d115d49487:0xc4e1e40ee58da6db!8m2!3d31.4769824!4d74.280551!16s%2Fg%2F11f7bzzyl7!19sChIJh5TUFdEDGTkR26aN5Q7k4cQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:58",
+    "keyword": "Aesthetic Clinics",
+    "name": "GHC Medical Complex Global Aesthetics Cosmo Derma Institute, Dental & Eye Care Clinic & Institue Health Sciences, Mind Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Gallatin+Endodontics/data=!4m7!3m6!1s0x88408edf9c6c9c55:0x8a9954d7caf7ad25!8m2!3d39.6283696!4d-84.166953!16s%2Fg%2F1tgpbz04!19sChIJVZxsnN-OQIgRJa33ytdUmYo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:12",
+    "keyword": "Orthodontists",
+    "name": "Gallatin Endodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Gamber+Family+Dental+-+Beavercreek/data=!4m7!3m6!1s0x88409b75b7969b31:0x9b9d176dffaa6868!8m2!3d39.7306748!4d-84.0610547!16s%2Fg%2F1tq8k6_4!19sChIJMZuWt3WbQIgRaGiq_20XnZs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:06",
+    "keyword": "Orthodontists",
+    "name": "Gamber Family Dental - Beavercreek",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Gamber+Family+Dental/data=!4m7!3m6!1s0x884084e74a464f51:0xd2b0fbba060d69fe!8m2!3d39.6996139!4d-84.124457!16s%2Fg%2F1pp2vmw5b!19sChIJUU9GSueEQIgR_mkNBrr7sNI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:38",
+    "keyword": "Dental Clinics",
+    "name": "Gamber Family Dental",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -388,6 +1431,27 @@
     "discovered_at": "2026-05-22T01:53:05",
     "keyword": "Med Spas",
     "name": "Gary Palmer, MD",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Gem+City+Orthodontics/data=!4m7!3m6!1s0x884086b1a981082f:0x3d6cb8e204b38a14!8m2!3d39.7469721!4d-84.1987379!16s%2Fg%2F11h06mx2m9!19sChIJLwiBqbGGQIgRFIqzBOK4bD0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:04",
+    "keyword": "Orthodontists",
+    "name": "Gem City Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Gioiello+General+%26+Implant+Dentistry/data=!4m7!3m6!1s0x883f7d0b8da69805:0x16e3b83236790275!8m2!3d39.8573273!4d-84.1392861!16s%2Fg%2F1v2jdldj!19sChIJBZimjQt9P4gRdQJ5NjK44xY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:49",
+    "keyword": "Dental Clinics",
+    "name": "Gioiello General & Implant Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Go2-Pros+Pest+Control/data=!4m7!3m6!1s0x88408f474a829def:0x74f1d2ea52ad6d7a!8m2!3d39.6254507!4d-84.1417817!16s%2Fg%2F11n80xywc2!19sChIJ752CSkePQIgRem2tUurS8XQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:44",
+    "keyword": "Pest Control",
+    "name": "Go2-Pros Pest Control",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -412,10 +1476,59 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Golden+Oak+Dentistry+-+Yong+H.+Chu,+DDS,+PhD,+MPH/data=!4m7!3m6!1s0x883f8053e187c4f3:0xd4087e61d13c9b03!8m2!3d39.8777278!4d-84.3058315!16s%2Fg%2F1tnplp82!19sChIJ88SH4VOAP4gRA5s80WF-CNQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:41",
+    "keyword": "Dental Clinics",
+    "name": "Golden Oak Dentistry - Yong H. Chu, DDS, PhD, MPH",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Gordon+%26+DeSantis+Orthodontics/data=!4m7!3m6!1s0x883f764395b5058b:0x9640ecdf7e439a75!8m2!3d40.0592829!4d-84.2426712!16s%2Fg%2F1tk_pyzs!19sChIJiwW1lUN2P4gRdZpDft_sQJY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:04",
+    "keyword": "Orthodontists",
+    "name": "Gordon & DeSantis Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Greene+Dental+Associates/data=!4m7!3m6!1s0x88409c50c46cc5ef:0x1dd11941fd12d139!8m2!3d39.774275!4d-84.0792942!16s%2Fg%2F1tkc7c15!19sChIJ78VsxFCcQIgROdES_UEZ0R0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:45",
+    "keyword": "Dental Clinics",
+    "name": "Greene Dental Associates",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Greene+Massage+Clinic/data=!4m7!3m6!1s0x88409ce79415cc6b:0x82bd0214d696bd93!8m2!3d39.7804341!4d-84.0787501!16s%2Fg%2F1thvyz6g!19sChIJa8wVlOecQIgRk72W1hQCvYI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:47",
+    "keyword": "Aesthetic Clinics",
+    "name": "Greene Massage Clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Greenix+Pest+Control/data=!4m7!3m6!1s0x884051b0aac599d3:0xac1b17cc9e213bfa!8m2!3d39.7639107!4d-84.1935266!16s%2Fg%2F11ghs8lry3!19sChIJ05nFqrBRQIgR-jshnswXG6w?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:44",
+    "keyword": "Pest Control",
+    "name": "Greenix Pest Control",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/HYALOOK+RX/data=!4m7!3m6!1s0x731931b186ef4df:0x12c156e0a5a1f04!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11n9bb43y0!19sChIJ3_RuGBuTMQcRBB9aCm4VLAE?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:53:03",
     "keyword": "Med Spas",
     "name": "HYALOOK RX",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Hagler+Orthodontics/data=!4m7!3m6!1s0x88408fd87b17428f:0xb880ff7f0c2c74b7!8m2!3d39.6384419!4d-84.1019289!16s%2Fg%2F1tdbxfh6!19sChIJj0IXe9iPQIgRt3QsDH__gLg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:04",
+    "keyword": "Orthodontists",
+    "name": "Hagler Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Hagler+Orthodontics/data=!4m7!3m6!1s0x8840a27fae9d21bd:0xb1fcd5fe8813637a!8m2!3d39.7016203!4d-83.929799!16s%2Fg%2F11c75xlk8l!19sChIJvSGdrn-iQIgRemMTiP7V_LE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:04",
+    "keyword": "Orthodontists",
+    "name": "Hagler Orthodontics",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -426,10 +1539,38 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Heaven%27s+Beauty/data=!4m7!3m6!1s0x88409dde74a950e7:0x2b5892bcb06a8cc8!8m2!3d39.7575395!4d-84.1471309!16s%2Fg%2F11rcpt94vq!19sChIJ51CpdN6dQIgRyIxqsLySWCs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:44",
+    "keyword": "Aesthetic Clinics",
+    "name": "Heaven's Beauty",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Hewitt+Ross+Dental/data=!4m7!3m6!1s0x88400c9a66bc1b57:0xf619f0575e4b1b25!8m2!3d39.7660903!4d-84.6344146!16s%2Fg%2F11byp842zp!19sChIJVxu8ZpoMQIgRJRtLXlfwGfY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:23",
+    "keyword": "Orthodontists",
+    "name": "Hewitt Ross Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Hidden+Gem+Massage/data=!4m7!3m6!1s0x884087520ba87971:0x179d9a2346a8d2a7!8m2!3d39.6323927!4d-84.157366!16s%2Fg%2F11kc8jjdfh!19sChIJcXmoC1KHQIgRp9KoRiOanRc?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:57",
     "keyword": "Med Spas",
     "name": "Hidden Gem Massage",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Hilton+Aesthetics+%26+Med+Clinic/data=!4m7!3m6!1s0x64c911a43a3878c7:0x2d83aad41ce90d82!8m2!3d31.5102043!4d74.2813237!16s%2Fg%2F11ysm5jt3_!19sChIJx3g4OqQRyWQRgg3pHNSqgy0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:59",
+    "keyword": "Aesthetic Clinics",
+    "name": "Hilton Aesthetics & Med Clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Holmes+Endodontics/data=!4m7!3m6!1s0x8840853fda40cd5f:0xa00f18b61b8fbf83!8m2!3d39.693412!4d-84.1364128!16s%2Fg%2F11lc9nwc5m!19sChIJX81A2j-FQIgRg7-PG7YYD6A?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:08",
+    "keyword": "Orthodontists",
+    "name": "Holmes Endodontics",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -440,10 +1581,31 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Huber+Health+Center+Physical+Therapy/data=!4m7!3m6!1s0x883f7d084f30b2c5:0x3c78103e20108360!8m2!3d39.8794527!4d-84.1376487!16s%2Fg%2F11hdn3drpp!19sChIJxbIwTwh9P4gRYIMQID4QeDw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:46",
+    "keyword": "Pest Control",
+    "name": "Huber Health Center Physical Therapy",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Hunter+Dentistry/data=!4m7!3m6!1s0x883f7ff96122897f:0x5f4531691c983a63!8m2!3d39.846212!4d-84.264896!16s%2Fg%2F1w04ksl5!19sChIJf4kiYfl_P4gRYzqYHGkxRV8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:49",
+    "keyword": "Dental Clinics",
+    "name": "Hunter Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Hyaluron+Spa+%26+Cryotherapy+Solutions/data=!4m7!3m6!1s0x8840892062823f75:0xc1503670ae16e8a1!8m2!3d39.6437676!4d-84.1335759!16s%2Fg%2F11p02g4z20!19sChIJdT-CYiCJQIgRoegWrnA2UME?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:33",
     "keyword": "Med Spas",
     "name": "Hyaluron Spa & Cryotherapy Solutions",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Ianni+J+Anthony+DDS/data=!4m7!3m6!1s0x883f5a73cc0b5c51:0xc0eda5d5a8dcd28!8m2!3d39.9209165!4d-83.770095!16s%2Fg%2F1tdl6t4c!19sChIJUVwLzHNaP4gRKM2NWl3aDgw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:21",
+    "keyword": "Orthodontists",
+    "name": "Ianni J Anthony DDS",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -454,10 +1616,59 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Inclusive+Aesthetics+Beauty+Bar+%26+Makeup+Studio/data=!4m7!3m6!1s0x3919010c40e6ec4f:0x6efa5e5c9f45fbfc!8m2!3d31.4582322!4d74.2766244!16s%2Fg%2F11sdb94xf3!19sChIJT-zmQAwBGTkR_PtFn1xe-m4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:52",
+    "keyword": "Aesthetic Clinics",
+    "name": "Inclusive Aesthetics Beauty Bar & Makeup Studio",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Indian+Ripple+Dental/data=!4m7!3m6!1s0x88409ae9d4fbe0d5:0x6fd82069071f08b1!8m2!3d39.6941302!4d-84.079922!16s%2Fg%2F1tjcq3kn!19sChIJ1eD71OmaQIgRsQgfB2kg2G8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:49",
+    "keyword": "Dental Clinics",
+    "name": "Indian Ripple Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Inpatient+Rehabilitation+Facilities+at+Miami+Valley+Hospital/data=!4m7!3m6!1s0x884085446665eac3:0x89ac8352b78b0a1!8m2!3d39.7451296!4d-84.1854608!16s%2Fg%2F11hzwhhk14!19sChIJw-plZkSFQIgRobB4KzXImgg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "Inpatient Rehabilitation Facilities at Miami Valley Hospital",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Institute+Cosmetique+%7C+Dermatologist+%7C+Laser+%7C+Best+Hair+Transplant+%7C+Liposuction+%26+Cosmetic+Surgery+Center+Lahore+Pakistan/data=!4m7!3m6!1s0x391903d7d8615555:0x71e292965f71657b!8m2!3d31.472364!4d74.271757!16s%2Fg%2F11s3chqjdz!19sChIJVVVh2NcDGTkRe2VxX5aS4nE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:59",
+    "keyword": "Aesthetic Clinics",
+    "name": "Institute Cosmetique | Dermatologist | Laser | Best Hair Transplant | Liposuction & Cosmetic Surgery Center Lahore Pakistan",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/J%26A+Health+and+Wellness+Services/data=!4m7!3m6!1s0x88409bf2a1c1da8d:0xe9c5e114cbbf7ff3!8m2!3d39.7300047!4d-84.0566137!16s%2Fg%2F11tjw56ccr!19sChIJjdrBofKbQIgR83-_yxThxek?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:33",
     "keyword": "Med Spas",
     "name": "J&A Health and Wellness Services",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/James+A+Tetz+DMD/data=!4m7!3m6!1s0x883f5a6c03bd9b75:0x2e68e664858faf5b!8m2!3d39.9219436!4d-83.7780075!16s%2Fg%2F1td4vyz6!19sChIJdZu9A2xaP4gRW6-PhWTmaC4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:04",
+    "keyword": "Orthodontists",
+    "name": "James A Tetz DMD",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/James+A.+Striebel,+DDS/data=!4m7!3m6!1s0x883f7d33d9627eff:0xc0978db91ea2908e!8m2!3d39.8591423!4d-84.1063003!16s%2Fg%2F1tmpwncq!19sChIJ_35i2TN9P4gRjpCiHrmNl8A?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:21",
+    "keyword": "Orthodontists",
+    "name": "James A. Striebel, DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Jennifer+Cova/data=!4m7!3m6!1s0x88408eeeb850f243:0x31092d764b3b4418!8m2!3d39.6146749!4d-84.1585457!16s%2Fg%2F11rwxfk7rb!19sChIJQ_JQuO6OQIgRGEQ7S3YtCTE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:51",
+    "keyword": "Aesthetic Clinics",
+    "name": "Jennifer Cova",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -468,10 +1679,24 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Jonson+Dental+Care/data=!4m7!3m6!1s0x884085956d7b5f9b:0x36c871762244995d!8m2!3d39.6896512!4d-84.162643!16s%2Fg%2F1thct02_!19sChIJm197bZWFQIgRXZlEInZxyDY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:41",
+    "keyword": "Dental Clinics",
+    "name": "Jonson Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Juve+Health+%26+Wellness/data=!4m7!3m6!1s0x6b0e7c0c8d977573:0xa6f7adcf9e9514de!8m2!3d37.6854265!4d-83.6368655!16s%2Fg%2F11y7jpjy6l!19sChIJc3WXjQx8DmsR3hSVns-t96Y?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:53:08",
     "keyword": "Med Spas",
     "name": "Juve Health & Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/KBS+Family+Dental,+Kerri+Beedy-Storts+DDS/data=!4m7!3m6!1s0x88409f94712f1b61:0x1f6a8f79329c5627!8m2!3d39.7913099!4d-83.9979821!16s%2Fg%2F11w_wfw10f!19sChIJYRsvcZSfQIgRJ1acMnmPah8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:44",
+    "keyword": "Dental Clinics",
+    "name": "KBS Family Dental, Kerri Beedy-Storts DDS",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -482,10 +1707,38 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Keep+Smiling+Dental+-+Indian+Ripple/data=!4m7!3m6!1s0x88409b0ba9fb8949:0xb88082ec24c28af9!8m2!3d39.6960008!4d-84.0884408!16s%2Fg%2F11h45_2zs8!19sChIJSYn7qQubQIgR-YrCJOyCgLg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:44",
+    "keyword": "Dental Clinics",
+    "name": "Keep Smiling Dental - Indian Ripple",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Keep+Smiling+Dental+-+Lakeview/data=!4m7!3m6!1s0x88409c62dd93dde7:0xf802bc0dd897d7c8!8m2!3d39.7586799!4d-84.0568411!16s%2Fg%2F1tj538ft!19sChIJ592T3WKcQIgRyNeX2A28Avg?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:51:24",
     "keyword": "Dental Clinics",
     "name": "Keep Smiling Dental - Lakeview",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Keep+Smiling+Dental:+Dr.+Joseph+Palm+DDS/data=!4m7!3m6!1s0x88409b022ffe939d:0x429375b67e63c64f!8m2!3d39.6960008!4d-84.0884408!16s%2Fg%2F11h5l75hmj!19sChIJnZP-LwKbQIgRT8ZjfrZ1k0I?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:40",
+    "keyword": "Dental Clinics",
+    "name": "Keep Smiling Dental: Dr. Joseph Palm DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Kettering+Health+NeuroRehab+and+Balance+Center/data=!4m7!3m6!1s0x88408942a0b4d36f:0xe875a9f80338a44e!8m2!3d39.6358733!4d-84.2005277!16s%2Fg%2F11nmm121rm!19sChIJb9O0oEKJQIgRTqQ4A_ipdeg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "Kettering Health NeuroRehab and Balance Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Kettering+Health+Rehab+and+Therapy/data=!4m7!3m6!1s0x884088d9436e397d:0xe741868d57348174!8m2!3d39.6358712!4d-84.2005231!16s%2Fg%2F1tgff10h!19sChIJfTluQ9mIQIgRdIE0V42GQec?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:42",
+    "keyword": "Rehab Practices",
+    "name": "Kettering Health Rehab and Therapy",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -496,10 +1749,87 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Kettering+Sports+Medicine/data=!4m7!3m6!1s0x883f80e63eb9f853:0xd514a44b5e152a8d!8m2!3d39.8735809!4d-84.330162!16s%2Fg%2F1tfrhfn6!19sChIJU_i5PuaAP4gRjSoVXkukFNU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:42",
+    "keyword": "Rehab Practices",
+    "name": "Kettering Sports Medicine",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Kim%27s+Spa/data=!4m7!3m6!1s0x883f765a22043015:0x2369a6c9499b1cc3!8m2!3d40.0545064!4d-84.2335064!16s%2Fg%2F11c3170hg1!19sChIJFTAEIlp2P4gRwxybScmmaSM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:09",
+    "keyword": "Med Spas",
+    "name": "Kim's Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/King+Orthodontics/data=!4m7!3m6!1s0x88408f6d2ebe09c3:0xb5606c17e42ff8eb!8m2!3d39.6497997!4d-84.1566154!16s%2Fg%2F1tnbltmj!19sChIJwwm-Lm2PQIgR6_gv5BdsYLU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:04",
+    "keyword": "Orthodontists",
+    "name": "King Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Kondas+Dental+Group/data=!4m7!3m6!1s0x883f7cfb832b824d:0xb672975371e9c4fb!8m2!3d39.8800626!4d-84.1358234!16s%2Fg%2F1td8zt4h!19sChIJTYIrg_t8P4gR-8TpcVOXcrY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:44",
+    "keyword": "Dental Clinics",
+    "name": "Kondas Dental Group",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Kulkarni+Orthodontics+Inc/data=!4m7!3m6!1s0x884085cc04bf3cf7:0x42e8e6a6bc00a24e!8m2!3d39.707037!4d-84.170303!16s%2Fg%2F1tdj4wz_!19sChIJ9zy_BMyFQIgRTqIAvKbm6EI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:04",
+    "keyword": "Orthodontists",
+    "name": "Kulkarni Orthodontics Inc",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Kulkarni+Orthodontics+Inc:+Kulkarni+Raj+DMD+%26+Fitz+Martin+DDS/data=!4m7!3m6!1s0x88408b57833f631b:0x98c5a1ae3a6a6fab!8m2!3d39.5714738!4d-84.2309669!16s%2Fg%2F11h3c5bzdv!19sChIJG2M_g1eLQIgRq29qOq6hxZg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:04",
+    "keyword": "Orthodontists",
+    "name": "Kulkarni Orthodontics Inc: Kulkarni Raj DMD & Fitz Martin DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Kulkarni+Orthodontics/data=!4m7!3m6!1s0x88408a359b4a6717:0x59a5a6e90171e69e!8m2!3d39.571443!4d-84.230921!16s%2Fg%2F1tgq7b5g!19sChIJF2dKmzWKQIgRnuZxAemmpVk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:04",
+    "keyword": "Orthodontists",
+    "name": "Kulkarni Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/LUNT+ORTHODONTICS/data=!4m7!3m6!1s0x88408ee208cf2a71:0xe55f5b6730605194!8m2!3d39.8514142!4d-84.2711609!16s%2Fg%2F1hc1p5h1g!19sChIJcSrPCOKOQIgRlFFgMGdbX-U?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:04",
+    "keyword": "Orthodontists",
+    "name": "LUNT ORTHODONTICS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/LaDeDa+Le+Salon+20%2B+years+in+business/data=!4m7!3m6!1s0x884085ccecc72443:0x42b8a63b6a6b3642!8m2!3d39.7102528!4d-84.1715717!16s%2Fg%2F1tcw496r!19sChIJQyTH7MyFQIgRQjZrajumuEI?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:55",
     "keyword": "Med Spas",
     "name": "LaDeDa Le Salon 20+ years in business",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Labyrinth+Physical+Therapy+%26+Wellness/data=!4m7!3m6!1s0x88408999cdcac045:0x8c60766d9f41ca30!8m2!3d39.5935384!4d-84.2053695!16s%2Fg%2F11tdcqmrh6!19sChIJRcDKzZmJQIgRMMpBn212YIw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "Labyrinth Physical Therapy & Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Laser+%26+Beauty+Clinic/data=!4m7!3m6!1s0x391903c812614e0d:0xffad72947415900d!8m2!3d31.4701364!4d74.2600666!16s%2Fg%2F11v42wg9yr!19sChIJDU5hEsgDGTkRDZAVdJRyrf8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:58",
+    "keyword": "Aesthetic Clinics",
+    "name": "Laser & Beauty Clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Leora+Behavioral+Health+%E2%80%93+Dayton/data=!4m7!3m6!1s0x88408521589d4a5d:0x3efce4da3c0b672b!8m2!3d39.7239625!4d-84.1534908!16s%2Fg%2F11ksbbwjx4!19sChIJXUqdWCGFQIgRK2cLPNrk_D4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "Leora Behavioral Health – Dayton",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -510,10 +1840,24 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Live+Young+Aesthetics/data=!4m7!3m6!1s0x391901442076831d:0x91de273e6b0652dc!8m2!3d31.4605351!4d74.2759605!16s%2Fg%2F11ll5ln_60!19sChIJHYN2IEQBGTkR3FIGaz4n3pE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:56",
+    "keyword": "Aesthetic Clinics",
+    "name": "Live Young Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Loft+23+Spa/data=!4m7!3m6!1s0x884088d672fb5b2d:0x2578346e32c1538!8m2!3d39.631189!4d-84.1747989!16s%2Fg%2F11cp1f1ltg!19sChIJLVv7ctaIQIgROBUs40aDVwI?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:46",
     "keyword": "Med Spas",
     "name": "Loft 23 Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/London+Aesthetics+%26+Rejuvenation+Center+-+Thokar+Niaz+Baig/data=!4m7!3m6!1s0x391903de99d75555:0x74834b13dfde4e7!8m2!3d31.4674509!4d74.2379767!16s%2Fg%2F11wtlv0j96!19sChIJVVXXmd4DGTkR5-T9PbE0SAc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:58",
+    "keyword": "Aesthetic Clinics",
+    "name": "London Aesthetics & Rejuvenation Center - Thokar Niaz Baig",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -524,6 +1868,13 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Lunt+Orthodontics/data=!4m7!3m6!1s0x88408bcda3750a51:0xc3510c006003dc51!8m2!3d39.5800107!4d-84.2247346!16s%2Fg%2F1hc2lrv7w!19sChIJUQp1o82LQIgRUdwDYAAMUcM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:04",
+    "keyword": "Orthodontists",
+    "name": "Lunt Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Lush+Aesthetics/data=!4m7!3m6!1s0x883f814d7b9799a3:0xe30b3e2961f838ab!8m2!3d39.8618999!4d-84.2877332!16s%2Fg%2F11vbcdwcgc!19sChIJo5mXe02BP4gRqzj4YSk-C-M?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:38",
     "keyword": "Med Spas",
@@ -531,10 +1882,59 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/MAK+Dental+Group+-+Huber+Heights/data=!4m7!3m6!1s0x884082a021c2fbed:0xc02655724e99e6fb!8m2!3d39.8312651!4d-84.1221712!16s%2Fg%2F1tgp1h0x!19sChIJ7fvCIaCCQIgR--aZTnJVJsA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:06",
+    "keyword": "Orthodontists",
+    "name": "MAK Dental Group - Huber Heights",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/MAK+Dental+Group+-+Troy/data=!4m7!3m6!1s0x883f765d21f0ab13:0xe19046b69cc20633!8m2!3d40.0614566!4d-84.2371748!16s%2Fg%2F11b7xl1d_b!19sChIJE6vwIV12P4gRMwbCnLZGkOE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:16",
+    "keyword": "Orthodontists",
+    "name": "MAK Dental Group - Troy",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/MK%26C+Dental+Group+Kettering/data=!4m7!3m6!1s0x884084e730f35be1:0xbff5f1abd8c64ce!8m2!3d39.7138671!4d-84.1242158!16s%2Fg%2F113g9zklc!19sChIJ4VvzMOeEQIgRzmSMvRpf_ws?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:44",
+    "keyword": "Dental Clinics",
+    "name": "MK&C Dental Group Kettering",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Mad+River+Family+Dental+%E2%80%93+Dr.+David+Hickey/data=!4m7!3m6!1s0x883f61fa99b2aefd:0xa36fd84e2da0b32e!8m2!3d39.866674!4d-83.9579683!16s%2Fg%2F11gwph3l8p!19sChIJ_a6ymfphP4gRLrOgLU7Yb6M?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:49",
+    "keyword": "Dental Clinics",
+    "name": "Mad River Family Dental – Dr. David Hickey",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Magnolia+Dental+Centerville/data=!4m7!3m6!1s0x88408ed8c97db1e3:0x409192985fc6ae0b!8m2!3d39.6273026!4d-84.1993592!16s%2Fg%2F1tg35x7p!19sChIJ47F9ydiOQIgRC67GX5iSkUA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:49",
+    "keyword": "Dental Clinics",
+    "name": "Magnolia Dental Centerville",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Mandell-Brown+Plastic+Surgery+Center+%28Springboro%29/data=!4m7!3m6!1s0x88408b2d7343ddc1:0x64704df7853d07d4!8m2!3d39.5805531!4d-84.2249979!16s%2Fg%2F11tkb3bjng!19sChIJwd1Dcy2LQIgR1Ac9hfdNcGQ?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:53:01",
     "keyword": "Med Spas",
     "name": "Mandell-Brown Plastic Surgery Center (Springboro)",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Mariam+J+Lim,+D.D.S+Orthodontist/data=!4m7!3m6!1s0x883f5ac6c8c67f37:0x4c263bceafc10a62!8m2!3d39.964227!4d-83.78734!16s%2Fg%2F1v_w30jk!19sChIJN3_GyMZaP4gRYgrBr847Jkw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:08",
+    "keyword": "Orthodontists",
+    "name": "Mariam J Lim, D.D.S Orthodontist",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Mark+Farley/data=!4m7!3m6!1s0x8840882a21ca783b:0xd44b782e44a6a875!8m2!3d39.6394059!4d-84.2686197!16s%2Fg%2F11p07b5bfn!19sChIJO3jKISqIQIgRdaimRC54S9Q?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:23",
+    "keyword": "Orthodontists",
+    "name": "Mark Farley",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -566,6 +1966,27 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Matthew+A+Kowaleski,+DMD+%26+Walter+Mauck,+DDS/data=!4m7!3m6!1s0x884086475bc5cb33:0x53c6c2cb9a4f959f!8m2!3d39.5658374!4d-84.2741083!16s%2Fg%2F1t_tkzqk!19sChIJM8vFW0eGQIgRn5VPmsvCxlM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:23",
+    "keyword": "Orthodontists",
+    "name": "Matthew A Kowaleski, DMD & Walter Mauck, DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Matthew+W+Sprowls/data=!4m7!3m6!1s0x88408a70946fffff:0x3bc19e9b96d23105!8m2!3d39.5631655!4d-84.2631478!16s%2Fg%2F11ss_4hcjj!19sChIJ__9vlHCKQIgRBTHSlpuewTs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:08",
+    "keyword": "Orthodontists",
+    "name": "Matthew W Sprowls",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Medeste+Aesthetics/data=!4m7!3m6!1s0x391903e04b28b519:0x5243adc525b50534!8m2!3d31.464915!4d74.254801!16s%2Fg%2F11v0trbr2w!19sChIJGbUoS-ADGTkRNAW1JcWtQ1I?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:51",
+    "keyword": "Aesthetic Clinics",
+    "name": "Medeste Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Medical+Massage+Associates,+LLC/data=!4m7!3m6!1s0x88408fd88507719b:0xd89361b2c38ff3f9!8m2!3d39.6906565!4d-84.1692736!16s%2Fg%2F1tdwwcfw!19sChIJm3EHhdiPQIgR-fOPw7Jhk9g?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:53:01",
     "keyword": "Med Spas",
@@ -577,6 +1998,13 @@
     "discovered_at": "2026-05-22T01:53:01",
     "keyword": "Med Spas",
     "name": "Medical Massage By Michelle",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Mercy+Health+-+Springfield+Regional+Medical+Center+Acute+Rehabilitation/data=!4m7!3m6!1s0x883f5bf7c7679f21:0x6b6162cfda55087!8m2!3d39.9284657!4d-83.8162114!16s%2Fg%2F11td4mtyj0!19sChIJIZ9nx_dbP4gRh1Cl_SwWtgY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "Mercy Health - Springfield Regional Medical Center Acute Rehabilitation",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -594,6 +2022,13 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Mermaid+Well/data=!4m7!3m6!1s0x2fc9b7136d9535a9:0x6b25b0f10eb869a9!8m2!3d39.7252957!4d-84.1624044!16s%2Fg%2F11v0s39911!19sChIJqTWVbRO3yS8RqWm4DvGwJWs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:42",
+    "keyword": "Rehab Practices",
+    "name": "Mermaid Well",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Miami+County+Dental+Clinic/data=!4m7!3m6!1s0x883f76f93d348599:0xa164be7852a2aa54!8m2!3d40.0515582!4d-84.2380454!16s%2Fg%2F1tg_b4sw!19sChIJmYU0Pfl2P4gRVKqiUni-ZKE?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:51:24",
     "keyword": "Dental Clinics",
@@ -608,10 +2043,45 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Miami+Valley+Prosthodontics/data=!4m7!3m6!1s0x88409b1056e16953:0x376cc0b08ff91acc!8m2!3d39.7243983!4d-84.0533741!16s%2Fg%2F11tsv5gf8p!19sChIJU2nhVhCbQIgRzBr5j7DAbDc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:08",
+    "keyword": "Orthodontists",
+    "name": "Miami Valley Prosthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Miami+Valley+Recovery,+LLC/data=!4m7!3m6!1s0x884086b1050b6db1:0x3a9248e6210324cd!8m2!3d39.7479529!4d-84.1993492!16s%2Fg%2F11hbt_nsp5!19sChIJsW0LBbGGQIgRzSQDIeZIkjo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:42",
+    "keyword": "Rehab Practices",
+    "name": "Miami Valley Recovery, LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Miami+Valley+Spine+and+Joint,+Dr.+Tyler+T.+Lanning/data=!4m7!3m6!1s0x88408fd8a0fe5e31:0xdaffbc97ebdb3f07!8m2!3d39.6377792!4d-84.102684!16s%2Fg%2F11clsyq6f3!19sChIJMV7-oNiPQIgRBz_b65e8_9o?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:46",
+    "keyword": "Pest Control",
+    "name": "Miami Valley Spine and Joint, Dr. Tyler T. Lanning",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Miamisburg+Family+Dental/data=!4m7!3m6!1s0x8840628be62c7523:0xac9022dae3a0a0a!8m2!3d39.6394697!4d-84.2864577!16s%2Fg%2F11cnphsgzb!19sChIJI3Us5otiQIgRCgo6ri0CyQo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:44",
+    "keyword": "Dental Clinics",
+    "name": "Miamisburg Family Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Michael%27s+Salon+and+Spa/data=!4m7!3m6!1s0x88408f0eaa6dc8df:0xbbddb663a8836256!8m2!3d39.6455742!4d-84.1502088!16s%2Fg%2F1tp0fbrc!19sChIJ38htqg6PQIgRVmKDqGO23bs?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:53:05",
     "keyword": "Med Spas",
     "name": "Michael's Salon and Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Michael+L.+Ortman,+D.D.S./data=!4m7!3m6!1s0x88408051155a4c17:0xcbcb7337f205b958!8m2!3d39.803586!4d-84.2346983!16s%2Fg%2F1tdg8gyv!19sChIJF0xaFVGAQIgRWLkF8jdzy8s?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:16",
+    "keyword": "Orthodontists",
+    "name": "Michael L. Ortman, D.D.S.",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -643,10 +2113,136 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Mk+Aesthetics+Studio/data=!4m7!3m6!1s0x391903000dc8713f:0x57d9a0cea7638c84!8m2!3d31.4667934!4d74.2430817!16s%2Fg%2F11y56mxvzv!19sChIJP3HIDQADGTkRhIxjp86g2Vc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:51",
+    "keyword": "Aesthetic Clinics",
+    "name": "Mk Aesthetics Studio",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Mobility+Fit+Physical+Therapy/data=!4m7!3m6!1s0x88408f295860a553:0x30514582d003b4a8!8m2!3d39.6349868!4d-84.1810379!16s%2Fg%2F11cly56d60!19sChIJU6VgWCmPQIgRqLQD0IJFUTA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:46",
+    "keyword": "Pest Control",
+    "name": "Mobility Fit Physical Therapy",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/M~Esthetics+Wellness,+Weight+Loss+%26+IV+Hydration/data=!4m7!3m6!1s0x883f5b545396ac83:0x69d64a53c960974e!8m2!3d39.9754012!4d-83.7654956!16s%2Fg%2F11jsvp6235!19sChIJg6yWU1RbP4gRTpdgyVNK1mk?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:32",
     "keyword": "Med Spas",
     "name": "M~Esthetics Wellness, Weight Loss & IV Hydration",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/NUR+SKIN+%26+AESTHETICS/data=!4m7!3m6!1s0x3919010aa7a5a967:0xc5833d998110d4f7!8m2!3d31.4513878!4d74.2716448!16s%2Fg%2F11shpr8jrs!19sChIJZ6mlpwoBGTkR99QQgZk9g8U?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:56",
+    "keyword": "Aesthetic Clinics",
+    "name": "NUR SKIN & AESTHETICS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Neely+Dental+Team/data=!4m7!3m6!1s0x883f7eee04d3ba3f:0x7dc8b8920f34dd36!8m2!3d39.8888139!4d-84.2126472!16s%2Fg%2F1tjjq126!19sChIJP7rTBO5-P4gRNt00D5K4yH0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:06",
+    "keyword": "Orthodontists",
+    "name": "Neely Dental Team",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/New+Carlisle+Community+Health+Center/data=!4m7!3m6!1s0x883f6424febe217f:0x9b29b8ec84b216f6!8m2!3d39.9374564!4d-84.0248462!16s%2Fg%2F1thp8nnq!19sChIJfyG-_iRkP4gR9hayhOy4KZs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:49",
+    "keyword": "Dental Clinics",
+    "name": "New Carlisle Community Health Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/New+Lebanon+Rehabilitation+and+Healthcare+Center/data=!4m7!3m6!1s0x88407bca1a84ac49:0x9d93d098f37ab077!8m2!3d39.743731!4d-84.3915118!16s%2Fg%2F1tfzslqx!19sChIJSayEGsp7QIgRd7B685jQk50?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:42",
+    "keyword": "Rehab Practices",
+    "name": "New Lebanon Rehabilitation and Healthcare Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/North+Dayton+Family+Dental/data=!4m7!3m6!1s0x8840803661fc9365:0xb9a9355e8093dc11!8m2!3d39.8202787!4d-84.234245!16s%2Fg%2F1q69q1bbw!19sChIJZZP8YTaAQIgREdyTgF41qbk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:06",
+    "keyword": "Orthodontists",
+    "name": "North Dayton Family Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/North+Main+Dental+Inc./data=!4m7!3m6!1s0x8840803b83f40ac7:0x5e7bc5b2c255a192!8m2!3d39.8255173!4d-84.2432209!16s%2Fg%2F1tpc8nc7!19sChIJxwr0gzuAQIgRkqFVwrLFe14?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:38",
+    "keyword": "Dental Clinics",
+    "name": "North Main Dental Inc.",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/North+Park+Dental/data=!4m7!3m6!1s0x883f7cfcf205ced5:0x5448b9f817c3962f!8m2!3d39.8777699!4d-84.1349503!16s%2Fg%2F1vfp8wyf!19sChIJ1c4F8vx8P4gRL5bDF_i5SFQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:49",
+    "keyword": "Dental Clinics",
+    "name": "North Park Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/North+Spring+Dental/data=!4m7!3m6!1s0x883f4ff58add7f17:0x6caa486199e582cc!8m2!3d39.9944415!4d-83.7633927!16s%2Fg%2F1tg9tc76!19sChIJF3_divVPP4gRzILlmWFIqmw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:45",
+    "keyword": "Dental Clinics",
+    "name": "North Spring Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/North+Spring+Dental:+Ahmed+Afshan+DDS/data=!4m7!3m6!1s0x883f4ff58add7f17:0x127c409cdb4b6199!8m2!3d39.994382!4d-83.762271!16s%2Fg%2F1tf16k6l!19sChIJF3_divVPP4gRmWFL25xAfBI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:23",
+    "keyword": "Orthodontists",
+    "name": "North Spring Dental: Ahmed Afshan DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/NovaCare+Rehabilitation+-+Centerville/data=!4m7!3m6!1s0x884089264c7f1349:0xbfdd9b7e948f04af!8m2!3d39.6334334!4d-84.2070875!16s%2Fg%2F1tgxjr57!19sChIJSRN_TCaJQIgRrwSPlH6b3b8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "NovaCare Rehabilitation - Centerville",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/NovaCare+Rehabilitation+-+Huber+Heights/data=!4m7!3m6!1s0x883f7cfdb55d0407:0xb1fabb45a06033a!8m2!3d39.8770006!4d-84.1361598!16s%2Fg%2F1tg8kdg0!19sChIJBwRdtf18P4gROgMGWrSrHws?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "NovaCare Rehabilitation - Huber Heights",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/NovaCare+Rehabilitation+-+Troy/data=!4m7!3m6!1s0x883f764503ee577f:0xe199d228bded84ab!8m2!3d40.0456144!4d-84.2181406!16s%2Fg%2F1w0j08m2!19sChIJf1fuA0V2P4gRq4TtvSjSmeE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "NovaCare Rehabilitation - Troy",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/O%27Brien+Orthodontics/data=!4m7!3m6!1s0x883f803e18c98a7f:0x82edd66c7adb953b!8m2!3d39.8618385!4d-84.2869491!16s%2Fg%2F1tfg3s2c!19sChIJf4rJGD6AP4gRO5XbemzW7YI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:04",
+    "keyword": "Orthodontists",
+    "name": "O'Brien Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/O%27Brien+Orthodontics/data=!4m7!3m6!1s0x88408f0ba067851b:0x508d7601f0f33d77!8m2!3d39.6461337!4d-84.1468938!16s%2Fg%2F1tf7ydfd!19sChIJG4VnoAuPQIgRdz3z8AF2jVA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:04",
+    "keyword": "Orthodontists",
+    "name": "O'Brien Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/O%27Brien+Orthodontics/data=!4m7!3m6!1s0x88409bfc996c3ac7:0x84e52336fa70b5a4!8m2!3d39.7460847!4d-84.0561127!16s%2Fg%2F11fjzq52lk!19sChIJxzpsmfybQIgRpLVw-jYj5YQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:04",
+    "keyword": "Orthodontists",
+    "name": "O'Brien Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/OI+Medical+Aesthetics/data=!4m7!3m6!1s0x8840855ce2f02a55:0x603e10fd45ee4aaa!8m2!3d39.7082041!4d-84.1714359!16s%2Fg%2F11j91qnrf6!19sChIJVSrw4lyFQIgRqkruRf0QPmA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:07:48",
+    "keyword": "Med Spas",
+    "name": "OI Medical Aesthetics",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -657,6 +2253,34 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Ohio+Holistic+Dental+Center/data=!4m7!3m6!1s0x88408926780f0e93:0xf5adac7fb8cf373b!8m2!3d39.6265379!4d-84.1984024!16s%2Fg%2F1hm266gwh!19sChIJkw4PeCaJQIgROzfPuH-srfU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:40",
+    "keyword": "Dental Clinics",
+    "name": "Ohio Holistic Dental Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Ohio+Recovery+Campus+-+Detox+%26+Addiction+Treatment/data=!4m7!3m6!1s0x88408762868c0a1d:0x9b6c6e05b08c6062!8m2!3d39.7460065!4d-84.1907572!16s%2Fg%2F11vc1qzlzn!19sChIJHQqMhmKHQIgRYmCMsAVubJs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "Ohio Recovery Campus - Detox & Addiction Treatment",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Ohio+Skin+Center/data=!4m7!3m6!1s0x884086b0e5626753:0x85f7bfcca43086c2!8m2!3d39.702674!4d-84.15048!16s%2Fg%2F1tgpt8yq!19sChIJU2di5bCGQIgRwoYwpMy_94U?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:44",
+    "keyword": "Aesthetic Clinics",
+    "name": "Ohio Skin Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Ohio+Sport+%26+Spine/data=!4m7!3m6!1s0x88408928e566ea49:0xc508ffe71c4db325!8m2!3d39.612349!4d-84.156789!16s%2Fg%2F11ddx1vn4h!19sChIJSepm5SiJQIgRJbNNHOf_CMU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:46",
+    "keyword": "Pest Control",
+    "name": "Ohio Sport & Spine",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Orient+Spa/data=!4m7!3m6!1s0x8840856d18df9147:0xc7f2e07889b86183!8m2!3d39.6872613!4d-84.1293458!16s%2Fg%2F11b6z3yx0n!19sChIJR5HfGG2FQIgRg2G4iXjg8sc?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:59",
     "keyword": "Med Spas",
@@ -664,10 +2288,164 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Orion+Sports+Medicine/data=!4m7!3m6!1s0x8840897c11e98727:0xc01bd938b505c215!8m2!3d39.603872!4d-84.2428763!16s%2Fg%2F11f67khvmn!19sChIJJ4fpEXyJQIgRFcIFtTjZG8A?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:42",
+    "keyword": "Rehab Practices",
+    "name": "Orion Sports Medicine",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Orkin/data=!4m7!3m6!1s0x8840826b6084d355:0x1b23a8a6f8907d76!8m2!3d39.791001!4d-84.194744!16s%2Fg%2F1tkbyxf9!19sChIJVdOEYGuCQIgRdn2Q-KaoIxs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:44",
+    "keyword": "Pest Control",
+    "name": "Orkin",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Orkin/data=!4m7!3m6!1s0x8840826b6084d355:0x1b23a8a6f8907d76!8m2!3d39.7910013!4d-84.1947441!16s%2Fg%2F1tkbyxf9!19sChIJVdOEYGuCQIgRdn2Q-KaoIxs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:44",
+    "keyword": "Pest Control",
+    "name": "Orkin",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Ortho+Advantage+Physical+Therapy+%26+Sports+Rehab/data=!4m7!3m6!1s0x8840997c8c6560b3:0xb725dded7110399!8m2!3d39.6277657!4d-84.1959311!16s%2Fg%2F1vfn7b7v!19sChIJs2BljHyZQIgRmQMR195dcgs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "Ortho Advantage Physical Therapy & Sports Rehab",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/PAM+Health+Rehabilitation+Hospital+of+Miamisburg/data=!4m7!3m6!1s0x88408919861b7329:0xa37d4cf422a12fd6!8m2!3d39.6358443!4d-84.2428416!16s%2Fg%2F11jsmgsxbq!19sChIJKXMbhhmJQIgR1i-hIvRMfaM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "PAM Health Rehabilitation Hospital of Miamisburg",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Pampering+Palms+Therapeutic+Massage/data=!4m7!3m6!1s0x883f7ef37a7f0aaf:0x1c10c673c71e5352!8m2!3d39.8838272!4d-84.2090454!16s%2Fg%2F1q5hrjc91!19sChIJrwp_evN-P4gRUlMex3PGEBw?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:55",
     "keyword": "Med Spas",
     "name": "Pampering Palms Therapeutic Massage",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Perma-Ink/data=!4m7!3m6!1s0x88408f96b06b2c29:0xad77eefcc44af781!8m2!3d39.6398295!4d-84.1020905!16s%2Fg%2F11t2zp9jk2!19sChIJKSxrsJaPQIgRgfdKxPzud60?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:44",
+    "keyword": "Aesthetic Clinics",
+    "name": "Perma-Ink",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Pham+Orthodontics/data=!4m7!3m6!1s0x883f5ba72f22c0f9:0xf599193be4b6cc01!8m2!3d39.9422267!4d-83.8547953!16s%2Fg%2F11g2yj50lj!19sChIJ-cAiL6dbP4gRAcy25DsZmfU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:04",
+    "keyword": "Orthodontists",
+    "name": "Pham Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Pham+Sang+DDS/data=!4m7!3m6!1s0x883f5b6fffffffff:0x1cc00fbb8696d97!8m2!3d39.9509734!4d-83.8366958!16s%2Fg%2F12603qk0n!19sChIJ_____29bP4gRl21puPsAzAE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:04",
+    "keyword": "Orthodontists",
+    "name": "Pham Sang DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Physical+Therapy+212/data=!4m7!3m6!1s0x883f7720938392d5:0x5374708d9655ce4c!8m2!3d40.052211!4d-84.1941712!16s%2Fg%2F11g03gv6xn!19sChIJ1ZKDkyB3P4gRTM5Vlo1wdFM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:46",
+    "keyword": "Pest Control",
+    "name": "Physical Therapy 212",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Physical+Therapy+and+Sports+Medicine+at+Miami+Valley+Health+Center+Huber+Heights/data=!4m7!3m6!1s0x883f7dfee12a2041:0x9854f1e7da3f3b6a!8m2!3d39.8441968!4d-84.1173409!16s%2Fg%2F11fnvflcnr!19sChIJQSAq4f59P4gRajs_2ufxVJg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:46",
+    "keyword": "Pest Control",
+    "name": "Physical Therapy and Sports Medicine at Miami Valley Health Center Huber Heights",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Physical+Therapy+and+Sports+Medicine+at+Miami+Valley+Hospital+North+Campus/data=!4m7!3m6!1s0x883f81a34a6114ff:0x5922273dff7e7dd7!8m2!3d39.8559483!4d-84.2718279!16s%2Fg%2F11fmvbn6r6!19sChIJ_xRhSqOBP4gR131-_z0nIlk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:42",
+    "keyword": "Rehab Practices",
+    "name": "Physical Therapy and Sports Medicine at Miami Valley Hospital North Campus",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Physical+Therapy+and+Sports+Medicine+at+Miami+Valley+Hospital+South+Campus/data=!4m7!3m6!1s0x88408f00ac008037:0xbf58b01363658588!8m2!3d39.6528779!4d-84.1143586!16s%2Fg%2F11smnr7ccy!19sChIJN4AArACPQIgRiIVlYxOwWL8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:39",
+    "keyword": "Rehab Practices",
+    "name": "Physical Therapy and Sports Medicine at Miami Valley Hospital South Campus",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Physical+Therapy+and+Sports+Medicine+in+Beavercreek+%28operated+by+Miami+Valley+Hospital%29/data=!4m7!3m6!1s0x88409ba260d3959f:0xbad7d4416c0ea84b!8m2!3d39.7251087!4d-84.0516031!16s%2Fg%2F11b6qvc8mm!19sChIJn5XTYKKbQIgRS6gObEHU17o?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:42",
+    "keyword": "Rehab Practices",
+    "name": "Physical Therapy and Sports Medicine in Beavercreek (operated by Miami Valley Hospital)",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Physical+Therapy+and+Sports+Medicine+on+Brown+Street+%28operated+by+Miami+Valley+Hospital%29/data=!4m7!3m6!1s0x884085cb355d4487:0x94af061c43933911!8m2!3d39.7358063!4d-84.1815507!16s%2Fg%2F11vjz4s9sn!19sChIJh0RdNcuFQIgRETmTQxwGr5Q?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:42",
+    "keyword": "Rehab Practices",
+    "name": "Physical Therapy and Sports Medicine on Brown Street (operated by Miami Valley Hospital)",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Physical+Therapy+at+Claybourne+Medical+Center+%28operated+by+Miami+Valley+Hospital%29/data=!4m7!3m6!1s0x884085f00fe83e5b:0xe738a17b9b9fa4f!8m2!3d39.6887561!4d-84.1388552!16s%2Fg%2F1w4f8slp!19sChIJWz7oD_CFQIgRT_q5uReKcw4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:46",
+    "keyword": "Pest Control",
+    "name": "Physical Therapy at Claybourne Medical Center (operated by Miami Valley Hospital)",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Physical+Therapy+at+Outpatient+Care+Center+South+%28operated+by+Upper+Valley+Medical+Center%29/data=!4m7!3m6!1s0x883f77b918e4d36d:0x2aca46439c84e91!8m2!3d40.0333425!4d-84.2298472!16s%2Fg%2F11wq7_4tzq!19sChIJbdPkGLl3P4gRkU7IOWSkrAI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:42",
+    "keyword": "Rehab Practices",
+    "name": "Physical Therapy at Outpatient Care Center South (operated by Upper Valley Medical Center)",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Physical+Therapy+in+Franklin+%28operated+by+Atrium+Medical+Center%29/data=!4m7!3m6!1s0x884061a309bd4fe9:0xef9bfd4b2c77e59b!8m2!3d39.564736!4d-84.2866165!16s%2Fg%2F11h51b359d!19sChIJ6U-9CaNhQIgRm-V3LEv9m-8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:46",
+    "keyword": "Pest Control",
+    "name": "Physical Therapy in Franklin (operated by Atrium Medical Center)",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Physical+Therapy+in+Jamestown+%28operated+by+Miami+Valley+Hospital%29/data=!4m7!3m6!1s0x8840af914d0b9661:0x18c593507a0a3c5b!8m2!3d39.6549731!4d-83.7508982!16s%2Fg%2F11h519zhh6!19sChIJYZYLTZGvQIgRWzwKelCTxRg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:46",
+    "keyword": "Pest Control",
+    "name": "Physical Therapy in Jamestown (operated by Miami Valley Hospital)",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Pink+Power+Pest+Control/data=!4m7!3m6!1s0x883f770e5e2cc59b:0xce1ecd5f8518b6f!8m2!3d40.04842!4d-84.225623!16s%2Fg%2F11v_0qn7g9!19sChIJm8UsXg53P4gRb4tR-NXs4Qw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:44",
+    "keyword": "Pest Control",
+    "name": "Pink Power Pest Control",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Platinum+Dentistry/data=!4m7!3m6!1s0x884084466854769d:0x37b0b50ae211168c!8m2!3d39.723594!4d-84.1602986!16s%2Fg%2F1v3h_nnc!19sChIJnXZUaEaEQIgRjBYR4gq1sDc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:45",
+    "keyword": "Dental Clinics",
+    "name": "Platinum Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Polaris+Dental+Care:+London+Springfield/data=!4m7!3m6!1s0x883f53b274681a0b:0xfb3185e386e30029!8m2!3d39.926844!4d-83.6459558!16s%2Fg%2F11c3tj8j7c!19sChIJCxpodLJTP4gRKQDjhuOFMfs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:45",
+    "keyword": "Dental Clinics",
+    "name": "Polaris Dental Care: London Springfield",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Pope+Orthodontics:+Pope+Ted+R+DDS/data=!4m7!3m6!1s0x883f803e18c98a7f:0x598e63037cf6797a!8m2!3d39.8617616!4d-84.287146!16s%2Fg%2F1tl_md4w!19sChIJf4rJGD6AP4gRenn2fANjjlk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:04",
+    "keyword": "Orthodontists",
+    "name": "Pope Orthodontics: Pope Ted R DDS",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -682,6 +2460,34 @@
     "discovered_at": "2026-05-22T01:51:22",
     "keyword": "Dental Clinics",
     "name": "Preferred Family Dental - Dayton",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Preferred+Family+Dental+-+Dayton/data=!4m7!3m6!1s0x883f801e698417b1:0xad64abdc80c7f419!8m2!3d39.853948!4d-84.274389!16s%2Fg%2F1vxf_vlq!19sChIJsReEaR6AP4gRGfTHgNyrZK0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:22",
+    "keyword": "Dental Clinics",
+    "name": "Preferred Family Dental - Dayton",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Premier+Dental+of+Beavercreek/data=!4m7!3m6!1s0x88409dc01a12973f:0x3e7612f690a72c21!8m2!3d39.7526242!4d-84.0549181!16s%2Fg%2F11g4j5pl2m!19sChIJP5cSGsCdQIgRISynkPYSdj4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:44",
+    "keyword": "Dental Clinics",
+    "name": "Premier Dental of Beavercreek",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Premier+Dental+of+Oakwood/data=!4m7!3m6!1s0x884085b566767f8b:0x18a05dcd2752a059!8m2!3d39.7216725!4d-84.1606602!16s%2Fg%2F11g1941dxj!19sChIJi392ZrWFQIgRWaBSJ81doBg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:06",
+    "keyword": "Orthodontists",
+    "name": "Premier Dental of Oakwood",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Premier+Dental/data=!4m7!3m6!1s0x883f65ec7668ab17:0x6bc90db6fb799a1e!8m2!3d39.941057!4d-84.0227803!16s%2Fg%2F11kb2j7h75!19sChIJF6toduxlP4gRHpp5-7YNyWs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:16",
+    "keyword": "Orthodontists",
+    "name": "Premier Dental",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -706,10 +2512,24 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Pure+Life+Medspa/data=!4m7!3m6!1s0x88400de5ad9f1ad7:0x867da7565ca1c685!8m2!3d39.7706308!4d-84.6370804!16s%2Fg%2F11vsyz9rzv!19sChIJ1xqfreUNQIgRhcahXFanfYY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:07:52",
+    "keyword": "Med Spas",
+    "name": "Pure Life Medspa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Pure+Lux+Day+Spa/data=!4m7!3m6!1s0x883f7bb76d7df889:0xb839f77e3c8cde01!8m2!3d39.9605636!4d-84.1837547!16s%2Fg%2F11xgnhl6fs!19sChIJifh9bbd7P4gRAd6MPH73Obg?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:38",
     "keyword": "Med Spas",
     "name": "Pure Lux Day Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Pure+Smiles+-+Tipp+City/data=!4m7!3m6!1s0x883f7bd5486b145d:0x58c929ec0a39a999!8m2!3d39.957919!4d-84.1837649!16s%2Fg%2F1tftf_56!19sChIJXRRrSNV7P4gRmak5CuwpyVg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:06",
+    "keyword": "Orthodontists",
+    "name": "Pure Smiles - Tipp City",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -741,6 +2561,55 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/ReSure+Aesthetics/data=!4m7!3m6!1s0x39190334959943ab:0xd869bfa632bffa22!8m2!3d31.4690021!4d74.2514215!16s%2Fg%2F11lf1plywl!19sChIJq0OZlTQDGTkRIvq_Mqa_adg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:51",
+    "keyword": "Aesthetic Clinics",
+    "name": "ReSure Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Rehab+Med+Associates/data=!4m7!3m6!1s0x883f7707f616beb5:0x1a6f8e35df9edbcd!8m2!3d40.0333038!4d-84.2276798!16s%2Fg%2F1tg_gqzb!19sChIJtb4W9gd3P4gRzdue3zWObxo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "Rehab Med Associates",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Rehab+Med+H+and+H,+LLC/data=!4m7!3m6!1s0x883f7707f616beb5:0x2d501b411e3dc410!8m2!3d40.0333038!4d-84.2276798!16s%2Fg%2F1tdb9hw0!19sChIJtb4W9gd3P4gREMQ9HkEbUC0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:46",
+    "keyword": "Pest Control",
+    "name": "Rehab Med H and H, LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Rehab+Medical+of+Dayton/data=!4m7!3m6!1s0x883f773069412d23:0x7064de8e9623ac11!8m2!3d39.8019295!4d-84.1742741!16s%2Fg%2F11ry5h9hvm!19sChIJIy1BaTB3P4gREawjlo7eZHA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:42",
+    "keyword": "Rehab Practices",
+    "name": "Rehab Medical of Dayton",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Rehabilitation+Services-+Eaton/data=!4m7!3m6!1s0x88400cf63de9b8eb:0x1d6df3a3bb26f830!8m2!3d39.7488638!4d-84.6471593!16s%2Fg%2F1ts1sxpc!19sChIJ67jpPfYMQIgRMPgmu6PzbR0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:42",
+    "keyword": "Rehab Practices",
+    "name": "Rehabilitation Services- Eaton",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Rehabilitation+Services/data=!4m7!3m6!1s0x883f7707f616beb5:0xe83f24a69862101e!8m2!3d40.0333425!4d-84.2298472!16s%2Fg%2F1tp1zh4l!19sChIJtb4W9gd3P4gRHhBimKYkP-g?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:46",
+    "keyword": "Pest Control",
+    "name": "Rehabilitation Services",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Reichley+Dental+Group/data=!4m7!3m6!1s0x88409b9128460f6b:0x41bb6a1c11d1e963!8m2!3d39.7314753!4d-84.0457598!16s%2Fg%2F1tgx2q0c!19sChIJaw9GKJGbQIgRY-nRERxqu0E?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:06",
+    "keyword": "Orthodontists",
+    "name": "Reichley Dental Group",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Renew+Boutique+and+Spa/data=!4m7!3m6!1s0x8840876a688099ed:0xe44710ec0ef8686d!8m2!3d39.6960656!4d-84.1900367!16s%2Fg%2F11j8zfqnb6!19sChIJ7ZmAaGqHQIgRbWj4DuwQR-Q?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:53:01",
     "keyword": "Med Spas",
@@ -769,10 +2638,38 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Restorative+Family+Dental:+Dr.+Angy+Mounir-Toufils+D.M.D./data=!4m7!3m6!1s0x88408ee1d3cf0f33:0x303b7477f9b2fcdd!8m2!3d39.62848!4d-84.1616647!16s%2Fg%2F1tj33tk2!19sChIJMw_P0-GOQIgR3fyy-Xd0OzA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:06",
+    "keyword": "Orthodontists",
+    "name": "Restorative Family Dental: Dr. Angy Mounir-Toufils D.M.D.",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Restore+Hyper+Wellness/data=!4m7!3m6!1s0x88409d850860e589:0x546e74a8a29b4a93!8m2!3d39.7704386!4d-84.050809!16s%2Fg%2F11rtyzxx6m!19sChIJieVgCIWdQIgRk0qboqh0blQ?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:35",
     "keyword": "Med Spas",
     "name": "Restore Hyper Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Revive+Medicine/data=!4m7!3m6!1s0x88408b184868582d:0x81e668368a68b740!8m2!3d39.5622749!4d-84.2328982!16s%2Fg%2F11y305vzbk!19sChIJLVhoSBiLQIgRQLdoijZo5oE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:07:58",
+    "keyword": "Med Spas",
+    "name": "Revive Medicine",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Revive+Spa+%26+Skincare/data=!4m7!3m6!1s0x8840009004aa00c3:0x9b5f0ff89d62287a!8m2!3d39.8579512!4d-84.8877333!16s%2Fg%2F11gcz3cf3d!19sChIJwwCqBJAAQIgReihinfgPX5s?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:18",
+    "keyword": "Med Spas",
+    "name": "Revive Spa & Skincare",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Royal+Aesthetic+%26+Medicos+Clinic/data=!4m7!3m6!1s0x3919010034e40d1f:0x8bf1f4655de493d2!8m2!3d31.4546738!4d74.2827343!16s%2Fg%2F11x20gc203!19sChIJHw3kNAABGTkR0pPkXWX08Ys?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:52",
+    "keyword": "Aesthetic Clinics",
+    "name": "Royal Aesthetic & Medicos Clinic",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -783,10 +2680,59 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Ryckman+Orthodontics/data=!4m7!3m6!1s0x8840844883750fd9:0x38fbceb7336fdb76!8m2!3d39.7213649!4d-84.1614648!16s%2Fg%2F1tdzrtt8!19sChIJ2Q91g0iEQIgRdttvM7fO-zg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:04",
+    "keyword": "Orthodontists",
+    "name": "Ryckman Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Ryckman+Orthodontics/data=!4m7!3m6!1s0x88409ba27c12a0e9:0x7c51f54402e0653d!8m2!3d39.726371!4d-84.0511438!16s%2Fg%2F1thsb0r1!19sChIJ6aASfKKbQIgRPWXgAkT1UXw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:04",
+    "keyword": "Orthodontists",
+    "name": "Ryckman Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/SAS+Med+Spa/data=!4m7!3m6!1s0x883f5badeb448411:0x7a900e296f4d300a!8m2!3d39.9646397!4d-83.7877655!16s%2Fg%2F11cs6c63t0!19sChIJEYRE661bP4gRCjBNbykOkHo?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:28",
     "keyword": "Med Spas",
     "name": "SAS Med Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/SN+Show+Room/data=!4m7!3m6!1s0x391903a4889b4a79:0x42b25603292f5c26!8m2!3d31.471325!4d74.2561307!16s%2Fg%2F11v3gcd_xh!19sChIJeUqbiKQDGTkRJlwvKQNWskI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:47",
+    "keyword": "Aesthetic Clinics",
+    "name": "SN Show Room",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Salem+Dental+Center/data=!4m7!3m6!1s0x88408118072eb2d7:0xf387a899e4e9d185!8m2!3d39.7761392!4d-84.2173558!16s%2Fg%2F1ts2_z0q!19sChIJ17IuBxiBQIgRhdHp5Jmoh_M?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:06",
+    "keyword": "Orthodontists",
+    "name": "Salem Dental Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Samuel+King+B+DDS/data=!4m7!3m6!1s0x88408f6d2ebe09c3:0x30b4d3a27a4512b0!8m2!3d39.6498044!4d-84.1563922!16s%2Fg%2F1vf9d13n!19sChIJwwm-Lm2PQIgRsBJFeqLTtDA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:23",
+    "keyword": "Orthodontists",
+    "name": "Samuel King B DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Schamel+Family+Dentistry+--+Formerly+Parkway+Dental/data=!4m7!3m6!1s0x88408f98166cd8f9:0xfc5fe2a5d94b3c5d!8m2!3d39.6490126!4d-84.1336015!16s%2Fg%2F1td3m87z!19sChIJ-dhsFpiPQIgRXTxL2aXiX_w?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:06",
+    "keyword": "Orthodontists",
+    "name": "Schamel Family Dentistry -- Formerly Parkway Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Scherzinger+Pest+Control/data=!4m7!3m6!1s0x883f61f0799956d9:0x57a014f16c68e712!8m2!3d39.8372895!4d-84.0083158!16s%2Fg%2F124yn776s!19sChIJ2VaZefBhP4gREudobPEUoFc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:44",
+    "keyword": "Pest Control",
+    "name": "Scherzinger Pest Control",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -811,6 +2757,20 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Settlers+Walk+Dental+Care/data=!4m7!3m6!1s0x88408a32567ad15b:0x2b2ee9ecc144b55d!8m2!3d39.5575681!4d-84.2332352!16s%2Fg%2F1tj1n5t6!19sChIJW9F6VjKKQIgRXbVEwezpLis?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:06",
+    "keyword": "Orthodontists",
+    "name": "Settlers Walk Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Seva+Dental+-+Dr.+Nimisha+Somaiya/data=!4m7!3m6!1s0x88408fda677b7b3d:0xf4861ccefd22687!8m2!3d39.6371584!4d-84.1088284!16s%2Fg%2F1hc18yyrq!19sChIJPXt7Z9qPQIgRhybS78xhSA8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:40",
+    "keyword": "Dental Clinics",
+    "name": "Seva Dental - Dr. Nimisha Somaiya",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Shanti+Medical+Massage+Clinic,+LLC/data=!4m7!3m6!1s0x88408f604c700491:0x16d0fbc217cfed5f!8m2!3d39.630763!4d-84.1744499!16s%2Fg%2F1tmqs0_3!19sChIJkQRwTGCPQIgRX-3PF8L70BY?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:57",
     "keyword": "Med Spas",
@@ -832,10 +2792,87 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Sincere+Counseling,+LLC/data=!4m7!3m6!1s0x883f7720ecc84631:0x501ebd8d3995b340!8m2!3d40.0395562!4d-84.2041002!16s%2Fg%2F11f_1qj0jg!19sChIJMUbI7CB3P4gRQLOVOY29HlA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:46",
+    "keyword": "Aesthetic Clinics",
+    "name": "Sincere Counseling, LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Skin+%26+Scalp+Restoration+Clinic/data=!4m7!3m6!1s0x884085e8a0d5adb5:0xb8412f482ab542dd!8m2!3d39.7027644!4d-84.1518791!16s%2Fg%2F11gxn5hqxc!19sChIJta3VoOiFQIgR3UK1KkgvQbg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:44",
+    "keyword": "Aesthetic Clinics",
+    "name": "Skin & Scalp Restoration Clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Skinique+Aesthetics/data=!4m7!3m6!1s0x3919033b44f01123:0x4e0ed0508d168128!8m2!3d31.4670439!4d74.2528118!16s%2Fg%2F11x_sgjwh4!19sChIJIxHwRDsDGTkRKIEWjVDQDk4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:51",
+    "keyword": "Aesthetic Clinics",
+    "name": "Skinique Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Skinnovation+Johar+Town/data=!4m7!3m6!1s0x39190399f33d1a1f:0x1d51f96b7c4b3b55!8m2!3d31.4710119!4d74.2603996!16s%2Fg%2F11frwqd01c!19sChIJHxo985kDGTkRVTtLfGv5UR0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:51",
+    "keyword": "Aesthetic Clinics",
+    "name": "Skinnovation Johar Town",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Smile+Doctors+Orthodontics+-+Miamisburg/data=!4m7!3m6!1s0x88408829446ae709:0xa964bcf1624a5a1!8m2!3d39.63955!4d-84.26731!16s%2Fg%2F1td4kt5j!19sChIJCedqRCmIQIgRoaUkFs9Llgo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:04",
+    "keyword": "Orthodontists",
+    "name": "Smile Doctors Orthodontics - Miamisburg",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Smile+Innovations/data=!4m7!3m6!1s0x88409e807f475e07:0x1aa74001c6880e61!8m2!3d39.785475!4d-83.9982524!16s%2Fg%2F1td_z8gz!19sChIJB15Hf4CeQIgRYQ6IxgFApxo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:40",
+    "keyword": "Dental Clinics",
+    "name": "Smile Innovations",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Smile+Solutions+Beavercreek+Family+Dentistry/data=!4m7!3m6!1s0x88409c7ea012ed55:0x885dacd97970b91b!8m2!3d39.752194!4d-84.054878!16s%2Fg%2F1tct9d8h!19sChIJVe0SoH6cQIgRG7lwedmsXYg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:58",
+    "keyword": "Orthodontists",
+    "name": "Smile Solutions Beavercreek Family Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Smile+Solutions+Beavercreek+Family+Dentistry/data=!4m7!3m6!1s0x88409c7ea012ed55:0x885dacd97970b91b!8m2!3d39.7521944!4d-84.0548777!16s%2Fg%2F1tct9d8h!19sChIJVe0SoH6cQIgRG7lwedmsXYg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:41",
+    "keyword": "Dental Clinics",
+    "name": "Smile Solutions Beavercreek Family Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Smith+Orthodontics/data=!4m7!3m6!1s0x88409da685bd5ae5:0xd7587113bc613f0b!8m2!3d39.7584999!4d-84.0541867!16s%2Fg%2F11h5wp50__!19sChIJ5Vq9haadQIgRCz9hvBNxWNc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:01",
+    "keyword": "Orthodontists",
+    "name": "Smith Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Soin+Medical+Center+-+Kettering+Health/data=!4m7!3m6!1s0x88409cf45c704991:0xf5ecc459e9fccbbe!8m2!3d39.7708926!4d-84.0624667!16s%2Fm%2F0j65v6k!19sChIJkUlwXPScQIgRvsv86VnE7PU?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:53:01",
     "keyword": "Med Spas",
     "name": "Soin Medical Center - Kettering Health",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/South+Dayton+Smiles/data=!4m7!3m6!1s0x8840890ab588cc79:0xc873f422c4e34e43!8m2!3d39.6147509!4d-84.226191!16s%2Fg%2F1vpq7kqw!19sChIJecyItQqJQIgRQ07jxCL0c8g?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:49",
+    "keyword": "Dental Clinics",
+    "name": "South Dayton Smiles",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Southview+Therapy+At+Yankee/data=!4m7!3m6!1s0x884088d9436e397d:0x7387a193732435a2!8m2!3d39.6358712!4d-84.2005231!16s%2Fg%2F1tx8twyd!19sChIJfTluQ9mIQIgRojUkc5Ohh3M?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:46",
+    "keyword": "Pest Control",
+    "name": "Southview Therapy At Yankee",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -846,10 +2883,122 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Spa+Dental/data=!4m7!3m6!1s0x88408f7544b33be7:0x6b418d1bedec3a81!8m2!3d39.6438076!4d-84.133622!16s%2Fg%2F11tmdflgqp!19sChIJ5zuzRHWPQIgRgTrs7RuNQWs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:49",
+    "keyword": "Dental Clinics",
+    "name": "Spa Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Spa+Medicca/data=!4m7!3m6!1s0x88408f98943f786f:0x9a7233a5528fd791!8m2!3d39.651996!4d-84.1333873!16s%2Fg%2F1tftlx00!19sChIJb3g_lJiPQIgRkdePUqUzcpo?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:28",
     "keyword": "Med Spas",
     "name": "Spa Medicca",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Springboro+Dental+Center/data=!4m7!3m6!1s0x88408a4c1880fcef:0x7db69c6a6bc87c20!8m2!3d39.5644526!4d-84.2327317!16s%2Fg%2F1tdfttr1!19sChIJ7_yAGEyKQIgRIHzIa2qctn0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:40",
+    "keyword": "Dental Clinics",
+    "name": "Springboro Dental Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Springfield+Chiropractic+and+Rehab+LLC/data=!4m7!3m6!1s0x883f5db4c5d1f3e1:0xf3e856367bf32c4f!8m2!3d39.940769!4d-83.8551259!16s%2Fg%2F11j8_7t58q!19sChIJ4fPRxbRdP4gRTyzzezZW6PM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:46",
+    "keyword": "Pest Control",
+    "name": "Springfield Chiropractic and Rehab LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Springfield+Dental+Group/data=!4m7!3m6!1s0x883f5ae247a385c9:0x9562382036cfb1eb!8m2!3d39.9583914!4d-83.7868284!16s%2Fg%2F1td6sxkl!19sChIJyYWjR-JaP4gR67HPNiA4YpU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:49",
+    "keyword": "Dental Clinics",
+    "name": "Springfield Dental Group",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Springfield+Family+Dentistry+-+E+HIGH+St,+Dr+Linda+Zhang+DMD/data=!4m7!3m6!1s0x883f5a6c3a3017cf:0x5ca8e19eb79b250b!8m2!3d39.921343!4d-83.7763838!16s%2Fg%2F1vn9ps1m!19sChIJzxcwOmxaP4gRCyWbt57hqFw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:38",
+    "keyword": "Dental Clinics",
+    "name": "Springfield Family Dentistry - E HIGH St, Dr Linda Zhang DMD",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Springfield+Gentle+Dental/data=!4m7!3m6!1s0x883f5ae06e7fbe23:0x99d4a080fc85f7b2!8m2!3d39.9585976!4d-83.8028124!16s%2Fg%2F1td1w3g1!19sChIJI75_buBaP4gRsveF_ICg1Jk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:49",
+    "keyword": "Dental Clinics",
+    "name": "Springfield Gentle Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Springfield+Smiles/data=!4m7!3m6!1s0x883f5ae3eb98a307:0x25311feea7dfaae8!8m2!3d39.9750886!4d-83.7663132!16s%2Fg%2F1tvdkgmd!19sChIJB6OY6-NaP4gR6Krfp-4fMSU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:08",
+    "keyword": "Orthodontists",
+    "name": "Springfield Smiles",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Sprowls+Orthodontics/data=!4m7!3m6!1s0x88408a70a2acdabf:0xc32ab566272499a!8m2!3d39.5631777!4d-84.2631981!16s%2Fg%2F1tdpgwt2!19sChIJv9qsonCKQIgRmklyYlarMgw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:04",
+    "keyword": "Orthodontists",
+    "name": "Sprowls Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Sprowls+Orthodontics/data=!4m7!3m6!1s0x88408eeb8b5d5bfd:0xfeae832238f3a862!8m2!3d39.6122034!4d-84.1596335!16s%2Fg%2F11bzsdyxlg!19sChIJ_Vtdi-uOQIgRYqjzOCKDrv4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:04",
+    "keyword": "Orthodontists",
+    "name": "Sprowls Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Steve+A+Sato+DDS/data=!4m7!3m6!1s0x884086a68d0c7d13:0x8137275ce27512ae!8m2!3d39.740331!4d-84.191131!16s%2Fg%2F1262rgxjd!19sChIJE30MjaaGQIgRrhJ14lwnN4E?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:45",
+    "keyword": "Dental Clinics",
+    "name": "Steve A Sato DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Steve+Shufflebarger+DDS/data=!4m7!3m6!1s0x88409eb8afb2e497:0xa2075ae6283cce35!8m2!3d39.7242351!4d-84.0556891!16s%2Fg%2F1tgfqt80!19sChIJl-Syr7ieQIgRNc48KOZaB6I?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:45",
+    "keyword": "Dental Clinics",
+    "name": "Steve Shufflebarger DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Stonecreek+Dental/data=!4m7!3m6!1s0x88408f6a0433982f:0xc7389de71bb0c038!8m2!3d39.6078979!4d-84.1600292!16s%2Fg%2F1thw2t_2!19sChIJL5gzBGqPQIgROMCwG-edOMc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:12",
+    "keyword": "Orthodontists",
+    "name": "Stonecreek Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Stonecreek+Dental/data=!4m7!3m6!1s0x8840a27e296dc8b1:0xa420b8e70cc86f44!8m2!3d39.6996883!4d-83.9289954!16s%2Fg%2F1tfrhfsg!19sChIJschtKX6iQIgRRG_IDOe4IKQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:45",
+    "keyword": "Dental Clinics",
+    "name": "Stonecreek Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Striebel+Dentistry+-+David+J.+Striebel,+DDS/data=!4m7!3m6!1s0x884086475bc5cb33:0x7090c50413698d5a!8m2!3d39.6938193!4d-84.212832!16s%2Fg%2F1tf7ydd_!19sChIJM8vFW0eGQIgRWo1pEwTFkHA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:21",
+    "keyword": "Orthodontists",
+    "name": "Striebel Dentistry - David J. Striebel, DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Sugarcreek+Health+Center/data=!4m7!3m6!1s0x88408f4730b6cb91:0xb6af861e7df27b5e!8m2!3d39.6418266!4d-84.1081619!16s%2Fg%2F11k6hpqvjv!19sChIJkcu2MEePQIgRXnvyfR6Gr7Y?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:46",
+    "keyword": "Pest Control",
+    "name": "Sugarcreek Health Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Sunrise+Treatment+Center+-+Dayton/data=!4m7!3m6!1s0x884087b8f194806f:0x481362a1e137cac6!8m2!3d39.7355359!4d-84.2078378!16s%2Fg%2F11h3cqyznp!19sChIJb4CU8biHQIgRxso34aFiE0g?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "Sunrise Treatment Center - Dayton",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -860,6 +3009,13 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Synergy+Family+Therapy+Specialists,+Inc./data=!4m7!3m6!1s0x88408f945f3ce5d3:0x890771b5435527c1!8m2!3d39.6508588!4d-84.1251388!16s%2Fg%2F11b73ybwxm!19sChIJ0-U8X5SPQIgRwSdVQ7VxB4k?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:46",
+    "keyword": "Pest Control",
+    "name": "Synergy Family Therapy Specialists, Inc.",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/TakeTatt+Tattoo+Removal/data=!4m7!3m6!1s0x884089bcfd508a63:0x4b9bca7b3479c98c!8m2!3d39.6354873!4d-84.2184073!16s%2Fg%2F11ry6brym7!19sChIJY4pQ_byJQIgRjMl5NHvKm0s?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:59",
     "keyword": "Med Spas",
@@ -867,10 +3023,80 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Taylorsville+Family+Dental/data=!4m7!3m6!1s0x883f7d323bd80ead:0x788b024fbbe534fd!8m2!3d39.8611002!4d-84.1056018!16s%2Fg%2F12hm2y7mx!19sChIJrQ7YOzJ9P4gR_TTlu08Ci3g?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:44",
+    "keyword": "Dental Clinics",
+    "name": "Taylorsville Family Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Terminix/data=!4m7!3m6!1s0x883f7e13283fce5d:0xff43871b56ee3c48!8m2!3d39.8561278!4d-84.1998963!16s%2Fg%2F1w97w1fn!19sChIJXc4_KBN-P4gRSDzuVhuHQ_8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:44",
+    "keyword": "Pest Control",
+    "name": "Terminix",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Terminix/data=!4m7!3m6!1s0x88408962a22d72c9:0x917381914d5640e3!8m2!3d39.6308884!4d-84.2222484!16s%2Fg%2F11x6x2n4wg!19sChIJyXItomKJQIgR40BWTZGBc5E?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:44",
+    "keyword": "Pest Control",
+    "name": "Terminix",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/The+Aesthetic+Clinic+by+Dental+practice/data=!4m7!3m6!1s0x391903b1138b2e6b:0x5e6f967442d32b12!8m2!3d31.479784!4d74.2549117!16s%2Fg%2F11hj7mcwlj!19sChIJay6LE7EDGTkREivTQnSWb14?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:51",
+    "keyword": "Aesthetic Clinics",
+    "name": "The Aesthetic Clinic by Dental practice",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/The+Aesthetic+Lounge/data=!4m7!3m6!1s0x391901971d10e4b3:0x5c4d3220646ff817!8m2!3d31.4682682!4d74.2960426!16s%2Fg%2F11yz8h_zc3!19sChIJs-QQHZcBGTkRF_hvZCAyTVw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:56",
+    "keyword": "Aesthetic Clinics",
+    "name": "The Aesthetic Lounge",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/The+Aesthetics/data=!4m7!3m6!1s0x391903af5d8f6355:0xc509562fcc4a2c94!8m2!3d31.4692323!4d74.2727387!16s%2Fg%2F11ypqsb6b2!19sChIJVWOPXa8DGTkRlCxKzC9WCcU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:46",
+    "keyword": "Aesthetic Clinics",
+    "name": "The Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/The+Beauty+Beneath/data=!4m7!3m6!1s0x883f7feb3d6249d3:0xc0bca274562c6c32!8m2!3d39.8844818!4d-84.2244917!16s%2Fg%2F11rd300vb2!19sChIJ00liPet_P4gRMmwsVnSivMA?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:36",
     "keyword": "Med Spas",
     "name": "The Beauty Beneath",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/The+Body+-+Aesthetic+%26+Dental+care/data=!4m7!3m6!1s0x3919035da37e4929:0xc7d1fc20eea655a2!8m2!3d31.468342!4d74.267772!16s%2Fg%2F11y2hrv534!19sChIJKUl-o10DGTkRolWm7iD80cc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:47",
+    "keyword": "Aesthetic Clinics",
+    "name": "The Body - Aesthetic & Dental care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/The+Clinic+Lahore/data=!4m7!3m6!1s0x3919037add012f0b:0x795c7901ecebe993!8m2!3d31.4608788!4d74.2756412!16s%2Fg%2F11h2gwgmvz!19sChIJCy8B3XoDGTkRk-nr7AF5XHk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:59",
+    "keyword": "Aesthetic Clinics",
+    "name": "The Clinic Lahore",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/The+Ohio+Periodontal+And+Dental+Implant+Center/data=!4m7!3m6!1s0x884084a3926ceae3:0xf7a0386ac301c8e1!8m2!3d39.743538!4d-84.1179233!16s%2Fg%2F1hbpws87f!19sChIJ4-pskqOEQIgR4cgBw2o4oPc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:49",
+    "keyword": "Dental Clinics",
+    "name": "The Ohio Periodontal And Dental Implant Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/The+Rehabilitation+Institute+of+Ohio/data=!4m7!3m6!1s0x884086b0e5626777:0xc61682d371073a55!8m2!3d39.7471833!4d-84.188861!16s%2Fg%2F1thlnrqn!19sChIJd2di5bCGQIgRVToHcdOCFsY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "The Rehabilitation Institute of Ohio",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -888,10 +3114,24 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Tipp+City+Pest+Solutions/data=!4m7!3m6!1s0x883faf5b9578af93:0x9d9d6d04e6396203!8m2!3d39.9562315!4d-84.2283118!16s%2Fg%2F11dxhbr1_4!19sChIJk694lVuvP4gRA2I55gRtnZ0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:44",
+    "keyword": "Pest Control",
+    "name": "Tipp City Pest Solutions",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Total+Image+Salon+%26+Day+Spa/data=!4m7!3m6!1s0x883f79e233f2be55:0x57513e31688f2031!8m2!3d39.9976852!4d-84.2013429!16s%2Fg%2F1vfp8wyc!19sChIJVb7yM-J5P4gRMSCPaDE-UVc?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:53:03",
     "keyword": "Med Spas",
     "name": "Total Image Salon & Day Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Town+%26+Country+Dentistry/data=!4m7!3m6!1s0x883f642f45f31191:0x3328f51d5f38241!8m2!3d39.9368249!4d-84.0266766!16s%2Fg%2F1tcwgnlv!19sChIJkRHzRS9kP4gRQYLz1VGPMgM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:45",
+    "keyword": "Dental Clinics",
+    "name": "Town & Country Dentistry",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -902,10 +3142,52 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Troy+Rehabilitation+and+Healthcare+Center/data=!4m7!3m6!1s0x883f7706993c1285:0x44e4a8edfc41c7b4!8m2!3d40.035811!4d-84.2231163!16s%2Fg%2F1tdn4sbt!19sChIJhRI8mQZ3P4gRtMdB_O2o5EQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "Troy Rehabilitation and Healthcare Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Turn+Back+Time+Aesthetics+and+Wellness/data=!4m7!3m6!1s0x884091a6c045f44f:0x96c424d7c3595233!8m2!3d39.6359257!4d-84.0722745!16s%2Fg%2F11wg2f46zy!19sChIJT_RFwKaRQIgRM1JZw9ckxJY?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:32",
     "keyword": "Med Spas",
     "name": "Turn Back Time Aesthetics and Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Turning+Point+Health+%26+Wellness/data=!4m7!3m6!1s0x8840893996d8208d:0xf5b945ceb8872746!8m2!3d39.6237875!4d-84.197991!16s%2Fg%2F11vc1shpmg!19sChIJjSDYljmJQIgRRieHuM5FufU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:42",
+    "keyword": "Rehab Practices",
+    "name": "Turning Point Health & Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Tuttle+Rehab/data=!4m7!3m6!1s0x883f50902320cc7d:0x387bc14fe7ac982c!8m2!3d39.9210794!4d-83.7496847!16s%2Fg%2F1tdpgwpc!19sChIJfcwgI5BQP4gRLJis50_Bezg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "Tuttle Rehab",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Tuttle+Rehab/data=!4m7!3m6!1s0x883f60f60b632417:0x912342c0ec6883aa!8m2!3d39.8648829!4d-83.96223!16s%2Fg%2F11hy9nkb55!19sChIJFyRjC_ZgP4gRqoNo7MBCI5E?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:09:39",
+    "keyword": "Rehab Practices",
+    "name": "Tuttle Rehab",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/United+Rehabilitation+Services/data=!4m7!3m6!1s0x884082881ff62827:0xd26736dc29add8e8!8m2!3d39.8225128!4d-84.1437995!16s%2Fg%2F1tg512wn!19sChIJJyj2H4iCQIgR6NitKdw2Z9I?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:52",
+    "keyword": "Rehab Practices",
+    "name": "United Rehabilitation Services",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Uptown+Dental/data=!4m7!3m6!1s0x88408f139494684b:0xb1b0d8323544a797!8m2!3d39.64043!4d-84.1573823!16s%2Fg%2F11shnqssd5!19sChIJS2iUlBOPQIgRl6dENTLYsLE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:38",
+    "keyword": "Dental Clinics",
+    "name": "Uptown Dental",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -930,6 +3212,20 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Village+Park+Advanced+Cosmetic+%26+Family+Dental/data=!4m7!3m6!1s0x88408a5159f0f9ed:0x52e08f88c3f422c0!8m2!3d39.5777334!4d-84.2329307!16s%2Fg%2F1tzzw5hb!19sChIJ7fnwWVGKQIgRwCL0w4iP4FI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:56:06",
+    "keyword": "Orthodontists",
+    "name": "Village Park Advanced Cosmetic & Family Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Vitangeli+Dental/data=!4m7!3m6!1s0x883f8057ea0ff6f9:0x86fa2760b03899a9!8m2!3d39.8739725!4d-84.3112769!16s%2Fg%2F1tdxfzfr!19sChIJ-fYP6leAP4gRqZk4sGAn-oY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:55:38",
+    "keyword": "Dental Clinics",
+    "name": "Vitangeli Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Vosler+Dental+Office/data=!4m7!3m6!1s0x88408829c0ae9119:0xc988ef2a1ae41554!8m2!3d39.6409948!4d-84.2687332!16s%2Fg%2F1tv24tz2!19sChIJGZGuwCmIQIgRVBXkGirviMk?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:51:25",
     "keyword": "Dental Clinics",
@@ -951,6 +3247,13 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Walmart+Supercenter/data=!4m7!3m6!1s0x883f7e055abd21e3:0x57e21609cc7cb315!8m2!3d39.84601!4d-84.196029!16s%2Fm%2F03nzy47!19sChIJ4yG9WgV-P4gRFbN8zAkW4lc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:44",
+    "keyword": "Pest Control",
+    "name": "Walmart Supercenter",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Wellness+Center/data=!4m7!3m6!1s0x8840811af24d26cf:0xea602eb37f5b4298!8m2!3d39.767937!4d-84.1927966!16s%2Fg%2F11ny1w5_83!19sChIJzyZN8hqBQIgRmEJbf7MuYOo?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:53:06",
     "keyword": "Med Spas",
@@ -965,10 +3268,52 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
+  "https://www.google.com/maps/place/Wilmington+Family+Dental/data=!4m7!3m6!1s0x884084ff8d437059:0xaef4d134780860cd!8m2!3d39.6932773!4d-84.1362546!16s%2Fg%2F1tcyshvp!19sChIJWXBDjf-EQIgRzWAIeDTR9K4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:17:12",
+    "keyword": "Orthodontists",
+    "name": "Wilmington Family Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
   "https://www.google.com/maps/place/Woodhouse+Spa+-+Dayton/data=!4m7!3m6!1s0x88408533554c55ab:0x7d6da0822a3af13e!8m2!3d39.6930364!4d-84.1013301!16s%2Fg%2F12hk6gftb!19sChIJq1VMVTOFQIgRPvE6KoKgbX0?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:52:55",
     "keyword": "Med Spas",
     "name": "Woodhouse Spa - Dayton",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Wright+Patterson+Surgery+Clinic/data=!4m7!3m6!1s0x88409d9c00000001:0x1e4151bce61b4dc!8m2!3d39.8050358!4d-84.0373938!16s%2Fg%2F1tj4c4ys!19sChIJAQAAAJydQIgR3LRhzhsV5AE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:08:47",
+    "keyword": "Aesthetic Clinics",
+    "name": "Wright Patterson Surgery Clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Wright+Rapid+Recovery/data=!4m7!3m6!1s0x8840892d767a5e3f:0xc3be3c96993f641!8m2!3d39.5940193!4d-84.2054864!16s%2Fg%2F11v_1cyky7!19sChIJP156di2JQIgRQfaTacnjOww?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:46",
+    "keyword": "Pest Control",
+    "name": "Wright Rapid Recovery",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Xcel+Physical+Therapy/data=!4m7!3m6!1s0x883f7c1d9028a95d:0xe047ea156d95d35a!8m2!3d39.9031472!4d-84.1833629!16s%2Fg%2F1hd_qhy9n!19sChIJXakokB18P4gRWtOVbRXqR-A?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:11:46",
+    "keyword": "Pest Control",
+    "name": "Xcel Physical Therapy",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Xenia+Dental+Care/data=!4m7!3m6!1s0x8840a27e44d88443:0xd010db81b85fe8c8!8m2!3d39.7013135!4d-83.9286079!16s%2Fg%2F1tqclx7x!19sChIJQ4TYRH6iQIgRyOhfuIHbENA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:49",
+    "keyword": "Dental Clinics",
+    "name": "Xenia Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Xoxo+Aesthetics/data=!4m7!3m6!1s0x88408b9b470f775b:0x4ff44842916e102b!8m2!3d39.5629789!4d-84.2588549!16s%2Fg%2F11v3q_4fky!19sChIJW3cPR5uLQIgRKxBukUJI9E8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:07:48",
+    "keyword": "Med Spas",
+    "name": "Xoxo Aesthetics",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },
@@ -990,6 +3335,13 @@
     "discovered_at": "2026-05-22T01:53:06",
     "keyword": "Med Spas",
     "name": "Your CBD Store | SUNMED - Centerville, OH",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/dental+office/data=!4m7!3m6!1s0x88408f2a03e6f45f:0xf6ded8c0568d34e2!8m2!3d39.5974986!4d-84.1623497!16s%2Fg%2F11y1s19dls!19sChIJX_TmAyqPQIgR4jSNVsDY3vY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T02:16:45",
+    "keyword": "Dental Clinics",
+    "name": "dental office",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Dayton,+OH"
   },

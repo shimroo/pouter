@@ -90,3 +90,594 @@ Stacktrace:
 01:53:25  [W3]  INFO      [Aesthetic Clinics] +1 new urls (total: 110)
 01:53:25  [W3]  INFO        ── Keyword: Therapy, Mental Health
 01:53:25  [W3]  INFO      Searched: Therapy, Mental Health
+01:53:32  [W3]  INFO      Saved 110 urls → urls_3.json
+01:53:33  [W3]  INFO      Saved 110 urls → urls_3.json
+01:53:35  [W3]  INFO      Saved 110 urls → urls_3.json
+01:53:36  [W3]  INFO      Saved 110 urls → urls_3.json
+01:53:38  [W3]  INFO      Saved 110 urls → urls_3.json
+01:53:39  [W3]  INFO      Saved 110 urls → urls_3.json
+01:53:41  [W3]  INFO      Stalled after 6 scrolls — moving on
+01:53:41  [W3]  INFO      Saved 110 urls → urls_3.json
+01:53:41  [W3]  INFO      [Therapy, Mental Health] +0 new urls (total: 110)
+01:53:41  [W3]  INFO        ── Keyword: Rehab Practices
+01:53:41  [W3]  INFO      Searched: Rehab Practices
+01:53:48  [W3]  INFO      Saved 110 urls → urls_3.json
+01:53:49  [W3]  INFO      Saved 110 urls → urls_3.json
+01:53:51  [W3]  INFO      Saved 110 urls → urls_3.json
+01:53:51  [W3]  ERROR     Fatal: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=148.0.7778.167); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+#0 0x597503e8616a <unknown>
+#1 0x5975038836b9 <unknown>
+#2 0x59750388a89b <unknown>
+#3 0x59750388d41b <unknown>
+#4 0x597503920de9 <unknown>
+#5 0x59750391fcbf <unknown>
+#6 0x5975038cb222 <unknown>
+#7 0x5975038cc011 <unknown>
+#8 0x597503e4ba0b <unknown>
+#9 0x597503e4e92d <unknown>
+#10 0x597503e38948 <unknown>
+#11 0x597503e4f4c0 <unknown>
+#12 0x597503e1f560 <unknown>
+#13 0x597503e72dd8 <unknown>
+#14 0x597503e72f75 <unknown>
+#15 0x597503e84bce <unknown>
+#16 0x715c5ee9caa4 <unknown>
+#17 0x715c5ef29c6c <unknown>
+Traceback (most recent call last):
+  File "/home/rafay/BCSN/pouter/maps/scrapper.py", line 511, in run_worker
+    collect_urls(driver, wait,
+  File "/home/rafay/BCSN/pouter/maps/scrapper.py", line 391, in collect_urls
+    driver.execute_script(
+  File "/home/rafay/.local/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 578, in execute_script
+    return self.execute(command, {"script": script, "args": converted_args})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rafay/.local/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 468, in execute
+    self.error_handler.check_response(response)
+  File "/home/rafay/.local/lib/python3.12/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.StaleElementReferenceException: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=148.0.7778.167); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+#0 0x597503e8616a <unknown>
+#1 0x5975038836b9 <unknown>
+#2 0x59750388a89b <unknown>
+#3 0x59750388d41b <unknown>
+#4 0x597503920de9 <unknown>
+#5 0x59750391fcbf <unknown>
+#6 0x5975038cb222 <unknown>
+#7 0x5975038cc011 <unknown>
+#8 0x597503e4ba0b <unknown>
+#9 0x597503e4e92d <unknown>
+#10 0x597503e38948 <unknown>
+#11 0x597503e4f4c0 <unknown>
+#12 0x597503e1f560 <unknown>
+#13 0x597503e72dd8 <unknown>
+#14 0x597503e72f75 <unknown>
+#15 0x597503e84bce <unknown>
+#16 0x715c5ee9caa4 <unknown>
+#17 0x715c5ef29c6c <unknown>
+
+01:53:51  [W3]  INFO      Saved 110 urls → urls_3.json
+01:53:51  [W3]  INFO      Worker done. Quitting driver.
+01:55:21  [W3]  INFO      Resuming from urls_3.json — 110 urls
+01:55:21  [W3]  INFO      Detected Chrome major version: 148
+01:55:21  [W3]  INFO      Driver started (incognito)
+01:55:21  [W3]  INFO      ── City: https://www.google.com/maps/place/Knoxville,+TN
+01:55:29  [W3]  INFO      Clicked: close popup
+01:55:30  [W3]  INFO        ── Keyword: Dental Clinics
+01:55:30  [W3]  INFO      Searched: Dental Clinics
+01:55:33  [W3]  INFO      Clicked: 'update results when map moves'
+01:55:35  [W3]  INFO      Saved 120 urls → urls_3.json
+01:55:37  [W3]  INFO      Saved 130 urls → urls_3.json
+01:55:38  [W3]  INFO      Saved 131 urls → urls_3.json
+01:55:40  [W3]  INFO      Saved 141 urls → urls_3.json
+01:55:42  [W3]  INFO      Saved 151 urls → urls_3.json
+01:55:43  [W3]  INFO      Saved 161 urls → urls_3.json
+01:55:45  [W3]  INFO      Saved 171 urls → urls_3.json
+01:55:47  [W3]  INFO      Saved 171 urls → urls_3.json
+01:55:49  [W3]  INFO      Saved 171 urls → urls_3.json
+01:55:50  [W3]  INFO      Saved 171 urls → urls_3.json
+01:55:52  [W3]  INFO      Saved 171 urls → urls_3.json
+01:55:54  [W3]  INFO      Stalled after 6 scrolls — moving on
+01:55:54  [W3]  INFO      Saved 171 urls → urls_3.json
+01:55:54  [W3]  INFO      [Dental Clinics] +61 new urls (total: 171)
+01:55:54  [W3]  INFO        ── Keyword: Orthodontists
+01:55:54  [W3]  INFO      Searched: Orthodontists
+01:56:01  [W3]  INFO      Saved 171 urls → urls_3.json
+01:56:02  [W3]  INFO      Saved 171 urls → urls_3.json
+01:56:04  [W3]  INFO      Saved 171 urls → urls_3.json
+01:56:06  [W3]  INFO      Saved 191 urls → urls_3.json
+01:56:07  [W3]  INFO      Saved 211 urls → urls_3.json
+01:56:09  [W3]  INFO      Saved 211 urls → urls_3.json
+01:56:11  [W3]  INFO      Saved 211 urls → urls_3.json
+01:56:12  [W3]  INFO      Saved 211 urls → urls_3.json
+01:56:14  [W3]  INFO      Saved 211 urls → urls_3.json
+01:56:16  [W3]  INFO      Stalled after 6 scrolls — moving on
+01:56:16  [W3]  INFO      Saved 211 urls → urls_3.json
+01:56:16  [W3]  INFO      [Orthodontists] +40 new urls (total: 211)
+01:56:16  [W3]  INFO        ── Keyword: Med Spas
+01:56:16  [W3]  INFO      Searched: Med Spas
+01:56:23  [W3]  INFO      Saved 211 urls → urls_3.json
+01:56:24  [W3]  INFO      Saved 211 urls → urls_3.json
+01:56:26  [W3]  INFO      Saved 211 urls → urls_3.json
+01:56:28  [W3]  INFO      Saved 211 urls → urls_3.json
+01:56:29  [W3]  INFO      Saved 211 urls → urls_3.json
+01:56:31  [W3]  INFO      Saved 211 urls → urls_3.json
+01:56:33  [W3]  INFO      Stalled after 6 scrolls — moving on
+01:56:33  [W3]  INFO      Saved 211 urls → urls_3.json
+01:56:33  [W3]  INFO      [Med Spas] +0 new urls (total: 211)
+01:56:33  [W3]  INFO        ── Keyword: Aesthetic Clinics
+01:56:33  [W3]  INFO      Searched: Aesthetic Clinics
+01:56:40  [W3]  INFO      Saved 211 urls → urls_3.json
+01:56:41  [W3]  INFO      Saved 211 urls → urls_3.json
+01:56:43  [W3]  INFO      Saved 211 urls → urls_3.json
+01:56:45  [W3]  INFO      Saved 211 urls → urls_3.json
+01:56:46  [W3]  INFO      Saved 211 urls → urls_3.json
+01:56:48  [W3]  INFO      Saved 211 urls → urls_3.json
+01:56:50  [W3]  INFO      Stalled after 6 scrolls — moving on
+01:56:50  [W3]  INFO      Saved 211 urls → urls_3.json
+01:56:50  [W3]  INFO      [Aesthetic Clinics] +0 new urls (total: 211)
+01:56:50  [W3]  INFO        ── Keyword: Therapy, Mental Health
+01:56:50  [W3]  INFO      Searched: Therapy, Mental Health
+01:56:56  [W3]  INFO      Saved 211 urls → urls_3.json
+01:56:58  [W3]  INFO      Saved 211 urls → urls_3.json
+01:57:00  [W3]  INFO      Saved 211 urls → urls_3.json
+01:57:01  [W3]  INFO      Saved 211 urls → urls_3.json
+01:57:03  [W3]  INFO      Saved 211 urls → urls_3.json
+01:57:05  [W3]  INFO      Saved 211 urls → urls_3.json
+01:57:07  [W3]  INFO      Stalled after 6 scrolls — moving on
+01:57:07  [W3]  INFO      Saved 211 urls → urls_3.json
+01:57:07  [W3]  INFO      [Therapy, Mental Health] +0 new urls (total: 211)
+01:57:07  [W3]  INFO        ── Keyword: Rehab Practices
+01:57:07  [W3]  INFO      Searched: Rehab Practices
+01:57:13  [W3]  INFO      Saved 211 urls → urls_3.json
+01:57:15  [W3]  INFO      Saved 211 urls → urls_3.json
+01:57:17  [W3]  INFO      Saved 211 urls → urls_3.json
+01:57:18  [W3]  INFO      Saved 211 urls → urls_3.json
+01:57:20  [W3]  INFO      Saved 211 urls → urls_3.json
+01:57:22  [W3]  INFO      Saved 211 urls → urls_3.json
+01:57:23  [W3]  INFO      Stalled after 6 scrolls — moving on
+01:57:23  [W3]  INFO      Saved 211 urls → urls_3.json
+01:57:23  [W3]  INFO      [Rehab Practices] +0 new urls (total: 211)
+01:57:23  [W3]  INFO        ── Keyword: Chiropractic
+01:57:23  [W3]  INFO      Searched: Chiropractic
+01:57:26  [W3]  INFO      Interrupted — saving …
+01:57:26  [W3]  INFO      Saved 211 urls → urls_3.json
+01:57:26  [W3]  INFO      Worker done. Quitting driver.
+02:06:44  [W3]  INFO      Resuming from urls_3.json — 211 urls
+02:06:44  [W3]  INFO      Detected Chrome major version: 148
+02:06:44  [W3]  INFO      Driver started (incognito)
+02:06:44  [W3]  INFO      ── City: https://www.google.com/maps/place/Knoxville,+TN
+02:06:54  [W3]  INFO      Clicked: close popup
+02:06:54  [W3]  INFO        ── Keyword: Dental Clinics
+02:06:54  [W3]  INFO      Searched: Dental Clinics
+02:07:07  [W3]  WARNING   Results feed not found
+02:07:07  [W3]  INFO        ── Done: Dental Clinics (+0 urls)
+02:07:07  [W3]  INFO        ── Keyword: Orthodontists
+02:07:08  [W3]  INFO      Searched: Orthodontists
+02:07:16  [W3]  INFO      Clicked: 'update results when map moves'
+02:07:18  [W3]  INFO      Saved 212 urls → urls_3.json
+02:07:20  [W3]  INFO      Saved 212 urls → urls_3.json
+02:07:21  [W3]  INFO      Saved 212 urls → urls_3.json
+02:07:23  [W3]  INFO      Saved 212 urls → urls_3.json
+02:07:24  [W3]  INFO      Saved 212 urls → urls_3.json
+02:07:26  [W3]  INFO      Saved 212 urls → urls_3.json
+02:07:27  [W3]  INFO      Stalled after 6 scrolls — moving on
+02:07:27  [W3]  INFO      Saved 212 urls → urls_3.json
+02:07:27  [W3]  INFO      [Orthodontists] +1 new urls (total: 212)
+02:07:27  [W3]  INFO        ── Done: Orthodontists (+1 urls)
+02:07:27  [W3]  INFO        ── Keyword: Med Spas
+02:07:28  [W3]  INFO      Searched: Med Spas
+02:07:34  [W3]  INFO      Saved 212 urls → urls_3.json
+02:07:36  [W3]  INFO      Saved 212 urls → urls_3.json
+02:07:37  [W3]  INFO      Saved 212 urls → urls_3.json
+02:07:39  [W3]  INFO      Saved 212 urls → urls_3.json
+02:07:40  [W3]  INFO      Saved 212 urls → urls_3.json
+02:07:42  [W3]  INFO      Saved 212 urls → urls_3.json
+02:07:43  [W3]  INFO      Saved 212 urls → urls_3.json
+02:07:45  [W3]  INFO      Saved 213 urls → urls_3.json
+02:07:47  [W3]  INFO      Saved 214 urls → urls_3.json
+02:07:48  [W3]  INFO      Saved 214 urls → urls_3.json
+02:07:50  [W3]  INFO      Saved 214 urls → urls_3.json
+02:07:51  [W3]  INFO      Saved 214 urls → urls_3.json
+02:07:53  [W3]  INFO      Saved 215 urls → urls_3.json
+02:07:55  [W3]  INFO      Saved 215 urls → urls_3.json
+02:07:56  [W3]  INFO      Saved 215 urls → urls_3.json
+02:07:58  [W3]  INFO      Saved 215 urls → urls_3.json
+02:08:00  [W3]  INFO      Saved 215 urls → urls_3.json
+02:08:02  [W3]  INFO      Saved 215 urls → urls_3.json
+02:08:03  [W3]  INFO      Saved 215 urls → urls_3.json
+02:08:05  [W3]  INFO      Saved 215 urls → urls_3.json
+02:08:07  [W3]  INFO      Saved 216 urls → urls_3.json
+02:08:09  [W3]  INFO      Saved 219 urls → urls_3.json
+02:08:10  [W3]  INFO      Saved 220 urls → urls_3.json
+02:08:13  [W3]  INFO      Saved 220 urls → urls_3.json
+02:08:15  [W3]  INFO      Saved 221 urls → urls_3.json
+02:08:16  [W3]  INFO      Saved 221 urls → urls_3.json
+02:08:19  [W3]  INFO      Saved 221 urls → urls_3.json
+02:08:21  [W3]  INFO      Saved 226 urls → urls_3.json
+02:08:21  [W3]  INFO      End of list reached
+02:08:21  [W3]  INFO      Saved 226 urls → urls_3.json
+02:08:21  [W3]  INFO      [Med Spas] +14 new urls (total: 226)
+02:08:21  [W3]  INFO        ── Done: Med Spas (+14 urls)
+02:08:21  [W3]  INFO        ── Keyword: Aesthetic Clinics
+02:08:21  [W3]  INFO      Searched: Aesthetic Clinics
+02:08:27  [W3]  INFO      End of list reached
+02:08:27  [W3]  INFO      Saved 226 urls → urls_3.json
+02:08:27  [W3]  INFO      [Aesthetic Clinics] +0 new urls (total: 226)
+02:08:27  [W3]  INFO        ── Done: Aesthetic Clinics (+0 urls)
+02:08:27  [W3]  INFO        ── Keyword: Therapy, Mental Health
+02:08:27  [W3]  INFO      Searched: Therapy, Mental Health
+02:08:32  [W3]  INFO      End of list reached
+02:08:32  [W3]  INFO      Saved 226 urls → urls_3.json
+02:08:32  [W3]  INFO      [Therapy, Mental Health] +0 new urls (total: 226)
+02:08:32  [W3]  INFO        ── Done: Therapy, Mental Health (+0 urls)
+02:08:32  [W3]  INFO        ── Keyword: Rehab Practices
+02:08:32  [W3]  INFO      Searched: Rehab Practices
+02:08:39  [W3]  INFO      Saved 236 urls → urls_3.json
+02:08:40  [W3]  INFO      Saved 246 urls → urls_3.json
+02:08:42  [W3]  INFO      Saved 246 urls → urls_3.json
+02:08:44  [W3]  INFO      Saved 256 urls → urls_3.json
+02:08:45  [W3]  INFO      Saved 266 urls → urls_3.json
+02:08:47  [W3]  INFO      Saved 266 urls → urls_3.json
+02:08:49  [W3]  INFO      Saved 286 urls → urls_3.json
+02:08:50  [W3]  INFO      Saved 286 urls → urls_3.json
+02:08:52  [W3]  INFO      Saved 296 urls → urls_3.json
+02:08:54  [W3]  INFO      Saved 306 urls → urls_3.json
+02:08:56  [W3]  INFO      Saved 306 urls → urls_3.json
+02:08:58  [W3]  INFO      Saved 326 urls → urls_3.json
+02:08:59  [W3]  INFO      Saved 326 urls → urls_3.json
+02:09:01  [W3]  INFO      Saved 326 urls → urls_3.json
+02:09:03  [W3]  INFO      Saved 326 urls → urls_3.json
+02:09:05  [W3]  INFO      Saved 326 urls → urls_3.json
+02:09:07  [W3]  INFO      Stalled after 6 scrolls — moving on
+02:09:07  [W3]  INFO      Saved 326 urls → urls_3.json
+02:09:07  [W3]  INFO      [Rehab Practices] +100 new urls (total: 326)
+02:09:07  [W3]  INFO        ── Done: Rehab Practices (+100 urls)
+02:09:07  [W3]  INFO        ── Keyword: Chiropractic
+02:09:07  [W3]  INFO      Searched: Chiropractic
+02:09:13  [W3]  INFO      Saved 326 urls → urls_3.json
+02:09:15  [W3]  INFO      Saved 326 urls → urls_3.json
+02:09:17  [W3]  INFO      Saved 326 urls → urls_3.json
+02:09:19  [W3]  INFO      Saved 326 urls → urls_3.json
+02:09:21  [W3]  INFO      Saved 326 urls → urls_3.json
+02:09:22  [W3]  INFO      Saved 326 urls → urls_3.json
+02:09:24  [W3]  INFO      Stalled after 6 scrolls — moving on
+02:09:24  [W3]  INFO      Saved 326 urls → urls_3.json
+02:09:24  [W3]  INFO      [Chiropractic] +0 new urls (total: 326)
+02:09:24  [W3]  INFO        ── Done: Chiropractic (+0 urls)
+02:09:24  [W3]  INFO        ── Keyword: Physical Therapy Clinics
+02:09:24  [W3]  INFO      Searched: Physical Therapy Clinics
+02:09:31  [W3]  INFO      Saved 326 urls → urls_3.json
+02:09:33  [W3]  INFO      Saved 326 urls → urls_3.json
+02:09:35  [W3]  INFO      Saved 326 urls → urls_3.json
+02:09:36  [W3]  INFO      Saved 326 urls → urls_3.json
+02:09:38  [W3]  INFO      Saved 326 urls → urls_3.json
+02:09:40  [W3]  INFO      Saved 331 urls → urls_3.json
+02:09:41  [W3]  INFO      Saved 335 urls → urls_3.json
+02:09:43  [W3]  INFO      Saved 335 urls → urls_3.json
+02:09:44  [W3]  INFO      Saved 335 urls → urls_3.json
+02:09:46  [W3]  INFO      Saved 335 urls → urls_3.json
+02:09:48  [W3]  INFO      Saved 335 urls → urls_3.json
+02:09:49  [W3]  INFO      Saved 335 urls → urls_3.json
+02:09:51  [W3]  INFO      Stalled after 6 scrolls — moving on
+02:09:51  [W3]  INFO      Saved 335 urls → urls_3.json
+02:09:51  [W3]  INFO      [Physical Therapy Clinics] +9 new urls (total: 335)
+02:09:51  [W3]  INFO        ── Done: Physical Therapy Clinics (+9 urls)
+02:09:51  [W3]  INFO        ── Keyword: Veterinary Clinics
+02:09:51  [W3]  INFO      Searched: Veterinary Clinics
+02:09:57  [W3]  INFO      Saved 335 urls → urls_3.json
+02:09:59  [W3]  INFO      Saved 335 urls → urls_3.json
+02:10:00  [W3]  INFO      Saved 335 urls → urls_3.json
+02:10:02  [W3]  INFO      Saved 335 urls → urls_3.json
+02:10:04  [W3]  INFO      Saved 335 urls → urls_3.json
+02:10:05  [W3]  INFO      Saved 335 urls → urls_3.json
+02:10:07  [W3]  INFO      Stalled after 6 scrolls — moving on
+02:10:07  [W3]  INFO      Saved 335 urls → urls_3.json
+02:10:07  [W3]  INFO      [Veterinary Clinics] +0 new urls (total: 335)
+02:10:07  [W3]  INFO        ── Done: Veterinary Clinics (+0 urls)
+02:10:07  [W3]  INFO        ── Keyword: HVAC Contractors
+02:10:07  [W3]  INFO      Searched: HVAC Contractors
+02:10:13  [W3]  INFO      Saved 335 urls → urls_3.json
+02:10:15  [W3]  INFO      Saved 335 urls → urls_3.json
+02:10:17  [W3]  INFO      Saved 335 urls → urls_3.json
+02:10:18  [W3]  INFO      Saved 335 urls → urls_3.json
+02:10:20  [W3]  INFO      Saved 335 urls → urls_3.json
+02:10:21  [W3]  INFO      Saved 335 urls → urls_3.json
+02:10:23  [W3]  INFO      Stalled after 6 scrolls — moving on
+02:10:23  [W3]  INFO      Saved 335 urls → urls_3.json
+02:10:23  [W3]  INFO      [HVAC Contractors] +0 new urls (total: 335)
+02:10:23  [W3]  INFO        ── Done: HVAC Contractors (+0 urls)
+02:10:23  [W3]  INFO        ── Keyword: Plumbing Services
+02:10:23  [W3]  INFO      Searched: Plumbing Services
+02:10:30  [W3]  INFO      Saved 335 urls → urls_3.json
+02:10:31  [W3]  INFO      Saved 335 urls → urls_3.json
+02:10:33  [W3]  INFO      Saved 335 urls → urls_3.json
+02:10:34  [W3]  INFO      Saved 335 urls → urls_3.json
+02:10:36  [W3]  INFO      Saved 335 urls → urls_3.json
+02:10:37  [W3]  INFO      Saved 335 urls → urls_3.json
+02:10:39  [W3]  INFO      Stalled after 6 scrolls — moving on
+02:10:39  [W3]  INFO      Saved 335 urls → urls_3.json
+02:10:39  [W3]  INFO      [Plumbing Services] +0 new urls (total: 335)
+02:10:39  [W3]  INFO        ── Done: Plumbing Services (+0 urls)
+02:10:39  [W3]  INFO        ── Keyword: Roofing Contractors
+02:10:39  [W3]  INFO      Searched: Roofing Contractors
+02:10:46  [W3]  INFO      Saved 335 urls → urls_3.json
+02:10:47  [W3]  INFO      Saved 335 urls → urls_3.json
+02:10:49  [W3]  INFO      Saved 335 urls → urls_3.json
+02:10:50  [W3]  INFO      Saved 335 urls → urls_3.json
+02:10:52  [W3]  INFO      Saved 335 urls → urls_3.json
+02:10:53  [W3]  INFO      Saved 335 urls → urls_3.json
+02:10:55  [W3]  INFO      Stalled after 6 scrolls — moving on
+02:10:55  [W3]  INFO      Saved 335 urls → urls_3.json
+02:10:55  [W3]  INFO      [Roofing Contractors] +0 new urls (total: 335)
+02:10:55  [W3]  INFO        ── Done: Roofing Contractors (+0 urls)
+02:10:55  [W3]  INFO        ── Keyword: Pest Control
+02:10:55  [W3]  INFO      Searched: Pest Control
+02:11:02  [W3]  INFO      Saved 335 urls → urls_3.json
+02:11:03  [W3]  INFO      Saved 335 urls → urls_3.json
+02:11:05  [W3]  INFO      Saved 335 urls → urls_3.json
+02:11:06  [W3]  INFO      Saved 335 urls → urls_3.json
+02:11:08  [W3]  INFO      Saved 335 urls → urls_3.json
+02:11:10  [W3]  INFO      Saved 335 urls → urls_3.json
+02:11:11  [W3]  INFO      Stalled after 6 scrolls — moving on
+02:11:11  [W3]  INFO      Saved 335 urls → urls_3.json
+02:11:11  [W3]  INFO      [Pest Control] +0 new urls (total: 335)
+02:11:11  [W3]  INFO        ── Done: Pest Control (+0 urls)
+02:11:11  [W3]  INFO        ── Keyword: Termite Services
+02:11:11  [W3]  INFO      Searched: Termite Services
+02:11:18  [W3]  INFO      Saved 335 urls → urls_3.json
+02:11:19  [W3]  INFO      Saved 335 urls → urls_3.json
+02:11:21  [W3]  INFO      Saved 335 urls → urls_3.json
+02:11:23  [W3]  INFO      Saved 335 urls → urls_3.json
+02:11:24  [W3]  INFO      Saved 335 urls → urls_3.json
+02:11:26  [W3]  INFO      Saved 335 urls → urls_3.json
+02:11:27  [W3]  INFO      Stalled after 6 scrolls — moving on
+02:11:27  [W3]  INFO      Saved 335 urls → urls_3.json
+02:11:27  [W3]  INFO      [Termite Services] +0 new urls (total: 335)
+02:11:27  [W3]  INFO        ── Done: Termite Services (+0 urls)
+02:11:27  [W3]  INFO        ── Keyword: Landscaping
+02:11:27  [W3]  INFO      Searched: Landscaping
+02:11:34  [W3]  INFO      Saved 335 urls → urls_3.json
+02:11:35  [W3]  INFO      Saved 335 urls → urls_3.json
+02:11:37  [W3]  INFO      Saved 335 urls → urls_3.json
+02:11:39  [W3]  INFO      Saved 335 urls → urls_3.json
+02:11:40  [W3]  INFO      Saved 335 urls → urls_3.json
+02:11:42  [W3]  INFO      Saved 335 urls → urls_3.json
+02:11:43  [W3]  INFO      Stalled after 6 scrolls — moving on
+02:11:43  [W3]  INFO      Saved 335 urls → urls_3.json
+02:11:43  [W3]  INFO      [Landscaping] +0 new urls (total: 335)
+02:11:43  [W3]  INFO        ── Done: Landscaping (+0 urls)
+02:11:43  [W3]  INFO        ── Keyword: Lawn Care
+02:11:44  [W3]  INFO      Searched: Lawn Care
+02:11:50  [W3]  INFO      Saved 345 urls → urls_3.json
+02:11:52  [W3]  INFO      Saved 355 urls → urls_3.json
+02:11:53  [W3]  INFO      Saved 357 urls → urls_3.json
+02:11:55  [W3]  INFO      Saved 357 urls → urls_3.json
+02:11:57  [W3]  INFO      Saved 365 urls → urls_3.json
+02:11:58  [W3]  INFO      Saved 375 urls → urls_3.json
+02:12:00  [W3]  INFO      Saved 377 urls → urls_3.json
+02:12:02  [W3]  INFO      Saved 377 urls → urls_3.json
+02:12:03  [W3]  INFO      Saved 387 urls → urls_3.json
+02:12:05  [W3]  INFO      Saved 397 urls → urls_3.json
+02:12:07  [W3]  INFO      Saved 397 urls → urls_3.json
+02:12:08  [W3]  INFO      Saved 397 urls → urls_3.json
+02:12:10  [W3]  INFO      Saved 397 urls → urls_3.json
+02:12:12  [W3]  INFO      Saved 397 urls → urls_3.json
+02:12:14  [W3]  INFO      Stalled after 6 scrolls — moving on
+02:12:14  [W3]  INFO      Saved 397 urls → urls_3.json
+02:12:14  [W3]  INFO      [Lawn Care] +62 new urls (total: 397)
+02:12:14  [W3]  INFO        ── Done: Lawn Care (+62 urls)
+02:12:14  [W3]  INFO        ── Keyword: Home Cleaning
+02:12:14  [W3]  INFO      Searched: Home Cleaning
+02:12:20  [W3]  INFO      Saved 397 urls → urls_3.json
+02:12:22  [W3]  INFO      Saved 397 urls → urls_3.json
+02:12:24  [W3]  INFO      Saved 397 urls → urls_3.json
+02:12:25  [W3]  INFO      Saved 397 urls → urls_3.json
+02:12:27  [W3]  INFO      Saved 397 urls → urls_3.json
+02:12:29  [W3]  INFO      Saved 397 urls → urls_3.json
+02:12:30  [W3]  INFO      Stalled after 6 scrolls — moving on
+02:12:30  [W3]  INFO      Saved 397 urls → urls_3.json
+02:12:30  [W3]  INFO      [Home Cleaning] +0 new urls (total: 397)
+02:12:30  [W3]  INFO        ── Done: Home Cleaning (+0 urls)
+02:12:30  [W3]  INFO        ── Keyword: Janitorial Services
+02:12:31  [W3]  INFO      Searched: Janitorial Services
+02:12:37  [W3]  INFO      Saved 397 urls → urls_3.json
+02:12:39  [W3]  INFO      Saved 397 urls → urls_3.json
+02:12:41  [W3]  INFO      Saved 397 urls → urls_3.json
+02:12:42  [W3]  INFO      Saved 397 urls → urls_3.json
+02:12:44  [W3]  INFO      Saved 397 urls → urls_3.json
+02:12:46  [W3]  INFO      Saved 397 urls → urls_3.json
+02:12:47  [W3]  INFO      Stalled after 6 scrolls — moving on
+02:12:47  [W3]  INFO      Saved 397 urls → urls_3.json
+02:12:47  [W3]  INFO      [Janitorial Services] +0 new urls (total: 397)
+02:12:47  [W3]  INFO        ── Done: Janitorial Services (+0 urls)
+02:12:47  [W3]  INFO        ── Keyword: Auto Repair
+02:12:47  [W3]  INFO      Searched: Auto Repair
+02:12:54  [W3]  INFO      Saved 397 urls → urls_3.json
+02:12:56  [W3]  INFO      Saved 397 urls → urls_3.json
+02:12:57  [W3]  INFO      Saved 397 urls → urls_3.json
+02:12:59  [W3]  INFO      Saved 397 urls → urls_3.json
+02:13:01  [W3]  INFO      Saved 397 urls → urls_3.json
+02:13:03  [W3]  INFO      Saved 397 urls → urls_3.json
+02:13:04  [W3]  INFO      Stalled after 6 scrolls — moving on
+02:13:04  [W3]  INFO      Saved 397 urls → urls_3.json
+02:13:04  [W3]  INFO      [Auto Repair] +0 new urls (total: 397)
+02:13:04  [W3]  INFO        ── Done: Auto Repair (+0 urls)
+02:13:04  [W3]  INFO        ── Keyword: Body Shops
+02:13:04  [W3]  INFO      Searched: Body Shops
+02:13:11  [W3]  INFO      Saved 397 urls → urls_3.json
+02:13:13  [W3]  INFO      Saved 397 urls → urls_3.json
+02:13:14  [W3]  INFO      Saved 397 urls → urls_3.json
+02:13:16  [W3]  INFO      Saved 397 urls → urls_3.json
+02:13:18  [W3]  INFO      Saved 397 urls → urls_3.json
+02:13:19  [W3]  INFO      Saved 397 urls → urls_3.json
+02:13:21  [W3]  INFO      Stalled after 6 scrolls — moving on
+02:13:21  [W3]  INFO      Saved 397 urls → urls_3.json
+02:13:21  [W3]  INFO      [Body Shops] +0 new urls (total: 397)
+02:13:21  [W3]  INFO        ── Done: Body Shops (+0 urls)
+02:13:21  [W3]  INFO        ── Keyword: Personal Injury
+02:13:21  [W3]  INFO      Searched: Personal Injury
+02:13:28  [W3]  INFO      Saved 397 urls → urls_3.json
+02:13:30  [W3]  INFO      Saved 397 urls → urls_3.json
+02:13:31  [W3]  INFO      Saved 397 urls → urls_3.json
+02:13:33  [W3]  INFO      Saved 397 urls → urls_3.json
+02:13:35  [W3]  INFO      Saved 397 urls → urls_3.json
+02:13:36  [W3]  INFO      Saved 397 urls → urls_3.json
+02:13:38  [W3]  INFO      Stalled after 6 scrolls — moving on
+02:13:38  [W3]  INFO      Saved 397 urls → urls_3.json
+02:13:38  [W3]  INFO      [Personal Injury] +0 new urls (total: 397)
+02:13:38  [W3]  INFO        ── Done: Personal Injury (+0 urls)
+02:13:38  [W3]  INFO        ── Keyword: Family Law Firms
+02:13:38  [W3]  INFO      Searched: Family Law Firms
+02:13:45  [W3]  INFO      Saved 397 urls → urls_3.json
+02:13:46  [W3]  INFO      Saved 397 urls → urls_3.json
+02:13:48  [W3]  INFO      Saved 397 urls → urls_3.json
+02:13:50  [W3]  INFO      Saved 397 urls → urls_3.json
+02:13:51  [W3]  INFO      Saved 397 urls → urls_3.json
+02:13:53  [W3]  INFO      Saved 397 urls → urls_3.json
+02:13:55  [W3]  INFO      Stalled after 6 scrolls — moving on
+02:13:55  [W3]  INFO      Saved 397 urls → urls_3.json
+02:13:55  [W3]  INFO      [Family Law Firms] +0 new urls (total: 397)
+02:13:55  [W3]  INFO        ── Done: Family Law Firms (+0 urls)
+02:13:55  [W3]  INFO        ── Keyword: Bridal, Catering
+02:13:55  [W3]  INFO      Searched: Bridal, Catering
+02:14:02  [W3]  INFO      Saved 397 urls → urls_3.json
+02:14:03  [W3]  INFO      Saved 397 urls → urls_3.json
+02:14:05  [W3]  INFO      Saved 397 urls → urls_3.json
+02:14:07  [W3]  INFO      Saved 397 urls → urls_3.json
+02:14:08  [W3]  INFO      Saved 397 urls → urls_3.json
+02:14:10  [W3]  INFO      Saved 397 urls → urls_3.json
+02:14:12  [W3]  INFO      Stalled after 6 scrolls — moving on
+02:14:12  [W3]  INFO      Saved 397 urls → urls_3.json
+02:14:12  [W3]  INFO      [Bridal, Catering] +0 new urls (total: 397)
+02:14:12  [W3]  INFO        ── Done: Bridal, Catering (+0 urls)
+02:14:12  [W3]  INFO        ── Keyword: Event Planning Vendors
+02:14:12  [W3]  INFO      Searched: Event Planning Vendors
+02:14:18  [W3]  INFO      Saved 397 urls → urls_3.json
+02:14:20  [W3]  INFO      Saved 397 urls → urls_3.json
+02:14:22  [W3]  INFO      Saved 397 urls → urls_3.json
+02:14:24  [W3]  INFO      Saved 397 urls → urls_3.json
+02:14:25  [W3]  INFO      Saved 397 urls → urls_3.json
+02:14:27  [W3]  INFO      Saved 397 urls → urls_3.json
+02:14:29  [W3]  INFO      Stalled after 6 scrolls — moving on
+02:14:29  [W3]  INFO      Saved 397 urls → urls_3.json
+02:14:29  [W3]  INFO      [Event Planning Vendors] +0 new urls (total: 397)
+02:14:29  [W3]  INFO        ── Done: Event Planning Vendors (+0 urls)
+02:14:29  [W3]  INFO        ── Keyword: Property Management
+02:14:29  [W3]  INFO      Searched: Property Management
+02:14:35  [W3]  INFO      Saved 397 urls → urls_3.json
+02:14:37  [W3]  INFO      Saved 397 urls → urls_3.json
+02:14:39  [W3]  INFO      Saved 397 urls → urls_3.json
+02:14:39  [W3]  INFO      Interrupted — saving …
+02:14:39  [W3]  INFO      Saved 397 urls → urls_3.json
+02:14:39  [W3]  INFO      Worker done. Quitting driver.
+02:14:56  [W3]  INFO      Resuming from urls_3.json — 397 urls
+02:14:56  [W3]  INFO      Detected Chrome major version: 148
+02:14:56  [W3]  INFO      Driver started (incognito)
+02:14:56  [W3]  INFO      ── City: https://www.google.com/maps/place/Knoxville,+TN
+02:15:05  [W3]  INFO      Clicked: close popup
+02:15:06  [W3]  ERROR     Fatal: Expecting value: line 1 column 1 (char 0)
+Traceback (most recent call last):
+  File "/home/rafay/BCSN/pouter/maps/scrapper.py", line 600, in run_worker
+    if tracker.is_done(url, kw):
+       ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rafay/BCSN/pouter/maps/scrapper.py", line 306, in is_done
+    return self._key(location, keyword) in self._load()
+                                           ^^^^^^^^^^^^
+  File "/home/rafay/BCSN/pouter/maps/scrapper.py", line 295, in _load
+    return json.load(f)
+           ^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+02:15:06  [W3]  INFO      Saved 397 urls → urls_3.json
+02:15:06  [W3]  INFO      Worker done. Quitting driver.
+02:16:05  [W3]  INFO      Resuming from urls_3.json — 397 urls
+02:16:05  [W3]  INFO      Detected Chrome major version: 148
+02:16:06  [W3]  INFO      Driver started (incognito)
+02:16:06  [W3]  INFO      ── City: https://www.google.com/maps/place/Knoxville,+TN
+02:16:15  [W3]  INFO      Clicked: close popup
+02:16:15  [W3]  INFO        ── Keyword: Dental Clinics
+02:16:16  [W3]  INFO      Searched: Dental Clinics
+02:16:22  [W3]  INFO      Clicked: 'update results when map moves'
+02:16:24  [W3]  INFO      Saved 397 urls → urls_3.json
+02:16:25  [W3]  INFO      Saved 397 urls → urls_3.json
+02:16:27  [W3]  INFO      Saved 397 urls → urls_3.json
+02:16:29  [W3]  INFO      Saved 397 urls → urls_3.json
+02:16:30  [W3]  INFO      Saved 397 urls → urls_3.json
+02:16:32  [W3]  INFO      Saved 397 urls → urls_3.json
+02:16:34  [W3]  INFO      Saved 397 urls → urls_3.json
+02:16:35  [W3]  INFO      Saved 397 urls → urls_3.json
+02:16:37  [W3]  INFO      Saved 397 urls → urls_3.json
+02:16:39  [W3]  INFO      Saved 397 urls → urls_3.json
+02:16:41  [W3]  INFO      Saved 401 urls → urls_3.json
+02:16:42  [W3]  INFO      Saved 406 urls → urls_3.json
+02:16:44  [W3]  INFO      Saved 406 urls → urls_3.json
+02:16:46  [W3]  INFO      Saved 410 urls → urls_3.json
+02:16:48  [W3]  INFO      Saved 418 urls → urls_3.json
+02:16:50  [W3]  INFO      Saved 418 urls → urls_3.json
+02:16:52  [W3]  INFO      Saved 427 urls → urls_3.json
+02:16:52  [W3]  INFO      End of list reached
+02:16:52  [W3]  INFO      Saved 437 urls → urls_3.json
+02:16:52  [W3]  INFO      [Dental Clinics] +40 new urls (total: 437)
+02:16:52  [W3]  INFO        ── Done: Dental Clinics (+40 urls)
+02:16:52  [W3]  INFO        ── Keyword: Orthodontists
+02:16:52  [W3]  INFO      Searched: Orthodontists
+02:17:02  [W3]  INFO      Saved 437 urls → urls_3.json
+02:17:03  [W3]  INFO      Saved 437 urls → urls_3.json
+02:17:05  [W3]  INFO      Saved 437 urls → urls_3.json
+02:17:06  [W3]  INFO      Saved 437 urls → urls_3.json
+02:17:08  [W3]  INFO      Saved 446 urls → urls_3.json
+02:17:10  [W3]  INFO      Saved 455 urls → urls_3.json
+02:17:11  [W3]  INFO      Saved 455 urls → urls_3.json
+02:17:14  [W3]  INFO      Saved 455 urls → urls_3.json
+02:17:15  [W3]  INFO      Saved 468 urls → urls_3.json
+02:17:18  [W3]  INFO      Saved 468 urls → urls_3.json
+02:17:20  [W3]  INFO      Saved 481 urls → urls_3.json
+02:17:21  [W3]  INFO      Saved 481 urls → urls_3.json
+02:17:23  [W3]  INFO      Saved 481 urls → urls_3.json
+02:17:25  [W3]  INFO      Saved 486 urls → urls_3.json
+02:17:27  [W3]  INFO      Saved 496 urls → urls_3.json
+02:17:29  [W3]  INFO      Saved 496 urls → urls_3.json
+02:17:30  [W3]  INFO      End of list reached
+02:17:30  [W3]  INFO      Saved 516 urls → urls_3.json
+02:17:30  [W3]  INFO      [Orthodontists] +79 new urls (total: 516)
+02:17:30  [W3]  INFO        ── Done: Orthodontists (+79 urls)
+02:17:30  [W3]  INFO        ── Keyword: Med Spas
+02:17:30  [W3]  INFO      Searched: Med Spas
+02:17:39  [W3]  INFO      Saved 516 urls → urls_3.json
+02:17:41  [W3]  INFO      Saved 516 urls → urls_3.json
+02:17:43  [W3]  INFO      Saved 516 urls → urls_3.json
+02:17:44  [W3]  INFO      Saved 516 urls → urls_3.json
+02:17:46  [W3]  INFO      Saved 516 urls → urls_3.json
+02:17:48  [W3]  INFO      Saved 516 urls → urls_3.json
+02:17:49  [W3]  INFO      Saved 516 urls → urls_3.json
+02:17:51  [W3]  INFO      Saved 516 urls → urls_3.json
+02:17:53  [W3]  INFO      Saved 516 urls → urls_3.json
+02:17:54  [W3]  INFO      Saved 516 urls → urls_3.json
+02:17:56  [W3]  INFO      Saved 516 urls → urls_3.json
+02:17:58  [W3]  INFO      Saved 516 urls → urls_3.json
+02:18:00  [W3]  INFO      Saved 516 urls → urls_3.json
+02:18:02  [W3]  INFO      Saved 516 urls → urls_3.json
+02:18:04  [W3]  INFO      Saved 516 urls → urls_3.json
+02:18:05  [W3]  INFO      Saved 516 urls → urls_3.json
+02:18:07  [W3]  INFO      Saved 516 urls → urls_3.json
+02:18:09  [W3]  INFO      Saved 516 urls → urls_3.json
+02:18:11  [W3]  INFO      Stalled after 6 scrolls — moving on
+02:18:11  [W3]  INFO      Saved 516 urls → urls_3.json
+02:18:11  [W3]  INFO      [Med Spas] +0 new urls (total: 516)
+02:18:11  [W3]  INFO        ── Done: Med Spas (+0 urls)
+02:18:11  [W3]  INFO        ── Keyword: Aesthetic Clinics
+02:18:11  [W3]  INFO      Searched: Aesthetic Clinics
