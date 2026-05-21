@@ -678,3 +678,1974 @@ json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
 02:18:11  [W2]  INFO        ── Done: Aesthetic Clinics (+0 urls)
 02:18:11  [W2]  INFO        ── Keyword: Therapy, Mental Health
 02:18:11  [W2]  INFO      Searched: Therapy, Mental Health
+02:18:20  [W2]  INFO      Saved 583 urls → urls_2.json
+02:18:22  [W2]  INFO      Saved 584 urls → urls_2.json
+02:18:23  [W2]  INFO      Saved 584 urls → urls_2.json
+02:18:25  [W2]  INFO      Saved 584 urls → urls_2.json
+02:18:27  [W2]  INFO      Saved 584 urls → urls_2.json
+02:18:28  [W2]  INFO      Saved 584 urls → urls_2.json
+02:18:30  [W2]  INFO      Saved 584 urls → urls_2.json
+02:18:31  [W2]  INFO      Saved 584 urls → urls_2.json
+02:18:33  [W2]  INFO      Saved 584 urls → urls_2.json
+02:18:35  [W2]  INFO      Saved 584 urls → urls_2.json
+02:18:36  [W2]  INFO      Saved 584 urls → urls_2.json
+02:18:38  [W2]  INFO      Saved 584 urls → urls_2.json
+02:18:39  [W2]  INFO      Saved 584 urls → urls_2.json
+02:18:41  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:18:41  [W2]  INFO      Saved 584 urls → urls_2.json
+02:18:41  [W2]  INFO      [Therapy, Mental Health] +1 new urls (total: 584)
+02:18:41  [W2]  INFO        ── Done: Therapy, Mental Health (+1 urls)
+02:18:41  [W2]  INFO        ── Keyword: Rehab Practices
+02:18:41  [W2]  INFO      Searched: Rehab Practices
+02:18:51  [W2]  INFO      Saved 584 urls → urls_2.json
+02:18:52  [W2]  INFO      Saved 584 urls → urls_2.json
+02:18:54  [W2]  INFO      Saved 584 urls → urls_2.json
+02:18:56  [W2]  INFO      Saved 584 urls → urls_2.json
+02:18:57  [W2]  INFO      Saved 584 urls → urls_2.json
+02:18:59  [W2]  INFO      Saved 584 urls → urls_2.json
+02:19:00  [W2]  INFO      Saved 584 urls → urls_2.json
+02:19:02  [W2]  INFO      Saved 584 urls → urls_2.json
+02:19:03  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:19:03  [W2]  INFO      Saved 584 urls → urls_2.json
+02:19:03  [W2]  INFO      [Rehab Practices] +0 new urls (total: 584)
+02:19:03  [W2]  INFO        ── Done: Rehab Practices (+0 urls)
+02:19:03  [W2]  INFO        ── Keyword: Chiropractic
+02:19:03  [W2]  INFO      Searched: Chiropractic
+02:19:13  [W2]  INFO      Saved 584 urls → urls_2.json
+02:19:15  [W2]  INFO      Saved 584 urls → urls_2.json
+02:19:16  [W2]  INFO      Saved 594 urls → urls_2.json
+02:19:18  [W2]  INFO      Saved 594 urls → urls_2.json
+02:19:19  [W2]  INFO      Saved 594 urls → urls_2.json
+02:19:21  [W2]  INFO      Saved 594 urls → urls_2.json
+02:19:22  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:19:22  [W2]  INFO      Saved 594 urls → urls_2.json
+02:19:22  [W2]  INFO      [Chiropractic] +10 new urls (total: 594)
+02:19:22  [W2]  INFO        ── Done: Chiropractic (+10 urls)
+02:19:22  [W2]  INFO        ── Keyword: Physical Therapy Clinics
+02:19:22  [W2]  INFO      Searched: Physical Therapy Clinics
+02:19:32  [W2]  INFO      Saved 600 urls → urls_2.json
+02:19:34  [W2]  INFO      Saved 606 urls → urls_2.json
+02:19:35  [W2]  INFO      Saved 608 urls → urls_2.json
+02:19:37  [W2]  INFO      Saved 608 urls → urls_2.json
+02:19:38  [W2]  INFO      Saved 608 urls → urls_2.json
+02:19:40  [W2]  INFO      Saved 608 urls → urls_2.json
+02:19:41  [W2]  INFO      Saved 608 urls → urls_2.json
+02:19:43  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:19:43  [W2]  INFO      Saved 608 urls → urls_2.json
+02:19:43  [W2]  INFO      [Physical Therapy Clinics] +14 new urls (total: 608)
+02:19:43  [W2]  INFO        ── Done: Physical Therapy Clinics (+14 urls)
+02:19:43  [W2]  INFO        ── Keyword: Veterinary Clinics
+02:19:43  [W2]  INFO      Searched: Veterinary Clinics
+02:19:53  [W2]  INFO      Saved 608 urls → urls_2.json
+02:19:54  [W2]  INFO      Saved 608 urls → urls_2.json
+02:19:56  [W2]  INFO      Saved 608 urls → urls_2.json
+02:19:57  [W2]  INFO      Saved 618 urls → urls_2.json
+02:19:59  [W2]  INFO      Saved 618 urls → urls_2.json
+02:20:01  [W2]  INFO      Saved 618 urls → urls_2.json
+02:20:02  [W2]  INFO      Saved 618 urls → urls_2.json
+02:20:04  [W2]  INFO      Saved 618 urls → urls_2.json
+02:20:05  [W2]  INFO      Saved 618 urls → urls_2.json
+02:20:07  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:20:07  [W2]  INFO      Saved 618 urls → urls_2.json
+02:20:07  [W2]  INFO      [Veterinary Clinics] +10 new urls (total: 618)
+02:20:07  [W2]  INFO        ── Done: Veterinary Clinics (+10 urls)
+02:20:07  [W2]  INFO        ── Keyword: HVAC Contractors
+02:20:07  [W2]  INFO      Searched: HVAC Contractors
+02:20:16  [W2]  INFO      Saved 618 urls → urls_2.json
+02:20:18  [W2]  INFO      Saved 618 urls → urls_2.json
+02:20:19  [W2]  INFO      Saved 618 urls → urls_2.json
+02:20:21  [W2]  INFO      Saved 618 urls → urls_2.json
+02:20:23  [W2]  INFO      Saved 618 urls → urls_2.json
+02:20:24  [W2]  INFO      Saved 618 urls → urls_2.json
+02:20:26  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:20:26  [W2]  INFO      Saved 618 urls → urls_2.json
+02:20:26  [W2]  INFO      [HVAC Contractors] +0 new urls (total: 618)
+02:20:26  [W2]  INFO        ── Done: HVAC Contractors (+0 urls)
+02:20:26  [W2]  INFO        ── Keyword: Plumbing Services
+02:20:26  [W2]  INFO      Searched: Plumbing Services
+02:20:35  [W2]  INFO      Saved 618 urls → urls_2.json
+02:20:37  [W2]  INFO      Saved 618 urls → urls_2.json
+02:20:38  [W2]  INFO      Saved 618 urls → urls_2.json
+02:20:40  [W2]  INFO      Saved 618 urls → urls_2.json
+02:20:42  [W2]  INFO      Saved 618 urls → urls_2.json
+02:20:43  [W2]  INFO      Saved 618 urls → urls_2.json
+02:20:45  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:20:45  [W2]  INFO      Saved 618 urls → urls_2.json
+02:20:45  [W2]  INFO      [Plumbing Services] +0 new urls (total: 618)
+02:20:45  [W2]  INFO        ── Done: Plumbing Services (+0 urls)
+02:20:45  [W2]  INFO        ── Keyword: Roofing Contractors
+02:20:45  [W2]  INFO      Searched: Roofing Contractors
+02:20:54  [W2]  INFO      Saved 628 urls → urls_2.json
+02:20:56  [W2]  INFO      Saved 628 urls → urls_2.json
+02:20:57  [W2]  INFO      Saved 628 urls → urls_2.json
+02:20:59  [W2]  INFO      Saved 628 urls → urls_2.json
+02:21:01  [W2]  INFO      Saved 638 urls → urls_2.json
+02:21:02  [W2]  INFO      Saved 638 urls → urls_2.json
+02:21:04  [W2]  INFO      Saved 638 urls → urls_2.json
+02:21:05  [W2]  INFO      Saved 648 urls → urls_2.json
+02:21:07  [W2]  INFO      Saved 648 urls → urls_2.json
+02:21:09  [W2]  INFO      Saved 648 urls → urls_2.json
+02:21:10  [W2]  INFO      Saved 648 urls → urls_2.json
+02:21:12  [W2]  INFO      Saved 648 urls → urls_2.json
+02:21:13  [W2]  INFO      Saved 658 urls → urls_2.json
+02:21:15  [W2]  INFO      Saved 658 urls → urls_2.json
+02:21:17  [W2]  INFO      Saved 658 urls → urls_2.json
+02:21:18  [W2]  INFO      Saved 658 urls → urls_2.json
+02:21:20  [W2]  INFO      Saved 668 urls → urls_2.json
+02:21:22  [W2]  INFO      Saved 668 urls → urls_2.json
+02:21:23  [W2]  INFO      Saved 668 urls → urls_2.json
+02:21:25  [W2]  INFO      Saved 678 urls → urls_2.json
+02:21:27  [W2]  INFO      Saved 678 urls → urls_2.json
+02:21:29  [W2]  INFO      Saved 698 urls → urls_2.json
+02:21:31  [W2]  INFO      Saved 698 urls → urls_2.json
+02:21:32  [W2]  INFO      Saved 718 urls → urls_2.json
+02:21:34  [W2]  INFO      Saved 718 urls → urls_2.json
+02:21:35  [W2]  INFO      End of list reached
+02:21:35  [W2]  INFO      Saved 738 urls → urls_2.json
+02:21:35  [W2]  INFO      [Roofing Contractors] +120 new urls (total: 738)
+02:21:35  [W2]  INFO        ── Done: Roofing Contractors (+120 urls)
+02:21:35  [W2]  INFO        ── Keyword: Pest Control
+02:21:35  [W2]  INFO      Searched: Pest Control
+02:21:43  [W2]  INFO      End of list reached
+02:21:43  [W2]  INFO      Saved 738 urls → urls_2.json
+02:21:43  [W2]  INFO      [Pest Control] +0 new urls (total: 738)
+02:21:43  [W2]  INFO        ── Done: Pest Control (+0 urls)
+02:21:43  [W2]  INFO        ── Keyword: Termite Services
+02:21:43  [W2]  INFO      Searched: Termite Services
+02:21:52  [W2]  INFO      End of list reached
+02:21:52  [W2]  INFO      Saved 738 urls → urls_2.json
+02:21:52  [W2]  INFO      [Termite Services] +0 new urls (total: 738)
+02:21:52  [W2]  INFO        ── Done: Termite Services (+0 urls)
+02:21:52  [W2]  INFO        ── Keyword: Landscaping
+02:21:52  [W2]  INFO      Searched: Landscaping
+02:22:00  [W2]  INFO      End of list reached
+02:22:00  [W2]  INFO      Saved 738 urls → urls_2.json
+02:22:00  [W2]  INFO      [Landscaping] +0 new urls (total: 738)
+02:22:00  [W2]  INFO        ── Done: Landscaping (+0 urls)
+02:22:00  [W2]  INFO        ── Keyword: Lawn Care
+02:22:00  [W2]  INFO      Searched: Lawn Care
+02:22:09  [W2]  INFO      End of list reached
+02:22:09  [W2]  INFO      Saved 738 urls → urls_2.json
+02:22:09  [W2]  INFO      [Lawn Care] +0 new urls (total: 738)
+02:22:09  [W2]  INFO        ── Done: Lawn Care (+0 urls)
+02:22:09  [W2]  INFO        ── Keyword: Home Cleaning
+02:22:09  [W2]  INFO      Searched: Home Cleaning
+02:22:18  [W2]  INFO      Saved 748 urls → urls_2.json
+02:22:20  [W2]  INFO      Saved 748 urls → urls_2.json
+02:22:21  [W2]  INFO      Saved 748 urls → urls_2.json
+02:22:23  [W2]  INFO      Saved 748 urls → urls_2.json
+02:22:24  [W2]  INFO      Saved 748 urls → urls_2.json
+02:22:26  [W2]  INFO      Saved 748 urls → urls_2.json
+02:22:27  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:22:27  [W2]  INFO      Saved 748 urls → urls_2.json
+02:22:27  [W2]  INFO      [Home Cleaning] +10 new urls (total: 748)
+02:22:27  [W2]  INFO        ── Done: Home Cleaning (+10 urls)
+02:22:27  [W2]  INFO        ── Keyword: Janitorial Services
+02:22:27  [W2]  INFO      Searched: Janitorial Services
+02:22:37  [W2]  INFO      Saved 748 urls → urls_2.json
+02:22:39  [W2]  INFO      Saved 748 urls → urls_2.json
+02:22:40  [W2]  INFO      Saved 748 urls → urls_2.json
+02:22:42  [W2]  INFO      Saved 748 urls → urls_2.json
+02:22:43  [W2]  INFO      Saved 748 urls → urls_2.json
+02:22:45  [W2]  INFO      Saved 748 urls → urls_2.json
+02:22:46  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:22:46  [W2]  INFO      Saved 748 urls → urls_2.json
+02:22:46  [W2]  INFO      [Janitorial Services] +0 new urls (total: 748)
+02:22:46  [W2]  INFO        ── Done: Janitorial Services (+0 urls)
+02:22:46  [W2]  INFO        ── Keyword: Auto Repair
+02:22:46  [W2]  INFO      Searched: Auto Repair
+02:22:56  [W2]  INFO      Saved 748 urls → urls_2.json
+02:22:57  [W2]  INFO      Saved 748 urls → urls_2.json
+02:22:59  [W2]  INFO      Saved 748 urls → urls_2.json
+02:23:01  [W2]  INFO      Saved 748 urls → urls_2.json
+02:23:02  [W2]  INFO      Saved 748 urls → urls_2.json
+02:23:04  [W2]  INFO      Saved 748 urls → urls_2.json
+02:23:05  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:23:05  [W2]  INFO      Saved 748 urls → urls_2.json
+02:23:05  [W2]  INFO      [Auto Repair] +0 new urls (total: 748)
+02:23:05  [W2]  INFO        ── Done: Auto Repair (+0 urls)
+02:23:05  [W2]  INFO        ── Keyword: Body Shops
+02:23:05  [W2]  INFO      Searched: Body Shops
+02:23:15  [W2]  INFO      Saved 748 urls → urls_2.json
+02:23:16  [W2]  INFO      Saved 748 urls → urls_2.json
+02:23:18  [W2]  INFO      Saved 748 urls → urls_2.json
+02:23:19  [W2]  INFO      Saved 748 urls → urls_2.json
+02:23:21  [W2]  INFO      Saved 748 urls → urls_2.json
+02:23:23  [W2]  INFO      Saved 748 urls → urls_2.json
+02:23:24  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:23:24  [W2]  INFO      Saved 748 urls → urls_2.json
+02:23:24  [W2]  INFO      [Body Shops] +0 new urls (total: 748)
+02:23:24  [W2]  INFO        ── Done: Body Shops (+0 urls)
+02:23:24  [W2]  INFO        ── Keyword: Personal Injury
+02:23:24  [W2]  INFO      Searched: Personal Injury
+02:23:34  [W2]  INFO      Saved 748 urls → urls_2.json
+02:23:35  [W2]  INFO      Saved 748 urls → urls_2.json
+02:23:37  [W2]  INFO      Saved 748 urls → urls_2.json
+02:23:38  [W2]  INFO      Saved 758 urls → urls_2.json
+02:23:40  [W2]  INFO      Saved 768 urls → urls_2.json
+02:23:42  [W2]  INFO      Saved 769 urls → urls_2.json
+02:23:43  [W2]  INFO      Saved 769 urls → urls_2.json
+02:23:45  [W2]  INFO      Saved 769 urls → urls_2.json
+02:23:46  [W2]  INFO      Saved 769 urls → urls_2.json
+02:23:48  [W2]  INFO      Saved 769 urls → urls_2.json
+02:23:50  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:23:50  [W2]  INFO      Saved 769 urls → urls_2.json
+02:23:50  [W2]  INFO      [Personal Injury] +21 new urls (total: 769)
+02:23:50  [W2]  INFO        ── Done: Personal Injury (+21 urls)
+02:23:50  [W2]  INFO        ── Keyword: Family Law Firms
+02:23:50  [W2]  INFO      Searched: Family Law Firms
+02:23:59  [W2]  INFO      Saved 769 urls → urls_2.json
+02:24:01  [W2]  INFO      Saved 769 urls → urls_2.json
+02:24:02  [W2]  INFO      Saved 769 urls → urls_2.json
+02:24:04  [W2]  INFO      Saved 769 urls → urls_2.json
+02:24:06  [W2]  INFO      Saved 769 urls → urls_2.json
+02:24:07  [W2]  INFO      Saved 769 urls → urls_2.json
+02:24:09  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:24:09  [W2]  INFO      Saved 769 urls → urls_2.json
+02:24:09  [W2]  INFO      [Family Law Firms] +0 new urls (total: 769)
+02:24:09  [W2]  INFO        ── Done: Family Law Firms (+0 urls)
+02:24:09  [W2]  INFO        ── Keyword: Bridal, Catering
+02:24:09  [W2]  INFO      Searched: Bridal, Catering
+02:24:18  [W2]  INFO      Saved 769 urls → urls_2.json
+02:24:20  [W2]  INFO      Saved 769 urls → urls_2.json
+02:24:21  [W2]  INFO      Saved 769 urls → urls_2.json
+02:24:23  [W2]  INFO      Saved 769 urls → urls_2.json
+02:24:25  [W2]  INFO      Saved 769 urls → urls_2.json
+02:24:26  [W2]  INFO      Saved 769 urls → urls_2.json
+02:24:28  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:24:28  [W2]  INFO      Saved 769 urls → urls_2.json
+02:24:28  [W2]  INFO      [Bridal, Catering] +0 new urls (total: 769)
+02:24:28  [W2]  INFO        ── Done: Bridal, Catering (+0 urls)
+02:24:28  [W2]  INFO        ── Keyword: Event Planning Vendors
+02:24:28  [W2]  INFO      Searched: Event Planning Vendors
+02:24:37  [W2]  INFO      Saved 769 urls → urls_2.json
+02:24:39  [W2]  INFO      Saved 769 urls → urls_2.json
+02:24:41  [W2]  INFO      Saved 769 urls → urls_2.json
+02:24:42  [W2]  INFO      Saved 769 urls → urls_2.json
+02:24:44  [W2]  INFO      Saved 769 urls → urls_2.json
+02:24:45  [W2]  INFO      Saved 769 urls → urls_2.json
+02:24:47  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:24:47  [W2]  INFO      Saved 769 urls → urls_2.json
+02:24:47  [W2]  INFO      [Event Planning Vendors] +0 new urls (total: 769)
+02:24:47  [W2]  INFO        ── Done: Event Planning Vendors (+0 urls)
+02:24:47  [W2]  INFO        ── Keyword: Property Management
+02:24:47  [W2]  INFO      Searched: Property Management
+02:24:57  [W2]  INFO      Saved 769 urls → urls_2.json
+02:24:58  [W2]  INFO      Saved 769 urls → urls_2.json
+02:25:00  [W2]  INFO      Saved 769 urls → urls_2.json
+02:25:01  [W2]  INFO      Saved 769 urls → urls_2.json
+02:25:03  [W2]  INFO      Saved 769 urls → urls_2.json
+02:25:04  [W2]  INFO      Saved 769 urls → urls_2.json
+02:25:06  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:25:06  [W2]  INFO      Saved 769 urls → urls_2.json
+02:25:06  [W2]  INFO      [Property Management] +0 new urls (total: 769)
+02:25:06  [W2]  INFO        ── Done: Property Management (+0 urls)
+02:25:06  [W2]  INFO      ── City: https://www.google.com/maps/place/Mobile,+AL
+02:25:14  [W2]  INFO      Clicked: close popup
+02:25:14  [W2]  INFO        ── Keyword: Dental Clinics
+02:25:14  [W2]  INFO      Searched: Dental Clinics
+02:25:30  [W2]  WARNING   Results feed not found
+02:25:30  [W2]  INFO        ── Done: Dental Clinics (+0 urls)
+02:25:30  [W2]  INFO        ── Keyword: Orthodontists
+02:25:30  [W2]  INFO      Searched: Orthodontists
+02:25:46  [W2]  WARNING   Results feed not found
+02:25:46  [W2]  INFO        ── Done: Orthodontists (+0 urls)
+02:25:46  [W2]  INFO        ── Keyword: Med Spas
+02:25:47  [W2]  INFO      Searched: Med Spas
+02:25:56  [W2]  INFO      Saved 776 urls → urls_2.json
+02:25:58  [W2]  INFO      Saved 783 urls → urls_2.json
+02:25:59  [W2]  INFO      Saved 789 urls → urls_2.json
+02:26:01  [W2]  INFO      Saved 796 urls → urls_2.json
+02:26:03  [W2]  INFO      Saved 803 urls → urls_2.json
+02:26:04  [W2]  INFO      Saved 809 urls → urls_2.json
+02:26:06  [W2]  INFO      Saved 816 urls → urls_2.json
+02:26:08  [W2]  INFO      Saved 823 urls → urls_2.json
+02:26:09  [W2]  INFO      Saved 829 urls → urls_2.json
+02:26:11  [W2]  INFO      Saved 836 urls → urls_2.json
+02:26:13  [W2]  INFO      Saved 843 urls → urls_2.json
+02:26:15  [W2]  INFO      Saved 849 urls → urls_2.json
+02:26:17  [W2]  INFO      Saved 856 urls → urls_2.json
+02:26:19  [W2]  INFO      Saved 860 urls → urls_2.json
+02:26:19  [W2]  INFO      End of list reached
+02:26:19  [W2]  INFO      Saved 860 urls → urls_2.json
+02:26:19  [W2]  INFO      [Med Spas] +91 new urls (total: 860)
+02:26:19  [W2]  INFO        ── Done: Med Spas (+91 urls)
+02:26:19  [W2]  INFO        ── Keyword: Aesthetic Clinics
+02:26:19  [W2]  INFO      Searched: Aesthetic Clinics
+02:26:29  [W2]  INFO      Saved 860 urls → urls_2.json
+02:26:30  [W2]  INFO      Saved 865 urls → urls_2.json
+02:26:32  [W2]  INFO      Saved 869 urls → urls_2.json
+02:26:33  [W2]  INFO      Saved 873 urls → urls_2.json
+02:26:35  [W2]  INFO      Saved 878 urls → urls_2.json
+02:26:37  [W2]  INFO      Saved 880 urls → urls_2.json
+02:26:39  [W2]  INFO      Saved 883 urls → urls_2.json
+02:26:40  [W2]  INFO      Saved 887 urls → urls_2.json
+02:26:42  [W2]  INFO      Saved 893 urls → urls_2.json
+02:26:44  [W2]  INFO      Saved 900 urls → urls_2.json
+02:26:46  [W2]  INFO      Saved 907 urls → urls_2.json
+02:26:47  [W2]  INFO      Saved 913 urls → urls_2.json
+02:26:49  [W2]  INFO      Saved 913 urls → urls_2.json
+02:26:51  [W2]  INFO      Saved 927 urls → urls_2.json
+02:26:53  [W2]  INFO      Saved 933 urls → urls_2.json
+02:26:55  [W2]  INFO      Saved 933 urls → urls_2.json
+02:26:57  [W2]  INFO      Saved 933 urls → urls_2.json
+02:26:59  [W2]  INFO      Saved 933 urls → urls_2.json
+02:27:00  [W2]  INFO      Saved 933 urls → urls_2.json
+02:27:02  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:27:02  [W2]  INFO      Saved 933 urls → urls_2.json
+02:27:02  [W2]  INFO      [Aesthetic Clinics] +73 new urls (total: 933)
+02:27:02  [W2]  INFO        ── Done: Aesthetic Clinics (+73 urls)
+02:27:02  [W2]  INFO        ── Keyword: Therapy, Mental Health
+02:27:02  [W2]  INFO      Searched: Therapy, Mental Health
+02:27:12  [W2]  INFO      Saved 933 urls → urls_2.json
+02:27:14  [W2]  INFO      Saved 933 urls → urls_2.json
+02:27:16  [W2]  INFO      Saved 933 urls → urls_2.json
+02:27:18  [W2]  INFO      Saved 933 urls → urls_2.json
+02:27:20  [W2]  INFO      Saved 933 urls → urls_2.json
+02:27:21  [W2]  INFO      Saved 933 urls → urls_2.json
+02:27:23  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:27:23  [W2]  INFO      Saved 933 urls → urls_2.json
+02:27:23  [W2]  INFO      [Therapy, Mental Health] +0 new urls (total: 933)
+02:27:23  [W2]  INFO        ── Done: Therapy, Mental Health (+0 urls)
+02:27:23  [W2]  INFO        ── Keyword: Rehab Practices
+02:27:23  [W2]  INFO      Searched: Rehab Practices
+02:27:33  [W2]  INFO      Saved 933 urls → urls_2.json
+02:27:35  [W2]  INFO      Saved 933 urls → urls_2.json
+02:27:37  [W2]  INFO      Saved 933 urls → urls_2.json
+02:27:39  [W2]  INFO      Saved 933 urls → urls_2.json
+02:27:40  [W2]  INFO      Saved 933 urls → urls_2.json
+02:27:42  [W2]  INFO      Saved 933 urls → urls_2.json
+02:27:44  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:27:44  [W2]  INFO      Saved 933 urls → urls_2.json
+02:27:44  [W2]  INFO      [Rehab Practices] +0 new urls (total: 933)
+02:27:44  [W2]  INFO        ── Done: Rehab Practices (+0 urls)
+02:27:44  [W2]  INFO        ── Keyword: Chiropractic
+02:27:44  [W2]  INFO      Searched: Chiropractic
+02:27:54  [W2]  INFO      Saved 933 urls → urls_2.json
+02:27:56  [W2]  INFO      Saved 933 urls → urls_2.json
+02:27:58  [W2]  INFO      Saved 933 urls → urls_2.json
+02:27:59  [W2]  INFO      Saved 933 urls → urls_2.json
+02:28:01  [W2]  INFO      Saved 933 urls → urls_2.json
+02:28:03  [W2]  INFO      Saved 933 urls → urls_2.json
+02:28:05  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:28:05  [W2]  INFO      Saved 933 urls → urls_2.json
+02:28:05  [W2]  INFO      [Chiropractic] +0 new urls (total: 933)
+02:28:05  [W2]  INFO        ── Done: Chiropractic (+0 urls)
+02:28:05  [W2]  INFO        ── Keyword: Physical Therapy Clinics
+02:28:05  [W2]  INFO      Searched: Physical Therapy Clinics
+02:28:15  [W2]  INFO      Saved 933 urls → urls_2.json
+02:28:17  [W2]  INFO      Saved 933 urls → urls_2.json
+02:28:19  [W2]  INFO      Saved 933 urls → urls_2.json
+02:28:20  [W2]  INFO      Saved 933 urls → urls_2.json
+02:28:22  [W2]  INFO      Saved 933 urls → urls_2.json
+02:28:24  [W2]  INFO      Saved 933 urls → urls_2.json
+02:28:26  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:28:26  [W2]  INFO      Saved 933 urls → urls_2.json
+02:28:26  [W2]  INFO      [Physical Therapy Clinics] +0 new urls (total: 933)
+02:28:26  [W2]  INFO        ── Done: Physical Therapy Clinics (+0 urls)
+02:28:26  [W2]  INFO        ── Keyword: Veterinary Clinics
+02:28:26  [W2]  INFO      Searched: Veterinary Clinics
+02:28:36  [W2]  INFO      Saved 933 urls → urls_2.json
+02:28:38  [W2]  INFO      Saved 933 urls → urls_2.json
+02:28:39  [W2]  INFO      Saved 933 urls → urls_2.json
+02:28:41  [W2]  INFO      Saved 933 urls → urls_2.json
+02:28:43  [W2]  INFO      Saved 933 urls → urls_2.json
+02:28:45  [W2]  INFO      Saved 933 urls → urls_2.json
+02:28:47  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:28:47  [W2]  INFO      Saved 933 urls → urls_2.json
+02:28:47  [W2]  INFO      [Veterinary Clinics] +0 new urls (total: 933)
+02:28:47  [W2]  INFO        ── Done: Veterinary Clinics (+0 urls)
+02:28:47  [W2]  INFO        ── Keyword: HVAC Contractors
+02:28:47  [W2]  INFO      Searched: HVAC Contractors
+02:28:57  [W2]  INFO      Saved 933 urls → urls_2.json
+02:28:59  [W2]  INFO      Saved 933 urls → urls_2.json
+02:29:00  [W2]  INFO      Saved 933 urls → urls_2.json
+02:29:02  [W2]  INFO      Saved 933 urls → urls_2.json
+02:29:04  [W2]  INFO      Saved 933 urls → urls_2.json
+02:29:06  [W2]  INFO      Saved 933 urls → urls_2.json
+02:29:08  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:29:08  [W2]  INFO      Saved 933 urls → urls_2.json
+02:29:08  [W2]  INFO      [HVAC Contractors] +0 new urls (total: 933)
+02:29:08  [W2]  INFO        ── Done: HVAC Contractors (+0 urls)
+02:29:08  [W2]  INFO        ── Keyword: Plumbing Services
+02:29:08  [W2]  INFO      Searched: Plumbing Services
+02:29:18  [W2]  INFO      Saved 933 urls → urls_2.json
+02:29:20  [W2]  INFO      Saved 933 urls → urls_2.json
+02:29:21  [W2]  INFO      Saved 933 urls → urls_2.json
+02:29:23  [W2]  INFO      Saved 933 urls → urls_2.json
+02:29:25  [W2]  INFO      Saved 933 urls → urls_2.json
+02:29:27  [W2]  INFO      Saved 933 urls → urls_2.json
+02:29:29  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:29:29  [W2]  INFO      Saved 933 urls → urls_2.json
+02:29:29  [W2]  INFO      [Plumbing Services] +0 new urls (total: 933)
+02:29:29  [W2]  INFO        ── Done: Plumbing Services (+0 urls)
+02:29:29  [W2]  INFO        ── Keyword: Roofing Contractors
+02:29:29  [W2]  INFO      Searched: Roofing Contractors
+02:29:39  [W2]  INFO      Saved 933 urls → urls_2.json
+02:29:41  [W2]  INFO      Saved 933 urls → urls_2.json
+02:29:43  [W2]  INFO      Saved 933 urls → urls_2.json
+02:29:44  [W2]  INFO      Saved 933 urls → urls_2.json
+02:29:46  [W2]  INFO      Saved 933 urls → urls_2.json
+02:29:48  [W2]  INFO      Saved 933 urls → urls_2.json
+02:29:50  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:29:50  [W2]  INFO      Saved 933 urls → urls_2.json
+02:29:50  [W2]  INFO      [Roofing Contractors] +0 new urls (total: 933)
+02:29:50  [W2]  INFO        ── Done: Roofing Contractors (+0 urls)
+02:29:50  [W2]  INFO        ── Keyword: Pest Control
+02:29:50  [W2]  INFO      Searched: Pest Control
+02:30:00  [W2]  INFO      Saved 933 urls → urls_2.json
+02:30:02  [W2]  INFO      Saved 933 urls → urls_2.json
+02:30:03  [W2]  INFO      Saved 933 urls → urls_2.json
+02:30:05  [W2]  INFO      Saved 933 urls → urls_2.json
+02:30:07  [W2]  INFO      Saved 933 urls → urls_2.json
+02:30:09  [W2]  INFO      Saved 933 urls → urls_2.json
+02:30:11  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:30:11  [W2]  INFO      Saved 933 urls → urls_2.json
+02:30:11  [W2]  INFO      [Pest Control] +0 new urls (total: 933)
+02:30:11  [W2]  INFO        ── Done: Pest Control (+0 urls)
+02:30:11  [W2]  INFO        ── Keyword: Termite Services
+02:30:11  [W2]  INFO      Searched: Termite Services
+02:30:21  [W2]  INFO      Saved 933 urls → urls_2.json
+02:30:22  [W2]  INFO      Saved 933 urls → urls_2.json
+02:30:24  [W2]  INFO      Saved 933 urls → urls_2.json
+02:30:26  [W2]  INFO      Saved 933 urls → urls_2.json
+02:30:28  [W2]  INFO      Saved 933 urls → urls_2.json
+02:30:30  [W2]  INFO      Saved 933 urls → urls_2.json
+02:30:32  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:30:32  [W2]  INFO      Saved 933 urls → urls_2.json
+02:30:32  [W2]  INFO      [Termite Services] +0 new urls (total: 933)
+02:30:32  [W2]  INFO        ── Done: Termite Services (+0 urls)
+02:30:32  [W2]  INFO        ── Keyword: Landscaping
+02:30:32  [W2]  INFO      Searched: Landscaping
+02:30:41  [W2]  INFO      Saved 933 urls → urls_2.json
+02:30:43  [W2]  INFO      Saved 933 urls → urls_2.json
+02:30:45  [W2]  INFO      Saved 933 urls → urls_2.json
+02:30:47  [W2]  INFO      Saved 933 urls → urls_2.json
+02:30:49  [W2]  INFO      Saved 933 urls → urls_2.json
+02:30:51  [W2]  INFO      Saved 933 urls → urls_2.json
+02:30:52  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:30:52  [W2]  INFO      Saved 933 urls → urls_2.json
+02:30:52  [W2]  INFO      [Landscaping] +0 new urls (total: 933)
+02:30:52  [W2]  INFO        ── Done: Landscaping (+0 urls)
+02:30:52  [W2]  INFO        ── Keyword: Lawn Care
+02:30:52  [W2]  INFO      Searched: Lawn Care
+02:31:02  [W2]  INFO      Saved 943 urls → urls_2.json
+02:31:04  [W2]  INFO      Saved 953 urls → urls_2.json
+02:31:05  [W2]  INFO      Saved 954 urls → urls_2.json
+02:31:07  [W2]  INFO      Saved 964 urls → urls_2.json
+02:31:09  [W2]  INFO      Saved 974 urls → urls_2.json
+02:31:11  [W2]  INFO      Saved 984 urls → urls_2.json
+02:31:13  [W2]  INFO      Saved 994 urls → urls_2.json
+02:31:14  [W2]  INFO      Saved 994 urls → urls_2.json
+02:31:16  [W2]  INFO      Saved 994 urls → urls_2.json
+02:31:18  [W2]  INFO      Saved 994 urls → urls_2.json
+02:31:20  [W2]  INFO      Saved 994 urls → urls_2.json
+02:31:21  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:31:21  [W2]  INFO      Saved 994 urls → urls_2.json
+02:31:21  [W2]  INFO      [Lawn Care] +61 new urls (total: 994)
+02:31:21  [W2]  INFO        ── Done: Lawn Care (+61 urls)
+02:31:21  [W2]  INFO        ── Keyword: Home Cleaning
+02:31:21  [W2]  INFO      Searched: Home Cleaning
+02:31:22  [W2]  INFO      Interrupted — saving …
+02:31:22  [W2]  INFO      Saved 994 urls → urls_2.json
+02:31:22  [W2]  INFO      Worker done. Quitting driver.
+02:31:48  [W2]  INFO      Resuming from urls_2.json — 994 urls
+02:31:48  [W2]  INFO      Detected Chrome major version: 148
+02:31:48  [W2]  INFO      Driver started (incognito)
+02:31:48  [W2]  INFO      ── City: https://www.google.com/maps/place/Fort+Wayne,+IN
+02:31:57  [W2]  INFO      Clicked: close popup
+02:31:57  [W2]  INFO        ── SKIP (done): Dental Clinics
+02:31:57  [W2]  INFO        ── SKIP (done): Orthodontists
+02:31:57  [W2]  INFO        ── SKIP (done): Med Spas
+02:31:57  [W2]  INFO        ── SKIP (done): Aesthetic Clinics
+02:31:57  [W2]  INFO        ── SKIP (done): Therapy, Mental Health
+02:31:57  [W2]  INFO        ── SKIP (done): Rehab Practices
+02:31:57  [W2]  INFO        ── SKIP (done): Chiropractic
+02:31:57  [W2]  INFO        ── SKIP (done): Physical Therapy Clinics
+02:31:57  [W2]  INFO        ── SKIP (done): Veterinary Clinics
+02:31:57  [W2]  INFO        ── SKIP (done): HVAC Contractors
+02:31:57  [W2]  INFO        ── SKIP (done): Plumbing Services
+02:31:57  [W2]  INFO        ── SKIP (done): Roofing Contractors
+02:31:57  [W2]  INFO        ── SKIP (done): Pest Control
+02:31:57  [W2]  INFO        ── SKIP (done): Termite Services
+02:31:57  [W2]  INFO        ── SKIP (done): Landscaping
+02:31:57  [W2]  INFO        ── SKIP (done): Lawn Care
+02:31:57  [W2]  INFO        ── SKIP (done): Home Cleaning
+02:31:57  [W2]  INFO        ── SKIP (done): Janitorial Services
+02:31:57  [W2]  INFO        ── SKIP (done): Auto Repair
+02:31:57  [W2]  INFO        ── SKIP (done): Body Shops
+02:31:57  [W2]  INFO        ── SKIP (done): Personal Injury
+02:31:57  [W2]  INFO        ── SKIP (done): Family Law Firms
+02:31:57  [W2]  INFO        ── SKIP (done): Bridal, Catering
+02:31:57  [W2]  INFO        ── SKIP (done): Event Planning Vendors
+02:31:57  [W2]  INFO        ── SKIP (done): Property Management
+02:31:57  [W2]  INFO      ── City: https://www.google.com/maps/place/Mobile,+AL
+02:32:05  [W2]  INFO      Clicked: close popup
+02:32:05  [W2]  INFO        ── SKIP (done): Dental Clinics
+02:32:05  [W2]  INFO        ── SKIP (done): Orthodontists
+02:32:05  [W2]  INFO        ── SKIP (done): Med Spas
+02:32:05  [W2]  INFO        ── SKIP (done): Aesthetic Clinics
+02:32:05  [W2]  INFO        ── SKIP (done): Therapy, Mental Health
+02:32:05  [W2]  INFO        ── SKIP (done): Rehab Practices
+02:32:05  [W2]  INFO        ── SKIP (done): Chiropractic
+02:32:05  [W2]  INFO        ── SKIP (done): Physical Therapy Clinics
+02:32:05  [W2]  INFO        ── SKIP (done): Veterinary Clinics
+02:32:05  [W2]  INFO        ── SKIP (done): HVAC Contractors
+02:32:05  [W2]  INFO        ── SKIP (done): Plumbing Services
+02:32:05  [W2]  INFO        ── SKIP (done): Roofing Contractors
+02:32:05  [W2]  INFO        ── SKIP (done): Pest Control
+02:32:05  [W2]  INFO        ── SKIP (done): Termite Services
+02:32:05  [W2]  INFO        ── SKIP (done): Landscaping
+02:32:05  [W2]  INFO        ── SKIP (done): Lawn Care
+02:32:05  [W2]  INFO        ── Keyword: Home Cleaning
+02:32:06  [W2]  INFO      Searched: Home Cleaning
+02:32:12  [W2]  INFO      Clicked: 'update results when map moves'
+02:32:14  [W2]  INFO      Saved 1005 urls → urls_2.json
+02:32:15  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:32:17  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:32:19  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:32:20  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:32:22  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:32:23  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:32:23  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:32:23  [W2]  INFO      [Home Cleaning] +20 new urls (total: 1014)
+02:32:23  [W2]  INFO        ── Done: Home Cleaning (+20 urls)
+02:32:23  [W2]  INFO        ── Keyword: Janitorial Services
+02:32:23  [W2]  INFO      Searched: Janitorial Services
+02:32:33  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:32:35  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:32:36  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:32:38  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:32:39  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:32:41  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:32:42  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:32:42  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:32:42  [W2]  INFO      [Janitorial Services] +0 new urls (total: 1014)
+02:32:42  [W2]  INFO        ── Done: Janitorial Services (+0 urls)
+02:32:42  [W2]  INFO        ── Keyword: Auto Repair
+02:32:42  [W2]  INFO      Searched: Auto Repair
+02:32:52  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:32:54  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:32:55  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:32:57  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:32:58  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:33:00  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:33:01  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:33:01  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:33:01  [W2]  INFO      [Auto Repair] +0 new urls (total: 1014)
+02:33:01  [W2]  INFO        ── Done: Auto Repair (+0 urls)
+02:33:01  [W2]  INFO        ── Keyword: Body Shops
+02:33:02  [W2]  INFO      Searched: Body Shops
+02:33:11  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:33:13  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:33:14  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:33:16  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:33:17  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:33:19  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:33:21  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:33:21  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:33:21  [W2]  INFO      [Body Shops] +0 new urls (total: 1014)
+02:33:21  [W2]  INFO        ── Done: Body Shops (+0 urls)
+02:33:21  [W2]  INFO        ── Keyword: Personal Injury
+02:33:21  [W2]  INFO      Searched: Personal Injury
+02:33:30  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:33:32  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:33:33  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:33:35  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:33:36  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:33:38  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:33:40  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:33:40  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:33:40  [W2]  INFO      [Personal Injury] +0 new urls (total: 1014)
+02:33:40  [W2]  INFO        ── Done: Personal Injury (+0 urls)
+02:33:40  [W2]  INFO        ── Keyword: Family Law Firms
+02:33:40  [W2]  INFO      Searched: Family Law Firms
+02:33:49  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:33:51  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:33:52  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:33:54  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:33:56  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:33:57  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:33:59  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:33:59  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:33:59  [W2]  INFO      [Family Law Firms] +0 new urls (total: 1014)
+02:33:59  [W2]  INFO        ── Done: Family Law Firms (+0 urls)
+02:33:59  [W2]  INFO        ── Keyword: Bridal, Catering
+02:33:59  [W2]  INFO      Searched: Bridal, Catering
+02:34:08  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:34:10  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:34:11  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:34:13  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:34:15  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:34:16  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:34:18  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:34:18  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:34:18  [W2]  INFO      [Bridal, Catering] +0 new urls (total: 1014)
+02:34:18  [W2]  INFO        ── Done: Bridal, Catering (+0 urls)
+02:34:18  [W2]  INFO        ── Keyword: Event Planning Vendors
+02:34:18  [W2]  INFO      Searched: Event Planning Vendors
+02:34:27  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:34:29  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:34:31  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:34:32  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:34:34  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:34:35  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:34:37  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:34:37  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:34:37  [W2]  INFO      [Event Planning Vendors] +0 new urls (total: 1014)
+02:34:37  [W2]  INFO        ── Done: Event Planning Vendors (+0 urls)
+02:34:37  [W2]  INFO        ── Keyword: Property Management
+02:34:37  [W2]  INFO      Searched: Property Management
+02:34:47  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:34:48  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:34:50  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:34:51  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:34:53  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:34:54  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:34:56  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:34:56  [W2]  INFO      Saved 1014 urls → urls_2.json
+02:34:56  [W2]  INFO      [Property Management] +0 new urls (total: 1014)
+02:34:56  [W2]  INFO        ── Done: Property Management (+0 urls)
+02:34:56  [W2]  INFO      ── City: https://www.google.com/maps/place/Asheville,+NC
+02:35:02  [W2]  INFO      Clicked: close popup
+02:35:02  [W2]  INFO        ── Keyword: Dental Clinics
+02:35:02  [W2]  INFO      Searched: Dental Clinics
+02:35:19  [W2]  WARNING   Results feed not found
+02:35:19  [W2]  INFO        ── Done: Dental Clinics (+0 urls)
+02:35:19  [W2]  INFO        ── Keyword: Orthodontists
+02:35:19  [W2]  INFO      Searched: Orthodontists
+02:35:35  [W2]  WARNING   Results feed not found
+02:35:35  [W2]  INFO        ── Done: Orthodontists (+0 urls)
+02:35:35  [W2]  INFO        ── Keyword: Med Spas
+02:35:35  [W2]  INFO      Searched: Med Spas
+02:35:51  [W2]  WARNING   Results feed not found
+02:35:51  [W2]  INFO        ── Done: Med Spas (+0 urls)
+02:35:51  [W2]  INFO        ── Keyword: Aesthetic Clinics
+02:35:51  [W2]  INFO      Searched: Aesthetic Clinics
+02:36:07  [W2]  WARNING   Results feed not found
+02:36:07  [W2]  INFO        ── Done: Aesthetic Clinics (+0 urls)
+02:36:07  [W2]  INFO        ── Keyword: Therapy, Mental Health
+02:36:07  [W2]  INFO      Searched: Therapy, Mental Health
+02:36:23  [W2]  WARNING   Results feed not found
+02:36:23  [W2]  INFO        ── Done: Therapy, Mental Health (+0 urls)
+02:36:23  [W2]  INFO        ── Keyword: Rehab Practices
+02:36:23  [W2]  INFO      Searched: Rehab Practices
+02:36:39  [W2]  WARNING   Results feed not found
+02:36:39  [W2]  INFO        ── Done: Rehab Practices (+0 urls)
+02:36:39  [W2]  INFO        ── Keyword: Chiropractic
+02:36:39  [W2]  INFO      Searched: Chiropractic
+02:36:56  [W2]  WARNING   Results feed not found
+02:36:56  [W2]  INFO        ── Done: Chiropractic (+0 urls)
+02:36:56  [W2]  INFO        ── Keyword: Physical Therapy Clinics
+02:36:56  [W2]  INFO      Searched: Physical Therapy Clinics
+02:37:07  [W2]  INFO      Saved 1025 urls → urls_2.json
+02:37:08  [W2]  INFO      Saved 1028 urls → urls_2.json
+02:37:10  [W2]  INFO      Saved 1036 urls → urls_2.json
+02:37:11  [W2]  INFO      Saved 1036 urls → urls_2.json
+02:37:13  [W2]  INFO      Saved 1046 urls → urls_2.json
+02:37:15  [W2]  INFO      Saved 1046 urls → urls_2.json
+02:37:16  [W2]  INFO      Saved 1046 urls → urls_2.json
+02:37:18  [W2]  INFO      Saved 1046 urls → urls_2.json
+02:37:19  [W2]  INFO      Saved 1046 urls → urls_2.json
+02:37:21  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:37:21  [W2]  INFO      Saved 1046 urls → urls_2.json
+02:37:21  [W2]  INFO      [Physical Therapy Clinics] +32 new urls (total: 1046)
+02:37:21  [W2]  INFO        ── Done: Physical Therapy Clinics (+32 urls)
+02:37:21  [W2]  INFO        ── Keyword: Veterinary Clinics
+02:37:21  [W2]  INFO      Searched: Veterinary Clinics
+02:37:31  [W2]  INFO      Saved 1057 urls → urls_2.json
+02:37:32  [W2]  INFO      Saved 1068 urls → urls_2.json
+02:37:34  [W2]  INFO      Saved 1068 urls → urls_2.json
+02:37:35  [W2]  INFO      Saved 1078 urls → urls_2.json
+02:37:37  [W2]  INFO      Saved 1088 urls → urls_2.json
+02:37:39  [W2]  INFO      Saved 1088 urls → urls_2.json
+02:37:40  [W2]  INFO      Saved 1099 urls → urls_2.json
+02:37:42  [W2]  INFO      Saved 1108 urls → urls_2.json
+02:37:45  [W2]  INFO      Saved 1108 urls → urls_2.json
+02:37:46  [W2]  INFO      Saved 1128 urls → urls_2.json
+02:37:49  [W2]  INFO      Saved 1128 urls → urls_2.json
+02:37:51  [W2]  INFO      Saved 1148 urls → urls_2.json
+02:37:53  [W2]  INFO      Saved 1148 urls → urls_2.json
+02:37:54  [W2]  INFO      Saved 1148 urls → urls_2.json
+02:37:56  [W2]  INFO      Saved 1148 urls → urls_2.json
+02:37:58  [W2]  INFO      Saved 1148 urls → urls_2.json
+02:38:00  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:38:00  [W2]  INFO      Saved 1148 urls → urls_2.json
+02:38:00  [W2]  INFO      [Veterinary Clinics] +102 new urls (total: 1148)
+02:38:00  [W2]  INFO        ── Done: Veterinary Clinics (+102 urls)
+02:38:00  [W2]  INFO        ── Keyword: HVAC Contractors
+02:38:00  [W2]  INFO      Searched: HVAC Contractors
+02:38:10  [W2]  INFO      Saved 1148 urls → urls_2.json
+02:38:12  [W2]  INFO      Saved 1148 urls → urls_2.json
+02:38:13  [W2]  INFO      Saved 1148 urls → urls_2.json
+02:38:15  [W2]  INFO      Saved 1148 urls → urls_2.json
+02:38:17  [W2]  INFO      Saved 1148 urls → urls_2.json
+02:38:19  [W2]  INFO      Saved 1148 urls → urls_2.json
+02:38:20  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:38:20  [W2]  INFO      Saved 1148 urls → urls_2.json
+02:38:20  [W2]  INFO      [HVAC Contractors] +0 new urls (total: 1148)
+02:38:20  [W2]  INFO        ── Done: HVAC Contractors (+0 urls)
+02:38:20  [W2]  INFO        ── Keyword: Plumbing Services
+02:38:21  [W2]  INFO      Searched: Plumbing Services
+02:38:30  [W2]  INFO      Saved 1148 urls → urls_2.json
+02:38:32  [W2]  INFO      Saved 1148 urls → urls_2.json
+02:38:34  [W2]  INFO      Saved 1148 urls → urls_2.json
+02:38:36  [W2]  INFO      Saved 1148 urls → urls_2.json
+02:38:37  [W2]  INFO      Saved 1159 urls → urls_2.json
+02:38:39  [W2]  INFO      Saved 1169 urls → urls_2.json
+02:38:41  [W2]  INFO      Saved 1169 urls → urls_2.json
+02:38:42  [W2]  INFO      Saved 1179 urls → urls_2.json
+02:38:44  [W2]  INFO      Saved 1189 urls → urls_2.json
+02:38:46  [W2]  INFO      Saved 1200 urls → urls_2.json
+02:38:47  [W2]  INFO      Saved 1200 urls → urls_2.json
+02:38:49  [W2]  INFO      Saved 1200 urls → urls_2.json
+02:38:51  [W2]  INFO      Saved 1200 urls → urls_2.json
+02:38:52  [W2]  INFO      Saved 1200 urls → urls_2.json
+02:38:54  [W2]  INFO      Saved 1200 urls → urls_2.json
+02:38:56  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:38:56  [W2]  INFO      Saved 1200 urls → urls_2.json
+02:38:56  [W2]  INFO      [Plumbing Services] +52 new urls (total: 1200)
+02:38:56  [W2]  INFO        ── Done: Plumbing Services (+52 urls)
+02:38:56  [W2]  INFO        ── Keyword: Roofing Contractors
+02:38:56  [W2]  INFO      Searched: Roofing Contractors
+02:39:06  [W2]  INFO      Saved 1200 urls → urls_2.json
+02:39:07  [W2]  INFO      Saved 1200 urls → urls_2.json
+02:39:09  [W2]  INFO      Saved 1200 urls → urls_2.json
+02:39:11  [W2]  INFO      Saved 1200 urls → urls_2.json
+02:39:12  [W2]  INFO      Saved 1200 urls → urls_2.json
+02:39:14  [W2]  INFO      Saved 1200 urls → urls_2.json
+02:39:16  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:39:16  [W2]  INFO      Saved 1200 urls → urls_2.json
+02:39:16  [W2]  INFO      [Roofing Contractors] +0 new urls (total: 1200)
+02:39:16  [W2]  INFO        ── Done: Roofing Contractors (+0 urls)
+02:39:16  [W2]  INFO        ── Keyword: Pest Control
+02:39:16  [W2]  INFO      Searched: Pest Control
+02:39:25  [W2]  INFO      Saved 1211 urls → urls_2.json
+02:39:27  [W2]  INFO      Saved 1211 urls → urls_2.json
+02:39:28  [W2]  INFO      Saved 1211 urls → urls_2.json
+02:39:30  [W2]  INFO      Saved 1211 urls → urls_2.json
+02:39:31  [W2]  INFO      Saved 1211 urls → urls_2.json
+02:39:33  [W2]  INFO      Saved 1211 urls → urls_2.json
+02:39:34  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:39:34  [W2]  INFO      Saved 1211 urls → urls_2.json
+02:39:34  [W2]  INFO      [Pest Control] +11 new urls (total: 1211)
+02:39:34  [W2]  INFO        ── Done: Pest Control (+11 urls)
+02:39:34  [W2]  INFO        ── Keyword: Termite Services
+02:39:35  [W2]  INFO      Searched: Termite Services
+02:39:44  [W2]  INFO      Saved 1211 urls → urls_2.json
+02:39:46  [W2]  INFO      Saved 1211 urls → urls_2.json
+02:39:47  [W2]  INFO      Saved 1211 urls → urls_2.json
+02:39:49  [W2]  INFO      Saved 1211 urls → urls_2.json
+02:39:50  [W2]  INFO      Saved 1211 urls → urls_2.json
+02:39:52  [W2]  INFO      Saved 1211 urls → urls_2.json
+02:39:53  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:39:53  [W2]  INFO      Saved 1211 urls → urls_2.json
+02:39:53  [W2]  INFO      [Termite Services] +0 new urls (total: 1211)
+02:39:53  [W2]  INFO        ── Done: Termite Services (+0 urls)
+02:39:53  [W2]  INFO        ── Keyword: Landscaping
+02:39:54  [W2]  INFO      Searched: Landscaping
+02:40:03  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:40:05  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:40:06  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:40:08  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:40:09  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:40:11  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:40:12  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:40:12  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:40:12  [W2]  INFO      [Landscaping] +11 new urls (total: 1222)
+02:40:12  [W2]  INFO        ── Done: Landscaping (+11 urls)
+02:40:12  [W2]  INFO        ── Keyword: Lawn Care
+02:40:12  [W2]  INFO      Searched: Lawn Care
+02:40:22  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:40:24  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:40:25  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:40:27  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:40:28  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:40:30  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:40:31  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:40:32  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:40:32  [W2]  INFO      [Lawn Care] +0 new urls (total: 1222)
+02:40:32  [W2]  INFO        ── Done: Lawn Care (+0 urls)
+02:40:32  [W2]  INFO        ── Keyword: Home Cleaning
+02:40:32  [W2]  INFO      Searched: Home Cleaning
+02:40:41  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:40:43  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:40:44  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:40:46  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:40:47  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:40:49  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:40:50  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:40:50  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:40:50  [W2]  INFO      [Home Cleaning] +0 new urls (total: 1222)
+02:40:50  [W2]  INFO        ── Done: Home Cleaning (+0 urls)
+02:40:50  [W2]  INFO        ── Keyword: Janitorial Services
+02:40:51  [W2]  INFO      Searched: Janitorial Services
+02:41:00  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:41:02  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:41:03  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:41:05  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:41:06  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:41:08  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:41:09  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:41:09  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:41:09  [W2]  INFO      [Janitorial Services] +0 new urls (total: 1222)
+02:41:09  [W2]  INFO        ── Done: Janitorial Services (+0 urls)
+02:41:09  [W2]  INFO        ── Keyword: Auto Repair
+02:41:09  [W2]  INFO      Searched: Auto Repair
+02:41:19  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:41:21  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:41:22  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:41:24  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:41:25  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:41:27  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:41:28  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:41:28  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:41:28  [W2]  INFO      [Auto Repair] +0 new urls (total: 1222)
+02:41:28  [W2]  INFO        ── Done: Auto Repair (+0 urls)
+02:41:28  [W2]  INFO        ── Keyword: Body Shops
+02:41:28  [W2]  INFO      Searched: Body Shops
+02:41:38  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:41:39  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:41:41  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:41:43  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:41:44  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:41:46  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:41:47  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:41:47  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:41:47  [W2]  INFO      [Body Shops] +0 new urls (total: 1222)
+02:41:47  [W2]  INFO        ── Done: Body Shops (+0 urls)
+02:41:47  [W2]  INFO        ── Keyword: Personal Injury
+02:41:47  [W2]  INFO      Searched: Personal Injury
+02:41:57  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:41:58  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:42:00  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:42:01  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:42:03  [W2]  INFO      Saved 1222 urls → urls_2.json
+02:42:05  [W2]  INFO      Saved 1233 urls → urls_2.json
+02:42:06  [W2]  INFO      Saved 1242 urls → urls_2.json
+02:42:08  [W2]  INFO      Saved 1253 urls → urls_2.json
+02:42:10  [W2]  INFO      Saved 1262 urls → urls_2.json
+02:42:11  [W2]  INFO      Saved 1262 urls → urls_2.json
+02:42:13  [W2]  INFO      Saved 1262 urls → urls_2.json
+02:42:15  [W2]  INFO      Saved 1262 urls → urls_2.json
+02:42:16  [W2]  INFO      Saved 1262 urls → urls_2.json
+02:42:18  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:42:18  [W2]  INFO      Saved 1262 urls → urls_2.json
+02:42:18  [W2]  INFO      [Personal Injury] +40 new urls (total: 1262)
+02:42:18  [W2]  INFO        ── Done: Personal Injury (+40 urls)
+02:42:18  [W2]  INFO        ── Keyword: Family Law Firms
+02:42:18  [W2]  INFO      Searched: Family Law Firms
+02:42:27  [W2]  INFO      Saved 1262 urls → urls_2.json
+02:42:29  [W2]  INFO      Saved 1262 urls → urls_2.json
+02:42:31  [W2]  INFO      Saved 1262 urls → urls_2.json
+02:42:32  [W2]  INFO      Saved 1262 urls → urls_2.json
+02:42:34  [W2]  INFO      Saved 1262 urls → urls_2.json
+02:42:36  [W2]  INFO      Saved 1262 urls → urls_2.json
+02:42:37  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:42:37  [W2]  INFO      Saved 1262 urls → urls_2.json
+02:42:37  [W2]  INFO      [Family Law Firms] +0 new urls (total: 1262)
+02:42:37  [W2]  INFO        ── Done: Family Law Firms (+0 urls)
+02:42:37  [W2]  INFO        ── Keyword: Bridal, Catering
+02:42:37  [W2]  INFO      Searched: Bridal, Catering
+02:42:47  [W2]  INFO      Saved 1262 urls → urls_2.json
+02:42:49  [W2]  INFO      Saved 1262 urls → urls_2.json
+02:42:50  [W2]  INFO      Saved 1262 urls → urls_2.json
+02:42:52  [W2]  INFO      Saved 1262 urls → urls_2.json
+02:42:53  [W2]  INFO      Saved 1262 urls → urls_2.json
+02:42:55  [W2]  INFO      Saved 1262 urls → urls_2.json
+02:42:57  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:42:57  [W2]  INFO      Saved 1262 urls → urls_2.json
+02:42:57  [W2]  INFO      [Bridal, Catering] +0 new urls (total: 1262)
+02:42:57  [W2]  INFO        ── Done: Bridal, Catering (+0 urls)
+02:42:57  [W2]  INFO        ── Keyword: Event Planning Vendors
+02:42:57  [W2]  INFO      Searched: Event Planning Vendors
+02:43:06  [W2]  INFO      Saved 1262 urls → urls_2.json
+02:43:08  [W2]  INFO      Saved 1262 urls → urls_2.json
+02:43:10  [W2]  INFO      Saved 1262 urls → urls_2.json
+02:43:11  [W2]  INFO      Saved 1262 urls → urls_2.json
+02:43:13  [W2]  INFO      Saved 1262 urls → urls_2.json
+02:43:15  [W2]  INFO      Saved 1262 urls → urls_2.json
+02:43:16  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:43:16  [W2]  INFO      Saved 1262 urls → urls_2.json
+02:43:16  [W2]  INFO      [Event Planning Vendors] +0 new urls (total: 1262)
+02:43:16  [W2]  INFO        ── Done: Event Planning Vendors (+0 urls)
+02:43:16  [W2]  INFO        ── Keyword: Property Management
+02:43:16  [W2]  INFO      Searched: Property Management
+02:43:26  [W2]  INFO      Saved 1262 urls → urls_2.json
+02:43:27  [W2]  INFO      Saved 1262 urls → urls_2.json
+02:43:29  [W2]  INFO      Saved 1262 urls → urls_2.json
+02:43:31  [W2]  INFO      Saved 1262 urls → urls_2.json
+02:43:32  [W2]  INFO      Saved 1262 urls → urls_2.json
+02:43:34  [W2]  INFO      Saved 1262 urls → urls_2.json
+02:43:36  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:43:36  [W2]  INFO      Saved 1262 urls → urls_2.json
+02:43:36  [W2]  INFO      [Property Management] +0 new urls (total: 1262)
+02:43:36  [W2]  INFO        ── Done: Property Management (+0 urls)
+02:43:36  [W2]  INFO      ── City: https://www.google.com/maps/place/Augusta,+GA
+02:43:41  [W2]  INFO      Clicked: close popup
+02:43:42  [W2]  INFO        ── Keyword: Dental Clinics
+02:43:42  [W2]  INFO      Searched: Dental Clinics
+02:43:58  [W2]  WARNING   Results feed not found
+02:43:58  [W2]  INFO        ── Done: Dental Clinics (+0 urls)
+02:43:58  [W2]  INFO        ── Keyword: Orthodontists
+02:43:58  [W2]  INFO      Searched: Orthodontists
+02:44:14  [W2]  WARNING   Results feed not found
+02:44:14  [W2]  INFO        ── Done: Orthodontists (+0 urls)
+02:44:14  [W2]  INFO        ── Keyword: Med Spas
+02:44:14  [W2]  INFO      Searched: Med Spas
+02:44:30  [W2]  WARNING   Results feed not found
+02:44:30  [W2]  INFO        ── Done: Med Spas (+0 urls)
+02:44:30  [W2]  INFO        ── Keyword: Aesthetic Clinics
+02:44:30  [W2]  INFO      Searched: Aesthetic Clinics
+02:44:47  [W2]  WARNING   Results feed not found
+02:44:47  [W2]  INFO        ── Done: Aesthetic Clinics (+0 urls)
+02:44:47  [W2]  INFO        ── Keyword: Therapy, Mental Health
+02:44:47  [W2]  INFO      Searched: Therapy, Mental Health
+02:45:03  [W2]  WARNING   Results feed not found
+02:45:03  [W2]  INFO        ── Done: Therapy, Mental Health (+0 urls)
+02:45:03  [W2]  INFO        ── Keyword: Rehab Practices
+02:45:03  [W2]  INFO      Searched: Rehab Practices
+02:45:19  [W2]  WARNING   Results feed not found
+02:45:19  [W2]  INFO        ── Done: Rehab Practices (+0 urls)
+02:45:19  [W2]  INFO        ── Keyword: Chiropractic
+02:45:19  [W2]  INFO      Searched: Chiropractic
+02:45:35  [W2]  WARNING   Results feed not found
+02:45:35  [W2]  INFO        ── Done: Chiropractic (+0 urls)
+02:45:35  [W2]  INFO        ── Keyword: Physical Therapy Clinics
+02:45:35  [W2]  INFO      Searched: Physical Therapy Clinics
+02:45:51  [W2]  WARNING   Results feed not found
+02:45:51  [W2]  INFO        ── Done: Physical Therapy Clinics (+0 urls)
+02:45:51  [W2]  INFO        ── Keyword: Veterinary Clinics
+02:45:51  [W2]  INFO      Searched: Veterinary Clinics
+02:46:05  [W2]  INFO      Saved 1273 urls → urls_2.json
+02:46:07  [W2]  INFO      Saved 1273 urls → urls_2.json
+02:46:08  [W2]  INFO      Saved 1273 urls → urls_2.json
+02:46:10  [W2]  INFO      Saved 1273 urls → urls_2.json
+02:46:11  [W2]  INFO      Saved 1273 urls → urls_2.json
+02:46:13  [W2]  INFO      Saved 1273 urls → urls_2.json
+02:46:14  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:46:14  [W2]  INFO      Saved 1273 urls → urls_2.json
+02:46:14  [W2]  INFO      [Veterinary Clinics] +11 new urls (total: 1273)
+02:46:14  [W2]  INFO        ── Done: Veterinary Clinics (+11 urls)
+02:46:14  [W2]  INFO        ── Keyword: HVAC Contractors
+02:46:14  [W2]  INFO      Searched: HVAC Contractors
+02:46:24  [W2]  INFO      Saved 1273 urls → urls_2.json
+02:46:25  [W2]  INFO      Saved 1273 urls → urls_2.json
+02:46:27  [W2]  INFO      Saved 1273 urls → urls_2.json
+02:46:29  [W2]  INFO      Saved 1273 urls → urls_2.json
+02:46:30  [W2]  INFO      Saved 1273 urls → urls_2.json
+02:46:32  [W2]  INFO      Saved 1273 urls → urls_2.json
+02:46:33  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:46:33  [W2]  INFO      Saved 1273 urls → urls_2.json
+02:46:33  [W2]  INFO      [HVAC Contractors] +0 new urls (total: 1273)
+02:46:33  [W2]  INFO        ── Done: HVAC Contractors (+0 urls)
+02:46:33  [W2]  INFO        ── Keyword: Plumbing Services
+02:46:33  [W2]  INFO      Searched: Plumbing Services
+02:46:43  [W2]  INFO      Saved 1273 urls → urls_2.json
+02:46:44  [W2]  INFO      Saved 1273 urls → urls_2.json
+02:46:46  [W2]  INFO      Saved 1273 urls → urls_2.json
+02:46:47  [W2]  INFO      Saved 1273 urls → urls_2.json
+02:46:49  [W2]  INFO      Saved 1273 urls → urls_2.json
+02:46:51  [W2]  INFO      Saved 1273 urls → urls_2.json
+02:46:52  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:46:52  [W2]  INFO      Saved 1273 urls → urls_2.json
+02:46:52  [W2]  INFO      [Plumbing Services] +0 new urls (total: 1273)
+02:46:52  [W2]  INFO        ── Done: Plumbing Services (+0 urls)
+02:46:52  [W2]  INFO        ── Keyword: Roofing Contractors
+02:46:52  [W2]  INFO      Searched: Roofing Contractors
+02:47:02  [W2]  INFO      Saved 1273 urls → urls_2.json
+02:47:03  [W2]  INFO      Saved 1273 urls → urls_2.json
+02:47:05  [W2]  INFO      Saved 1273 urls → urls_2.json
+02:47:06  [W2]  INFO      Saved 1273 urls → urls_2.json
+02:47:08  [W2]  INFO      Saved 1273 urls → urls_2.json
+02:47:10  [W2]  INFO      Saved 1273 urls → urls_2.json
+02:47:11  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:47:11  [W2]  INFO      Saved 1273 urls → urls_2.json
+02:47:11  [W2]  INFO      [Roofing Contractors] +0 new urls (total: 1273)
+02:47:11  [W2]  INFO        ── Done: Roofing Contractors (+0 urls)
+02:47:11  [W2]  INFO        ── Keyword: Pest Control
+02:47:11  [W2]  INFO      Searched: Pest Control
+02:47:21  [W2]  INFO      Saved 1273 urls → urls_2.json
+02:47:22  [W2]  INFO      Saved 1273 urls → urls_2.json
+02:47:24  [W2]  INFO      Saved 1273 urls → urls_2.json
+02:47:25  [W2]  INFO      Saved 1273 urls → urls_2.json
+02:47:27  [W2]  INFO      Saved 1273 urls → urls_2.json
+02:47:28  [W2]  INFO      Saved 1273 urls → urls_2.json
+02:47:30  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:47:30  [W2]  INFO      Saved 1273 urls → urls_2.json
+02:47:30  [W2]  INFO      [Pest Control] +0 new urls (total: 1273)
+02:47:30  [W2]  INFO        ── Done: Pest Control (+0 urls)
+02:47:30  [W2]  INFO        ── Keyword: Termite Services
+02:47:30  [W2]  INFO      Searched: Termite Services
+02:47:40  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:47:41  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:47:43  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:47:44  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:47:46  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:47:48  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:47:49  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:47:49  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:47:49  [W2]  INFO      [Termite Services] +11 new urls (total: 1284)
+02:47:49  [W2]  INFO        ── Done: Termite Services (+11 urls)
+02:47:49  [W2]  INFO        ── Keyword: Landscaping
+02:47:49  [W2]  INFO      Searched: Landscaping
+02:47:59  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:48:00  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:48:02  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:48:03  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:48:05  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:48:06  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:48:08  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:48:08  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:48:08  [W2]  INFO      [Landscaping] +0 new urls (total: 1284)
+02:48:08  [W2]  INFO        ── Done: Landscaping (+0 urls)
+02:48:08  [W2]  INFO        ── Keyword: Lawn Care
+02:48:08  [W2]  INFO      Searched: Lawn Care
+02:48:18  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:48:19  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:48:21  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:48:22  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:48:24  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:48:25  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:48:27  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:48:27  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:48:27  [W2]  INFO      [Lawn Care] +0 new urls (total: 1284)
+02:48:27  [W2]  INFO        ── Done: Lawn Care (+0 urls)
+02:48:27  [W2]  INFO        ── Keyword: Home Cleaning
+02:48:27  [W2]  INFO      Searched: Home Cleaning
+02:48:37  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:48:38  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:48:40  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:48:41  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:48:43  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:48:44  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:48:46  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:48:46  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:48:46  [W2]  INFO      [Home Cleaning] +0 new urls (total: 1284)
+02:48:46  [W2]  INFO        ── Done: Home Cleaning (+0 urls)
+02:48:46  [W2]  INFO        ── Keyword: Janitorial Services
+02:48:46  [W2]  INFO      Searched: Janitorial Services
+02:48:56  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:48:57  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:48:59  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:49:00  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:49:02  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:49:03  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:49:05  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:49:05  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:49:05  [W2]  INFO      [Janitorial Services] +0 new urls (total: 1284)
+02:49:05  [W2]  INFO        ── Done: Janitorial Services (+0 urls)
+02:49:05  [W2]  INFO        ── Keyword: Auto Repair
+02:49:05  [W2]  INFO      Searched: Auto Repair
+02:49:14  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:49:16  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:49:18  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:49:19  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:49:21  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:49:22  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:49:24  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:49:24  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:49:24  [W2]  INFO      [Auto Repair] +0 new urls (total: 1284)
+02:49:24  [W2]  INFO        ── Done: Auto Repair (+0 urls)
+02:49:24  [W2]  INFO        ── Keyword: Body Shops
+02:49:24  [W2]  INFO      Searched: Body Shops
+02:49:33  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:49:35  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:49:36  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:49:38  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:49:40  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:49:41  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:49:43  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:49:43  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:49:43  [W2]  INFO      [Body Shops] +0 new urls (total: 1284)
+02:49:43  [W2]  INFO        ── Done: Body Shops (+0 urls)
+02:49:43  [W2]  INFO        ── Keyword: Personal Injury
+02:49:43  [W2]  INFO      Searched: Personal Injury
+02:49:52  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:49:54  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:49:55  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:49:57  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:49:58  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:50:00  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:50:02  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:50:02  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:50:02  [W2]  INFO      [Personal Injury] +0 new urls (total: 1284)
+02:50:02  [W2]  INFO        ── Done: Personal Injury (+0 urls)
+02:50:02  [W2]  INFO        ── Keyword: Family Law Firms
+02:50:02  [W2]  INFO      Searched: Family Law Firms
+02:50:11  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:50:13  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:50:14  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:50:16  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:50:17  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:50:19  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:50:20  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:50:20  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:50:20  [W2]  INFO      [Family Law Firms] +0 new urls (total: 1284)
+02:50:20  [W2]  INFO        ── Done: Family Law Firms (+0 urls)
+02:50:20  [W2]  INFO        ── Keyword: Bridal, Catering
+02:50:21  [W2]  INFO      Searched: Bridal, Catering
+02:50:30  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:50:32  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:50:33  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:50:35  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:50:36  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:50:38  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:50:39  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:50:39  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:50:39  [W2]  INFO      [Bridal, Catering] +0 new urls (total: 1284)
+02:50:39  [W2]  INFO        ── Done: Bridal, Catering (+0 urls)
+02:50:39  [W2]  INFO        ── Keyword: Event Planning Vendors
+02:50:39  [W2]  INFO      Searched: Event Planning Vendors
+02:50:49  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:50:51  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:50:52  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:50:54  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:50:55  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:50:57  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:50:58  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:50:58  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:50:58  [W2]  INFO      [Event Planning Vendors] +0 new urls (total: 1284)
+02:50:58  [W2]  INFO        ── Done: Event Planning Vendors (+0 urls)
+02:50:58  [W2]  INFO        ── Keyword: Property Management
+02:50:58  [W2]  INFO      Searched: Property Management
+02:51:08  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:51:10  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:51:11  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:51:13  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:51:14  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:51:16  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:51:17  [W2]  INFO      Stalled after 6 scrolls — moving on
+02:51:17  [W2]  INFO      Saved 1284 urls → urls_2.json
+02:51:17  [W2]  INFO      [Property Management] +0 new urls (total: 1284)
+02:51:17  [W2]  INFO        ── Done: Property Management (+0 urls)
+02:51:17  [W2]  INFO      ── City: https://www.google.com/maps/place/Cape+Coral,+FL
+02:51:22  [W2]  INFO      Clicked: close popup
+02:51:23  [W2]  INFO        ── Keyword: Dental Clinics
+02:51:23  [W2]  INFO      Searched: Dental Clinics
+02:51:39  [W2]  WARNING   Results feed not found
+02:51:39  [W2]  INFO        ── Done: Dental Clinics (+0 urls)
+02:51:39  [W2]  INFO        ── Keyword: Orthodontists
+02:51:39  [W2]  INFO      Searched: Orthodontists
+02:51:55  [W2]  WARNING   Results feed not found
+02:51:55  [W2]  INFO        ── Done: Orthodontists (+0 urls)
+02:51:55  [W2]  INFO        ── Keyword: Med Spas
+02:51:55  [W2]  INFO      Searched: Med Spas
+02:52:11  [W2]  WARNING   Results feed not found
+02:52:11  [W2]  INFO        ── Done: Med Spas (+0 urls)
+02:52:11  [W2]  INFO        ── Keyword: Aesthetic Clinics
+02:52:11  [W2]  INFO      Searched: Aesthetic Clinics
+02:52:27  [W2]  WARNING   Results feed not found
+02:52:27  [W2]  INFO        ── Done: Aesthetic Clinics (+0 urls)
+02:52:27  [W2]  INFO        ── Keyword: Therapy, Mental Health
+02:52:27  [W2]  INFO      Searched: Therapy, Mental Health
+02:52:43  [W2]  WARNING   Results feed not found
+02:52:43  [W2]  INFO        ── Done: Therapy, Mental Health (+0 urls)
+02:52:43  [W2]  INFO        ── Keyword: Rehab Practices
+02:52:43  [W2]  INFO      Searched: Rehab Practices
+02:52:59  [W2]  WARNING   Results feed not found
+02:52:59  [W2]  INFO        ── Done: Rehab Practices (+0 urls)
+02:52:59  [W2]  INFO        ── Keyword: Chiropractic
+02:53:00  [W2]  INFO      Searched: Chiropractic
+02:53:16  [W2]  WARNING   Results feed not found
+02:53:16  [W2]  INFO        ── Done: Chiropractic (+0 urls)
+02:53:16  [W2]  INFO        ── Keyword: Physical Therapy Clinics
+02:53:16  [W2]  INFO      Searched: Physical Therapy Clinics
+02:53:32  [W2]  WARNING   Results feed not found
+02:53:32  [W2]  INFO        ── Done: Physical Therapy Clinics (+0 urls)
+02:53:32  [W2]  INFO        ── Keyword: Veterinary Clinics
+02:53:32  [W2]  INFO      Searched: Veterinary Clinics
+02:53:48  [W2]  WARNING   Results feed not found
+02:53:48  [W2]  INFO        ── Done: Veterinary Clinics (+0 urls)
+02:53:48  [W2]  INFO        ── Keyword: HVAC Contractors
+02:53:48  [W2]  INFO      Searched: HVAC Contractors
+02:54:04  [W2]  WARNING   Results feed not found
+02:54:04  [W2]  INFO        ── Done: HVAC Contractors (+0 urls)
+02:54:04  [W2]  INFO        ── Keyword: Plumbing Services
+02:54:04  [W2]  INFO      Searched: Plumbing Services
+02:54:20  [W2]  WARNING   Results feed not found
+02:54:20  [W2]  INFO        ── Done: Plumbing Services (+0 urls)
+02:54:20  [W2]  INFO        ── Keyword: Roofing Contractors
+02:54:20  [W2]  INFO      Searched: Roofing Contractors
+02:54:36  [W2]  WARNING   Results feed not found
+02:54:36  [W2]  INFO        ── Done: Roofing Contractors (+0 urls)
+02:54:36  [W2]  INFO        ── Keyword: Pest Control
+02:54:36  [W2]  INFO      Searched: Pest Control
+02:54:53  [W2]  WARNING   Results feed not found
+02:54:53  [W2]  INFO        ── Done: Pest Control (+0 urls)
+02:54:53  [W2]  INFO        ── Keyword: Termite Services
+02:54:53  [W2]  INFO      Searched: Termite Services
+02:55:09  [W2]  WARNING   Results feed not found
+02:55:09  [W2]  INFO        ── Done: Termite Services (+0 urls)
+02:55:09  [W2]  INFO        ── Keyword: Landscaping
+02:55:09  [W2]  INFO      Searched: Landscaping
+02:55:25  [W2]  WARNING   Results feed not found
+02:55:25  [W2]  INFO        ── Done: Landscaping (+0 urls)
+02:55:25  [W2]  INFO        ── Keyword: Lawn Care
+02:55:25  [W2]  INFO      Searched: Lawn Care
+02:55:41  [W2]  WARNING   Results feed not found
+02:55:41  [W2]  INFO        ── Done: Lawn Care (+0 urls)
+02:55:41  [W2]  INFO        ── Keyword: Home Cleaning
+02:55:41  [W2]  INFO      Searched: Home Cleaning
+02:55:57  [W2]  WARNING   Results feed not found
+02:55:57  [W2]  INFO        ── Done: Home Cleaning (+0 urls)
+02:55:57  [W2]  INFO        ── Keyword: Janitorial Services
+02:55:57  [W2]  INFO      Searched: Janitorial Services
+02:56:13  [W2]  WARNING   Results feed not found
+02:56:13  [W2]  INFO        ── Done: Janitorial Services (+0 urls)
+02:56:13  [W2]  INFO        ── Keyword: Auto Repair
+02:56:13  [W2]  INFO      Searched: Auto Repair
+02:56:29  [W2]  WARNING   Results feed not found
+02:56:29  [W2]  INFO        ── Done: Auto Repair (+0 urls)
+02:56:29  [W2]  INFO        ── Keyword: Body Shops
+02:56:29  [W2]  INFO      Searched: Body Shops
+02:56:46  [W2]  WARNING   Results feed not found
+02:56:46  [W2]  INFO        ── Done: Body Shops (+0 urls)
+02:56:46  [W2]  INFO        ── Keyword: Personal Injury
+02:56:46  [W2]  INFO      Searched: Personal Injury
+02:57:02  [W2]  WARNING   Results feed not found
+02:57:02  [W2]  INFO        ── Done: Personal Injury (+0 urls)
+02:57:02  [W2]  INFO        ── Keyword: Family Law Firms
+02:57:02  [W2]  INFO      Searched: Family Law Firms
+02:57:18  [W2]  WARNING   Results feed not found
+02:57:18  [W2]  INFO        ── Done: Family Law Firms (+0 urls)
+02:57:18  [W2]  INFO        ── Keyword: Bridal, Catering
+02:57:18  [W2]  INFO      Searched: Bridal, Catering
+02:57:34  [W2]  WARNING   Results feed not found
+02:57:34  [W2]  INFO        ── Done: Bridal, Catering (+0 urls)
+02:57:34  [W2]  INFO        ── Keyword: Event Planning Vendors
+02:57:34  [W2]  INFO      Searched: Event Planning Vendors
+02:57:50  [W2]  WARNING   Results feed not found
+02:57:50  [W2]  INFO        ── Done: Event Planning Vendors (+0 urls)
+02:57:50  [W2]  INFO        ── Keyword: Property Management
+02:57:50  [W2]  INFO      Searched: Property Management
+02:58:06  [W2]  WARNING   Results feed not found
+02:58:06  [W2]  INFO        ── Done: Property Management (+0 urls)
+02:58:06  [W2]  INFO      ── City: https://www.google.com/maps/place/El+Paso,+TX
+02:58:14  [W2]  INFO      Clicked: close popup
+02:58:15  [W2]  INFO        ── Keyword: Dental Clinics
+02:58:15  [W2]  INFO      Searched: Dental Clinics
+02:58:31  [W2]  WARNING   Results feed not found
+02:58:31  [W2]  INFO        ── Done: Dental Clinics (+0 urls)
+02:58:31  [W2]  INFO        ── Keyword: Orthodontists
+02:58:31  [W2]  INFO      Searched: Orthodontists
+02:58:47  [W2]  WARNING   Results feed not found
+02:58:47  [W2]  INFO        ── Done: Orthodontists (+0 urls)
+02:58:47  [W2]  INFO        ── Keyword: Med Spas
+02:58:47  [W2]  INFO      Searched: Med Spas
+02:59:03  [W2]  WARNING   Results feed not found
+02:59:03  [W2]  INFO        ── Done: Med Spas (+0 urls)
+02:59:03  [W2]  INFO        ── Keyword: Aesthetic Clinics
+02:59:03  [W2]  INFO      Searched: Aesthetic Clinics
+02:59:19  [W2]  WARNING   Results feed not found
+02:59:19  [W2]  INFO        ── Done: Aesthetic Clinics (+0 urls)
+02:59:19  [W2]  INFO        ── Keyword: Therapy, Mental Health
+02:59:20  [W2]  INFO      Searched: Therapy, Mental Health
+02:59:36  [W2]  WARNING   Results feed not found
+02:59:36  [W2]  INFO        ── Done: Therapy, Mental Health (+0 urls)
+02:59:36  [W2]  INFO        ── Keyword: Rehab Practices
+02:59:36  [W2]  INFO      Searched: Rehab Practices
+02:59:52  [W2]  WARNING   Results feed not found
+02:59:52  [W2]  INFO        ── Done: Rehab Practices (+0 urls)
+02:59:52  [W2]  INFO        ── Keyword: Chiropractic
+02:59:52  [W2]  INFO      Searched: Chiropractic
+03:00:08  [W2]  WARNING   Results feed not found
+03:00:08  [W2]  INFO        ── Done: Chiropractic (+0 urls)
+03:00:08  [W2]  INFO        ── Keyword: Physical Therapy Clinics
+03:00:08  [W2]  INFO      Searched: Physical Therapy Clinics
+03:00:24  [W2]  WARNING   Results feed not found
+03:00:24  [W2]  INFO        ── Done: Physical Therapy Clinics (+0 urls)
+03:00:24  [W2]  INFO        ── Keyword: Veterinary Clinics
+03:00:24  [W2]  INFO      Searched: Veterinary Clinics
+03:00:40  [W2]  WARNING   Results feed not found
+03:00:40  [W2]  INFO        ── Done: Veterinary Clinics (+0 urls)
+03:00:40  [W2]  INFO        ── Keyword: HVAC Contractors
+03:00:40  [W2]  INFO      Searched: HVAC Contractors
+03:00:56  [W2]  WARNING   Results feed not found
+03:00:56  [W2]  INFO        ── Done: HVAC Contractors (+0 urls)
+03:00:56  [W2]  INFO        ── Keyword: Plumbing Services
+03:00:56  [W2]  INFO      Searched: Plumbing Services
+03:01:12  [W2]  WARNING   Results feed not found
+03:01:12  [W2]  INFO        ── Done: Plumbing Services (+0 urls)
+03:01:12  [W2]  INFO        ── Keyword: Roofing Contractors
+03:01:13  [W2]  INFO      Searched: Roofing Contractors
+03:01:29  [W2]  WARNING   Results feed not found
+03:01:29  [W2]  INFO        ── Done: Roofing Contractors (+0 urls)
+03:01:29  [W2]  INFO        ── Keyword: Pest Control
+03:01:29  [W2]  INFO      Searched: Pest Control
+03:01:45  [W2]  WARNING   Results feed not found
+03:01:45  [W2]  INFO        ── Done: Pest Control (+0 urls)
+03:01:45  [W2]  INFO        ── Keyword: Termite Services
+03:01:45  [W2]  INFO      Searched: Termite Services
+03:02:01  [W2]  WARNING   Results feed not found
+03:02:01  [W2]  INFO        ── Done: Termite Services (+0 urls)
+03:02:01  [W2]  INFO        ── Keyword: Landscaping
+03:02:01  [W2]  INFO      Searched: Landscaping
+03:02:17  [W2]  WARNING   Results feed not found
+03:02:17  [W2]  INFO        ── Done: Landscaping (+0 urls)
+03:02:17  [W2]  INFO        ── Keyword: Lawn Care
+03:02:17  [W2]  INFO      Searched: Lawn Care
+03:02:33  [W2]  WARNING   Results feed not found
+03:02:33  [W2]  INFO        ── Done: Lawn Care (+0 urls)
+03:02:33  [W2]  INFO        ── Keyword: Home Cleaning
+03:02:33  [W2]  INFO      Searched: Home Cleaning
+03:02:49  [W2]  WARNING   Results feed not found
+03:02:49  [W2]  INFO        ── Done: Home Cleaning (+0 urls)
+03:02:49  [W2]  INFO        ── Keyword: Janitorial Services
+03:02:49  [W2]  INFO      Searched: Janitorial Services
+03:03:06  [W2]  WARNING   Results feed not found
+03:03:06  [W2]  INFO        ── Done: Janitorial Services (+0 urls)
+03:03:06  [W2]  INFO        ── Keyword: Auto Repair
+03:03:06  [W2]  INFO      Searched: Auto Repair
+03:03:22  [W2]  WARNING   Results feed not found
+03:03:22  [W2]  INFO        ── Done: Auto Repair (+0 urls)
+03:03:22  [W2]  INFO        ── Keyword: Body Shops
+03:03:22  [W2]  INFO      Searched: Body Shops
+03:03:38  [W2]  WARNING   Results feed not found
+03:03:38  [W2]  INFO        ── Done: Body Shops (+0 urls)
+03:03:38  [W2]  INFO        ── Keyword: Personal Injury
+03:03:38  [W2]  INFO      Searched: Personal Injury
+03:03:54  [W2]  WARNING   Results feed not found
+03:03:54  [W2]  INFO        ── Done: Personal Injury (+0 urls)
+03:03:54  [W2]  INFO        ── Keyword: Family Law Firms
+03:03:54  [W2]  INFO      Searched: Family Law Firms
+03:04:10  [W2]  WARNING   Results feed not found
+03:04:10  [W2]  INFO        ── Done: Family Law Firms (+0 urls)
+03:04:10  [W2]  INFO        ── Keyword: Bridal, Catering
+03:04:10  [W2]  INFO      Searched: Bridal, Catering
+03:04:26  [W2]  WARNING   Results feed not found
+03:04:26  [W2]  INFO        ── Done: Bridal, Catering (+0 urls)
+03:04:26  [W2]  INFO        ── Keyword: Event Planning Vendors
+03:04:26  [W2]  INFO      Searched: Event Planning Vendors
+03:04:42  [W2]  WARNING   Results feed not found
+03:04:42  [W2]  INFO        ── Done: Event Planning Vendors (+0 urls)
+03:04:42  [W2]  INFO        ── Keyword: Property Management
+03:04:42  [W2]  INFO      Searched: Property Management
+03:04:59  [W2]  WARNING   Results feed not found
+03:04:59  [W2]  INFO        ── Done: Property Management (+0 urls)
+03:04:59  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:04:59  [W2]  INFO      Worker done. Quitting driver.
+03:10:49  [W2]  INFO      Resuming from urls_2.json — 1284 urls
+03:10:49  [W2]  INFO      Detected Chrome major version: 148
+03:10:49  [W2]  INFO      Driver started (incognito)
+03:10:49  [W2]  INFO      ── City: https://www.google.com/maps/place/Fort+Wayne,+IN
+03:10:58  [W2]  INFO      Clicked: close popup
+03:10:59  [W2]  INFO        ── SKIP (done): Dental Clinics
+03:10:59  [W2]  INFO        ── SKIP (done): Orthodontists
+03:10:59  [W2]  INFO        ── SKIP (done): Med Spas
+03:10:59  [W2]  INFO        ── SKIP (done): Aesthetic Clinics
+03:10:59  [W2]  INFO        ── SKIP (done): Therapy, Mental Health
+03:10:59  [W2]  INFO        ── SKIP (done): Rehab Practices
+03:10:59  [W2]  INFO        ── SKIP (done): Chiropractic
+03:10:59  [W2]  INFO        ── SKIP (done): Physical Therapy Clinics
+03:10:59  [W2]  INFO        ── SKIP (done): Veterinary Clinics
+03:10:59  [W2]  INFO        ── SKIP (done): HVAC Contractors
+03:10:59  [W2]  INFO        ── SKIP (done): Plumbing Services
+03:10:59  [W2]  INFO        ── SKIP (done): Roofing Contractors
+03:10:59  [W2]  INFO        ── SKIP (done): Pest Control
+03:10:59  [W2]  INFO        ── SKIP (done): Termite Services
+03:10:59  [W2]  INFO        ── SKIP (done): Landscaping
+03:10:59  [W2]  INFO        ── SKIP (done): Lawn Care
+03:10:59  [W2]  INFO        ── SKIP (done): Home Cleaning
+03:10:59  [W2]  INFO        ── SKIP (done): Janitorial Services
+03:10:59  [W2]  INFO        ── SKIP (done): Auto Repair
+03:10:59  [W2]  INFO        ── SKIP (done): Body Shops
+03:10:59  [W2]  INFO        ── SKIP (done): Personal Injury
+03:10:59  [W2]  INFO        ── SKIP (done): Family Law Firms
+03:10:59  [W2]  INFO        ── SKIP (done): Bridal, Catering
+03:10:59  [W2]  INFO        ── SKIP (done): Event Planning Vendors
+03:10:59  [W2]  INFO        ── SKIP (done): Property Management
+03:10:59  [W2]  INFO      ── City: https://www.google.com/maps/place/Mobile,+AL
+03:11:05  [W2]  INFO      Clicked: close popup
+03:11:05  [W2]  INFO        ── SKIP (done): Dental Clinics
+03:11:05  [W2]  INFO        ── SKIP (done): Orthodontists
+03:11:05  [W2]  INFO        ── SKIP (done): Med Spas
+03:11:05  [W2]  INFO        ── SKIP (done): Aesthetic Clinics
+03:11:05  [W2]  INFO        ── SKIP (done): Therapy, Mental Health
+03:11:05  [W2]  INFO        ── SKIP (done): Rehab Practices
+03:11:05  [W2]  INFO        ── SKIP (done): Chiropractic
+03:11:05  [W2]  INFO        ── SKIP (done): Physical Therapy Clinics
+03:11:05  [W2]  INFO        ── SKIP (done): Veterinary Clinics
+03:11:05  [W2]  INFO        ── SKIP (done): HVAC Contractors
+03:11:05  [W2]  INFO        ── SKIP (done): Plumbing Services
+03:11:05  [W2]  INFO        ── SKIP (done): Roofing Contractors
+03:11:05  [W2]  INFO        ── SKIP (done): Pest Control
+03:11:05  [W2]  INFO        ── SKIP (done): Termite Services
+03:11:05  [W2]  INFO        ── SKIP (done): Landscaping
+03:11:05  [W2]  INFO        ── SKIP (done): Lawn Care
+03:11:05  [W2]  INFO        ── SKIP (done): Home Cleaning
+03:11:05  [W2]  INFO        ── SKIP (done): Janitorial Services
+03:11:05  [W2]  INFO        ── SKIP (done): Auto Repair
+03:11:05  [W2]  INFO        ── SKIP (done): Body Shops
+03:11:05  [W2]  INFO        ── SKIP (done): Personal Injury
+03:11:05  [W2]  INFO        ── SKIP (done): Family Law Firms
+03:11:05  [W2]  INFO        ── SKIP (done): Bridal, Catering
+03:11:05  [W2]  INFO        ── SKIP (done): Event Planning Vendors
+03:11:05  [W2]  INFO        ── SKIP (done): Property Management
+03:11:05  [W2]  INFO      ── City: https://www.google.com/maps/place/Asheville,+NC
+03:11:11  [W2]  INFO      Clicked: close popup
+03:11:12  [W2]  INFO        ── SKIP (done): Dental Clinics
+03:11:12  [W2]  INFO        ── SKIP (done): Orthodontists
+03:11:12  [W2]  INFO        ── SKIP (done): Med Spas
+03:11:12  [W2]  INFO        ── SKIP (done): Aesthetic Clinics
+03:11:12  [W2]  INFO        ── SKIP (done): Therapy, Mental Health
+03:11:12  [W2]  INFO        ── SKIP (done): Rehab Practices
+03:11:12  [W2]  INFO        ── SKIP (done): Chiropractic
+03:11:12  [W2]  INFO        ── SKIP (done): Physical Therapy Clinics
+03:11:12  [W2]  INFO        ── SKIP (done): Veterinary Clinics
+03:11:12  [W2]  INFO        ── SKIP (done): HVAC Contractors
+03:11:12  [W2]  INFO        ── SKIP (done): Plumbing Services
+03:11:12  [W2]  INFO        ── SKIP (done): Roofing Contractors
+03:11:12  [W2]  INFO        ── SKIP (done): Pest Control
+03:11:12  [W2]  INFO        ── SKIP (done): Termite Services
+03:11:12  [W2]  INFO        ── SKIP (done): Landscaping
+03:11:12  [W2]  INFO        ── SKIP (done): Lawn Care
+03:11:12  [W2]  INFO        ── SKIP (done): Home Cleaning
+03:11:12  [W2]  INFO        ── SKIP (done): Janitorial Services
+03:11:12  [W2]  INFO        ── SKIP (done): Auto Repair
+03:11:12  [W2]  INFO        ── SKIP (done): Body Shops
+03:11:12  [W2]  INFO        ── SKIP (done): Personal Injury
+03:11:12  [W2]  INFO        ── SKIP (done): Family Law Firms
+03:11:12  [W2]  INFO        ── SKIP (done): Bridal, Catering
+03:11:12  [W2]  INFO        ── SKIP (done): Event Planning Vendors
+03:11:12  [W2]  INFO        ── SKIP (done): Property Management
+03:11:12  [W2]  INFO      ── City: https://www.google.com/maps/place/Augusta,+GA
+03:11:18  [W2]  INFO      Clicked: close popup
+03:11:18  [W2]  INFO        ── SKIP (done): Dental Clinics
+03:11:18  [W2]  INFO        ── SKIP (done): Orthodontists
+03:11:18  [W2]  INFO        ── SKIP (done): Med Spas
+03:11:18  [W2]  INFO        ── SKIP (done): Aesthetic Clinics
+03:11:18  [W2]  INFO        ── SKIP (done): Therapy, Mental Health
+03:11:18  [W2]  INFO        ── SKIP (done): Rehab Practices
+03:11:18  [W2]  INFO        ── SKIP (done): Chiropractic
+03:11:18  [W2]  INFO        ── SKIP (done): Physical Therapy Clinics
+03:11:18  [W2]  INFO        ── SKIP (done): Veterinary Clinics
+03:11:18  [W2]  INFO        ── SKIP (done): HVAC Contractors
+03:11:18  [W2]  INFO        ── SKIP (done): Plumbing Services
+03:11:18  [W2]  INFO        ── SKIP (done): Roofing Contractors
+03:11:18  [W2]  INFO        ── SKIP (done): Pest Control
+03:11:18  [W2]  INFO        ── SKIP (done): Termite Services
+03:11:18  [W2]  INFO        ── SKIP (done): Landscaping
+03:11:18  [W2]  INFO        ── SKIP (done): Lawn Care
+03:11:18  [W2]  INFO        ── SKIP (done): Home Cleaning
+03:11:18  [W2]  INFO        ── SKIP (done): Janitorial Services
+03:11:18  [W2]  INFO        ── SKIP (done): Auto Repair
+03:11:18  [W2]  INFO        ── SKIP (done): Body Shops
+03:11:18  [W2]  INFO        ── SKIP (done): Personal Injury
+03:11:18  [W2]  INFO        ── SKIP (done): Family Law Firms
+03:11:18  [W2]  INFO        ── SKIP (done): Bridal, Catering
+03:11:18  [W2]  INFO        ── SKIP (done): Event Planning Vendors
+03:11:18  [W2]  INFO        ── SKIP (done): Property Management
+03:11:18  [W2]  INFO      ── City: https://www.google.com/maps/place/Cape+Coral,+FL
+03:11:24  [W2]  INFO      Clicked: close popup
+03:11:24  [W2]  INFO        ── SKIP (done): Dental Clinics
+03:11:24  [W2]  INFO        ── SKIP (done): Orthodontists
+03:11:24  [W2]  INFO        ── SKIP (done): Med Spas
+03:11:24  [W2]  INFO        ── SKIP (done): Aesthetic Clinics
+03:11:24  [W2]  INFO        ── SKIP (done): Therapy, Mental Health
+03:11:24  [W2]  INFO        ── SKIP (done): Rehab Practices
+03:11:24  [W2]  INFO        ── SKIP (done): Chiropractic
+03:11:24  [W2]  INFO        ── SKIP (done): Physical Therapy Clinics
+03:11:24  [W2]  INFO        ── SKIP (done): Veterinary Clinics
+03:11:24  [W2]  INFO        ── SKIP (done): HVAC Contractors
+03:11:24  [W2]  INFO        ── SKIP (done): Plumbing Services
+03:11:24  [W2]  INFO        ── SKIP (done): Roofing Contractors
+03:11:24  [W2]  INFO        ── SKIP (done): Pest Control
+03:11:24  [W2]  INFO        ── SKIP (done): Termite Services
+03:11:24  [W2]  INFO        ── SKIP (done): Landscaping
+03:11:24  [W2]  INFO        ── SKIP (done): Lawn Care
+03:11:24  [W2]  INFO        ── SKIP (done): Home Cleaning
+03:11:24  [W2]  INFO        ── SKIP (done): Janitorial Services
+03:11:24  [W2]  INFO        ── SKIP (done): Auto Repair
+03:11:24  [W2]  INFO        ── SKIP (done): Body Shops
+03:11:24  [W2]  INFO        ── SKIP (done): Personal Injury
+03:11:24  [W2]  INFO        ── SKIP (done): Family Law Firms
+03:11:24  [W2]  INFO        ── SKIP (done): Bridal, Catering
+03:11:24  [W2]  INFO        ── SKIP (done): Event Planning Vendors
+03:11:24  [W2]  INFO        ── SKIP (done): Property Management
+03:11:24  [W2]  INFO      ── City: https://www.google.com/maps/place/El+Paso,+TX
+03:11:30  [W2]  INFO      Clicked: close popup
+03:11:31  [W2]  INFO        ── SKIP (done): Dental Clinics
+03:11:31  [W2]  INFO        ── SKIP (done): Orthodontists
+03:11:31  [W2]  INFO        ── SKIP (done): Med Spas
+03:11:31  [W2]  INFO        ── SKIP (done): Aesthetic Clinics
+03:11:31  [W2]  INFO        ── SKIP (done): Therapy, Mental Health
+03:11:31  [W2]  INFO        ── SKIP (done): Rehab Practices
+03:11:31  [W2]  INFO        ── SKIP (done): Chiropractic
+03:11:31  [W2]  INFO        ── SKIP (done): Physical Therapy Clinics
+03:11:31  [W2]  INFO        ── SKIP (done): Veterinary Clinics
+03:11:31  [W2]  INFO        ── SKIP (done): HVAC Contractors
+03:11:31  [W2]  INFO        ── SKIP (done): Plumbing Services
+03:11:31  [W2]  INFO        ── SKIP (done): Roofing Contractors
+03:11:31  [W2]  INFO        ── SKIP (done): Pest Control
+03:11:31  [W2]  INFO        ── SKIP (done): Termite Services
+03:11:31  [W2]  INFO        ── SKIP (done): Landscaping
+03:11:31  [W2]  INFO        ── SKIP (done): Lawn Care
+03:11:31  [W2]  INFO        ── SKIP (done): Home Cleaning
+03:11:31  [W2]  INFO        ── SKIP (done): Janitorial Services
+03:11:31  [W2]  INFO        ── SKIP (done): Auto Repair
+03:11:31  [W2]  INFO        ── SKIP (done): Body Shops
+03:11:31  [W2]  INFO        ── SKIP (done): Personal Injury
+03:11:31  [W2]  INFO        ── SKIP (done): Family Law Firms
+03:11:31  [W2]  INFO        ── SKIP (done): Bridal, Catering
+03:11:31  [W2]  INFO        ── SKIP (done): Event Planning Vendors
+03:11:31  [W2]  INFO        ── SKIP (done): Property Management
+03:11:31  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:11:31  [W2]  INFO      Worker done. Quitting driver.
+03:24:39  [W2]  INFO      Resuming from urls_2.json — 1284 urls
+03:24:39  [W2]  INFO      Detected Chrome major version: 148
+03:24:40  [W2]  INFO      Driver started (incognito)
+03:24:40  [W2]  INFO      ── City: https://www.google.com/maps/place/Fort+Wayne,+IN
+03:24:48  [W2]  INFO      Clicked: close popup
+03:24:49  [W2]  INFO        ── SKIP (done): Dental Clinics
+03:24:49  [W2]  INFO        ── SKIP (done): Orthodontists
+03:24:49  [W2]  INFO        ── Keyword: Med Spas
+03:24:49  [W2]  INFO      Searched: Med Spas
+03:25:04  [W2]  INFO      Clicked: 'update results when map moves'
+03:25:06  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:25:08  [W2]  INFO      Interrupted — saving …
+03:25:08  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:25:08  [W2]  INFO      Worker done. Quitting driver.
+03:28:58  [W2]  INFO      Resuming from urls_2.json — 1284 urls
+03:28:58  [W2]  INFO      Detected Chrome major version: 148
+03:28:59  [W2]  INFO      Driver started (incognito)
+03:28:59  [W2]  INFO      ── City: https://www.google.com/maps/place/Fort+Wayne,+IN
+03:29:08  [W2]  INFO      Clicked: close popup
+03:29:08  [W2]  INFO        ── SKIP (done): Dental Clinics
+03:29:08  [W2]  INFO        ── SKIP (done): Orthodontists
+03:29:08  [W2]  INFO        ── Keyword: Med Spas
+03:29:08  [W2]  INFO      Searched: Med Spas
+03:29:12  [W2]  INFO      Clicked: 'update results when map moves'
+03:29:15  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:29:16  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:29:18  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:29:19  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:29:21  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:29:22  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:29:24  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:29:26  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:29:27  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:29:29  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:29:30  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:29:32  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:29:34  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:29:35  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:29:37  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:29:38  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:29:40  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:29:42  [W2]  INFO      Stalled after 6 scrolls — moving on
+03:29:42  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:29:42  [W2]  INFO      [Med Spas] +0 new urls (total: 1284)
+03:29:42  [W2]  INFO        ── Done: Med Spas (97 total urls)
+03:29:42  [W2]  INFO        ── Keyword: Aesthetic Clinics
+03:29:42  [W2]  INFO      Searched: Aesthetic Clinics
+03:29:46  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:29:47  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:29:49  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:29:50  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:29:52  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:29:54  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:29:55  [W2]  INFO      Stalled after 6 scrolls — moving on
+03:29:55  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:29:55  [W2]  INFO      [Aesthetic Clinics] +0 new urls (total: 1284)
+03:29:55  [W2]  INFO        ── Done: Aesthetic Clinics (29 total urls)
+03:29:55  [W2]  INFO        ── Keyword: Therapy, Mental Health
+03:29:55  [W2]  INFO      Searched: Therapy, Mental Health
+03:29:59  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:30:01  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:30:02  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:30:04  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:30:05  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:30:07  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:30:09  [W2]  INFO      Stalled after 6 scrolls — moving on
+03:30:09  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:30:09  [W2]  INFO      [Therapy, Mental Health] +0 new urls (total: 1284)
+03:30:09  [W2]  INFO        ── Done: Therapy, Mental Health (120 total urls)
+03:30:09  [W2]  INFO        ── Keyword: Rehab Practices
+03:30:09  [W2]  INFO      Searched: Rehab Practices
+03:30:12  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:30:14  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:30:16  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:30:17  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:30:19  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:30:21  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:30:22  [W2]  INFO      Stalled after 6 scrolls — moving on
+03:30:22  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:30:22  [W2]  INFO      [Rehab Practices] +0 new urls (total: 1284)
+03:30:22  [W2]  INFO        ── Done: Rehab Practices (20 total urls)
+03:30:22  [W2]  INFO        ── Keyword: Chiropractic
+03:30:22  [W2]  INFO      Searched: Chiropractic
+03:30:26  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:30:27  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:30:29  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:30:31  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:30:32  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:30:34  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:30:36  [W2]  INFO      Stalled after 6 scrolls — moving on
+03:30:36  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:30:36  [W2]  INFO      [Chiropractic] +0 new urls (total: 1284)
+03:30:36  [W2]  INFO        ── Done: Chiropractic (10 total urls)
+03:30:36  [W2]  INFO        ── Keyword: Physical Therapy Clinics
+03:30:36  [W2]  INFO      Searched: Physical Therapy Clinics
+03:30:39  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:30:41  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:30:43  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:30:44  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:30:46  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:30:47  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:30:49  [W2]  INFO      Stalled after 6 scrolls — moving on
+03:30:49  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:30:49  [W2]  INFO      [Physical Therapy Clinics] +0 new urls (total: 1284)
+03:30:49  [W2]  INFO        ── Done: Physical Therapy Clinics (14 total urls)
+03:30:49  [W2]  INFO        ── Keyword: Veterinary Clinics
+03:30:49  [W2]  INFO      Searched: Veterinary Clinics
+03:30:53  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:30:54  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:30:56  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:30:58  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:30:59  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:31:01  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:31:03  [W2]  INFO      Stalled after 6 scrolls — moving on
+03:31:03  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:31:03  [W2]  INFO      [Veterinary Clinics] +0 new urls (total: 1284)
+03:31:03  [W2]  INFO        ── Done: Veterinary Clinics (10 total urls)
+03:31:03  [W2]  INFO        ── Keyword: HVAC Contractors
+03:31:03  [W2]  INFO      Searched: HVAC Contractors
+03:31:06  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:31:08  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:31:10  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:31:11  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:31:13  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:31:14  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:31:16  [W2]  INFO      Stalled after 6 scrolls — moving on
+03:31:16  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:31:16  [W2]  INFO      [HVAC Contractors] +0 new urls (total: 1284)
+03:31:16  [W2]  INFO        ── Done: HVAC Contractors (0 total urls)
+03:31:16  [W2]  INFO        ── Keyword: Plumbing Services
+03:31:16  [W2]  INFO      Searched: Plumbing Services
+03:31:20  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:31:21  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:31:23  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:31:25  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:31:26  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:31:28  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:31:29  [W2]  INFO      Stalled after 6 scrolls — moving on
+03:31:29  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:31:29  [W2]  INFO      [Plumbing Services] +0 new urls (total: 1284)
+03:31:29  [W2]  INFO        ── Done: Plumbing Services (20 total urls)
+03:31:29  [W2]  INFO        ── SKIP (done): Roofing Contractors
+03:31:29  [W2]  INFO        ── Keyword: Pest Control
+03:31:30  [W2]  INFO      Searched: Pest Control
+03:31:33  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:31:35  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:31:36  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:31:38  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:31:40  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:31:41  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:31:43  [W2]  INFO      Stalled after 6 scrolls — moving on
+03:31:43  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:31:43  [W2]  INFO      [Pest Control] +0 new urls (total: 1284)
+03:31:43  [W2]  INFO        ── Done: Pest Control (22 total urls)
+03:31:43  [W2]  INFO        ── Keyword: Termite Services
+03:31:43  [W2]  INFO      Searched: Termite Services
+03:31:47  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:31:48  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:31:50  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:31:52  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:31:53  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:31:55  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:31:56  [W2]  INFO      Stalled after 6 scrolls — moving on
+03:31:56  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:31:56  [W2]  INFO      [Termite Services] +0 new urls (total: 1284)
+03:31:56  [W2]  INFO        ── Done: Termite Services (0 total urls)
+03:31:56  [W2]  INFO        ── Keyword: Landscaping
+03:31:56  [W2]  INFO      Searched: Landscaping
+03:32:00  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:32:02  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:32:03  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:32:05  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:32:07  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:32:08  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:32:10  [W2]  INFO      Stalled after 6 scrolls — moving on
+03:32:10  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:32:10  [W2]  INFO      [Landscaping] +0 new urls (total: 1284)
+03:32:10  [W2]  INFO        ── Done: Landscaping (0 total urls)
+03:32:10  [W2]  INFO        ── Keyword: Lawn Care
+03:32:10  [W2]  INFO      Searched: Lawn Care
+03:32:14  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:32:15  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:32:17  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:32:18  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:32:20  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:32:22  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:32:23  [W2]  INFO      Stalled after 6 scrolls — moving on
+03:32:23  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:32:23  [W2]  INFO      [Lawn Care] +0 new urls (total: 1284)
+03:32:23  [W2]  INFO        ── Done: Lawn Care (0 total urls)
+03:32:23  [W2]  INFO        ── Keyword: Home Cleaning
+03:32:23  [W2]  INFO      Searched: Home Cleaning
+03:32:27  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:32:29  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:32:30  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:32:32  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:32:33  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:32:35  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:32:37  [W2]  INFO      Stalled after 6 scrolls — moving on
+03:32:37  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:32:37  [W2]  INFO      [Home Cleaning] +0 new urls (total: 1284)
+03:32:37  [W2]  INFO        ── Done: Home Cleaning (10 total urls)
+03:32:37  [W2]  INFO        ── Keyword: Janitorial Services
+03:32:37  [W2]  INFO      Searched: Janitorial Services
+03:32:40  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:32:42  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:32:44  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:32:45  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:32:47  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:32:49  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:32:50  [W2]  INFO      Stalled after 6 scrolls — moving on
+03:32:50  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:32:50  [W2]  INFO      [Janitorial Services] +0 new urls (total: 1284)
+03:32:50  [W2]  INFO        ── Done: Janitorial Services (0 total urls)
+03:32:50  [W2]  INFO        ── Keyword: Auto Repair
+03:32:50  [W2]  INFO      Searched: Auto Repair
+03:32:54  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:32:55  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:32:57  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:32:59  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:33:00  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:33:02  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:33:04  [W2]  INFO      Stalled after 6 scrolls — moving on
+03:33:04  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:33:04  [W2]  INFO      [Auto Repair] +0 new urls (total: 1284)
+03:33:04  [W2]  INFO        ── Done: Auto Repair (0 total urls)
+03:33:04  [W2]  INFO        ── Keyword: Body Shops
+03:33:04  [W2]  INFO      Searched: Body Shops
+03:33:07  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:33:09  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:33:11  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:33:12  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:33:14  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:33:15  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:33:17  [W2]  INFO      Stalled after 6 scrolls — moving on
+03:33:17  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:33:17  [W2]  INFO      [Body Shops] +0 new urls (total: 1284)
+03:33:17  [W2]  INFO        ── Done: Body Shops (93 total urls)
+03:33:17  [W2]  INFO        ── SKIP (done): Personal Injury
+03:33:17  [W2]  INFO        ── Keyword: Family Law Firms
+03:33:17  [W2]  INFO      Searched: Family Law Firms
+03:33:21  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:33:22  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:33:24  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:33:26  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:33:27  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:33:29  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:33:30  [W2]  INFO      Stalled after 6 scrolls — moving on
+03:33:30  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:33:30  [W2]  INFO      [Family Law Firms] +0 new urls (total: 1284)
+03:33:30  [W2]  INFO        ── Done: Family Law Firms (0 total urls)
+03:33:30  [W2]  INFO        ── Keyword: Bridal, Catering
+03:33:31  [W2]  INFO      Searched: Bridal, Catering
+03:33:34  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:33:36  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:33:37  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:33:39  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:33:41  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:33:42  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:33:44  [W2]  INFO      Stalled after 6 scrolls — moving on
+03:33:44  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:33:44  [W2]  INFO      [Bridal, Catering] +0 new urls (total: 1284)
+03:33:44  [W2]  INFO        ── Done: Bridal, Catering (0 total urls)
+03:33:44  [W2]  INFO        ── Keyword: Event Planning Vendors
+03:33:44  [W2]  INFO      Searched: Event Planning Vendors
+03:33:48  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:33:49  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:33:51  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:33:52  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:33:54  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:33:56  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:33:57  [W2]  INFO      Stalled after 6 scrolls — moving on
+03:33:57  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:33:57  [W2]  INFO      [Event Planning Vendors] +0 new urls (total: 1284)
+03:33:57  [W2]  INFO        ── Done: Event Planning Vendors (0 total urls)
+03:33:57  [W2]  INFO        ── Keyword: Property Management
+03:33:57  [W2]  INFO      Searched: Property Management
+03:34:01  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:34:03  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:34:04  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:34:06  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:34:08  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:34:09  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:34:11  [W2]  INFO      Stalled after 6 scrolls — moving on
+03:34:11  [W2]  INFO      Saved 1284 urls → urls_2.json
+03:34:11  [W2]  INFO      [Property Management] +0 new urls (total: 1284)
+03:34:11  [W2]  INFO        ── Done: Property Management (0 total urls)
+03:34:11  [W2]  INFO      ── City: https://www.google.com/maps/place/Mobile,+AL
+03:34:17  [W2]  INFO      Clicked: close popup
+03:34:17  [W2]  INFO        ── Keyword: Dental Clinics
+03:34:17  [W2]  INFO      Searched: Dental Clinics
+03:34:42  [W2]  WARNING   Feed did not appear within 25s after searching 'Dental Clinics'
+03:34:53  [W2]  WARNING   Results feed not found
+03:34:53  [W2]  WARNING     ── Feed never found for 'Dental Clinics' — will retry next run
+03:34:53  [W2]  INFO        ── Keyword: Orthodontists
+03:34:53  [W2]  INFO      Searched: Orthodontists
+03:35:18  [W2]  WARNING   Feed did not appear within 25s after searching 'Orthodontists'
+03:35:28  [W2]  WARNING   Results feed not found
+03:35:28  [W2]  WARNING     ── Feed never found for 'Orthodontists' — will retry next run
+03:35:28  [W2]  INFO        ── SKIP (done): Med Spas
+03:35:28  [W2]  INFO        ── SKIP (done): Aesthetic Clinics
+03:35:28  [W2]  INFO        ── Keyword: Therapy, Mental Health
+03:35:28  [W2]  INFO      Searched: Therapy, Mental Health
+03:35:53  [W2]  WARNING   Feed did not appear within 25s after searching 'Therapy, Mental Health'
+03:36:03  [W2]  WARNING   Results feed not found
+03:36:03  [W2]  WARNING     ── Feed never found for 'Therapy, Mental Health' — will retry next run
+03:36:03  [W2]  INFO        ── Keyword: Rehab Practices
+03:36:03  [W2]  INFO      Searched: Rehab Practices
+03:36:29  [W2]  WARNING   Feed did not appear within 25s after searching 'Rehab Practices'
+03:36:39  [W2]  WARNING   Results feed not found
+03:36:39  [W2]  WARNING     ── Feed never found for 'Rehab Practices' — will retry next run
+03:36:39  [W2]  INFO        ── Keyword: Chiropractic
+03:36:39  [W2]  INFO      Searched: Chiropractic
+03:37:00  [W2]  INFO      Saved 1295 urls → urls_2.json
+03:37:02  [W2]  INFO      Saved 1299 urls → urls_2.json
+03:37:03  [W2]  INFO      Saved 1307 urls → urls_2.json
+03:37:05  [W2]  INFO      Saved 1307 urls → urls_2.json
+03:37:07  [W2]  INFO      Saved 1325 urls → urls_2.json
+03:37:08  [W2]  INFO      Saved 1325 urls → urls_2.json
+03:37:10  [W2]  INFO      Saved 1345 urls → urls_2.json
+03:37:12  [W2]  INFO      Saved 1345 urls → urls_2.json
+03:37:13  [W2]  INFO      Saved 1345 urls → urls_2.json
+03:37:15  [W2]  INFO      Saved 1345 urls → urls_2.json
+03:37:17  [W2]  INFO      Saved 1345 urls → urls_2.json
+03:37:18  [W2]  INFO      Stalled after 6 scrolls — moving on
+03:37:18  [W2]  INFO      Saved 1345 urls → urls_2.json
+03:37:18  [W2]  INFO      [Chiropractic] +61 new urls (total: 1345)
+03:37:18  [W2]  INFO        ── Done: Chiropractic (61 total urls)
+03:37:18  [W2]  INFO        ── Keyword: Physical Therapy Clinics
+03:37:19  [W2]  INFO      Searched: Physical Therapy Clinics
+03:37:22  [W2]  INFO      Saved 1345 urls → urls_2.json
+03:37:24  [W2]  INFO      Saved 1345 urls → urls_2.json
+03:37:26  [W2]  INFO      Saved 1345 urls → urls_2.json
+03:37:27  [W2]  INFO      Saved 1345 urls → urls_2.json
+03:37:29  [W2]  INFO      Saved 1345 urls → urls_2.json
+03:37:31  [W2]  INFO      Saved 1345 urls → urls_2.json
+03:37:32  [W2]  INFO      Saved 1356 urls → urls_2.json
+03:37:34  [W2]  INFO      Saved 1365 urls → urls_2.json
+03:37:35  [W2]  INFO      Saved 1365 urls → urls_2.json
+03:37:37  [W2]  INFO      Saved 1376 urls → urls_2.json
+03:37:39  [W2]  INFO      Saved 1385 urls → urls_2.json
+03:37:40  [W2]  INFO      Saved 1385 urls → urls_2.json
+03:37:42  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:37:44  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:37:45  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:37:47  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:37:49  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:37:51  [W2]  INFO      Stalled after 6 scrolls — moving on
+03:37:51  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:37:51  [W2]  INFO      [Physical Therapy Clinics] +60 new urls (total: 1405)
+03:37:51  [W2]  INFO        ── Done: Physical Therapy Clinics (60 total urls)
+03:37:51  [W2]  INFO        ── Keyword: Veterinary Clinics
+03:37:51  [W2]  INFO      Searched: Veterinary Clinics
+03:37:54  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:37:56  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:37:58  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:37:59  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:38:01  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:38:03  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:38:04  [W2]  INFO      Stalled after 6 scrolls — moving on
+03:38:04  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:38:04  [W2]  INFO      [Veterinary Clinics] +0 new urls (total: 1405)
+03:38:04  [W2]  INFO        ── Done: Veterinary Clinics (0 total urls)
+03:38:04  [W2]  INFO        ── Keyword: HVAC Contractors
+03:38:04  [W2]  INFO      Searched: HVAC Contractors
+03:38:08  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:38:10  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:38:12  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:38:13  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:38:15  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:38:17  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:38:18  [W2]  INFO      Stalled after 6 scrolls — moving on
+03:38:18  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:38:18  [W2]  INFO      [HVAC Contractors] +0 new urls (total: 1405)
+03:38:18  [W2]  INFO        ── Done: HVAC Contractors (0 total urls)
+03:38:18  [W2]  INFO        ── Keyword: Plumbing Services
+03:38:18  [W2]  INFO      Searched: Plumbing Services
+03:38:22  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:38:24  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:38:25  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:38:27  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:38:29  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:38:30  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:38:32  [W2]  INFO      Stalled after 6 scrolls — moving on
+03:38:32  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:38:32  [W2]  INFO      [Plumbing Services] +0 new urls (total: 1405)
+03:38:32  [W2]  INFO        ── Done: Plumbing Services (0 total urls)
+03:38:32  [W2]  INFO        ── Keyword: Roofing Contractors
+03:38:32  [W2]  INFO      Searched: Roofing Contractors
+03:38:36  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:38:38  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:38:39  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:38:41  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:38:43  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:38:44  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:38:46  [W2]  INFO      Stalled after 6 scrolls — moving on
+03:38:46  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:38:46  [W2]  INFO      [Roofing Contractors] +0 new urls (total: 1405)
+03:38:46  [W2]  INFO        ── Done: Roofing Contractors (0 total urls)
+03:38:46  [W2]  INFO        ── Keyword: Pest Control
+03:38:46  [W2]  INFO      Searched: Pest Control
+03:38:50  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:38:51  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:38:53  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:38:55  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:38:56  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:38:58  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:39:00  [W2]  INFO      Stalled after 6 scrolls — moving on
+03:39:00  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:39:00  [W2]  INFO      [Pest Control] +0 new urls (total: 1405)
+03:39:00  [W2]  INFO        ── Done: Pest Control (0 total urls)
+03:39:00  [W2]  INFO        ── Keyword: Termite Services
+03:39:00  [W2]  INFO      Searched: Termite Services
+03:39:04  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:39:05  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:39:07  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:39:09  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:39:10  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:39:12  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:39:14  [W2]  INFO      Stalled after 6 scrolls — moving on
+03:39:14  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:39:14  [W2]  INFO      [Termite Services] +0 new urls (total: 1405)
+03:39:14  [W2]  INFO        ── Done: Termite Services (0 total urls)
+03:39:14  [W2]  INFO        ── Keyword: Landscaping
+03:39:14  [W2]  INFO      Searched: Landscaping
+03:39:17  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:39:19  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:39:21  [W2]  INFO      Saved 1405 urls → urls_2.json
+03:39:22  [W2]  INFO      Saved 1414 urls → urls_2.json
+03:39:24  [W2]  INFO      Saved 1422 urls → urls_2.json
+03:39:25  [W2]  INFO      Interrupted — saving …
+03:39:25  [W2]  INFO      Saved 1422 urls → urls_2.json
+03:39:25  [W2]  INFO      Worker done. Quitting driver.
+03:39:59  [W2]  INFO      Resuming from urls_2.json — 1422 urls
+03:39:59  [W2]  INFO      Detected Chrome major version: 148
+03:39:59  [W2]  INFO      Driver started (incognito)
+03:39:59  [W2]  INFO      ── City: https://www.google.com/maps/place/Fort+Wayne,+IN
+03:40:07  [W2]  INFO      Interrupted — saving …
+03:40:07  [W2]  INFO      Saved 1422 urls → urls_2.json
+03:40:07  [W2]  INFO      Worker done. Quitting driver.
+03:46:23  [W2]  INFO      Resuming from urls_2.json — 1422 urls
+03:46:23  [W2]  INFO      Detected Chrome major version: 148
+03:46:23  [W2]  INFO      Driver started (incognito)
+03:46:23  [W2]  INFO      ── City: https://www.google.com/maps/place/Fort+Wayne,+IN
+03:46:32  [W2]  INFO      Clicked: close popup
+03:46:32  [W2]  INFO        ── SKIP (done): Dental Clinics
+03:46:32  [W2]  INFO        ── SKIP (done): Orthodontists
+03:46:32  [W2]  INFO        ── SKIP (done): Med Spas
+03:46:32  [W2]  INFO        ── SKIP (done): Aesthetic Clinics
+03:46:32  [W2]  INFO        ── SKIP (done): Therapy, Mental Health
+03:46:32  [W2]  INFO        ── SKIP (done): Rehab Practices
+03:46:32  [W2]  INFO        ── Keyword: Chiropractic
+03:46:32  [W2]  INFO      Searched: Chiropractic
+03:46:36  [W2]  INFO      Clicked: 'update results when map moves'
+03:46:39  [W2]  INFO      Saved 1425 urls → urls_2.json
+03:46:40  [W2]  INFO      Saved 1434 urls → urls_2.json
+03:46:42  [W2]  INFO      Saved 1434 urls → urls_2.json

@@ -2,25 +2,31 @@
 ========================================================
   GOOGLE MAPS SCRAPER — PASS 2: DETAIL EXTRACTION
   ─────────────────────────────────────────────────────
-  Reads pending URLs from places.db, opens each one, calls
-  extractor.extract_details(), and writes the result back.
+  Usage:
+    python pass2.py                 # 1 worker
+    python pass2.py -w 4            # 4 parallel workers
+    python pass2.py -d places.db    # custom DB path
 
-  Run as many copies as you like:
-      python pass2.py &
-      python pass2.py &
-      python pass2.py &
+  Each worker atomically claims the next un-processed URL
+  from places.db (SQLite WAL — no two workers collide).
+  If a worker dies, its lease expires after LEASE_SECONDS
+  and another worker re-claims that URL automatically.
 
-  Each instance picks up the next un-claimed URL. If a
-  worker dies mid-fetch, its lease expires after
-  LEASE_SECONDS and another worker re-claims that URL.
+  Workers pull new URLs from urls.json each time they
+  start, so you can run pass 1 and pass 2 simultaneously.
 ========================================================
 """
 
 from __future__ import annotations
 
-import json
+import argparse
 import logging
+import multiprocessing as mp
+import os
+import re
+import shutil
 import signal
+import subprocess
 import sys
 import threading
 from pathlib import Path
@@ -37,31 +43,38 @@ from extractor import extract_details
 
 # ─── CONFIG ──────────────────────────────────────────────────────────────────
 
-URLS_JSON       = "urls.json"           # pass-1 output to import from
+URLS_JSON       = "urls.json"
 DB_PATH         = "places.db"
-HTML_DUMP_DIR   = "html"                # saved raw HTML per URL (re-extract w/o re-fetch)
-SAVE_RAW_HTML   = True                  # set False to skip the HTML dump
+HTML_DUMP_DIR   = "html"
+SAVE_RAW_HTML   = True
 
 WAIT_TIME       = 15
 HEADLESS        = False
 
-IDLE_SLEEP      = 5.0                   # pause when the queue is empty before polling again
-HEARTBEAT_EVERY = 60                    # lease refresh interval (s)
-PER_URL_PAUSE   = 1.5                   # polite delay between URLs
+IDLE_SLEEP      = 5.0
+HEARTBEAT_EVERY = 60
+PER_URL_PAUSE   = 1.5
 
 
 # ─── LOGGING ─────────────────────────────────────────────────────────────────
 
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s  [%(threadName)s] %(levelname)-8s  %(message)s",
-    datefmt="%H:%M:%S",
-    handlers=[
-        logging.StreamHandler(),
-        logging.FileHandler("pass2.log"),
-    ],
-)
-log = logging.getLogger(__name__)
+def setup_logging(worker_id: int | None = None) -> logging.Logger:
+    tag    = f"W{worker_id}" if worker_id is not None else "main"
+    suffix = f"_{worker_id}" if worker_id is not None else ""
+    fmt    = f"%(asctime)s  [{tag}]  %(levelname)-8s  %(message)s"
+    logging.basicConfig(
+        level=logging.INFO,
+        format=fmt,
+        datefmt="%H:%M:%S",
+        handlers=[
+            logging.StreamHandler(),
+            logging.FileHandler(f"pass2{suffix}.log"),
+        ],
+        force=True,
+    )
+    return logging.getLogger(__name__)
+
+log = setup_logging()
 
 
 # ─── GRACEFUL SHUTDOWN ───────────────────────────────────────────────────────
@@ -76,9 +89,51 @@ signal.signal(signal.SIGINT,  _handle_signal)
 signal.signal(signal.SIGTERM, _handle_signal)
 
 
-# ─── DRIVER ──────────────────────────────────────────────────────────────────
+# ─── DRIVER (mirrors scrapper.py pattern) ────────────────────────────────────
 
-def build_driver() -> uc.Chrome:
+def _chrome_major_version() -> int | None:
+    for cmd in ("google-chrome", "google-chrome-stable", "chromium", "chromium-browser"):
+        try:
+            out = subprocess.check_output(
+                [cmd, "--version"], stderr=subprocess.DEVNULL
+            ).decode()
+            m = re.search(r"(\d+)\.\d+\.\d+", out)
+            if m:
+                return int(m.group(1))
+        except Exception:
+            continue
+    return None
+
+
+_DRIVER_DIR  = Path.home() / ".local/share/undetected_chromedriver"
+_BASE_DRIVER = _DRIVER_DIR / "undetected_chromedriver"
+
+
+def _ensure_base_driver(version: int | None) -> None:
+    """Download and patch chromedriver once in the main process."""
+    if _BASE_DRIVER.exists():
+        with _BASE_DRIVER.open("rb") as f:
+            if b"cdc_" not in f.read(2_000_000):
+                log.info("Base chromedriver already patched — skipping download")
+                return
+    log.info("Downloading/patching base chromedriver (version %s) …", version)
+    opts = webdriver.ChromeOptions()
+    opts.add_argument("--headless=new")
+    opts.add_argument("--no-sandbox")
+    opts.add_argument("--disable-dev-shm-usage")
+    tmp = uc.Chrome(options=opts, version_main=version)
+    tmp.quit()
+    log.info("Base chromedriver ready: %s", _BASE_DRIVER)
+
+
+def _copy_driver_for_worker(worker_id: int) -> str:
+    dst = _DRIVER_DIR / f"undetected_chromedriver_{worker_id}_{os.getpid()}"
+    shutil.copy2(_BASE_DRIVER, dst)
+    dst.chmod(0o755)
+    return str(dst)
+
+
+def build_driver(worker_id: int = 0) -> uc.Chrome:
     options = webdriver.ChromeOptions()
     options.add_argument("--incognito")
     options.add_argument("--no-sandbox")
@@ -87,7 +142,10 @@ def build_driver() -> uc.Chrome:
     options.add_argument("--window-size=1400,1000")
     if HEADLESS:
         options.add_argument("--headless=new")
-    driver = uc.Chrome(options=options)
+    version     = _chrome_major_version()
+    driver_path = _copy_driver_for_worker(worker_id)
+    driver = uc.Chrome(options=options, version_main=version,
+                       driver_executable_path=driver_path)
     log.info("Driver started (incognito)")
     return driver
 
@@ -100,8 +158,8 @@ class Heartbeat(threading.Thread):
     def __init__(self, store: DetailsStore, wid: str, url: str):
         super().__init__(daemon=True, name=f"hb-{wid[-6:]}")
         self.store = store
-        self.wid = wid
-        self.url = url
+        self.wid   = wid
+        self.url   = url
         self._stop = threading.Event()
 
     def run(self) -> None:
@@ -121,16 +179,10 @@ class Heartbeat(threading.Thread):
 # ─── HTML DUMP ───────────────────────────────────────────────────────────────
 
 def _dump_html(driver, url: str) -> str | None:
-    """
-    Save the page source under HTML_DUMP_DIR keyed by a safe filename.
-    Returns the saved path so we can record it in the DB and re-extract
-    later without re-fetching the page.
-    """
     if not SAVE_RAW_HTML:
         return None
     try:
         Path(HTML_DUMP_DIR).mkdir(parents=True, exist_ok=True)
-        # crude but stable: hash the URL into a filename
         safe = str(abs(hash(url))) + ".html"
         path = Path(HTML_DUMP_DIR) / safe
         path.write_text(driver.page_source, encoding="utf-8")
@@ -142,38 +194,42 @@ def _dump_html(driver, url: str) -> str | None:
 
 # ─── WORKER LOOP ─────────────────────────────────────────────────────────────
 
-def run_worker() -> None:
-    wid = details_store.worker_id()
-    log.info("Worker id: %s", wid)
+def run_worker(worker_id: int = 0, db_path: str = DB_PATH) -> None:
+    global log
+    log = setup_logging(worker_id)
 
-    store = DetailsStore(DB_PATH)
+    wid   = details_store.worker_id()
+    store = DetailsStore(db_path)
 
-    # Idempotent — pulls in any new URLs that pass 1 has discovered.
     added = store.import_from_urls_json(URLS_JSON)
     log.info("Imported %d new URLs from %s", added, URLS_JSON)
     log.info("Queue snapshot: %s", store.stats())
 
-    driver = build_driver()
-    wait   = WebDriverWait(driver, WAIT_TIME)  # noqa: F841 -- available for extractor
+    driver = build_driver(worker_id)
+    _wait  = WebDriverWait(driver, WAIT_TIME)  # noqa: F841
 
     try:
         while not _stop.is_set():
             row = store.claim_next(wid)
             if row is None:
+                # Re-import in case pass 1 has discovered new URLs since startup.
+                new = store.import_from_urls_json(URLS_JSON)
+                if new:
+                    log.info("Picked up %d new URLs from pass 1 — resuming", new)
+                    continue
                 log.info("Nothing to do — sleeping %.1fs", IDLE_SLEEP)
-                # Interruptible sleep so SIGINT is responsive.
                 if _stop.wait(IDLE_SLEEP):
                     break
                 continue
 
-            url = row["url"]
+            url     = row["url"]
             attempt = row["attempts"]
             log.info("→ claim (attempt %d): %s", attempt, url)
 
             hb = Heartbeat(store, wid, url)
             hb.start()
             try:
-                details = extract_details(driver, url)
+                details   = extract_details(driver, url)
                 html_path = _dump_html(driver, url)
 
                 ok = store.mark_completed(url, wid, details, html_path=html_path)
@@ -206,10 +262,40 @@ def run_worker() -> None:
 # ─── MAIN ────────────────────────────────────────────────────────────────────
 
 def main() -> None:
-    if not Path(URLS_JSON).exists() and not Path(DB_PATH).exists():
-        log.error("Neither %s nor %s exists — nothing to scrape", URLS_JSON, DB_PATH)
+    parser = argparse.ArgumentParser(
+        description="Google Maps detail scraper — pass 2")
+    parser.add_argument("-w", "--workers", type=int, default=1,
+                        help="number of parallel Chrome workers (default: 1)")
+    parser.add_argument("-d", "--db",      default=DB_PATH,
+                        help=f"SQLite DB path (default: {DB_PATH})")
+    args = parser.parse_args()
+
+    if not Path(URLS_JSON).exists() and not Path(args.db).exists():
+        log.error("Neither %s nor %s exists — nothing to scrape", URLS_JSON, args.db)
         sys.exit(1)
-    run_worker()
+
+    n = max(1, args.workers)
+    _ensure_base_driver(_chrome_major_version())
+
+    if n == 1:
+        run_worker(0, args.db)
+    else:
+        log.info("Spawning %d workers", n)
+        procs = []
+        for i in range(n):
+            p = mp.Process(
+                target=run_worker,
+                args=(i, args.db),
+                name=f"worker-{i}",
+            )
+            p.start()
+            log.info("Started worker %d (pid %d)", i, p.pid)
+            procs.append(p)
+
+        for p in procs:
+            p.join()
+
+        log.info("All workers finished")
 
 
 if __name__ == "__main__":

@@ -1,0 +1,110 @@
+03:35:38  [W0]  INFO      Imported 5699 new URLs from urls.json
+03:35:38  [W0]  INFO      Queue snapshot: {'pending': 5699}
+03:42:13  [W0]  INFO      Imported 0 new URLs from urls.json
+03:42:13  [W0]  INFO      Queue snapshot: {'pending': 5699}
+03:42:13  [W0]  INFO      Driver started (incognito)
+03:42:13  [W0]  INFO      → claim (attempt 1): https://www.google.com/maps/place/1+800+Plumbing/data=!4m7!3m6!1s0x89ab0da97652a6a3:0xe0a27f2103fbcb3f!8m2!3d34.9998597!4d-78.7995927!16s%2Fg%2F1tvr_l5j!19sChIJo6ZSdqkNq4kRP8v7AyF_ouA?authuser=0&hl=en&rclk=1
+03:42:22  [W0]  INFO      ✓ completed (9 fields): https://www.google.com/maps/place/1+800+Plumbing/data=!4m7!3m6!1s0x89ab0da97652a6a3:0xe0a27f2103fbcb3f!8m2!3d34.9998597!4d-78.7995927!16s%2Fg%2F1tvr_l5j!19sChIJo6ZSdqkNq4kRP8v7AyF_ouA?authuser=0&hl=en&rclk=1
+03:42:23  [W0]  INFO      → claim (attempt 1): https://www.google.com/maps/place/1+on+1+Physical+Therapy/data=!4m7!3m6!1s0x8859928192195555:0xde504bac7d2336f0!8m2!3d35.5267525!4d-82.6092898!16s%2Fg%2F11ghxfrvzr!19sChIJVVUZkoGSWYgR8DYjfaxLUN4?authuser=0&hl=en&rclk=1
+03:42:29  [W0]  INFO      ✓ completed (11 fields): https://www.google.com/maps/place/1+on+1+Physical+Therapy/data=!4m7!3m6!1s0x8859928192195555:0xde504bac7d2336f0!8m2!3d35.5267525!4d-82.6092898!16s%2Fg%2F11ghxfrvzr!19sChIJVVUZkoGSWYgR8DYjfaxLUN4?authuser=0&hl=en&rclk=1
+03:42:31  [W0]  INFO      → claim (attempt 1): https://www.google.com/maps/place/1-Tom-Plumber/data=!4m7!3m6!1s0x8840890513b123f7:0x82d74d0fb2c30d50!8m2!3d39.6446264!4d-84.2416233!16s%2Fg%2F11rf6rntd_!19sChIJ9yOxEwWJQIgRUA3Dsg9N14I?authuser=0&hl=en&rclk=1
+03:42:37  [W0]  INFO      ✓ completed (10 fields): https://www.google.com/maps/place/1-Tom-Plumber/data=!4m7!3m6!1s0x8840890513b123f7:0x82d74d0fb2c30d50!8m2!3d39.6446264!4d-84.2416233!16s%2Fg%2F11rf6rntd_!19sChIJ9yOxEwWJQIgRUA3Dsg9N14I?authuser=0&hl=en&rclk=1
+03:42:38  [W0]  INFO      → claim (attempt 1): https://www.google.com/maps/place/1-Tom-Plumber/data=!4m7!3m6!1s0x8859edf0f43601db:0xe6ad91dcf9b34faf!8m2!3d35.4071553!4d-82.5696462!16s%2Fg%2F11y1hs5_wp!19sChIJ2wE29PDtWYgRr0-z-dyRreY?authuser=0&hl=en&rclk=1
+03:42:44  [W0]  INFO      ✓ completed (10 fields): https://www.google.com/maps/place/1-Tom-Plumber/data=!4m7!3m6!1s0x8859edf0f43601db:0xe6ad91dcf9b34faf!8m2!3d35.4071553!4d-82.5696462!16s%2Fg%2F11y1hs5_wp!19sChIJ2wE29PDtWYgRr0-z-dyRreY?authuser=0&hl=en&rclk=1
+03:42:45  [W0]  INFO      → claim (attempt 1): https://www.google.com/maps/place/1-Tom-Plumber/data=!4m7!3m6!1s0x885c3debd6fc305d:0x1638eeccbb934a3a!8m2!3d35.9532697!4d-83.9626189!16s%2Fg%2F11xnwkkk2v!19sChIJXTD81us9XIgROkqTu8zuOBY?authuser=0&hl=en&rclk=1
+03:42:48  [W0]  INFO      Signal 2 received — finishing current URL then exiting
+03:42:48  [W0]  WARNING   Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=42073): Failed to establish a new connection: [Errno 111] Connection refused")': /session/19ab8c9287eed518df9b4c994febed3c/element
+03:42:48  [W0]  WARNING   Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=42073): Failed to establish a new connection: [Errno 111] Connection refused")': /session/19ab8c9287eed518df9b4c994febed3c/element
+03:42:48  [W0]  WARNING   Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=42073): Failed to establish a new connection: [Errno 111] Connection refused")': /session/19ab8c9287eed518df9b4c994febed3c/element
+03:42:48  [W0]  WARNING   Page never reached ready state: https://www.google.com/maps/place/1-Tom-Plumber/data=!4m7!3m6!1s0x885c3debd6fc305d:0x1638eeccbb934a3a!8m2!3d35.9532697!4d-83.9626189!16s%2Fg%2F11xnwkkk2v!19sChIJXTD81us9XIgROkqTu8zuOBY?authuser=0&hl=en&rclk=1
+03:42:48  [W0]  WARNING   Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=42073): Failed to establish a new connection: [Errno 111] Connection refused")': /session/19ab8c9287eed518df9b4c994febed3c/elements
+03:42:48  [W0]  WARNING   Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=42073): Failed to establish a new connection: [Errno 111] Connection refused")': /session/19ab8c9287eed518df9b4c994febed3c/elements
+03:42:48  [W0]  WARNING   Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=42073): Failed to establish a new connection: [Errno 111] Connection refused")': /session/19ab8c9287eed518df9b4c994febed3c/elements
+03:42:50  [W0]  WARNING   Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=42073): Failed to establish a new connection: [Errno 111] Connection refused")': /session/19ab8c9287eed518df9b4c994febed3c/source
+03:42:50  [W0]  WARNING   Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=42073): Failed to establish a new connection: [Errno 111] Connection refused")': /session/19ab8c9287eed518df9b4c994febed3c/source
+03:42:50  [W0]  WARNING   Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=42073): Failed to establish a new connection: [Errno 111] Connection refused")': /session/19ab8c9287eed518df9b4c994febed3c/source
+03:42:50  [W0]  ERROR     Extraction failed: https://www.google.com/maps/place/1-Tom-Plumber/data=!4m7!3m6!1s0x885c3debd6fc305d:0x1638eeccbb934a3a!8m2!3d35.9532697!4d-83.9626189!16s%2Fg%2F11xnwkkk2v!19sChIJXTD81us9XIgROkqTu8zuOBY?authuser=0&hl=en&rclk=1
+Traceback (most recent call last):
+  File "/home/rafay/.local/lib/python3.12/site-packages/urllib3/connection.py", line 204, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rafay/.local/lib/python3.12/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    raise err
+  File "/home/rafay/.local/lib/python3.12/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/rafay/.local/lib/python3.12/site-packages/urllib3/connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/rafay/.local/lib/python3.12/site-packages/urllib3/connectionpool.py", line 493, in _make_request
+    conn.request(
+  File "/home/rafay/.local/lib/python3.12/site-packages/urllib3/connection.py", line 500, in request
+    self.endheaders()
+  File "/usr/lib/python3.12/http/client.py", line 1351, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.12/http/client.py", line 1111, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.12/http/client.py", line 1055, in send
+    self.connect()
+  File "/home/rafay/.local/lib/python3.12/site-packages/urllib3/connection.py", line 331, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "/home/rafay/.local/lib/python3.12/site-packages/urllib3/connection.py", line 219, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: HTTPConnection(host='localhost', port=42073): Failed to establish a new connection: [Errno 111] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/rafay/BCSN/pouter/maps/pass2.py", line 232, in run_worker
+    details   = extract_details(driver, url)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rafay/BCSN/pouter/maps/extractor.py", line 62, in extract_details
+    tree = lxml.html.fromstring(driver.page_source)
+                                ^^^^^^^^^^^^^^^^^^
+  File "/home/rafay/.local/lib/python3.12/site-packages/undetected_chromedriver/__init__.py", line 806, in __getattribute__
+    return super().__getattribute__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rafay/.local/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 607, in page_source
+    return self.execute(Command.GET_PAGE_SOURCE)["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rafay/.local/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 465, in execute
+    response = cast(RemoteConnection, self.command_executor).execute(driver_command, params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rafay/.local/lib/python3.12/site-packages/selenium/webdriver/remote/remote_connection.py", line 407, in execute
+    return self._request(command_info[0], url, body=data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rafay/.local/lib/python3.12/site-packages/selenium/webdriver/remote/remote_connection.py", line 431, in _request
+    response = self._conn.request(method, url, body=body, headers=headers, timeout=self._client_config.timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rafay/.local/lib/python3.12/site-packages/urllib3/_request_methods.py", line 135, in request
+    return self.request_encode_url(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rafay/.local/lib/python3.12/site-packages/urllib3/_request_methods.py", line 182, in request_encode_url
+    return self.urlopen(method, url, **extra_kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rafay/.local/lib/python3.12/site-packages/urllib3/poolmanager.py", line 457, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rafay/.local/lib/python3.12/site-packages/urllib3/connectionpool.py", line 872, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/home/rafay/.local/lib/python3.12/site-packages/urllib3/connectionpool.py", line 872, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/home/rafay/.local/lib/python3.12/site-packages/urllib3/connectionpool.py", line 872, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/home/rafay/.local/lib/python3.12/site-packages/urllib3/connectionpool.py", line 842, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/home/rafay/.local/lib/python3.12/site-packages/urllib3/util/retry.py", line 543, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=42073): Max retries exceeded with url: /session/19ab8c9287eed518df9b4c994febed3c/source (Caused by NewConnectionError("HTTPConnection(host='localhost', port=42073): Failed to establish a new connection: [Errno 111] Connection refused"))
+03:42:50  [W0]  INFO      Final queue snapshot: {'completed': 4, 'failed': 1, 'pending': 5694}
+03:42:50  [W0]  INFO      Quitting driver

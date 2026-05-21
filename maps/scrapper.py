@@ -126,7 +126,8 @@ KEYWORDS = [
 
 OUTPUT_FILE  = "urls.json"
 TRACKER_FILE = "scan_progress.json"
-WAIT_TIME    = 10
+WAIT_TIME      = 10
+FEED_WAIT_TIME = 25   # longer budget for post-search feed to appear
 HEADLESS     = os.environ.get("DISPLAY") is None  # auto-headless on SSH/no-display
 
 SCROLL_PAUSE       = 1.5
@@ -398,7 +399,7 @@ def enable_map_move_updates(driver) -> None:
               "'update results when map moves'", timeout=2.0)
 
 
-def search_keyword(wait, keyword: str) -> bool:
+def search_keyword(driver, wait, keyword: str) -> bool:
     try:
         box = wait.until(EC.element_to_be_clickable((By.XPATH, SEARCH_BOX_XPATH)))
         box.click()
@@ -407,7 +408,13 @@ def search_keyword(wait, keyword: str) -> bool:
         box.send_keys(keyword)
         box.send_keys(Keys.RETURN)
         log.info("Searched: %s", keyword)
-        sleep(6)
+        # Wait for the feed to actually appear rather than sleeping blindly
+        feed_wait = WebDriverWait(driver, FEED_WAIT_TIME)
+        try:
+            feed_wait.until(EC.presence_of_element_located((By.XPATH, FEED_XPATH)))
+        except Exception:
+            log.warning("Feed did not appear within %ds after searching '%s'",
+                        FEED_WAIT_TIME, keyword)
         return True
     except Exception as e:
         log.warning("Search box not usable for '%s': %s", keyword, e)
@@ -432,12 +439,12 @@ def _refetch_feed(wait):
 
 
 def collect_urls(driver, wait, keyword: str,
-                 source_url: str, store: UrlStore) -> int:
-    """Scroll the results feed, recording every tile href. Returns new-url count."""
+                 source_url: str, store: UrlStore) -> tuple[int, bool]:
+    """Scroll the results feed. Returns (new_url_count, feed_was_found)."""
     feed = _refetch_feed(wait)
     if feed is None:
         log.warning("Results feed not found")
-        return 0
+        return 0, False
 
     enable_map_move_updates(driver)
 
@@ -499,7 +506,7 @@ def collect_urls(driver, wait, keyword: str,
 
     store.save()
     log.info("[%s] +%d new urls (total: %d)", keyword, new_count, len(store))
-    return new_count
+    return new_count, True
 
 
 # ─── MAP PANNING ─────────────────────────────────────────────────────────────
@@ -606,17 +613,23 @@ def run_worker(worker_id: int, cities: list[str],
                     continue
 
                 log.info("  ── Keyword: %s", kw)
-                if not search_keyword(wait, kw):
+                if not search_keyword(driver, wait, kw):
                     continue
 
-                before = len(store)
-                collect_urls(driver, wait,
-                             keyword=kw, source_url=url, store=store)
+                _, feed_found = collect_urls(driver, wait,
+                                             keyword=kw, source_url=url, store=store)
+                if not feed_found:
+                    log.warning("  ── Feed never found for '%s' — will retry next run", kw)
+                    continue
+
                 pan_and_explore(driver, wait,
                                 keyword=kw, source_url=url, store=store)
-                added = len(store) - before
-                tracker.mark_done(url, kw, added)
-                log.info("  ── Done: %s (+%d urls)", kw, added)
+                total_for_pair = sum(
+                    1 for v in store.data.values()
+                    if v.get("source_url") == url and v.get("keyword") == kw
+                )
+                tracker.mark_done(url, kw, total_for_pair)
+                log.info("  ── Done: %s (%d total urls)", kw, total_for_pair)
 
     except KeyboardInterrupt:
         log.info("Interrupted — saving …")
@@ -673,7 +686,13 @@ def main() -> None:
                         help="file with one Maps URL per line")
     parser.add_argument("-k", "--keywords",  default="keywords.txt",
                         help="file with one keyword per line")
+    parser.add_argument("--headless", action="store_true", default=None,
+                        help="force headless Chrome (default: auto-detect from $DISPLAY)")
     args = parser.parse_args()
+
+    global HEADLESS
+    if args.headless:
+        HEADLESS = True
 
     cities   = load_lines(args.locations, SEARCH_URLS)
     keywords = load_lines(args.keywords,  KEYWORDS)
