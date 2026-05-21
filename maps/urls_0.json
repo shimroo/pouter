@@ -1,0 +1,982 @@
+{
+  "https://www.google.com/maps/place/419+DENTIST+SERVICE+SYlVANIA/data=!4m7!3m6!1s0x883c7dd26c655771:0x9411c84b4cd4ded4!8m2!3d41.7213742!4d-83.755319!16s%2Fg%2F11yx__pl7y!19sChIJcVdlbNJ9PIgR1N7UTEvIEZQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:25",
+    "keyword": "Dental Clinics",
+    "name": "419 DENTIST SERVICE SYlVANIA",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/419+Dental+%26+Esthetics/data=!4m7!3m6!1s0x883c7f0541991ecf:0xc2c20c953c4b066e!8m2!3d41.7143757!4d-83.6243069!16s%2Fg%2F11sqbl5fhv!19sChIJzx6ZQQV_PIgRbgZLPJUMwsI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:55",
+    "keyword": "Med Spas",
+    "name": "419 Dental & Esthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/AB+Aesthetics+Beauty+and+Wellness,+LLC/data=!4m7!3m6!1s0x883c6922b1858f31:0xb1136c57ec007858!8m2!3d41.5152571!4d-83.8026587!16s%2Fg%2F11vkkg6gnb!19sChIJMY-FsSJpPIgRWHgA7FdsE7E?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:12",
+    "keyword": "Aesthetic Clinics",
+    "name": "AB Aesthetics Beauty and Wellness, LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/AD+Medical+Aesthetics/data=!4m7!3m6!1s0x883b836bcecc0cfb:0xea3bb03b91e8024a!8m2!3d41.7310769!4d-83.4789359!16s%2Fg%2F11m6f_20t1!19sChIJ-wzMzmuDO4gRSgLokTuwO-o?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:33",
+    "keyword": "Med Spas",
+    "name": "AD Medical Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/AM+Skin+Health+%26+Aesthetic+Medicine/data=!4m7!3m6!1s0x883c7fd06dac0133:0x1cb1678b1d149fce!8m2!3d41.7338109!4d-83.6255045!16s%2Fg%2F1ygvt0fkj!19sChIJMwGsbdB_PIgRzp8UHYtnsRw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:35",
+    "keyword": "Med Spas",
+    "name": "AM Skin Health & Aesthetic Medicine",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Advanced+Dental+Care+of+Toledo/data=!4m7!3m6!1s0x883c7f45ea13abd5:0xfbde8d4f57b0b98c!8m2!3d41.7224591!4d-83.6246388!16s%2Fg%2F11t30rb3zg!19sChIJ1asT6kV_PIgRjLmwV0-N3vs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:23",
+    "keyword": "Dental Clinics",
+    "name": "Advanced Dental Care of Toledo",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Aesthetic+clinic+Lahore/data=!4m7!3m6!1s0x391903d7d8615555:0xe92f226d07b08c0b!8m2!3d31.463011!4d74.2744442!16s%2Fg%2F11t3lst12s!19sChIJVVVh2NcDGTkRC4ywB20iL-k?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:17",
+    "keyword": "Aesthetic Clinics",
+    "name": "Aesthetic clinic Lahore",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Ahava+Spa+and+Wellness+Center/data=!4m7!3m6!1s0x883b86c52ac733eb:0xdd4ca6cf5deada0d!8m2!3d41.6466661!4d-83.5389752!16s%2Fg%2F1tqpzxyt!19sChIJ6zPHKsWGO4gRDdrqXc-mTN0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:36",
+    "keyword": "Med Spas",
+    "name": "Ahava Spa and Wellness Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Amaryllis+Beaute+Haven/data=!4m7!3m6!1s0x883b87c9b2d97ec5:0x75ca190888653533!8m2!3d41.595267!4d-83.6854093!16s%2Fg%2F11y5n0t4wm!19sChIJxX7ZssmHO4gRMzVliAgZynU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:33",
+    "keyword": "Med Spas",
+    "name": "Amaryllis Beaute Haven",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Amor+Health+and+Wellness/data=!4m7!3m6!1s0x883c79579007b637:0xd29f60ab641785f5!8m2!3d41.6145492!4d-83.6642871!16s%2Fg%2F11xglsmxd_!19sChIJN7YHkFd5PIgR9YUXZKtgn9I?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:46",
+    "keyword": "Med Spas",
+    "name": "Amor Health and Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/An+Va+Spa+%26+Salon/data=!4m7!3m6!1s0x883c7a49578a9095:0x3a533b07be6e0e45!8m2!3d41.6225672!4d-83.7024401!16s%2Fg%2F1tdgqhkt!19sChIJlZCKV0l6PIgRRQ5uvgc7Uzo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:57",
+    "keyword": "Med Spas",
+    "name": "An Va Spa & Salon",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Anders+Dermatology/data=!4m7!3m6!1s0x883c7c2496ad4025:0x1e90010becb3d3f9!8m2!3d41.6930618!4d-83.6847!16s%2Fg%2F1thw2trl!19sChIJJUCtliR8PIgR-dOz7AsBkB4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:57",
+    "keyword": "Med Spas",
+    "name": "Anders Dermatology",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Angie+Scott+Skin+Health/data=!4m7!3m6!1s0x883c81e822f20651:0x8bf4886d59637ada!8m2!3d41.7484998!4d-83.6284223!16s%2Fg%2F11fnqw1fzb!19sChIJUQbyIuiBPIgR2npjWW2I9Is?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:33",
+    "keyword": "Med Spas",
+    "name": "Angie Scott Skin Health",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Annica+Transformation/data=!4m7!3m6!1s0x883c797a9532d14f:0xe6830ebe939b0112!8m2!3d41.6118622!4d-83.6236062!16s%2Fg%2F11mlh7n5vy!19sChIJT9EylXp5PIgREgGbk74Og-Y?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:36",
+    "keyword": "Med Spas",
+    "name": "Annica Transformation",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Apricity+Renew+You+Med+Spa/data=!4m7!3m6!1s0x883c77da7002202f:0x6578f3d0b35f6e95!8m2!3d41.5866092!4d-83.6702062!16s%2Fg%2F11vwvzxtx7!19sChIJLyACcNp3PIgRlW5fs9DzeGU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:30",
+    "keyword": "Med Spas",
+    "name": "Apricity Renew You Med Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Arrowhead+Plastic+Surgeons/data=!4m7!3m6!1s0x883c70b1ce47e793:0x7c99f34eab50824e!8m2!3d41.5347008!4d-83.6372664!16s%2Fg%2F1tfczh39!19sChIJk-dHzrFwPIgRToJQq07zmXw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:05",
+    "keyword": "Aesthetic Clinics",
+    "name": "Arrowhead Plastic Surgeons",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Artisan+Aesthetics/data=!4m7!3m6!1s0x39190379900215d5:0x60cc211229222d9b!8m2!3d31.4684454!4d74.265951!16s%2Fg%2F11rn7q8lsx!19sChIJ1RUCkHkDGTkRmy0iKRIhzGA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:12",
+    "keyword": "Aesthetic Clinics",
+    "name": "Artisan Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Asian+Lucky+Spa/data=!4m7!3m6!1s0x883c7b5b3b2d9085:0x1c4e625311164fec!8m2!3d41.6604628!4d-83.6821072!16s%2Fg%2F11ln6wtrmh!19sChIJhZAtO1t7PIgR7E8WEVNiThw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:55",
+    "keyword": "Med Spas",
+    "name": "Asian Lucky Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Avanti+Med+Spa/data=!4m7!3m6!1s0x883c70b1ce47e793:0xb26181179236e89f!8m2!3d41.577056!4d-83.6847435!16s%2Fg%2F1th0nkvp!19sChIJk-dHzrFwPIgRn-g2kheBYbI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:28",
+    "keyword": "Med Spas",
+    "name": "Avanti Med Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Axiom+Lux/data=!4m7!3m6!1s0x883c7d392196f157:0xdd1fabaebf4bedf5!8m2!3d41.6933201!4d-83.6881033!16s%2Fg%2F11p76_84hv!19sChIJV_GWITl9PIgR9e1Lv66rH90?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:50",
+    "keyword": "Med Spas",
+    "name": "Axiom Lux",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/BBIV+Med+Spa/data=!4m7!3m6!1s0x883b876344b9beab:0x2f1033112f035d8a!8m2!3d41.6555582!4d-83.5384504!16s%2Fg%2F11xvmh8nfh!19sChIJq765RGOHO4gRil0DLxEzEC8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:36",
+    "keyword": "Med Spas",
+    "name": "BBIV Med Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Balance+Wellness+Spa,+LLC/data=!4m7!3m6!1s0x883c7dd673a31369:0x42cfbf8988d99f11!8m2!3d41.7115287!4d-83.6794015!16s%2Fg%2F11fz7w6bxb!19sChIJaROjc9Z9PIgREZ_ZiIm_z0I?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:48",
+    "keyword": "Med Spas",
+    "name": "Balance Wellness Spa, LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Beauty+Bar/data=!4m7!3m6!1s0x883c7f38b9c3c3c9:0x24dd8fa0307dc0d!8m2!3d41.6771251!4d-83.6143807!16s%2Fg%2F1vp6_vt8!19sChIJycPDuTh_PIgRDdwHA_rYTQI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:55",
+    "keyword": "Med Spas",
+    "name": "Beauty Bar",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Beauty+By+Brandi/data=!4m7!3m6!1s0x883c76f925660ccd:0x7182bcc331e785c7!8m2!3d41.539142!4d-83.638335!16s%2Fg%2F11btx6m574!19sChIJzQxmJfl2PIgRx4XnMcO8gnE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:13",
+    "keyword": "Aesthetic Clinics",
+    "name": "Beauty By Brandi",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Believe+Dental+Care/data=!4m7!3m6!1s0x883c68604a2992fd:0xde79b8dcd2192283!8m2!3d41.581275!4d-83.891158!16s%2Fg%2F1tsykw1j!19sChIJ_ZIpSmBoPIgRgyIZ0ty4ed4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:25",
+    "keyword": "Dental Clinics",
+    "name": "Believe Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Bella+Care+Aesthetics+Johar+Town+-+The+Best+Aesthetic+Clinic+in+Lahore./data=!4m7!3m6!1s0x3919035bc01336cb:0xd2787d29b27a6de0!8m2!3d31.4669461!4d74.2524759!16s%2Fg%2F11rxrkykgs!19sChIJyzYTwFsDGTkR4G16sil9eNI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:12",
+    "keyword": "Aesthetic Clinics",
+    "name": "Bella Care Aesthetics Johar Town - The Best Aesthetic Clinic in Lahore.",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Bella+Via+Medical+Spa/data=!4m7!3m6!1s0x883c7eaf3121f101:0x16cd9609a51f9c01!8m2!3d41.67368!4d-83.672177!16s%2Fg%2F1tmxg6t5!19sChIJAfEhMa9-PIgRAZwfpQmWzRY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:28",
+    "keyword": "Med Spas",
+    "name": "Bella Via Medical Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Blush+Aesthetics/data=!4m7!3m6!1s0x883c76f92550598f:0xba0e2c7f4b1406f0!8m2!3d41.5160645!4d-83.6401391!16s%2Fg%2F11dxbphxl1!19sChIJj1lQJfl2PIgR8AYUS38sDro?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:10",
+    "keyword": "Aesthetic Clinics",
+    "name": "Blush Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/BodyMe+By+Chee+Boutique+%26+Spa+Beauty+Health+And+Wellness+Company/data=!4m7!3m6!1s0x883c791a1e721921:0xfa07bd13d4123461!8m2!3d41.6383889!4d-83.6668184!16s%2Fg%2F11rssf3fw3!19sChIJIRlyHhp5PIgRYTQS1BO9B_o?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:35",
+    "keyword": "Med Spas",
+    "name": "BodyMe By Chee Boutique & Spa Beauty Health And Wellness Company",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Cheeky+Skin+%26+Wax+Studio/data=!4m7!3m6!1s0x883c7d19b26ec70d:0x8e002b3f67325dca!8m2!3d41.6958177!4d-83.6883783!16s%2Fg%2F11t7hmcglr!19sChIJDcdushl9PIgRyl0yZz8rAI4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:50",
+    "keyword": "Med Spas",
+    "name": "Cheeky Skin & Wax Studio",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Complexions+Clinical+Skincare/data=!4m7!3m6!1s0x883c7f0f4b4041c7:0x7d58d43a21506c42!8m2!3d41.6686051!4d-83.7233293!16s%2Fg%2F11bwgnds7r!19sChIJx0FASw9_PIgRQmxQITrUWH0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:04",
+    "keyword": "Aesthetic Clinics",
+    "name": "Complexions Clinical Skincare",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Corner+Dental+-+Lewis/data=!4m7!3m6!1s0x883c7efa9da4fea9:0x104a21250f251795!8m2!3d41.7229844!4d-83.5671799!16s%2Fg%2F1vcjmy1b!19sChIJqf6knfp-PIgRlRclDyUhShA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:23",
+    "keyword": "Dental Clinics",
+    "name": "Corner Dental - Lewis",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Craig+W.+Colville,+MD,+FACS/data=!4m7!3m6!1s0x883c7eaf3121f101:0x5504811ae8e627a3!8m2!3d41.6720622!4d-83.6712657!16s%2Fg%2F1tf7st8z!19sChIJAfEhMa9-PIgRoyfm6BqBBFU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:50",
+    "keyword": "Med Spas",
+    "name": "Craig W. Colville, MD, FACS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Creekside+Retreat/data=!4m7!3m6!1s0x883c7d2348e29e9b:0x5ca135526951adf!8m2!3d41.6747805!4d-83.7019229!16s%2Fg%2F11y9pzsqx_!19sChIJm57iSCN9PIgR3xqVJlUTygU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:35",
+    "keyword": "Med Spas",
+    "name": "Creekside Retreat",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/DR.+FARRUKH+SKIN+CLINIC/data=!4m7!3m6!1s0x39190334fdd21a93:0x67a55644b22431ac!8m2!3d31.4722093!4d74.2588495!16s%2Fg%2F11rx2_zlmf!19sChIJkxrS_TQDGTkRrDEkskRWpWc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:13",
+    "keyword": "Aesthetic Clinics",
+    "name": "DR. FARRUKH SKIN CLINIC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Dental+Excellence+of+Sylvania/data=!4m7!3m6!1s0x883c7e8b4f3daa79:0x2147d964f954c98!8m2!3d41.7091474!4d-83.6733941!16s%2Fg%2F1tfq59_s!19sChIJeao9T4t-PIgRmEyVT5Z9FAI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:23",
+    "keyword": "Dental Clinics",
+    "name": "Dental Excellence of Sylvania",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Dental+Group+West/data=!4m7!3m6!1s0x883c7ea633e142f9:0xd3ba24319fe9cb35!8m2!3d41.6770729!4d-83.6743734!16s%2Fg%2F1td4_jk8!19sChIJ-ULhM6Z-PIgRNcvpnzEkutM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:25",
+    "keyword": "Dental Clinics",
+    "name": "Dental Group West",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Dental+Health+Associates/data=!4m7!3m6!1s0x883c7c8ce32a2897:0x6823cd482faa343e!8m2!3d41.6873162!4d-83.7276575!16s%2Fg%2F1td2_3t4!19sChIJlygq44x8PIgRPjSqL0jNI2g?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:25",
+    "keyword": "Dental Clinics",
+    "name": "Dental Health Associates",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Dermatology+Associates/data=!4m7!3m6!1s0x883c7cf32dd3be6b:0x3e35c244b2d2c44!8m2!3d41.6763423!4d-83.7009541!16s%2Fg%2F11dxjwxm5v!19sChIJa77TLfN8PIgRRCwtSyRc4wM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:48",
+    "keyword": "Med Spas",
+    "name": "Dermatology Associates",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Divine+Aesthetics/data=!4m7!3m6!1s0x39190312689cd47f:0x18ac39f3ebe3cf6c!8m2!3d31.4694445!4d74.2422837!16s%2Fg%2F11ssrynngj!19sChIJf9ScaBIDGTkRbM_j6_M5rBg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:15",
+    "keyword": "Aesthetic Clinics",
+    "name": "Divine Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Divine+medspa+and+wellness+clinic/data=!4m7!3m6!1s0x883c797aec79db7b:0xaf06f8c510ccf9c4!8m2!3d41.6024779!4d-83.6268077!16s%2Fg%2F11y5hq_g_s!19sChIJe9t57Hp5PIgRxPnMEMX4Bq8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:38",
+    "keyword": "Med Spas",
+    "name": "Divine medspa and wellness clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Doctors+Aesthetic+Clinic/data=!4m7!3m6!1s0x39190390c9003fad:0xb05bcc2d561b5e31!8m2!3d31.4701156!4d74.2600796!16s%2Fg%2F11v720fysn!19sChIJrT8AyZADGTkRMV4bVi3MW7A?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:07",
+    "keyword": "Aesthetic Clinics",
+    "name": "Doctors Aesthetic Clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Dose+Aesthetics/data=!4m7!3m6!1s0x883c77bc306d8e85:0xf1c58f7d0ff18880!8m2!3d41.566936!4d-83.6543661!16s%2Fg%2F11v_4zkgw9!19sChIJhY5tMLx3PIgRgIjxD32PxfE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:31",
+    "keyword": "Med Spas",
+    "name": "Dose Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Dr+Shakeela%27s+Skin+Laser/data=!4m7!3m6!1s0x3919035128119f9f:0x571b5a9c5251a3a8!8m2!3d31.4686772!4d74.2695915!16s%2Fg%2F11rwsr70nb!19sChIJn58RKFEDGTkRqKNRUpxaG1c?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:17",
+    "keyword": "Aesthetic Clinics",
+    "name": "Dr Shakeela's Skin Laser",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Atta-ul-Haq+Plastic+Surgeon/data=!4m7!3m6!1s0x391906130dc05a99:0x1e550faa2aa449e5!8m2!3d31.4738661!4d74.2588858!16s%2Fg%2F11g7z0cc4h!19sChIJmVrADRMGGTkR5UmkKqoPVR4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:15",
+    "keyword": "Aesthetic Clinics",
+    "name": "Dr. Atta-ul-Haq Plastic Surgeon",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Drip+IV+Hydration+And+Aesthetics/data=!4m7!3m6!1s0x883c7f29152d0543:0x128cdd7eb021e9c9!8m2!3d41.697319!4d-83.6454544!16s%2Fg%2F11j7vk0h8n!19sChIJQwUtFSl_PIgRyekhsH7djBI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:31",
+    "keyword": "Med Spas",
+    "name": "Drip IV Hydration And Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Elegant+Beauty%2FElegant+Legacy/data=!4m7!3m6!1s0x883b808d08104523:0x5d647414b9f75ee0!8m2!3d41.7140293!4d-83.6243392!16s%2Fg%2F11c2qjk181!19sChIJI0UQCI2AO4gR4F73uRR0ZF0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:10",
+    "keyword": "Aesthetic Clinics",
+    "name": "Elegant Beauty/Elegant Legacy",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Elite+Beauty/data=!4m7!3m6!1s0x883c7e89ef51884d:0xa51f3cad155d18e3!8m2!3d41.7048543!4d-83.6623896!16s%2Fg%2F11bx5m_wsk!19sChIJTYhR74l-PIgR4xhdFa08H6U?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:31",
+    "keyword": "Med Spas",
+    "name": "Elite Beauty",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Essential+Spa+%28Essential+Skincare%29/data=!4m7!3m6!1s0x883c7dbfe0816f75:0x51b3c62a17ca639f!8m2!3d41.716214!4d-83.6815!16s%2Fg%2F11fnr1p687!19sChIJdW-B4L99PIgRn2PKFyrGs1E?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:35",
+    "keyword": "Med Spas",
+    "name": "Essential Spa (Essential Skincare)",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Estelza+Clinic/data=!4m7!3m6!1s0x391903b9c0b2dae5:0x6232b60b395e6b7f!8m2!3d31.4675296!4d74.2574687!16s%2Fg%2F11k9ftnpf_!19sChIJ5dqywLkDGTkRf2teOQu2MmI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:10",
+    "keyword": "Aesthetic Clinics",
+    "name": "Estelza Clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Esthetics+By+Audrie/data=!4m7!3m6!1s0x2705a50a99b477b1:0x72f295488cef0b19!8m2!3d41.603525!4d-83.6383505!16s%2Fg%2F11w_nz6xbf!19sChIJsXe0mQqlBScRGQvvjEiV8nI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:55",
+    "keyword": "Med Spas",
+    "name": "Esthetics By Audrie",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Evolv+Plastic+Surgery+%26+Medical+Aesthetics/data=!4m7!3m6!1s0x883c7e580f64ef01:0xd8762745fe42f395!8m2!3d41.7044874!4d-83.6462069!16s%2Fg%2F1v_nd56v!19sChIJAe9kD1h-PIgRlfNC_kUndtg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:31",
+    "keyword": "Med Spas",
+    "name": "Evolv Plastic Surgery & Medical Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Glass+City+Beauty/data=!4m7!3m6!1s0x883c7f3735ca31b9:0x63ac69e9d781a690!8m2!3d41.7003751!4d-83.6523085!16s%2Fg%2F11rss_l7hm!19sChIJuTHKNTd_PIgRkKaB1-lprGM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:08",
+    "keyword": "Aesthetic Clinics",
+    "name": "Glass City Beauty",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Great+Expressions+Dental+Centers+-+Toledo/data=!4m7!3m6!1s0x883c7a268f071f3f:0x790ee7ed3c8f5dd9!8m2!3d41.6145553!4d-83.683197!16s%2Fg%2F1v5fsl0w!19sChIJPx8HjyZ6PIgR2V2PPO3nDnk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:25",
+    "keyword": "Dental Clinics",
+    "name": "Great Expressions Dental Centers - Toledo",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Hires+Dental+Care/data=!4m7!3m6!1s0x883c7ee3b17d0505:0x96bccd711a2b63f8!8m2!3d41.6909379!4d-83.6378729!16s%2Fg%2F1tczfkx8!19sChIJBQV9seN-PIgR-GMrGnHNvJY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:23",
+    "keyword": "Dental Clinics",
+    "name": "Hires Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/ICA+Beautiful+You/data=!4m7!3m6!1s0x883c7c3a87c9ff65:0x6db7a0da2eb37579!8m2!3d41.6962443!4d-83.6906421!16s%2Fg%2F11f2drj09s!19sChIJZf_Jhzp8PIgReXWzLtqgt20?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:36",
+    "keyword": "Med Spas",
+    "name": "ICA Beautiful You",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Icon+Health+Spa/data=!4m7!3m6!1s0x883c73c109a56489:0x6fe4bf6e22cbe122!8m2!3d41.6364226!4d-83.4705354!16s%2Fg%2F11w8hf0p75!19sChIJiWSlCcFzPIgRIuHLIm6_5G8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:28",
+    "keyword": "Med Spas",
+    "name": "Icon Health Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/In+Touch+Therapy+Center/data=!4m7!3m6!1s0x883c7f6ad76ff829:0x4914b0ff872d709f!8m2!3d41.6851292!4d-83.6127575!16s%2Fg%2F1w0h85fs!19sChIJKfhv12p_PIgRn3Ath_-wFEk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:48",
+    "keyword": "Med Spas",
+    "name": "In Touch Therapy Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Infinite+Glow+LLC/data=!4m7!3m6!1s0x883c7fef8ad3e1f3:0x157ee22276503212!8m2!3d41.7087888!4d-83.6706216!16s%2Fg%2F11w9l2vzvr!19sChIJ8-HTiu9_PIgREjJQdiLifhU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:35",
+    "keyword": "Med Spas",
+    "name": "Infinite Glow LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/John+F.+Zavell,+MD,+FACS/data=!4m7!3m6!1s0x883c7eaf3121f101:0xf32bb5fe29473f3c!8m2!3d41.6737939!4d-83.6721182!16s%2Fg%2F1tk6q_fl!19sChIJAfEhMa9-PIgRPD9HKf61K_M?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:46",
+    "keyword": "Med Spas",
+    "name": "John F. Zavell, MD, FACS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Laskey+Dental+Care/data=!4m7!3m6!1s0x883c7fa8fd519b9d:0x74ab6552567a0090!8m2!3d41.7067108!4d-83.6268409!16s%2Fg%2F11cs3qcfq4!19sChIJnZtR_ah_PIgRkAB6VlJlq3Q?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:23",
+    "keyword": "Dental Clinics",
+    "name": "Laskey Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Lavish+Me+Spa+%7C+Therapeutic+%26+Wellness/data=!4m7!3m6!1s0x883c7f1ffa2c9249:0x1da7ffc7d9169067!8m2!3d41.7046878!4d-83.5876886!16s%2Fg%2F11q24rq_6j!19sChIJSZIs-h9_PIgRZ5AW2cf_px0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:30",
+    "keyword": "Med Spas",
+    "name": "Lavish Me Spa | Therapeutic & Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Love+Your+Skin+by+Jodi/data=!4m7!3m6!1s0x883c81641349da55:0x4ae0469ab9281e28!8m2!3d41.7629294!4d-83.5677854!16s%2Fg%2F11srkr83d9!19sChIJVdpJE2SBPIgRKB4ouZpG4Eo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:46",
+    "keyword": "Med Spas",
+    "name": "Love Your Skin by Jodi",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Love+Yourself+Beauty+Bar/data=!4m7!3m6!1s0x883c7f5ae60ace65:0xbf1873747bd5b5d3!8m2!3d41.716579!4d-83.7034111!16s%2Fg%2F11lgxkkmnn!19sChIJZc4K5lp_PIgR07XVe3RzGL8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:05",
+    "keyword": "Aesthetic Clinics",
+    "name": "Love Yourself Beauty Bar",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Luxe+Laser+Center+Toledo/data=!4m7!3m6!1s0x883c7ff2be4341d9:0xbcbc36cc66b929c!8m2!3d41.691226!4d-83.6310878!16s%2Fg%2F11w_kzgh1d!19sChIJ2UFDvvJ_PIgRnJJrxmzDyws?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:46",
+    "keyword": "Med Spas",
+    "name": "Luxe Laser Center Toledo",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Luxe+Laser+Center/data=!4m7!3m6!1s0x883c775644eec10f:0x72f4b77ac04028bb!8m2!3d41.584682!4d-83.6704417!16s%2Fg%2F1pv603ms0!19sChIJD8HuRFZ3PIgRuyhAwHq39HI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:33",
+    "keyword": "Med Spas",
+    "name": "Luxe Laser Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/M+Browz+Medical+Spa/data=!4m7!3m6!1s0x883c81ea261aae3b:0xd286a02ae422f1d1!8m2!3d41.7523363!4d-83.6264459!16s%2Fg%2F11y86xltbv!19sChIJO64aJuqBPIgR0fEi5CqghtI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:33",
+    "keyword": "Med Spas",
+    "name": "M Browz Medical Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/M+Browz+Spa+%26+Academy/data=!4m7!3m6!1s0x883c70a30c05eb11:0x925a032e7150829b!8m2!3d41.6770669!4d-83.6209513!16s%2Fg%2F11d_8z784y!19sChIJEesFDKNwPIgRm4JQcS4DWpI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:36",
+    "keyword": "Med Spas",
+    "name": "M Browz Spa & Academy",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/MOBO+Med+Spa+-+Northwest+Ohio/data=!4m7!3m6!1s0x883c7d3b4c0cb9a9:0xcee24c67b25064ab!8m2!3d41.7084225!4d-83.6707186!16s%2Fg%2F11t7zn2ls6!19sChIJqbkMTDt9PIgRq2RQsmdM4s4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:28",
+    "keyword": "Med Spas",
+    "name": "MOBO Med Spa - Northwest Ohio",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Mack+Esthetics/data=!4m7!3m6!1s0x883c77752a618695:0xee76c09787fe5dd5!8m2!3d41.5456649!4d-83.5940361!16s%2Fg%2F11jx808ny7!19sChIJlYZhKnV3PIgR1V3-h5fAdu4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:38",
+    "keyword": "Med Spas",
+    "name": "Mack Esthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Mary+Michalak+Esthetics+LLC/data=!4m7!3m6!1s0x883b85d14f663c51:0x415a272ef85a74b6!8m2!3d41.6367453!4d-83.4658139!16s%2Fg%2F11lj1gfxzm!19sChIJUTxmT9GFO4gRtnRa-C4nWkE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:48",
+    "keyword": "Med Spas",
+    "name": "Mary Michalak Esthetics LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Massage+Envy/data=!4m7!3m6!1s0x883c707b2e11dcb3:0xa6f5c5e930cda66!8m2!3d41.5470678!4d-83.706596!16s%2Fg%2F1vm_ykb6!19sChIJs9wRLntwPIgRZtoMk15cbwo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:57",
+    "keyword": "Med Spas",
+    "name": "Massage Envy",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Massage+Envy/data=!4m7!3m6!1s0x883c7f3b39602d11:0xafdc4e95d7bd7f13!8m2!3d41.6769071!4d-83.6232794!16s%2Fg%2F1txnq3wl!19sChIJES1gOTt_PIgRE3-915VO3K8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:55",
+    "keyword": "Med Spas",
+    "name": "Massage Envy",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Massage+Spa/data=!4m7!3m6!1s0x883c798851df11b3:0x6f00a403bd2e8024!8m2!3d41.6146764!4d-83.6753918!16s%2Fg%2F11gg71539f!19sChIJsxHfUYh5PIgRJIAuvQOkAG8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:55",
+    "keyword": "Med Spas",
+    "name": "Massage Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Med+Spa+SEO/data=!4m7!3m6!1s0xa214473cb824e10d:0xc96a3599b82ac491!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11n9w8z44m!19sChIJDeEkuDxHFKIRkcQquJk1ask?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:55",
+    "keyword": "Med Spas",
+    "name": "Med Spa SEO",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Medeste+Aesthetics/data=!4m7!3m6!1s0x391903e04b28b519:0x5243adc525b50534!8m2!3d31.464915!4d74.254801!16s%2Fg%2F11v0trbr2w!19sChIJGbUoS-ADGTkRNAW1JcWtQ1I?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:17",
+    "keyword": "Aesthetic Clinics",
+    "name": "Medeste Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Members+Only+Medical+LLC/data=!4m7!3m6!1s0x883c7ff3a59069d7:0x60816290369c53d7!8m2!3d41.4710461!4d-83.6007295!16s%2Fg%2F11wjh_st9b!19sChIJ12mQpfN_PIgR11OcNpBigWA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:48",
+    "keyword": "Med Spas",
+    "name": "Members Only Medical LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Michael+A.+Jagodzinski,+LMT/data=!4m7!3m6!1s0x883c7c89613fffff:0x2184b8b394743195!8m2!3d41.6767786!4d-83.6208344!16s%2Fg%2F11fx7x5fyl!19sChIJ__8_YYl8PIgRlTF0lLO4hCE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:48",
+    "keyword": "Med Spas",
+    "name": "Michael A. Jagodzinski, LMT",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Midwest+Breast+%26+Aesthetic+Surgery/data=!4m7!3m6!1s0x883c774562f3af17:0xeabf31ab4afd7dce!8m2!3d41.5668341!4d-83.6543743!16s%2Fg%2F11sjdxlflv!19sChIJF6_zYkV3PIgRzn39Sqsxv-o?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:07",
+    "keyword": "Aesthetic Clinics",
+    "name": "Midwest Breast & Aesthetic Surgery",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Midwest+Dental+Center/data=!4m7!3m6!1s0x883b80344fa54557:0xdc1938b8eda22374!8m2!3d41.7223034!4d-83.5528371!16s%2Fg%2F1260_bb6y!19sChIJV0WlTzSAO4gRdCOi7bg4Gdw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:25",
+    "keyword": "Dental Clinics",
+    "name": "Midwest Dental Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Millie%E2%80%99s+Alternative+Therapy+%26+Anti-Aging+Spa/data=!4m7!3m6!1s0x883b84b6bb11d96d:0xb2327ff512ab9ba2!8m2!3d41.6367948!4d-83.4276389!16s%2Fg%2F1tkmn6x4!19sChIJbdkRu7aEO4gRopurEvV_MrI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:55",
+    "keyword": "Med Spas",
+    "name": "Millie’s Alternative Therapy & Anti-Aging Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Miracle+Salon+%26+Medi+Spa/data=!4m7!3m6!1s0x883c7ff935109411:0xb7275d734bbea4d0!8m2!3d41.7368108!4d-83.5959774!16s%2Fg%2F1tff_54s!19sChIJEZQQNfl_PIgR0KS-S3NdJ7c?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:38",
+    "keyword": "Med Spas",
+    "name": "Miracle Salon & Medi Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Mitchell+Dermatology/data=!4m7!3m6!1s0x406790fa0cd52875:0x46e92c2503e31303!8m2!3d41.5432012!4d-83.6392483!16s%2Fg%2F11b6_zkjwq!19sChIJdSjVDPqQZ0ARAxPjAyUs6UY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:07",
+    "keyword": "Aesthetic Clinics",
+    "name": "Mitchell Dermatology",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Nahhas+Dermatology+%26+Aesthetics+-+Toledo+Clinic/data=!4m7!3m6!1s0x883c7f7d6369b4a5:0xbbea3e5648700d99!8m2!3d41.6957531!4d-83.624679!16s%2Fg%2F11p5mx762b!19sChIJpbRpY31_PIgRmQ1wSFY-6rs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:55",
+    "keyword": "Med Spas",
+    "name": "Nahhas Dermatology & Aesthetics - Toledo Clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Neurology+%26+Headache+Clinics/data=!4m7!3m6!1s0x883c7c7395f89961:0x975ea15056c89c30!8m2!3d41.6740916!4d-83.702121!16s%2Fg%2F1vnnk1vm!19sChIJYZn4lXN8PIgRMJzIVlChXpc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:15",
+    "keyword": "Aesthetic Clinics",
+    "name": "Neurology & Headache Clinics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/New+Beginnings+Wellness+Clinic/data=!4m7!3m6!1s0x883c7f5cb111f529:0x931cffe66ce8c7fd!8m2!3d41.7084225!4d-83.6707186!16s%2Fg%2F11yh5k2l7l!19sChIJKfURsVx_PIgR_cfobOb_HJM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:08",
+    "keyword": "Aesthetic Clinics",
+    "name": "New Beginnings Wellness Clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Northwest+Ohio+Plastic+Surgery:+Nabeel+Khan,+MD,+FACS/data=!4m7!3m6!1s0x883c7f10a1fe8a7f:0xb92f52cbf68d6aa5!8m2!3d41.6735368!4d-83.6719094!16s%2Fg%2F11xmkr96tx!19sChIJf4r-oRB_PIgRpWqN9stSL7k?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:50",
+    "keyword": "Med Spas",
+    "name": "Northwest Ohio Plastic Surgery: Nabeel Khan, MD, FACS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Oak+Openings+Dental/data=!4m7!3m6!1s0x883c7c3ae97b0a81:0xf0990ff038cf00c8!8m2!3d41.6954224!4d-83.689714!16s%2Fg%2F1tg4xj07!19sChIJgQp76Tp8PIgRyADPOPAPmfA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:25",
+    "keyword": "Dental Clinics",
+    "name": "Oak Openings Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Ohio+Wellness+Spa/data=!4m7!3m6!1s0x883b8777256911cf:0x6698c3e78f830a40!8m2!3d41.5993745!4d-83.5700608!16s%2Fg%2F11cjhbnyny!19sChIJzxFpJXeHO4gRQAqDj-fDmGY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:38",
+    "keyword": "Med Spas",
+    "name": "Ohio Wellness Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/On+Point+Dental/data=!4m7!3m6!1s0x883b83fdd73fc9bf:0x72616887e3eecf3f!8m2!3d41.7111234!4d-83.4793199!16s%2Fg%2F11t2rc7wjg!19sChIJv8k_1_2DO4gRP8_u44doYXI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:25",
+    "keyword": "Dental Clinics",
+    "name": "On Point Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Open+Arms+Wellness+Center/data=!4m7!3m6!1s0x883b843e1e6b40eb:0x374493cab3e3cad!8m2!3d41.6362045!4d-83.4929387!16s%2Fg%2F11g_4lcxh!19sChIJ60BrHj6EO4gRrTw-qzxJdAM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:48",
+    "keyword": "Med Spas",
+    "name": "Open Arms Wellness Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/PURE+Med+Spa/data=!4m7!3m6!1s0x883c71ca5dd37811:0xc0dbde11ffde8bd5!8m2!3d41.5580973!4d-83.6785206!16s%2Fg%2F11mdtqv3yb!19sChIJEXjTXcpxPIgR1Yve_xHe28A?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:31",
+    "keyword": "Med Spas",
+    "name": "PURE Med Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/PflegMed:+Healthy+by+Dr.+Jen/data=!4m7!3m6!1s0x883c77a12d3236c3:0x9dc844d6796f053e!8m2!3d41.5596578!4d-83.6316004!16s%2Fg%2F11hbv6lc2k!19sChIJwzYyLaF3PIgRPgVvedZEyJ0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:46",
+    "keyword": "Med Spas",
+    "name": "PflegMed: Healthy by Dr. Jen",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Planeworks+%2F%2F+Kayla+Weaver,+LMT/data=!4m7!3m6!1s0x883c77ef87fa84fb:0x88bc09077939fecd!8m2!3d41.6053356!4d-83.6534417!16s%2Fg%2F11xl744z_n!19sChIJ-4T6h-93PIgRzf45eQcJvIg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:50",
+    "keyword": "Med Spas",
+    "name": "Planeworks // Kayla Weaver, LMT",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Point+Place+dental+care/data=!4m7!3m6!1s0x883b8245eb0f048d:0x325a68c910643347!8m2!3d41.7061299!4d-83.4790754!16s%2Fg%2F1tmxrplg!19sChIJjQQP60WCO4gRRzNkEMloWjI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:23",
+    "keyword": "Dental Clinics",
+    "name": "Point Place dental care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Radiance+Beauty+Aesthetics,+LLC/data=!4m7!3m6!1s0x883bfd8078705f41:0x459f6b7591c75a08!8m2!3d41.5628737!4d-83.6634624!16s%2Fg%2F11w80lx_xn!19sChIJQV9weID9O4gRCFrHkXVrn0U?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:35",
+    "keyword": "Med Spas",
+    "name": "Radiance Beauty Aesthetics, LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Reconstructive+and+Aesthetic+Surgeons,+Inc./data=!4m7!3m6!1s0x883c7eaf3121f101:0x9e9aaa3763b4bef3!8m2!3d41.6735368!4d-83.6719094!16s%2Fg%2F1tf6647w!19sChIJAfEhMa9-PIgR8760Yzeqmp4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:10",
+    "keyword": "Aesthetic Clinics",
+    "name": "Reconstructive and Aesthetic Surgeons, Inc.",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Relax+%26+Renew+Wellness+Studio/data=!4m7!3m6!1s0x883c7743f843efd9:0x9adee0eb88732e4e!8m2!3d41.5562276!4d-83.6276454!16s%2Fg%2F11rklj5t9r!19sChIJ2e9D-EN3PIgRTi5ziOvg3po?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:55",
+    "keyword": "Med Spas",
+    "name": "Relax & Renew Wellness Studio",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/River+East+Dental+Group/data=!4m7!3m6!1s0x883b86eaf3f7b823:0x6948dc4d332ab3f!8m2!3d41.6370515!4d-83.5304351!16s%2Fg%2F1tfq9xc6!19sChIJI7j38-qGO4gRP6sy08SNlAY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:23",
+    "keyword": "Dental Clinics",
+    "name": "River East Dental Group",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Romius+Urology+Toledo+Clinic/data=!4m7!3m6!1s0x883c7c7395f89961:0xe283ea20658d86c2!8m2!3d41.678151!4d-83.716325!16s%2Fg%2F1hc2m_5yx!19sChIJYZn4lXN8PIgRwoaNZSDqg-I?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:15",
+    "keyword": "Aesthetic Clinics",
+    "name": "Romius Urology Toledo Clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/SN+Show+Room/data=!4m7!3m6!1s0x391903a4889b4a79:0x42b25603292f5c26!8m2!3d31.471325!4d74.2561307!16s%2Fg%2F11v3gcd_xh!19sChIJeUqbiKQDGTkRJlwvKQNWskI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:13",
+    "keyword": "Aesthetic Clinics",
+    "name": "SN Show Room",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/SeaDreamz+Luxury+Spa/data=!4m7!3m6!1s0x883b81942ae12417:0xf1338a5bfee84ace!8m2!3d41.6928553!4d-83.5719282!16s%2Fg%2F11mwrtwfqn!19sChIJFyThKpSBO4gRzkro_luKM_E?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:35",
+    "keyword": "Med Spas",
+    "name": "SeaDreamz Luxury Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Serenity+Health+%26+Wellness+Center/data=!4m7!3m6!1s0x883c7715ae7300b3:0xa06724ad3881a510!8m2!3d41.586767!4d-83.670047!16s%2Fg%2F1vb9dqyy!19sChIJswBzrhV3PIgREKWBOK0kZ6A?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:38",
+    "keyword": "Med Spas",
+    "name": "Serenity Health & Wellness Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Shadiyah+Camille+Beauty/data=!4m7!3m6!1s0x883c7d9a17861b71:0x2e34f6c516bdea4d!8m2!3d41.5668722!4d-83.654435!16s%2Fg%2F11l30d_n8q!19sChIJcRuGF5p9PIgRTeq9FsX2NC4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:55",
+    "keyword": "Med Spas",
+    "name": "Shadiyah Camille Beauty",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Signature+Smiles+by+Dr.+Mike+Schweizer/data=!4m7!3m6!1s0x883c7f12108ca8e5:0xa95cb38044687ee5!8m2!3d41.6923207!4d-83.6180255!16s%2Fg%2F1tdwwc64!19sChIJ5aiMEBJ_PIgR5X5oRICzXKk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:57",
+    "keyword": "Med Spas",
+    "name": "Signature Smiles by Dr. Mike Schweizer",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Simply+Sensational+Aesthetic+Dentistry/data=!4m7!3m6!1s0x883c7c4aab26da6f:0xbb7ffeea1005741d!8m2!3d41.7084265!4d-83.7010355!16s%2Fg%2F1vgqdrw7!19sChIJb9omq0p8PIgRHXQFEOr-f7s?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:13",
+    "keyword": "Aesthetic Clinics",
+    "name": "Simply Sensational Aesthetic Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Skin+Health+Spa+Michigan/data=!4m7!3m6!1s0x883c7f8a5d7a23b1:0xb1399f89521b9d98!8m2!3d41.7352244!4d-83.6259055!16s%2Fg%2F11jzlsvn7g!19sChIJsSN6XYp_PIgRmJ0bUomfObE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:33",
+    "keyword": "Med Spas",
+    "name": "Skin Health Spa Michigan",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Skin+Health+Spa/data=!4m7!3m6!1s0x883c7bcd05a8f0f3:0x3cfb452cd1d71ccb!8m2!3d41.5823822!4d-83.6783551!16s%2Fg%2F11j2lvp0rf!19sChIJ8_CoBc17PIgRyxzX0SxF-zw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:28",
+    "keyword": "Med Spas",
+    "name": "Skin Health Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Skinique+Aesthetics/data=!4m7!3m6!1s0x3919033b44f01123:0x4e0ed0508d168128!8m2!3d31.4670439!4d74.2528118!16s%2Fg%2F11x_sgjwh4!19sChIJIxHwRDsDGTkRKIEWjVDQDk4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:17",
+    "keyword": "Aesthetic Clinics",
+    "name": "Skinique Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Skinnovation+Johar+Town/data=!4m7!3m6!1s0x39190399f33d1a1f:0x1d51f96b7c4b3b55!8m2!3d31.4710119!4d74.2603996!16s%2Fg%2F11frwqd01c!19sChIJHxo985kDGTkRVTtLfGv5UR0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:17",
+    "keyword": "Aesthetic Clinics",
+    "name": "Skinnovation Johar Town",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/SnatchedMD/data=!4m7!3m6!1s0x883c79a5e7159473:0x637ac5816c96a171!8m2!3d41.6215147!4d-83.640184!16s%2Fg%2F11xy_dmc3t!19sChIJc5QV56V5PIgRcaGWbIHFemM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:46",
+    "keyword": "Med Spas",
+    "name": "SnatchedMD",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Soigne%E2%80%99+Med+Spa/data=!4m7!3m6!1s0x6eb696f67904f1b:0xa54036f5fb1bf96!8m2!3d39.1365839!4d-84.540972!16s%2Fg%2F11q8sn1gv3!19sChIJG0-QZ29p6wYRlr-xX28DVAo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:58",
+    "keyword": "Med Spas",
+    "name": "Soigne’ Med Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Spring+Valley+Dental/data=!4m7!3m6!1s0x883c7a25cdb1ffbf:0xe042f531b557a3e8!8m2!3d41.615185!4d-83.6835518!16s%2Fg%2F1t_tkzhz!19sChIJv_-xzSV6PIgR6KNXtTH1QuA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:25",
+    "keyword": "Dental Clinics",
+    "name": "Spring Valley Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Stilla+Salon+Spa+Boutique/data=!4m7!3m6!1s0x883c7d3bd4ef51d3:0x36bbde22cb3f721b!8m2!3d41.7040529!4d-83.7034319!16s%2Fg%2F11r3lr6snv!19sChIJ01Hv1Dt9PIgRG3I_yyLeuzY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:36",
+    "keyword": "Med Spas",
+    "name": "Stilla Salon Spa Boutique",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Summit+Salon+Academy+-+Perrysburg/data=!4m7!3m6!1s0x883c764cd29b2089:0xa9ecb1c6c1d9c13a!8m2!3d41.5444702!4d-83.6203997!16s%2Fg%2F11b77b8pkq!19sChIJiSCb0kx2PIgROsHZwcax7Kk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:55",
+    "keyword": "Med Spas",
+    "name": "Summit Salon Academy - Perrysburg",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Sunshine+Glow+Esthetics+%26+Massage/data=!4m7!3m6!1s0x883c7f8f4579ba57:0xa9fa3bd5d1a141fe!8m2!3d41.6987806!4d-83.6499714!16s%2Fg%2F11y6360l5m!19sChIJV7p5RY9_PIgR_kGh0dU7-qk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:38",
+    "keyword": "Med Spas",
+    "name": "Sunshine Glow Esthetics & Massage",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Synergy+Primary+Care+and+Wellness+By+Dr+Bushra+Ali/data=!4m7!3m6!1s0x883c7c6d5efe8769:0x242c276179635fff!8m2!3d41.6956918!4d-83.6368282!16s%2Fg%2F11hczlfsk6!19sChIJaYf-Xm18PIgR_19jeWEnLCQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:36",
+    "keyword": "Med Spas",
+    "name": "Synergy Primary Care and Wellness By Dr Bushra Ali",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/TakeTatt+Tattoo+Removal/data=!4m7!3m6!1s0x883c7f25673a6a23:0x90a1e950d261c5b6!8m2!3d41.6915712!4d-83.638256!16s%2Fg%2F11nms9bsyn!19sChIJI2o6ZyV_PIgRtsVh0lDpoZA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:55",
+    "keyword": "Med Spas",
+    "name": "TakeTatt Tattoo Removal",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/The+Aesthetic+Clinic+by+Dental+practice/data=!4m7!3m6!1s0x391903b1138b2e6b:0x5e6f967442d32b12!8m2!3d31.479784!4d74.2549117!16s%2Fg%2F11hj7mcwlj!19sChIJay6LE7EDGTkREivTQnSWb14?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:17",
+    "keyword": "Aesthetic Clinics",
+    "name": "The Aesthetic Clinic by Dental practice",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/The+Aesthetics+Group,+Linda+Recker+LLc/data=!4m7!3m6!1s0x883c77ab016a4afb:0x6e1bae0a0102b4d5!8m2!3d41.539304!4d-83.638405!16s%2Fg%2F11k626ljmq!19sChIJ-0pqAat3PIgR1bQCAQquG24?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:10",
+    "keyword": "Aesthetic Clinics",
+    "name": "The Aesthetics Group, Linda Recker LLc",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/The+Aesthetics/data=!4m7!3m6!1s0x391903af5d8f6355:0xc509562fcc4a2c94!8m2!3d31.4692323!4d74.2727387!16s%2Fg%2F11ypqsb6b2!19sChIJVWOPXa8DGTkRlCxKzC9WCcU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:10",
+    "keyword": "Aesthetic Clinics",
+    "name": "The Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/The+Beauty+Bond/data=!4m7!3m6!1s0x883c79f4ef04de6b:0x58680d4e47dfc537!8m2!3d41.7196873!4d-83.6461896!16s%2Fg%2F11j0qb6pj3!19sChIJa94E7_R5PIgRN8XfR04NaFg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:50",
+    "keyword": "Med Spas",
+    "name": "The Beauty Bond",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/The+Body+-+Aesthetic+%26+Dental+care/data=!4m7!3m6!1s0x3919035da37e4929:0xc7d1fc20eea655a2!8m2!3d31.468342!4d74.267772!16s%2Fg%2F11y2hrv534!19sChIJKUl-o10DGTkRolWm7iD80cc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:15",
+    "keyword": "Aesthetic Clinics",
+    "name": "The Body - Aesthetic & Dental care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/The+Brow+and+Beauty+Lounge/data=!4m7!3m6!1s0x883c717b44b4e539:0x18070afb2a040b75!8m2!3d41.6014184!4d-83.6259005!16s%2Fg%2F11ptmlh13p!19sChIJOeW0RHtxPIgRdQsEKvsKBxg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:55",
+    "keyword": "Med Spas",
+    "name": "The Brow and Beauty Lounge",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Toledo+Clinic+Dermasurgery/data=!4m7!3m6!1s0x883c7f050dc5dbd3:0x7e5c809010f1e50!8m2!3d41.695753!4d-83.6246791!16s%2Fg%2F1td1f26m!19sChIJ09vFDQV_PIgRUB4PAQnI5Qc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:12",
+    "keyword": "Aesthetic Clinics",
+    "name": "Toledo Clinic Dermasurgery",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Toledo+Clinic+ENT/data=!4m7!3m6!1s0x883c799c24dfa15d:0xd90aa00e3ffbda6a!8m2!3d41.6823003!4d-83.6799907!16s%2Fg%2F1tyzznrs!19sChIJXaHfJJx5PIgRatr7Pw6gCtk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:13",
+    "keyword": "Aesthetic Clinics",
+    "name": "Toledo Clinic ENT",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Toledo+Dental+Arts/data=!4m7!3m6!1s0x883c7f222e6fa511:0x83fbe4cef48842a5!8m2!3d41.6815699!4d-83.6292119!16s%2Fg%2F1tgcskgx!19sChIJEaVvLiJ_PIgRpUKI9M7k-4M?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:25",
+    "keyword": "Dental Clinics",
+    "name": "Toledo Dental Arts",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Toledo+Dental+Care/data=!4m7!3m6!1s0x883b81f88769dd25:0x39f29db40d6c60a6!8m2!3d41.7242769!4d-83.5467499!16s%2Fg%2F11mkxqsmq5!19sChIJJd1ph_iBO4gRpmBsDbSd8jk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:23",
+    "keyword": "Dental Clinics",
+    "name": "Toledo Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Toledo+Family+Dental+Care/data=!4m7!3m6!1s0x883c7a047ae362b9:0xfd0655ee96f43952!8m2!3d41.594383!4d-83.683309!16s%2Fg%2F1tc_x89c!19sChIJuWLjegR6PIgRUjn0lu5VBv0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:23",
+    "keyword": "Dental Clinics",
+    "name": "Toledo Family Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Tousled+Hair+Studio+and+Spa+Suites/data=!4m7!3m6!1s0x883c77b69d2a7b9f:0x4554f6c8c250eb65!8m2!3d41.5530395!4d-83.60923!16s%2Fg%2F11h2c1171z!19sChIJn3sqnbZ3PIgRZetQwsj2VEU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:57",
+    "keyword": "Med Spas",
+    "name": "Tousled Hair Studio and Spa Suites",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Tower+Dental+Care/data=!4m7!3m6!1s0x883c78ccaf939ae1:0x378116a9a6e0ef3e!8m2!3d41.6627833!4d-83.6195441!16s%2Fg%2F1tffdwfh!19sChIJ4ZqTr8x4PIgRPu_gpqkWgTc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:23",
+    "keyword": "Dental Clinics",
+    "name": "Tower Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Undnybl+Wellness+and+Aesthetics/data=!4m7!3m6!1s0x883c79c64666de49:0xf1dd487d0d3e1ae1!8m2!3d41.5951448!4d-83.6465785!16s%2Fg%2F11ykq8myqb!19sChIJSd5mRsZ5PIgR4Ro-DX1I3fE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:31",
+    "keyword": "Med Spas",
+    "name": "Undnybl Wellness and Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/VIO+Med+Spa+%7C+Toledo/data=!4m7!3m6!1s0x883c7f3d517640a5:0x17105ba4e2f65f1d!8m2!3d41.6924637!4d-83.6439459!16s%2Fg%2F11q99p179m!19sChIJpUB2UT1_PIgRHV_24qRbEBc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:28",
+    "keyword": "Med Spas",
+    "name": "VIO Med Spa | Toledo",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Vibe+Aesthetics+by+Lisa+Lincoln,+LLC/data=!4m7!3m6!1s0x883c77b39383740b:0xa5e4a43f9c4e9ad0!8m2!3d41.5393907!4d-83.6385423!16s%2Fg%2F11smg3jt_s!19sChIJC3SDk7N3PIgR0JpOnD-k5KU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:04",
+    "keyword": "Aesthetic Clinics",
+    "name": "Vibe Aesthetics by Lisa Lincoln, LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Wildwood+Family+%26+Cosmetic+Dentistry+-+Sylvania/data=!4m7!3m6!1s0x883c7c0153413e27:0x8c107ce146c98942!8m2!3d41.6932869!4d-83.687482!16s%2Fg%2F1pp2w_lg9!19sChIJJz5BUwF8PIgRQonJRuF8EIw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:15",
+    "keyword": "Aesthetic Clinics",
+    "name": "Wildwood Family & Cosmetic Dentistry - Sylvania",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Wildwood+Family+And+Cosmetic+Dentistry+-+Toledo/data=!4m7!3m6!1s0x883c7f0f97c48235:0xfe24b754838a576f!8m2!3d41.6893231!4d-83.6313534!16s%2Fg%2F1vwlpt3w!19sChIJNYLElw9_PIgRb1eKg1S3JP4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:15",
+    "keyword": "Aesthetic Clinics",
+    "name": "Wildwood Family And Cosmetic Dentistry - Toledo",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Yvonne+X+Martinez,+LMT+@+BlueBird+Studio/data=!4m7!3m6!1s0x883c77eab37da193:0xc0f2670e2d8ac83b!8m2!3d41.6768462!4d-83.6207196!16s%2Fg%2F11fn51kpb7!19sChIJk6F9s-p3PIgRO8iKLQ5n8sA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:57",
+    "keyword": "Med Spas",
+    "name": "Yvonne X Martinez, LMT @ BlueBird Studio",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/Z+Aesthetics+%26+Wellness/data=!4m7!3m6!1s0x883c7788ca02588d:0x6fb8389fa2b863f3!8m2!3d41.5865864!4d-83.6701942!16s%2Fg%2F11x2gcdlfz!19sChIJjVgCyoh3PIgR82O4op84uG8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:04",
+    "keyword": "Aesthetic Clinics",
+    "name": "Z Aesthetics & Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/iBeauty+Medspa:+Center+For+Laser+%26+Cosmetic+Surgery/data=!4m7!3m6!1s0x883c7dc20ab3237b:0x3adad37c6e744a40!8m2!3d41.689423!4d-83.7273781!16s%2Fg%2F11vw_jdq3p!19sChIJeyOzCsJ9PIgRQEp0bnzT2jo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:28",
+    "keyword": "Med Spas",
+    "name": "iBeauty Medspa: Center For Laser & Cosmetic Surgery",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  },
+  "https://www.google.com/maps/place/p%C4%93komd:+Peter+Koltz,+MD/data=!4m7!3m6!1s0x883c7e58037870e9:0x2d80bbe6b2227468!8m2!3d41.6742586!4d-83.7264511!16s%2Fg%2F11f0_qpbf1!19sChIJ6XB4A1h-PIgRaHQisua7gC0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:05",
+    "keyword": "Aesthetic Clinics",
+    "name": "pēkomd: Peter Koltz, MD",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Toledo,+OH"
+  }
+}

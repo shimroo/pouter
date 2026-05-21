@@ -1,0 +1,92 @@
+01:51:40  [W3]  INFO      Detected Chrome major version: 148
+01:51:40  [W3]  INFO      Driver started (incognito)
+01:51:40  [W3]  INFO      ── City: https://www.google.com/maps/place/Knoxville,+TN
+01:51:48  [W3]  INFO      Clicked: close popup
+01:51:48  [W3]  INFO        ── Keyword: Dental Clinics
+01:51:48  [W3]  INFO      Searched: Dental Clinics
+01:52:01  [W3]  WARNING   Results feed not found: Message: 
+Stacktrace:
+#0 0x597503e8616a <unknown>
+#1 0x5975038836b9 <unknown>
+#2 0x5975038d7c0d <unknown>
+#3 0x5975038d7e51 <unknown>
+#4 0x597503922b24 <unknown>
+#5 0x59750391fcbf <unknown>
+#6 0x5975038cb222 <unknown>
+#7 0x5975038cc011 <unknown>
+#8 0x597503e4ba0b <unknown>
+#9 0x597503e4e92d <unknown>
+#10 0x597503e38948 <unknown>
+#11 0x597503e4f4c0 <unknown>
+#12 0x597503e1f560 <unknown>
+#13 0x597503e72dd8 <unknown>
+#14 0x597503e72f75 <unknown>
+#15 0x597503e84bce <unknown>
+#16 0x715c5ee9caa4 <unknown>
+#17 0x715c5ef29c6c <unknown>
+
+01:52:01  [W3]  INFO        ── Keyword: Orthodontists
+01:52:01  [W3]  INFO      Searched: Orthodontists
+01:52:14  [W3]  WARNING   Results feed not found: Message: 
+Stacktrace:
+#0 0x597503e8616a <unknown>
+#1 0x5975038836b9 <unknown>
+#2 0x5975038d7c0d <unknown>
+#3 0x5975038d7e51 <unknown>
+#4 0x597503922b24 <unknown>
+#5 0x59750391fcbf <unknown>
+#6 0x5975038cb222 <unknown>
+#7 0x5975038cc011 <unknown>
+#8 0x597503e4ba0b <unknown>
+#9 0x597503e4e92d <unknown>
+#10 0x597503e38948 <unknown>
+#11 0x597503e4f4c0 <unknown>
+#12 0x597503e1f560 <unknown>
+#13 0x597503e72dd8 <unknown>
+#14 0x597503e72f75 <unknown>
+#15 0x597503e84bce <unknown>
+#16 0x715c5ee9caa4 <unknown>
+#17 0x715c5ef29c6c <unknown>
+
+01:52:14  [W3]  INFO        ── Keyword: Med Spas
+01:52:15  [W3]  INFO      Searched: Med Spas
+01:52:28  [W3]  INFO      Clicked: 'update results when map moves'
+01:52:30  [W3]  INFO      Saved 7 urls → urls_3.json
+01:52:31  [W3]  INFO      Saved 9 urls → urls_3.json
+01:52:33  [W3]  INFO      Saved 15 urls → urls_3.json
+01:52:35  [W3]  INFO      Saved 22 urls → urls_3.json
+01:52:36  [W3]  INFO      Saved 27 urls → urls_3.json
+01:52:38  [W3]  INFO      Saved 34 urls → urls_3.json
+01:52:40  [W3]  INFO      Saved 41 urls → urls_3.json
+01:52:41  [W3]  INFO      Saved 41 urls → urls_3.json
+01:52:43  [W3]  INFO      Saved 41 urls → urls_3.json
+01:52:45  [W3]  INFO      Saved 41 urls → urls_3.json
+01:52:46  [W3]  INFO      Saved 41 urls → urls_3.json
+01:52:48  [W3]  INFO      Saved 48 urls → urls_3.json
+01:52:50  [W3]  INFO      Saved 55 urls → urls_3.json
+01:52:51  [W3]  INFO      Saved 55 urls → urls_3.json
+01:52:53  [W3]  INFO      Saved 61 urls → urls_3.json
+01:52:55  [W3]  INFO      Saved 61 urls → urls_3.json
+01:52:57  [W3]  INFO      Saved 68 urls → urls_3.json
+01:52:59  [W3]  INFO      Saved 75 urls → urls_3.json
+01:53:00  [W3]  INFO      Saved 81 urls → urls_3.json
+01:53:03  [W3]  INFO      Saved 81 urls → urls_3.json
+01:53:05  [W3]  INFO      Saved 95 urls → urls_3.json
+01:53:07  [W3]  INFO      Saved 101 urls → urls_3.json
+01:53:09  [W3]  INFO      Saved 108 urls → urls_3.json
+01:53:09  [W3]  INFO      End of list reached
+01:53:09  [W3]  INFO      Saved 109 urls → urls_3.json
+01:53:09  [W3]  INFO      [Med Spas] +109 new urls (total: 109)
+01:53:09  [W3]  INFO        ── Keyword: Aesthetic Clinics
+01:53:09  [W3]  INFO      Searched: Aesthetic Clinics
+01:53:16  [W3]  INFO      Saved 110 urls → urls_3.json
+01:53:17  [W3]  INFO      Saved 110 urls → urls_3.json
+01:53:19  [W3]  INFO      Saved 110 urls → urls_3.json
+01:53:20  [W3]  INFO      Saved 110 urls → urls_3.json
+01:53:22  [W3]  INFO      Saved 110 urls → urls_3.json
+01:53:23  [W3]  INFO      Saved 110 urls → urls_3.json
+01:53:25  [W3]  INFO      Stalled after 6 scrolls — moving on
+01:53:25  [W3]  INFO      Saved 110 urls → urls_3.json
+01:53:25  [W3]  INFO      [Aesthetic Clinics] +1 new urls (total: 110)
+01:53:25  [W3]  INFO        ── Keyword: Therapy, Mental Health
+01:53:25  [W3]  INFO      Searched: Therapy, Mental Health

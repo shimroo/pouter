@@ -1,0 +1,807 @@
+{
+  "https://www.google.com/maps/place/AK+SPA/data=!4m7!3m6!1s0x8815e71ad96a616f:0x21405f3dbc106311!8m2!3d41.0715934!4d-85.2031244!16s%2Fg%2F11t1j5c6s2!19sChIJb2Fq2RrnFYgREWMQvD1fQCE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:59",
+    "keyword": "Med Spas",
+    "name": "AK SPA",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Absolute+Health+and+Wellness/data=!4m7!3m6!1s0x8815e77300e4b4f3:0x6abccfcb678ad330!8m2!3d41.0593779!4d-85.215925!16s%2Fg%2F11xkd_39v2!19sChIJ87TkAHPnFYgRMNOKZ8vPvGo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:48",
+    "keyword": "Med Spas",
+    "name": "Absolute Health and Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Absolute+Knead+Day+Spa/data=!4m7!3m6!1s0x8815c55c12bb483b:0x1694f2875d6c21f1!8m2!3d41.0173004!4d-85.2846561!16s%2Fg%2F11jrd211lk!19sChIJO0i7ElzFFYgR8SFsXYfylBY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:38",
+    "keyword": "Med Spas",
+    "name": "Absolute Knead Day Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Action+Wellness/data=!4m7!3m6!1s0x8815eded08cda1bf:0x47e02dc0800b8d71!8m2!3d40.8766692!4d-85.1754777!16s%2Fg%2F11nhj5wq03!19sChIJv6HNCO3tFYgRcY0LgMAt4Ec?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:48",
+    "keyword": "Med Spas",
+    "name": "Action Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Aesthetica+%28Healthy+Skin+Division+of+Summit+Plastic+Surgery%29/data=!4m7!3m6!1s0x8815e7c3f07934d1:0x6e39afdab292e7f5!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F1tf087_x!19sChIJ0TR58MPnFYgR9eeSstqvOW4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:50",
+    "keyword": "Med Spas",
+    "name": "Aesthetica (Healthy Skin Division of Summit Plastic Surgery)",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Aesthetica/data=!4m7!3m6!1s0x881607e4684f8edb:0xf5a9352291cb5369!8m2!3d41.0410379!4d-85.2508204!16s%2Fg%2F1v1vdt4b!19sChIJ245PaOQHFogRaVPLkSI1qfU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:37",
+    "keyword": "Med Spas",
+    "name": "Aesthetica",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Allume+Aesthetics+LLC/data=!4m7!3m6!1s0x679e9b8c738edeed:0x6131c3d1ec5b3722!8m2!3d41.2974125!4d-85.4829231!16s%2Fg%2F11yrflprb3!19sChIJ7d6Oc4ybnmcRIjdb7NHDMWE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:01",
+    "keyword": "Med Spas",
+    "name": "Allume Aesthetics LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Alter+Professional+Salon/data=!4m7!3m6!1s0x8815e29e37b9aac5:0x651e136ab382acdd!8m2!3d41.1745783!4d-85.129627!16s%2Fg%2F1wn_6q80!19sChIJxaq5N57iFYgR3ayCs2oTHmU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:59",
+    "keyword": "Med Spas",
+    "name": "Alter Professional Salon",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Any+Lab+Test+Now/data=!4m7!3m6!1s0x881609c5b157e65b:0x2e386f69cc4c5093!8m2!3d41.178677!4d-85.1294617!16s%2Fg%2F11gxx9xvrc!19sChIJW-ZXscUJFogRk1BMzGlvOC4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:59",
+    "keyword": "Med Spas",
+    "name": "Any Lab Test Now",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Aries+Esthetics/data=!4m7!3m6!1s0x8815e3d3fe0aa889:0x4d51abf86dde4782!8m2!3d41.1456735!4d-85.1615448!16s%2Fg%2F11t40gls7w!19sChIJiagK_tPjFYgRgkfebfirUU0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:46",
+    "keyword": "Med Spas",
+    "name": "Aries Esthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Artisan+Aesthetics/data=!4m7!3m6!1s0x39190379900215d5:0x60cc211229222d9b!8m2!3d31.4684454!4d74.265951!16s%2Fg%2F11rn7q8lsx!19sChIJ1RUCkHkDGTkRmy0iKRIhzGA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:13",
+    "keyword": "Aesthetic Clinics",
+    "name": "Artisan Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Aspire+Plastic+Surgery+and+Medical+Spa/data=!4m7!3m6!1s0x8815e7c6f3e58cd5:0xc9c011178fa040f3!8m2!3d41.039944!4d-85.2418186!16s%2Fg%2F1hc228syq!19sChIJ1Yzl88bnFYgR80CgjxcRwMk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:32",
+    "keyword": "Med Spas",
+    "name": "Aspire Plastic Surgery and Medical Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/BOON+Integrative+Skin/data=!4m7!3m6!1s0x8815e75266dab2dd:0x9bfa60183116320!8m2!3d41.0534608!4d-85.2314274!16s%2Fg%2F11yp81xppq!19sChIJ3bLaZlLnFYgRIGMRgwGmvwk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:46",
+    "keyword": "Med Spas",
+    "name": "BOON Integrative Skin",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Behind+Enemy+Lines/data=!4m7!3m6!1s0x8815e303635bc4db:0xffbc5fde2e360059!8m2!3d41.1336625!4d-85.1394555!16s%2Fg%2F11h3vc6rrf!19sChIJ28RbYwPjFYgRWQA2Lt5fvP8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:48",
+    "keyword": "Med Spas",
+    "name": "Behind Enemy Lines",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Bella+Care+Aesthetics+Johar+Town+-+The+Best+Aesthetic+Clinic+in+Lahore./data=!4m7!3m6!1s0x3919035bc01336cb:0xd2787d29b27a6de0!8m2!3d31.4669461!4d74.2524759!16s%2Fg%2F11rxrkykgs!19sChIJyzYTwFsDGTkR4G16sil9eNI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:13",
+    "keyword": "Aesthetic Clinics",
+    "name": "Bella Care Aesthetics Johar Town - The Best Aesthetic Clinic in Lahore.",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Belle+Sante+Med+Spa/data=!4m7!3m6!1s0x8815e68af877f6e5:0x572c77525df596bb!8m2!3d41.0633958!4d-85.2071374!16s%2Fg%2F1tg821sx!19sChIJ5fZ3-IrmFYgRu5b1XVJ3LFc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:29",
+    "keyword": "Med Spas",
+    "name": "Belle Sante Med Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Bellezza+Nails+%26+Skin+Care+by+Nicolina+Holistic+Spa/data=!4m7!3m6!1s0x8815fc7cf3527675:0x840c55cf926b7368!8m2!3d41.1380569!4d-85.062909!16s%2Fg%2F11btm9st5b!19sChIJdXZS83z8FYgRaHNrks9VDIQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:46",
+    "keyword": "Med Spas",
+    "name": "Bellezza Nails & Skin Care by Nicolina Holistic Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Benevolent+Wellness/data=!4m7!3m6!1s0x8815e393c6f876cf:0x26e9a0ad312101ff!8m2!3d41.1771277!4d-85.1460616!16s%2Fg%2F11yvh8vqrq!19sChIJz3b4xpPjFYgR_wEhMa2g6SY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:37",
+    "keyword": "Med Spas",
+    "name": "Benevolent Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Body+Bliss+by+Stephanie/data=!4m7!3m6!1s0x88d9a7f096f44825:0x28a8cb8bfcf97958!8m2!3d41.1777989!4d-85.1362071!16s%2Fg%2F11gsbmmlc7!19sChIJJUj0lvCn2YgRWHn5_IvLqCg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:50",
+    "keyword": "Med Spas",
+    "name": "Body Bliss by Stephanie",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Bodywork+Therapies+Inc/data=!4m7!3m6!1s0x8815fcc88698d88b:0x74b04e1b0017a2dc!8m2!3d41.117211!4d-85.0966617!16s%2Fg%2F1260y1ptx!19sChIJi9iYhsj8FYgR3KIXABtOsHQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:55",
+    "keyword": "Med Spas",
+    "name": "Bodywork Therapies Inc",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/DR.+FARRUKH+SKIN+CLINIC/data=!4m7!3m6!1s0x39190334fdd21a93:0x67a55644b22431ac!8m2!3d31.4722093!4d74.2588495!16s%2Fg%2F11rx2_zlmf!19sChIJkxrS_TQDGTkRrDEkskRWpWc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:14",
+    "keyword": "Aesthetic Clinics",
+    "name": "DR. FARRUKH SKIN CLINIC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Desi+Esthetics+Medical+Spa/data=!4m7!3m6!1s0x8815e501ac36139b:0x9256a953fa8ff9e9!8m2!3d41.077085!4d-85.1458301!16s%2Fg%2F11ygt2qkn8!19sChIJmxM2rAHlFYgR6fmP-lOpVpI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:32",
+    "keyword": "Med Spas",
+    "name": "Desi Esthetics Medical Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Diepenbrock+Facial+Cosmetic+Surgery/data=!4m7!3m6!1s0x8815e3490eef3b31:0xd0f44fea7e8d120d!8m2!3d41.1735153!4d-85.1123512!16s%2Fg%2F11fm9n5r5j!19sChIJMTvvDknjFYgRDRKNfupP9NA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:46",
+    "keyword": "Med Spas",
+    "name": "Diepenbrock Facial Cosmetic Surgery",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Diepenbrock+Facial+Cosmetic+Surgery/data=!4m7!3m6!1s0x8815e72e7f085e53:0xf04297a64bc610a4!8m2!3d41.0734126!4d-85.2441358!16s%2Fg%2F11fk1qgzc4!19sChIJU14Ify7nFYgRpBDGS6aXQvA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:35",
+    "keyword": "Med Spas",
+    "name": "Diepenbrock Facial Cosmetic Surgery",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Divine+Aesthetics/data=!4m7!3m6!1s0x39190312689cd47f:0x18ac39f3ebe3cf6c!8m2!3d31.4694445!4d74.2422837!16s%2Fg%2F11ssrynngj!19sChIJf9ScaBIDGTkRbM_j6_M5rBg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:16",
+    "keyword": "Aesthetic Clinics",
+    "name": "Divine Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Dr.+Atta-ul-Haq+Plastic+Surgeon/data=!4m7!3m6!1s0x391906130dc05a99:0x1e550faa2aa449e5!8m2!3d31.4738661!4d74.2588858!16s%2Fg%2F11g7z0cc4h!19sChIJmVrADRMGGTkR5UmkKqoPVR4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:16",
+    "keyword": "Aesthetic Clinics",
+    "name": "Dr. Atta-ul-Haq Plastic Surgeon",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Dr.+Matthew+E.+Shambaugh,+MD/data=!4m7!3m6!1s0x8815e2aa0dd61279:0xfc66f9fdfa8dcc23!8m2!3d41.0409419!4d-85.2508475!16s%2Fg%2F1wbf___m!19sChIJeRLWDariFYgRI8yN-v35Zvw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:14",
+    "keyword": "Aesthetic Clinics",
+    "name": "Dr. Matthew E. Shambaugh, MD",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Dr.+Stephanie+Sublett+MD,+FACOG,+MSCP/data=!4m7!3m6!1s0x8815e2ab14f00001:0x1c1ff98ac7e6878a!8m2!3d41.0740855!4d-85.2722069!16s%2Fg%2F11tn9k_8dh!19sChIJAQDwFKviFYgRiofmx4r5Hxw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:59",
+    "keyword": "Med Spas",
+    "name": "Dr. Stephanie Sublett MD, FACOG, MSCP",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/ED+Clinics+of+Indiana/data=!4m7!3m6!1s0x8815fdc1cf79f4a5:0xbd7bee384fb215bb!8m2!3d41.1132113!4d-85.0808293!16s%2Fg%2F11jy565qfy!19sChIJpfR5z8H9FYgRuxWyTzjue70?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:16",
+    "keyword": "Aesthetic Clinics",
+    "name": "ED Clinics of Indiana",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/ENT+Aesthetics/data=!4m7!3m6!1s0x8815e74e26b108e9:0x3c5aad89df81d837!8m2!3d41.0365189!4d-85.2482541!16s%2Fg%2F11rhz1nxjh!19sChIJ6QixJk7nFYgRN9iB34mtWjw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:32",
+    "keyword": "Med Spas",
+    "name": "ENT Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Elements+Massage/data=!4m7!3m6!1s0x8815e2738a9cb9a3:0x49edc3ab5be5a52!8m2!3d41.1777049!4d-85.1063475!16s%2Fg%2F1q5bmp3rx!19sChIJo7mcinPiFYgRUlq-tTrcngQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:59",
+    "keyword": "Med Spas",
+    "name": "Elements Massage",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Elite+You+Aesthetics+and+Wellness/data=!4m7!3m6!1s0x8815c5e6fd69143d:0x9848ea097f8fe621!8m2!3d40.9617562!4d-85.372728!16s%2Fg%2F11whwrcd4w!19sChIJPRRp_ebFFYgRIeaPfwnqSJg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:33",
+    "keyword": "Med Spas",
+    "name": "Elite You Aesthetics and Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Estelza+Clinic/data=!4m7!3m6!1s0x391903b9c0b2dae5:0x6232b60b395e6b7f!8m2!3d31.4675296!4d74.2574687!16s%2Fg%2F11k9ftnpf_!19sChIJ5dqywLkDGTkRf2teOQu2MmI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:13",
+    "keyword": "Aesthetic Clinics",
+    "name": "Estelza Clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Femme+Medical+%26+Spa/data=!4m7!3m6!1s0x8815e7519d2b58a7:0x643b3659aa201d62!8m2!3d41.0623077!4d-85.2073864!16s%2Fg%2F11ybmmbyx3!19sChIJp1grnVHnFYgRYh0gqlk2O2Q?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:29",
+    "keyword": "Med Spas",
+    "name": "Femme Medical & Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Finding+Marbles+in+Therapeutic+Massage/data=!4m7!3m6!1s0x8815e71230bffb1b:0x12bc611c3fb4ec51!8m2!3d41.0678097!4d-85.2263329!16s%2Fg%2F11tsjl48rn!19sChIJG_u_MBLnFYgRUey0PxxhvBI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:55",
+    "keyword": "Med Spas",
+    "name": "Finding Marbles in Therapeutic Massage",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Five+Star+Therapeutic+Massage/data=!4m7!3m6!1s0x8815e24eb756e63f:0xc597def0e6dd743b!8m2!3d41.1055163!4d-85.1776085!16s%2Fg%2F11bv2kyb2b!19sChIJP-ZWt07iFYgRO3Td5vDel8U?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:54",
+    "keyword": "Med Spas",
+    "name": "Five Star Therapeutic Massage",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Fort+Wayne+Custom+Rx/data=!4m7!3m6!1s0x8815e29d7b3b2575:0x3c2d19508174316!8m2!3d41.1795017!4d-85.1375272!16s%2Fg%2F1tdcgzl9!19sChIJdSU7e53iFYgRFkMXCJXRwgM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:01",
+    "keyword": "Med Spas",
+    "name": "Fort Wayne Custom Rx",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Fort+Wayne+Dermatology+Consultants,+Inc./data=!4m7!3m6!1s0x8815e70e287f387b:0x3b7969c8eaff81d5!8m2!3d41.0724509!4d-85.2441274!16s%2Fg%2F12601qrt5!19sChIJezh_KA7nFYgR1YH_6shpeTs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:11",
+    "keyword": "Aesthetic Clinics",
+    "name": "Fort Wayne Dermatology Consultants, Inc.",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Fort+Wayne+Plastic+Surgery+%26+Aesthetics,+Inc./data=!4m7!3m6!1s0x8815e29d6b194523:0xaefb1ad8c64162dd!8m2!3d41.1905376!4d-85.1329857!16s%2Fg%2F11g01_bmb3!19sChIJI0UZa53iFYgR3WJBxtga-64?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:14",
+    "keyword": "Aesthetic Clinics",
+    "name": "Fort Wayne Plastic Surgery & Aesthetics, Inc.",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Fort+Wayne+Plastic+Surgery+%26+Aesthetics,+Inc./data=!4m7!3m6!1s0x8815e711d6042989:0xc56ccba75f1126dd!8m2!3d41.0724473!4d-85.2441283!16s%2Fg%2F11gdkp0mln!19sChIJiSkE1hHnFYgR3SYRX6fLbMU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:08",
+    "keyword": "Aesthetic Clinics",
+    "name": "Fort Wayne Plastic Surgery & Aesthetics, Inc.",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Great+Hydration+%26+Wellness/data=!4m7!3m6!1s0x2ae5cf5b01daff73:0x4b07b16d27a4c18f!8m2!3d41.120253!4d-85.151869!16s%2Fg%2F11sjf05sb6!19sChIJc__aAVvP5SoRj8GkJ22xB0s?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:35",
+    "keyword": "Med Spas",
+    "name": "Great Hydration & Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/HB+Salon+%2B+Jaeda+Emans+Esthetics/data=!4m7!3m6!1s0x883e6ac5c8ca1579:0xb3694441fa9d348a!8m2!3d40.8665337!4d-84.5907049!16s%2Fg%2F11g8_fdsfq!19sChIJeRXKyMVqPogRijSd-kFEabM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:54",
+    "keyword": "Med Spas",
+    "name": "HB Salon + Jaeda Emans Esthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/HD+Esthetics/data=!4m7!3m6!1s0x8815fba6eae07ba5:0xfc53e403782ac4a1!8m2!3d41.0895229!4d-85.0991928!16s%2Fg%2F11ff0x65k3!19sChIJpXvg6qb7FYgRocQqeAPkU_w?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:38",
+    "keyword": "Med Spas",
+    "name": "HD Esthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Healthy+Weight+Loss+Solutions/data=!4m7!3m6!1s0x8815e2aa0dd61279:0xd1ceb1ba20410e33!8m2!3d41.0782219!4d-85.1403356!16s%2Fg%2F11bbrnk_7h!19sChIJeRLWDariFYgRMw5BILqxztE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:57",
+    "keyword": "Med Spas",
+    "name": "Healthy Weight Loss Solutions",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Holmes+Family+%26+Cosmetic+Dentistry/data=!4m7!3m6!1s0x8815dd88ae98074b:0x10abb4a72769b1d2!8m2!3d41.0730891!4d-85.2783353!16s%2Fg%2F1tfrhcf6!19sChIJSweYrojdFYgR0rFpJ6e0qxA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:14",
+    "keyword": "Aesthetic Clinics",
+    "name": "Holmes Family & Cosmetic Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/IAmAnnBrows%26Beauty+LLC/data=!4m7!3m6!1s0x8815f98049601edd:0x1a75abd577251fae!8m2!3d41.0686278!4d-85.2009249!16s%2Fg%2F11p5qfqvsp!19sChIJ3R5gSYD5FYgRrh8ld9WrdRo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:11",
+    "keyword": "Aesthetic Clinics",
+    "name": "IAmAnnBrows&Beauty LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/IV+Hydration+Vitamin+Therapy/data=!4m7!3m6!1s0x881609e7715a2751:0x639571125f4ff74f!8m2!3d41.1743212!4d-85.1143136!16s%2Fg%2F11n8w9ph48!19sChIJUSdacecJFogRT_dPXxJxlWM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:50",
+    "keyword": "Med Spas",
+    "name": "IV Hydration Vitamin Therapy",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Illum%C3%A9+Laser+%26+Skin+Med+Spa+Fort+Wayne/data=!4m7!3m6!1s0x8815e3c373df9d29:0xa67e730cb7c02916!8m2!3d41.0798828!4d-85.1434976!16s%2Fg%2F11m720j8hk!19sChIJKZ3fc8PjFYgRFinAtwxzfqY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:29",
+    "keyword": "Med Spas",
+    "name": "Illumé Laser & Skin Med Spa Fort Wayne",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Indiana+Skin+Care/data=!4m7!3m6!1s0x8815c9ad7143c7c5:0xd59e3f308b36a96f!8m2!3d40.9625829!4d-85.3730025!16s%2Fg%2F11ftn5jnr1!19sChIJxcdDca3JFYgRb6k2izA_ntU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:33",
+    "keyword": "Med Spas",
+    "name": "Indiana Skin Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Indiana+Vein+%26+Laser+Center:+Marcus+A.+Jimenez+MD,+FACS/data=!4m7!3m6!1s0x8815e68acad99c29:0x7fba668e3df4f45a!8m2!3d41.0416946!4d-85.2355804!16s%2Fg%2F1tfbjb3l!19sChIJKZzZyormFYgRWvT0PY5mun8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:50",
+    "keyword": "Med Spas",
+    "name": "Indiana Vein & Laser Center: Marcus A. Jimenez MD, FACS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Inner+Beauty+Colon+Hydrotherapy/data=!4m7!3m6!1s0x8815e50ddc572cf7:0x9a8d80563d188e4!8m2!3d41.0736919!4d-85.2020914!16s%2Fg%2F11nmpnpn9h!19sChIJ9yxX3A3lFYgR5IjRYwXYqAk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:55",
+    "keyword": "Med Spas",
+    "name": "Inner Beauty Colon Hydrotherapy",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Integrative+Dermatology+%26+Laser+Spa/data=!4m7!3m6!1s0x8815e69d18b89943:0x22daa1a57ec91570!8m2!3d41.0715739!4d-85.1916192!16s%2Fg%2F11gfk0tdsn!19sChIJQ5m4GJ3mFYgRcBXJfqWh2iI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:35",
+    "keyword": "Med Spas",
+    "name": "Integrative Dermatology & Laser Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Joppa+cosmetics/data=!4m7!3m6!1s0x8815e2738aeef5bf:0x18421ef39cc4f9a1!8m2!3d41.1782479!4d-85.1173041!16s%2Fg%2F11dxf0ys5c!19sChIJv_XuinPiFYgRofnEnPMeQhg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:37",
+    "keyword": "Med Spas",
+    "name": "Joppa cosmetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Kurate+Aesthetics/data=!4m7!3m6!1s0x8816093ba81dfd5f:0x169399cdb2a548f4!8m2!3d41.2006769!4d-85.131734!16s%2Fg%2F11w8rg_mjw!19sChIJX_0dqDsJFogR9Eilss2ZkxY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:32",
+    "keyword": "Med Spas",
+    "name": "Kurate Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Lilivy+Aesthetics+%26+Wellness/data=!4m7!3m6!1s0x684c6a4043b7ee2f:0x6188981dcca6c69!8m2!3d41.0740855!4d-85.2722069!16s%2Fg%2F11vcpq9q9d!19sChIJL-63Q0BqTGgRaWzK3IGJGAY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:32",
+    "keyword": "Med Spas",
+    "name": "Lilivy Aesthetics & Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/LuvThySelf+Aesthetics/data=!4m7!3m6!1s0x8815e3cc55ecddcb:0x89eb55768b43cf9!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11ynb34lc_!19sChIJy93sVczjFYgR-Ty0aFe1ngg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:14",
+    "keyword": "Aesthetic Clinics",
+    "name": "LuvThySelf Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Luxe+Aesthetics+%26+Wellness+Fort+Wayne/data=!4m7!3m6!1s0x8815e72ff9861efb:0x81c2a841daff2ab9!8m2!3d41.0546492!4d-85.2307303!16s%2Fg%2F11ymd3x5sh!19sChIJ-x6G-S_nFYgRuSr_2kGowoE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:32",
+    "keyword": "Med Spas",
+    "name": "Luxe Aesthetics & Wellness Fort Wayne",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Mahogany+Oasis+Asethetics+%26+Wellness,+LLC/data=!4m7!3m6!1s0x8815e5d48a9c846f:0xcd47ab4e2d2a92b2!8m2!3d41.1712226!4d-85.1640853!16s%2Fg%2F11y3cthjhr!19sChIJb4ScitTlFYgRspIqLU6rR80?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:33",
+    "keyword": "Med Spas",
+    "name": "Mahogany Oasis Asethetics & Wellness, LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Massage+Envy/data=!4m7!3m6!1s0x8815e656d33d139d:0xbd9acd39818a411c!8m2!3d41.0547294!4d-85.2244303!16s%2Fg%2F1td2_1qj!19sChIJnRM901bmFYgRHEGKgTnNmr0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:01",
+    "keyword": "Med Spas",
+    "name": "Massage Envy",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Massage+Works+Therapy+%26+Spa+Southwest/data=!4m7!3m6!1s0x8815e68f7c3092cb:0x70732e4052d8114!8m2!3d41.0677767!4d-85.1999894!16s%2Fg%2F1tcty4nb!19sChIJy5IwfI_mFYgRFIEtBeQyBwc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:53",
+    "keyword": "Med Spas",
+    "name": "Massage Works Therapy & Spa Southwest",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Medeste+Aesthetics/data=!4m7!3m6!1s0x391903e04b28b519:0x5243adc525b50534!8m2!3d31.464915!4d74.254801!16s%2Fg%2F11v0trbr2w!19sChIJGbUoS-ADGTkRNAW1JcWtQ1I?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:16",
+    "keyword": "Aesthetic Clinics",
+    "name": "Medeste Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Medical+Spa+in+Fort+Wayne,+IN/data=!4m7!3m6!1s0x8815e68bacae4935:0xa913139d1d124052!8m2!3d41.0633732!4d-85.2071635!16s%2Fg%2F11hy_xz76w!19sChIJNUmurIvmFYgRUkASHZ0TE6k?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:37",
+    "keyword": "Med Spas",
+    "name": "Medical Spa in Fort Wayne, IN",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Metabolic+Research+Center+%7C+Fort+Wayne/data=!4m7!3m6!1s0x8815e3021b97dca1:0xc0198f52a41614da!8m2!3d41.1379866!4d-85.1423873!16s%2Fg%2F1th28_tk!19sChIJodyXGwLjFYgR2hQWpFKPGcA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:50",
+    "keyword": "Med Spas",
+    "name": "Metabolic Research Center | Fort Wayne",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/MoCo.+Skin+Studio,+LLC./data=!4m7!3m6!1s0x883e6b4d45964109:0xc77823fb9e5fe458!8m2!3d40.8524334!4d-84.5941414!16s%2Fg%2F11vj1j7y5g!19sChIJCUGWRU1rPogRWORfnvsjeMc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:50",
+    "keyword": "Med Spas",
+    "name": "MoCo. Skin Studio, LLC.",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/MonaLisa+Skincare+Beauty+by+Muna/data=!4m7!3m6!1s0x8815e34fc5af34bb:0x6ce1c4d581c132fa!8m2!3d41.145678!4d-85.1608349!16s%2Fg%2F11fstmwv7h!19sChIJuzSvxU_jFYgR-jLBgdXE4Ww?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:37",
+    "keyword": "Med Spas",
+    "name": "MonaLisa Skincare Beauty by Muna",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Morrison+Aesthetics+and+Plastic+Surgery/data=!4m7!3m6!1s0x8815e7beed42f31b:0xbb8127cd09b1f3f0!8m2!3d41.0666925!4d-85.2007791!16s%2Fg%2F11tg9dr735!19sChIJG_NC7b7nFYgR8POxCc0ngbs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:09",
+    "keyword": "Aesthetic Clinics",
+    "name": "Morrison Aesthetics and Plastic Surgery",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Mother+Earth+Aesthetics,+LLC/data=!4m7!3m6!1s0x8815e39b16df8719:0xe1244e694872e965!8m2!3d41.1218825!4d-85.1292197!16s%2Fg%2F11y2lq9z2h!19sChIJGYffFpvjFYgRZelySGlOJOE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:33",
+    "keyword": "Med Spas",
+    "name": "Mother Earth Aesthetics, LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/NoSweat+Fort+Wayne%2F+Philip+Rettenmaier,+DO/data=!4m7!3m6!1s0x8815e45fddb8db0d:0xc3a9962b978a2a5f!8m2!3d41.0726753!4d-85.21873!16s%2Fg%2F11p07b03jn!19sChIJDdu43V_kFYgRXyqKlyuWqcM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:55",
+    "keyword": "Med Spas",
+    "name": "NoSweat Fort Wayne/ Philip Rettenmaier, DO",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/NoSweat+Fort+Wayne/data=!4m7!3m6!1s0x8815e68f38a167cb:0xbe37c798a8a843e0!8m2!3d41.0726753!4d-85.21873!16s%2Fg%2F11b5_0qbs3!19sChIJy2ehOI_mFYgR4EOoqJjHN74?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:33",
+    "keyword": "Med Spas",
+    "name": "NoSweat Fort Wayne",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Nu+Skyn/data=!4m7!3m6!1s0x8815fde0174dbfaf:0x6e6c9cf95fed6411!8m2!3d41.1349083!4d-85.1009324!16s%2Fg%2F11tt96ys8x!19sChIJr79NF-D9FYgREWTtX_mcbG4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:46",
+    "keyword": "Med Spas",
+    "name": "Nu Skyn",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Optimum+Health+Beauty+%26+Spa+%28Ena%27s+Spa%29/data=!4m7!3m6!1s0x8815e6ecb9d8b865:0x61929b57c416cf7f!8m2!3d41.0439128!4d-85.2376855!16s%2Fg%2F11b6gj39ry!19sChIJZbjYuezmFYgRf88WxFebkmE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:29",
+    "keyword": "Med Spas",
+    "name": "Optimum Health Beauty & Spa (Ena's Spa)",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Parkview+Walk-in+Clinic/data=!4m7!3m6!1s0x8815fb51238c3895:0xb582e2a8697e97f3!8m2!3d41.0965826!4d-85.0837944!16s%2Fg%2F1tvr_9zm!19sChIJlTiMI1H7FYgR85d-aajigrU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:14",
+    "keyword": "Aesthetic Clinics",
+    "name": "Parkview Walk-in Clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Permanent+Make-up+Med+Spa+Fort+Wayne/data=!4m7!3m6!1s0x8815e69501892907:0x545b18e6940837e!8m2!3d41.060076!4d-85.2209816!16s%2Fg%2F11csq1n46h!19sChIJBymJAZXmFYgRfoNAaY6xRQU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:38",
+    "keyword": "Med Spas",
+    "name": "Permanent Make-up Med Spa Fort Wayne",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Plastic+Surgery+Innovations/data=!4m7!3m6!1s0x8815e2a82bb0cee9:0xf1b916e0adf600b1!8m2!3d41.1735219!4d-85.1108031!16s%2Fg%2F1tv24rlz!19sChIJ6c6wK6jiFYgRsQD2reAWufE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:11",
+    "keyword": "Aesthetic Clinics",
+    "name": "Plastic Surgery Innovations",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Posh+Lab+LLC/data=!4m7!3m6!1s0x8815e3b7f990c75b:0xd02aabbd7d542691!8m2!3d41.177822!4d-85.136194!16s%2Fg%2F11yjtrtw57!19sChIJW8eQ-bfjFYgRkSZUfb2rKtA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:38",
+    "keyword": "Med Spas",
+    "name": "Posh Lab LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Post+Surgery+Aesthetics/data=!4m7!3m6!1s0xa1d3818aab2897df:0x339fd24bfac74cd2!8m2!3d41.0678032!4d-85.225553!16s%2Fg%2F11pkgm_sn_!19sChIJ35coq4qB06ER0kzH-kvSnzM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:48",
+    "keyword": "Med Spas",
+    "name": "Post Surgery Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Premier+MedSpa/data=!4m7!3m6!1s0x8815fde5f5d58c99:0x674942c3edec4b3d!8m2!3d41.1126898!4d-85.0635682!16s%2Fg%2F11rxhvybnk!19sChIJmYzV9eX9FYgRPUvs7cNCSWc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:35",
+    "keyword": "Med Spas",
+    "name": "Premier MedSpa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Rudae%27s+School+of+Beauty+Culture/data=!4m7!3m6!1s0x8815e31076692c0d:0x676c7b0dcb04501!8m2!3d41.1281675!4d-85.1398524!16s%2Fm%2F0clvnht!19sChIJDSxpdhDjFYgRAUWw3LDHdgY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:57",
+    "keyword": "Med Spas",
+    "name": "Rudae's School of Beauty Culture",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/SHE+SKIN+DESIGN/data=!4m7!3m6!1s0x8815e7fbd6419b29:0x3a8663615f939185!8m2!3d41.1109238!4d-85.1344487!16s%2Fg%2F11m49z31_z!19sChIJKZtB1vvnFYgRhZGTX2Fjhjo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:55",
+    "keyword": "Med Spas",
+    "name": "SHE SKIN DESIGN",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/SKN+Unfiltered/data=!4m7!3m6!1s0x8815fba118ded6ed:0x5208f45bca151162!8m2!3d41.0740382!4d-85.2022348!16s%2Fg%2F11w8ljl174!19sChIJ7dbeGKH7FYgRYhEVylv0CFI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:35",
+    "keyword": "Med Spas",
+    "name": "SKN Unfiltered",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/SN+Show+Room/data=!4m7!3m6!1s0x391903a4889b4a79:0x42b25603292f5c26!8m2!3d31.471325!4d74.2561307!16s%2Fg%2F11v3gcd_xh!19sChIJeUqbiKQDGTkRJlwvKQNWskI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:14",
+    "keyword": "Aesthetic Clinics",
+    "name": "SN Show Room",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Salon+Renew/data=!4m7!3m6!1s0x8815dc5a615b4b31:0xa46a17dceb9327d4!8m2!3d41.072965!4d-85.3249781!16s%2Fg%2F11b7l52mbd!19sChIJMUtbYVrcFYgR1CeT69wXaqQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:57",
+    "keyword": "Med Spas",
+    "name": "Salon Renew",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Satya+Beauty+%26+Wellness/data=!4m7!3m6!1s0x8815e3a9c274b0ed:0xf4f9cbb1764ea4c7!8m2!3d41.1321068!4d-85.150959!16s%2Fg%2F11dyqsp8k0!19sChIJ7bB0wqnjFYgRx6ROdrHL-fQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:13",
+    "keyword": "Aesthetic Clinics",
+    "name": "Satya Beauty & Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Scarlet+Drip+IV+Therapy/data=!4m7!3m6!1s0x88160104c4ad44e1:0xf5fb4ab74e233196!8m2!3d41.2114328!4d-84.9667384!16s%2Fg%2F11lzd1kvf_!19sChIJ4UStxAQBFogRljEjTrdK-_U?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:48",
+    "keyword": "Med Spas",
+    "name": "Scarlet Drip IV Therapy",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Serene+Skin+By+Jen+LLC/data=!4m7!3m6!1s0x8815fde52c33f80b:0x8ab53c2428877854!8m2!3d41.1099865!4d-85.0666813!16s%2Fg%2F11yjxclwcp!19sChIJC_gzLOX9FYgRVHiHKCQ8tYo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:46",
+    "keyword": "Med Spas",
+    "name": "Serene Skin By Jen LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Shanti+Therapeutic+Center/data=!4m7!3m6!1s0x8815e2a08f02f01b:0x6d7ae57f8e8f1e3d!8m2!3d41.177124!4d-85.1238098!16s%2Fg%2F11hc_2rm50!19sChIJG_ACj6DiFYgRPR6Pjn_lem0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:59",
+    "keyword": "Med Spas",
+    "name": "Shanti Therapeutic Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Skinnovation+Johar+Town/data=!4m7!3m6!1s0x39190399f33d1a1f:0x1d51f96b7c4b3b55!8m2!3d31.4710119!4d74.2603996!16s%2Fg%2F11frwqd01c!19sChIJHxo985kDGTkRVTtLfGv5UR0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:16",
+    "keyword": "Aesthetic Clinics",
+    "name": "Skinnovation Johar Town",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Steppey+Aesthetics+and+Wellness/data=!4m7!3m6!1s0x8815e7d5b2599cef:0xbb6b618b81200521!8m2!3d41.0449846!4d-85.2372085!16s%2Fg%2F11y5g458z5!19sChIJ75xZstXnFYgRIQUggYtha7s?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:59",
+    "keyword": "Med Spas",
+    "name": "Steppey Aesthetics and Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Summit+Plastic+Surgery,+P.C./data=!4m7!3m6!1s0x881607e4684f8edb:0x410aef0d2584ee1a!8m2!3d41.1767781!4d-85.1104624!16s%2Fg%2F1v7pz26b!19sChIJ245PaOQHFogRGu6EJQ3vCkE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:13",
+    "keyword": "Aesthetic Clinics",
+    "name": "Summit Plastic Surgery, P.C.",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Sunny+Spa/data=!4m7!3m6!1s0x8815fdf18f9fcf53:0x1967a300701c2d54!8m2!3d41.1189247!4d-85.0971196!16s%2Fg%2F11zhwpf9tt!19sChIJU8-fj_H9FYgRVC0ccACjZxk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:48",
+    "keyword": "Med Spas",
+    "name": "Sunny Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/The+Aesthetics/data=!4m7!3m6!1s0x391903af5d8f6355:0xc509562fcc4a2c94!8m2!3d31.4692323!4d74.2727387!16s%2Fg%2F11ypqsb6b2!19sChIJVWOPXa8DGTkRlCxKzC9WCcU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:13",
+    "keyword": "Aesthetic Clinics",
+    "name": "The Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/The+Body+-+Aesthetic+%26+Dental+care/data=!4m7!3m6!1s0x3919035da37e4929:0xc7d1fc20eea655a2!8m2!3d31.468342!4d74.267772!16s%2Fg%2F11y2hrv534!19sChIJKUl-o10DGTkRolWm7iD80cc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:16",
+    "keyword": "Aesthetic Clinics",
+    "name": "The Body - Aesthetic & Dental care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/The+Downtown+Wellness+Spa+-+Downtown+Fort+Wayne/data=!4m7!3m6!1s0x8815e5351f2587e5:0x3c5f633fa6dcd6e6!8m2!3d41.0782219!4d-85.1403356!16s%2Fg%2F11nb4w8qf9!19sChIJ5YclHzXlFYgR5tbcpj9jXzw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:32",
+    "keyword": "Med Spas",
+    "name": "The Downtown Wellness Spa - Downtown Fort Wayne",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/The+Downtown+Wellness+Spa/data=!4m7!3m6!1s0x8815e48cd4de14d5:0x8283b29f92660d49!8m2!3d41.1488575!4d-85.0621272!16s%2Fg%2F11c6zy59c4!19sChIJ1RTe1IzkFYgRSQ1mkp-yg4I?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:29",
+    "keyword": "Med Spas",
+    "name": "The Downtown Wellness Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/The+Fix+,+Laser+%26+Skin+Solutions/data=!4m7!3m6!1s0x8815e741dca3e29b:0xe7211c7db0271a38!8m2!3d41.0682977!4d-85.2016707!16s%2Fg%2F11h5n7mlth!19sChIJm-Kj3EHnFYgROBonsH0cIec?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:37",
+    "keyword": "Med Spas",
+    "name": "The Fix , Laser & Skin Solutions",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/The+Luxe+Med+Spa+Indiana/data=!4m7!3m6!1s0x27b8cfb8640d4631:0x89fa864f8a14dcfa!8m2!3d41.0666548!4d-85.0161814!16s%2Fg%2F11m6wqmhb7!19sChIJMUYNZLjPuCcR-twUik-G-ok?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:33",
+    "keyword": "Med Spas",
+    "name": "The Luxe Med Spa Indiana",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/The+Luxe+Med+Spa/data=!4m7!3m6!1s0x8815f96c87eafcc3:0xe1ad6cfdefa0983d!8m2!3d41.0666548!4d-85.0161814!16s%2Fg%2F11lz3gm88k!19sChIJw_zqh2z5FYgRPZig7_1sreE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:29",
+    "keyword": "Med Spas",
+    "name": "The Luxe Med Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/The+Medical+Spa/data=!4m7!3m6!1s0x8815e68ac9a837bf:0x9c1fa965619ea826!8m2!3d41.0415942!4d-85.2357528!16s%2Fg%2F12hy865r2!19sChIJvzeoyYrmFYgRJqieYWWpH5w?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:29",
+    "keyword": "Med Spas",
+    "name": "The Medical Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/The+Remedy+Health+%26+Wellness+Clinic/data=!4m7!3m6!1s0x8815e7b1da3cde29:0x352b1d0c84dfac7d!8m2!3d41.1371756!4d-85.1451798!16s%2Fg%2F11vyg5s5f2!19sChIJKd482rHnFYgRfazfhAwdKzU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:37",
+    "keyword": "Med Spas",
+    "name": "The Remedy Health & Wellness Clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/The+WorXout/data=!4m7!3m6!1s0x8815e7ef226c0cfd:0xfd64748733a775dc!8m2!3d41.0593212!4d-85.2155674!16s%2Fg%2F11bwptt3zr!19sChIJ_QxsIu_nFYgR3HWnM4d0ZP0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:57",
+    "keyword": "Med Spas",
+    "name": "The WorXout",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Three+Rivers+Bodywork/data=!4m7!3m6!1s0x8815e368d5c8949d:0x3e9e0080354e3f!8m2!3d41.1165872!4d-85.1555115!16s%2Fg%2F11srlcqfm4!19sChIJnZTI1WjjFYgRP041gACePgA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:57",
+    "keyword": "Med Spas",
+    "name": "Three Rivers Bodywork",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Three+Rivers+Dermatology+%26+Windy+Ridge+Skin+Care+Centre/data=!4m7!3m6!1s0x8815e7ef8cf68155:0x307951a3cb77b7ad!8m2!3d41.0345296!4d-85.2610896!16s%2Fg%2F1tg3bq6f!19sChIJVYH2jO_nFYgRrbd3y6NReTA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:54",
+    "keyword": "Med Spas",
+    "name": "Three Rivers Dermatology & Windy Ridge Skin Care Centre",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/VIP+Beauty+260/data=!4m7!3m6!1s0x8815fdf76b82ce11:0x8269871160ef578e!8m2!3d41.0612681!4d-85.2150969!16s%2Fg%2F11td__pg5q!19sChIJEc6Ca_f9FYgRjlfvYBGHaYI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:13",
+    "keyword": "Aesthetic Clinics",
+    "name": "VIP Beauty 260",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Van+Wert+Massotherapy+and+the+Salt+Cave+On+Central/data=!4m7!3m6!1s0x883e6ae11a75a42f:0xef8e349b520e9263!8m2!3d40.86881!4d-84.58097!16s%2Fg%2F11bwymyjgd!19sChIJL6R1GuFqPogRY5IOUps0ju8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:57",
+    "keyword": "Med Spas",
+    "name": "Van Wert Massotherapy and the Salt Cave On Central",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Velvaere+Nordic+Plunge+and+Medspa/data=!4m7!3m6!1s0x8815e7ee815c12f9:0x91826291e67e741!8m2!3d41.054799!4d-85.2306081!16s%2Fg%2F11x674wk73!19sChIJ-RJcge7nFYgRQednHikmGAk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:35",
+    "keyword": "Med Spas",
+    "name": "Velvaere Nordic Plunge and Medspa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Viking+Psychiatry+%26+Wellness+Fort+Wayne/data=!4m7!3m6!1s0x8815e771291fe2cd:0x7d8c24364f836e97!8m2!3d41.1627577!4d-85.1358318!16s%2Fg%2F11rxpp64yy!19sChIJzeIfKXHnFYgRl26DTzYkjH0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:55",
+    "keyword": "Med Spas",
+    "name": "Viking Psychiatry & Wellness Fort Wayne",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Vita+Infusion+LLC/data=!4m7!3m6!1s0x852f2866b4addd03:0x644b212d80093d36!8m2!3d41.2006769!4d-85.131734!16s%2Fg%2F11vyq37yyz!19sChIJA92ttGYoL4URNj0JgC0hS2Q?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:54",
+    "keyword": "Med Spas",
+    "name": "Vita Infusion LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Vital+Living+Massage+and+Integrative+WellSpa/data=!4m7!3m6!1s0x8815e68a56236d7b:0xb3b9f6a966f35133!8m2!3d41.0628966!4d-85.2086315!16s%2Fg%2F1tcv2154!19sChIJe20jVormFYgRM1HzZqn2ubM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:38",
+    "keyword": "Med Spas",
+    "name": "Vital Living Massage and Integrative WellSpa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Vital+Living+Massage+and+Integrative+WellSpa/data=!4m7!3m6!1s0x8816012b8e62611d:0x5d5b8081051ca89c!8m2!3d41.2146603!4d-85.020014!16s%2Fg%2F11v4hzw67z!19sChIJHWFijisBFogRnKgcBYGAW10?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:55",
+    "keyword": "Med Spas",
+    "name": "Vital Living Massage and Integrative WellSpa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/WellBella+Spa/data=!4m7!3m6!1s0x8815e3768259c967:0xb8d7d188b5013df6!8m2!3d41.1183177!4d-85.1525985!16s%2Fg%2F1hc1spg_f!19sChIJZ8lZgnbjFYgR9j0BtYjR17g?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:35",
+    "keyword": "Med Spas",
+    "name": "WellBella Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Wellness+Pedicure+by+Lora/data=!4m7!3m6!1s0x8815e3ed9c9a5a31:0x8cf73149db5c541b!8m2!3d41.177822!4d-85.136194!16s%2Fg%2F11mkvhb3bt!19sChIJMVqanO3jFYgRG1Rc20kx94w?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:53",
+    "keyword": "Med Spas",
+    "name": "Wellness Pedicure by Lora",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Woodhouse+Spa+-+Fort+Wayne/data=!4m7!3m6!1s0x8815e656cccf362f:0x69a8648a35ed7b84!8m2!3d41.0575095!4d-85.2261239!16s%2Fg%2F1tdmqnqg!19sChIJLzbPzFbmFYgRhHvtNYpkqGk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:48",
+    "keyword": "Med Spas",
+    "name": "Woodhouse Spa - Fort Wayne",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Yoni+jay/data=!4m7!3m6!1s0x8816d3272dc041fd:0x5cbcfb205f8e0b50!8m2!3d41.1145903!4d-85.1401276!16s%2Fg%2F11lh5qk4x4!19sChIJ_UHALSfTFogRUAuOXyD7vFw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:54",
+    "keyword": "Med Spas",
+    "name": "Yoni jay",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Zali+Aesthetics+PC/data=!4m7!3m6!1s0x8815fd5fa5b0149b:0x62b29b91eb094245!8m2!3d41.1339223!4d-85.0628379!16s%2Fg%2F11vwzr_gmk!19sChIJmxSwpV_9FYgRRUIJ65GbsmI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:38",
+    "keyword": "Med Spas",
+    "name": "Zali Aesthetics PC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  },
+  "https://www.google.com/maps/place/Zero+Gravity+Massage+of+Fort+Wayne/data=!4m7!3m6!1s0x8815fd9cb9cd82fb:0xd59357e12ffed971!8m2!3d41.0992147!4d-85.0597694!16s%2Fg%2F11sx0fp89x!19sChIJ-4LNuZz9FYgRcdn-L-FXk9U?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:46",
+    "keyword": "Med Spas",
+    "name": "Zero Gravity Massage of Fort Wayne",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Fort+Wayne,+IN"
+  }
+}

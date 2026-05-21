@@ -1,0 +1,1003 @@
+{
+  "https://www.google.com/maps/place/19+West+Salon+%26+Aesthetics/data=!4m7!3m6!1s0x88408f31f8121d91:0x5dbfd286f0088d45!8m2!3d39.6594387!4d-84.1595582!16s%2Fg%2F11rwpdzlw7!19sChIJkR0S-DGPQIgRRY0I8IbSv10?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:53",
+    "keyword": "Med Spas",
+    "name": "19 West Salon & Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/252+West+Salon+%26+MedSpa/data=!4m7!3m6!1s0x88408edf127c69fb:0xd95d0eb8809f5a2b!8m2!3d39.6277989!4d-84.1678343!16s%2Fg%2F1tdzxdgq!19sChIJ-2l8Et-OQIgRK1qfgLgOXdk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:48",
+    "keyword": "Med Spas",
+    "name": "252 West Salon & MedSpa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Absolute+Smile/data=!4m7!3m6!1s0x884085ed0bb674a5:0x22d59d4f87980b73!8m2!3d39.6438718!4d-84.1338083!16s%2Fg%2F1tfgdxvs!19sChIJpXS2C-2FQIgRcwuYh0-d1SI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:25",
+    "keyword": "Dental Clinics",
+    "name": "Absolute Smile",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Advanced+Aesthetics+Medical+Spa/data=!4m7!3m6!1s0x883f764c3560a777:0x51bcc50ea9e9f8ff!8m2!3d40.0472115!4d-84.2411449!16s%2Fg%2F11dzdgld37!19sChIJd6dgNUx2P4gR__jpqQ7FvFE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:33",
+    "keyword": "Med Spas",
+    "name": "Advanced Aesthetics Medical Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Advanced+Laser+%26+Cosmetic+Center/data=!4m7!3m6!1s0x883f803de01c3809:0x88104abfa38cb943!8m2!3d39.8625196!4d-84.2858401!16s%2Fg%2F1wk7rjpc!19sChIJCTgc4D2AP4gRQ7mMo79KEIg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:38",
+    "keyword": "Med Spas",
+    "name": "Advanced Laser & Cosmetic Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Advanced+Laser+and+Cosmetic+Center/data=!4m7!3m6!1s0x88408f0baf0c365d:0x76a9f824004212ce!8m2!3d39.6459222!4d-84.1468674!16s%2Fg%2F1v3h_np3!19sChIJXTYMrwuPQIgRzhJCACT4qXY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:57",
+    "keyword": "Med Spas",
+    "name": "Advanced Laser and Cosmetic Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/AestheticEye+Oculoplastic+Surgeons/data=!4m7!3m6!1s0x88408b4f29861529:0x5b1365c915494e84!8m2!3d39.579828!4d-84.226004!16s%2Fg%2F11wt_jqcqd!19sChIJKRWGKU-LQIgRhE5JFcllE1s?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:15",
+    "keyword": "Aesthetic Clinics",
+    "name": "AestheticEye Oculoplastic Surgeons",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Aesthetically+Speaking/data=!4m7!3m6!1s0x884061dfc67330c1:0x98411edd34977016!8m2!3d39.5645531!4d-84.2706583!16s%2Fg%2F11x0fjj0xh!19sChIJwTBzxt9hQIgRFnCXNN0eQZg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:15",
+    "keyword": "Aesthetic Clinics",
+    "name": "Aesthetically Speaking",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Aesthetics+By+Tara/data=!4m7!3m6!1s0x884085e918a569c5:0xcc1db3c5ee5c1299!8m2!3d39.6946864!4d-84.0833825!16s%2Fg%2F11rq3_803j!19sChIJxWmlGOmFQIgRmRJc7sWzHcw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:36",
+    "keyword": "Med Spas",
+    "name": "Aesthetics By Tara",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Affordable+Medspa+Services/data=!4m7!3m6!1s0x884085415a3dac21:0xcc8bdd1e1f5e1e62!8m2!3d39.6876955!4d-84.145869!16s%2Fg%2F11fj6jnjft!19sChIJIaw9WkGFQIgRYh5eHx7di8w?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:05",
+    "keyword": "Med Spas",
+    "name": "Affordable Medspa Services",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Angelic+Aesthetics/data=!4m7!3m6!1s0x88409b708f383651:0x8b2cdf1588a9455!8m2!3d39.8403161!4d-84.1376244!16s%2Fg%2F11s9ds2sb9!19sChIJUTY4j3CbQIgRVZSKWPHNsgg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:50",
+    "keyword": "Med Spas",
+    "name": "Angelic Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Art+Spa/data=!4m7!3m6!1s0x88409c608f27174b:0x8608d165fafad0cd!8m2!3d39.7668665!4d-84.0560012!16s%2Fg%2F11gh0lk568!19sChIJSxcnj2CcQIgRzdD6-mXRCIY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:59",
+    "keyword": "Med Spas",
+    "name": "Art Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Ashford+Salon+%26+Med+Suites/data=!4m7!3m6!1s0x88408f7509aa785d:0x1738c069489e6b8e!8m2!3d39.6278959!4d-84.1425132!16s%2Fg%2F11s8080b8w!19sChIJXXiqCXWPQIgRjmueSGnAOBc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:06",
+    "keyword": "Med Spas",
+    "name": "Ashford Salon & Med Suites",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Aura+%26+Alchemy/data=!4m7!3m6!1s0x54b8c769be5bf1f5:0xca84a53386b1a975!8m2!3d39.8755634!4d-84.30744!16s%2Fg%2F11fmn0td9x!19sChIJ9fFbvmnHuFQRdamxhjOlhMo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:55",
+    "keyword": "Med Spas",
+    "name": "Aura & Alchemy",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Awakened+Beauty+%7C+Facial+Spa/data=!4m7!3m6!1s0x8840871329c0e143:0xdbae75016eedf787!8m2!3d39.6322835!4d-84.157342!16s%2Fg%2F11rqsl123l!19sChIJQ-HAKROHQIgRh_ftbgF1rts?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:46",
+    "keyword": "Med Spas",
+    "name": "Awakened Beauty | Facial Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Balanced+IYOK+Wellness,+LLC/data=!4m7!3m6!1s0x884090458ecbe617:0xb26aab60edfd47a2!8m2!3d39.6247195!4d-84.159702!16s%2Fg%2F11bc6z8q3v!19sChIJF-bLjkWQQIgRokf97WCrarI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:59",
+    "keyword": "Med Spas",
+    "name": "Balanced IYOK Wellness, LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Beauty+Mark+Aesthetics/data=!4m7!3m6!1s0x88408f2794911675:0x771d77fe845c748d!8m2!3d39.6278681!4d-84.1425655!16s%2Fg%2F11jsvxxrpd!19sChIJdRaRlCePQIgRjXRchP53HXc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:46",
+    "keyword": "Med Spas",
+    "name": "Beauty Mark Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Bel+Viso+MedSpa/data=!4m7!3m6!1s0x883f7d07f8369e81:0xa03fc031fe599fdd!8m2!3d39.6883752!4d-83.9303473!16s%2Fg%2F11fy2q6bx4!19sChIJgZ42-Ad9P4gR3Z9Z_jHAP6A?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:30",
+    "keyword": "Med Spas",
+    "name": "Bel Viso MedSpa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Bella+Blue+Aesthetics+%26+Wellness/data=!4m7!3m6!1s0x247b1441252c41af:0x6814a2543f6c636c!8m2!3d39.5640504!4d-84.3817036!16s%2Fg%2F11xvp5d01h!19sChIJr0EsJUEUeyQRbGNsP1SiFGg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:06",
+    "keyword": "Med Spas",
+    "name": "Bella Blue Aesthetics & Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Blu+Med+Spa/data=!4m7!3m6!1s0x884085ef2aabd465:0xe992dc1e3ed831ef!8m2!3d39.6896514!4d-84.1624411!16s%2Fg%2F11sbzxs8c7!19sChIJZdSrKu-FQIgR7zHYPh7ckuk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:33",
+    "keyword": "Med Spas",
+    "name": "Blu Med Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Blue+Tooth+Dental/data=!4m7!3m6!1s0x883f7e8e59b72025:0x8f83e10846123565!8m2!3d39.8645248!4d-84.1997299!16s%2Fg%2F1td777nd!19sChIJJSC3WY5-P4gRZTUSRgjhg48?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:22",
+    "keyword": "Dental Clinics",
+    "name": "Blue Tooth Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Bombshell+Culture+Salon+and+Spa/data=!4m7!3m6!1s0x88409bd7dfbe8893:0x456499839ca2c86c!8m2!3d39.7368681!4d-84.0838516!16s%2Fg%2F11fhnklm53!19sChIJk4i-39ebQIgRbMiinIOZZEU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:03",
+    "keyword": "Med Spas",
+    "name": "Bombshell Culture Salon and Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Botox+and+Beyond/data=!4m7!3m6!1s0x88408fba3201c715:0x663cc8130e9396ad!8m2!3d39.6285438!4d-84.1642489!16s%2Fg%2F11vpp24qbm!19sChIJFccBMrqPQIgRrZaTDhPIPGY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:53",
+    "keyword": "Med Spas",
+    "name": "Botox and Beyond",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Brilliant+Tooth+Dental/data=!4m7!3m6!1s0x88408118020255cd:0xa41b3c8212c2c565!8m2!3d39.7761471!4d-84.2174506!16s%2Fg%2F11bwc5dq69!19sChIJzVUCAhiBQIgRZcXCEoI8G6Q?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:22",
+    "keyword": "Dental Clinics",
+    "name": "Brilliant Tooth Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Celebrate+Smile+Dental/data=!4m7!3m6!1s0x883f63fd669cf685:0xf9ab5397c7233410!8m2!3d39.8281333!4d-84.0247146!16s%2Fg%2F11lnkgq91q!19sChIJhfacZv1jP4gREDQjx5dTq_k?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:22",
+    "keyword": "Dental Clinics",
+    "name": "Celebrate Smile Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Centerville+Dental+Center/data=!4m7!3m6!1s0x88408eeb525ca993:0x53445102aff28499!8m2!3d39.608647!4d-84.159974!16s%2Fg%2F1w04kspp!19sChIJk6lcUuuOQIgRmYTyrwJRRFM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:22",
+    "keyword": "Dental Clinics",
+    "name": "Centerville Dental Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Chacing+Beauty+Med+Spa/data=!4m7!3m6!1s0x8840854e110b856b:0xacfec58af257c095!8m2!3d39.7436316!4d-84.1221268!16s%2Fg%2F11vt279m7y!19sChIJa4ULEU6FQIgRlcBX8orF_qw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:35",
+    "keyword": "Med Spas",
+    "name": "Chacing Beauty Med Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Cleveland+Dental+Institute+-+The+Flats/data=!4m7!3m6!1s0x884087fceaf48441:0xae3ecdc880f7318e!8m2!3d39.7483067!4d-84.1847558!16s%2Fg%2F11vzbmxd4g!19sChIJQYT06vyHQIgRjjH3gMjNPq4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:24",
+    "keyword": "Dental Clinics",
+    "name": "Cleveland Dental Institute - The Flats",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Cloud+9+Massage+and+Spa/data=!4m7!3m6!1s0x88408f1c0fd21b07:0xb64c57990976af64!8m2!3d39.6079437!4d-84.1591794!16s%2Fg%2F1tj_5xv4!19sChIJBxvSDxyPQIgRZK92CZlXTLY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:59",
+    "keyword": "Med Spas",
+    "name": "Cloud 9 Massage and Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Cova+Ob%2FGyn+%26+Cova+MedSpa/data=!4m7!3m6!1s0x884088d67d32561f:0x2cd5c44bee021237!8m2!3d39.6143817!4d-84.1588186!16s%2Fg%2F1tdx4tf_!19sChIJH1YyfdaIQIgRNxIC7kvE1Sw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:36",
+    "keyword": "Med Spas",
+    "name": "Cova Ob/Gyn & Cova MedSpa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Crossroads+Massage+Therapy+LLC/data=!4m7!3m6!1s0x883f7f198a84aa31:0xe228fd832429cbf4!8m2!3d39.8904977!4d-84.195298!16s%2Fg%2F11j3jgx1wv!19sChIJMaqEihl_P4gR9MspJIP9KOI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:59",
+    "keyword": "Med Spas",
+    "name": "Crossroads Massage Therapy LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dayton+Comprehensive+Dentistry/data=!4m7!3m6!1s0x8840835aa09c23bf:0x3d10c846c4c77ef9!8m2!3d39.7592021!4d-84.1118658!16s%2Fg%2F12600jmbd!19sChIJvyOcoFqDQIgR-X7HxEbIED0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:24",
+    "keyword": "Dental Clinics",
+    "name": "Dayton Comprehensive Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dayton+Dental+Care+Unlimited/data=!4m7!3m6!1s0x88408178a759e2e7:0x4296af20d089343!8m2!3d39.7987251!4d-84.1938018!16s%2Fg%2F11j31w1bk9!19sChIJ5-JZp3iBQIgRQ5MIDfJqKQQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:24",
+    "keyword": "Dental Clinics",
+    "name": "Dayton Dental Care Unlimited",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dayton+Dental+Care/data=!4m7!3m6!1s0x883f76f094c67031:0xfd9cb36704a275d!8m2!3d40.0536339!4d-84.221513!16s%2Fg%2F11bxb3hm70!19sChIJMXDGlPB2P4gRXSdKcDbL2Q8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:24",
+    "keyword": "Dental Clinics",
+    "name": "Dayton Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dayton+Powder+Brows/data=!4m7!3m6!1s0x884085cc94932881:0xf1ae77752464e1b7!8m2!3d39.6891407!4d-84.1690388!16s%2Fg%2F11b6t7kwgy!19sChIJgSiTlMyFQIgRt-FkJHV3rvE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:03",
+    "keyword": "Med Spas",
+    "name": "Dayton Powder Brows",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dayton+School+of+Medical+Massage/data=!4m7!3m6!1s0x884085ed0a2ab75b:0xbc59268796d036d6!8m2!3d39.6826477!4d-84.1692733!16s%2Fm%2F0clw8_w!19sChIJW7cqCu2FQIgR1jbQlocmWbw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:06",
+    "keyword": "Med Spas",
+    "name": "Dayton School of Medical Massage",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dental+Smile+Professionals+-+Huber+Heights/data=!4m7!3m6!1s0x883f7d07f8369e81:0x717a7317b68c9747!8m2!3d39.865011!4d-84.14337!16s%2Fg%2F1wh4gjk3!19sChIJgZ42-Ad9P4gRR5eMthdzenE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:22",
+    "keyword": "Dental Clinics",
+    "name": "Dental Smile Professionals - Huber Heights",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dermatology+%26+Aesthetic+Care/data=!4m7!3m6!1s0x88408fa344ddb969:0x710ffa1db8e18a0a!8m2!3d39.6438329!4d-84.1334737!16s%2Fg%2F1tc_05w7!19sChIJabndRKOPQIgRCorhuB36D3E?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:14",
+    "keyword": "Aesthetic Clinics",
+    "name": "Dermatology & Aesthetic Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Doctors+Aesthetic+Clinic/data=!4m7!3m6!1s0x39190390c9003fad:0xb05bcc2d561b5e31!8m2!3d31.4701156!4d74.2600796!16s%2Fg%2F11v720fysn!19sChIJrT8AyZADGTkRMV4bVi3MW7A?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:17",
+    "keyword": "Aesthetic Clinics",
+    "name": "Doctors Aesthetic Clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Jason+Malucci/data=!4m7!3m6!1s0x883f5bb276127e67:0x1aebd7020520de3c!8m2!3d39.9289301!4d-83.8084733!16s%2Fg%2F11qgb76wj4!19sChIJZ34SdrJbP4gRPN4gBQLX6xo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:05",
+    "keyword": "Med Spas",
+    "name": "Dr. Jason Malucci",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Roz+MD,+MEDSPA+at+Total+Health+and+Wellness+-+Dr.+Rosalind+Mascall+GYN/data=!4m7!3m6!1s0x8840884a092bb9b5:0x8e929c2fcd493cdb!8m2!3d39.6375421!4d-84.248541!16s%2Fg%2F1z449tlbv!19sChIJtbkrCUqIQIgR2zxJzS-cko4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:35",
+    "keyword": "Med Spas",
+    "name": "Dr. Roz MD, MEDSPA at Total Health and Wellness - Dr. Rosalind Mascall GYN",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Elegant+Permanent+Cosmetics+%26+Skin+Care/data=!4m7!3m6!1s0x88408f27e8b39b81:0x323177bc5a6f3cd2!8m2!3d39.6079635!4d-84.1592262!16s%2Fg%2F1tf7bsd2!19sChIJgZuz6CePQIgR0jxvWrx3MTI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:53",
+    "keyword": "Med Spas",
+    "name": "Elegant Permanent Cosmetics & Skin Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Elements+Massage/data=!4m7!3m6!1s0x8840892a52ab0047:0xf3a9245ced1eaedd!8m2!3d39.6267667!4d-84.1893974!16s%2Fg%2F11bcf3drcj!19sChIJRwCrUiqJQIgR3a4e7VwkqfM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:01",
+    "keyword": "Med Spas",
+    "name": "Elements Massage",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Elements+Massage/data=!4m7!3m6!1s0x88409ba1e8ab61bf:0x6252d5b77458efef!8m2!3d39.7260526!4d-84.0561927!16s%2Fg%2F11b7d_68xy!19sChIJv2Gr6KGbQIgR7-9YdLfVUmI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:03",
+    "keyword": "Med Spas",
+    "name": "Elements Massage",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Elevate+You+Dayton/data=!4m7!3m6!1s0x88409b7a9153447f:0x7bc75c4283cebc39!8m2!3d39.7217932!4d-84.0622663!16s%2Fg%2F11wr1dh4dk!19sChIJf0RTkXqbQIgRObzOg0Jcx3s?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:46",
+    "keyword": "Med Spas",
+    "name": "Elevate You Dayton",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Eman+Aesthetics/data=!4m7!3m6!1s0x88408f14e2d2f057:0xf22169bbc7705d77!8m2!3d39.663171!4d-84.1081098!16s%2Fg%2F11vwd5z43n!19sChIJV_DS4hSPQIgRd11wx7tpIfI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:32",
+    "keyword": "Med Spas",
+    "name": "Eman Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Emergency+Dental+of+Dayton/data=!4m7!3m6!1s0x88408f80019ca637:0xfcce71f46820ef0b!8m2!3d39.6684107!4d-84.1646772!16s%2Fg%2F11wqmylp0k!19sChIJN6acAYCPQIgRC-8gaPRxzvw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:22",
+    "keyword": "Dental Clinics",
+    "name": "Emergency Dental of Dayton",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Enduring+Youth+-+Waynesville/data=!4m7!3m6!1s0x884088d65b747b2f:0x3543a26238971385!8m2!3d39.6373739!4d-84.1057667!16s%2Fg%2F1yf_9rqx_!19sChIJL3t0W9aIQIgRhROXOGKiQzU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:57",
+    "keyword": "Med Spas",
+    "name": "Enduring Youth - Waynesville",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Exhale+Esthetics/data=!4m7!3m6!1s0x8840898b59e31f51:0xd390965a5411757!8m2!3d39.6269403!4d-84.1867527!16s%2Fg%2F11k52_23r3!19sChIJUR_jWYuJQIgRVxdBpWUJOQ0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:50",
+    "keyword": "Med Spas",
+    "name": "Exhale Esthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Face+Forward+Aesthetics/data=!4m7!3m6!1s0x88409d8a730fa1d5:0x913f080607f3c4e8!8m2!3d39.7560264!4d-84.0559259!16s%2Fg%2F11fn9hywm6!19sChIJ1aEPc4qdQIgR6MTzBwYIP5E?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:28",
+    "keyword": "Med Spas",
+    "name": "Face Forward Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/FaceTime+MedSpa/data=!4m7!3m6!1s0x88408928b947b825:0xca0fd725de5f5b71!8m2!3d39.6250864!4d-84.197749!16s%2Fg%2F11c72t0lzx!19sChIJJbhHuSiJQIgRcVtf3iXXD8o?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:48",
+    "keyword": "Med Spas",
+    "name": "FaceTime MedSpa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Five+Rivers+Dental+Clinic/data=!4m7!3m6!1s0x8840a27de8e14825:0xea79cb3493e3fdd7!8m2!3d39.7009811!4d-83.9260177!16s%2Fg%2F11g02crybr!19sChIJJUjh6H2iQIgR1_3jkzTLeeo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:22",
+    "keyword": "Dental Clinics",
+    "name": "Five Rivers Dental Clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Flawless+Aesthetics/data=!4m7!3m6!1s0x883f5bc21c24bc7d:0x54d021975b94ffe2!8m2!3d39.953172!4d-83.7891345!16s%2Fg%2F11rmwc0rwz!19sChIJfbwkHMJbP4gR4v-UW5ch0FQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:36",
+    "keyword": "Med Spas",
+    "name": "Flawless Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Forty+Eight+Salon+%26+Spa/data=!4m7!3m6!1s0x88408f1a2bb50c55:0x58ce6937a73e1f9a!8m2!3d39.5765579!4d-84.2292174!16s%2Fg%2F11r7w0z3z0!19sChIJVQy1KxqPQIgRmh8-pzdpzlg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:03",
+    "keyword": "Med Spas",
+    "name": "Forty Eight Salon & Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Gameday+Men%E2%80%99s+Health+Centerville,+OH/data=!4m7!3m6!1s0x88408fdd0600dca9:0x31da1349fe635488!8m2!3d39.6318945!4d-84.1787352!16s%2Fg%2F11w21c1hvd!19sChIJqdwABt2PQIgRiFRj_kkT2jE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:53",
+    "keyword": "Med Spas",
+    "name": "Gameday Men’s Health Centerville, OH",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Gary+Palmer,+MD/data=!4m7!3m6!1s0x88408f0baf0c365d:0xcb7f362bc3abbfa4!8m2!3d39.6459222!4d-84.1468674!16s%2Fg%2F1tj1ss1z!19sChIJXTYMrwuPQIgRpL-rwys2f8s?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:05",
+    "keyword": "Med Spas",
+    "name": "Gary Palmer, MD",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Godiva+Medspa+Centerville/data=!4m7!3m6!1s0x88408faab56d1ef1:0x488ed08b830ec3b!8m2!3d39.627584!4d-84.144114!16s%2Fg%2F12qg9gfgq!19sChIJ8R5ttaqPQIgRO-wwuAjtiAQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:28",
+    "keyword": "Med Spas",
+    "name": "Godiva Medspa Centerville",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Godiva+Medspa+Englewood/data=!4m7!3m6!1s0x883f81889733f037:0xd46985b099202daa!8m2!3d39.862533!4d-84.2858793!16s%2Fg%2F11fqrqjn45!19sChIJN_Azl4iBP4gRqi0gmbCFadQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:28",
+    "keyword": "Med Spas",
+    "name": "Godiva Medspa Englewood",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Golden+Aesthetics+Luxury+Medspa/data=!4m7!3m6!1s0x88408fd84063b4a7:0xc7d4597492c715e!8m2!3d39.6373275!4d-84.087972!16s%2Fg%2F11gdqwb8fj!19sChIJp7RjQNiPQIgRXnEsSZdFfQw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:28",
+    "keyword": "Med Spas",
+    "name": "Golden Aesthetics Luxury Medspa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/HYALOOK+RX/data=!4m7!3m6!1s0x731931b186ef4df:0x12c156e0a5a1f04!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11n9bb43y0!19sChIJ3_RuGBuTMQcRBB9aCm4VLAE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:03",
+    "keyword": "Med Spas",
+    "name": "HYALOOK RX",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Harmony+Day+Spa/data=!4m7!3m6!1s0x883f65a882d6414d:0xa9a18b031a37ca48!8m2!3d39.9405109!4d-84.0237691!16s%2Fg%2F11tx6d3x4t!19sChIJTUHWgqhlP4gRSMo3GgOLoak?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:55",
+    "keyword": "Med Spas",
+    "name": "Harmony Day Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Hidden+Gem+Massage/data=!4m7!3m6!1s0x884087520ba87971:0x179d9a2346a8d2a7!8m2!3d39.6323927!4d-84.157366!16s%2Fg%2F11kc8jjdfh!19sChIJcXmoC1KHQIgRp9KoRiOanRc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:57",
+    "keyword": "Med Spas",
+    "name": "Hidden Gem Massage",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/House+of+Restoration+Mental+and+Medical+Oasis/data=!4m7!3m6!1s0x884089d150045a55:0xec047904bfbc4b1b!8m2!3d39.6382581!4d-84.2186281!16s%2Fg%2F11p66g2lwk!19sChIJVVoEUNGJQIgRG0u8vwR5BOw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:46",
+    "keyword": "Med Spas",
+    "name": "House of Restoration Mental and Medical Oasis",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Hyaluron+Spa+%26+Cryotherapy+Solutions/data=!4m7!3m6!1s0x8840892062823f75:0xc1503670ae16e8a1!8m2!3d39.6437676!4d-84.1335759!16s%2Fg%2F11p02g4z20!19sChIJdT-CYiCJQIgRoegWrnA2UME?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:33",
+    "keyword": "Med Spas",
+    "name": "Hyaluron Spa & Cryotherapy Solutions",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Ideal+Image+Dayton/data=!4m7!3m6!1s0x884085330f173969:0xf569ca390b211144!8m2!3d39.6946526!4d-84.1039119!16s%2Fg%2F11_dsrrjd!19sChIJaTkXDzOFQIgRRBEhCznKafU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:35",
+    "keyword": "Med Spas",
+    "name": "Ideal Image Dayton",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/J%26A+Health+and+Wellness+Services/data=!4m7!3m6!1s0x88409bf2a1c1da8d:0xe9c5e114cbbf7ff3!8m2!3d39.7300047!4d-84.0566137!16s%2Fg%2F11tjw56ccr!19sChIJjdrBofKbQIgR83-_yxThxek?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:33",
+    "keyword": "Med Spas",
+    "name": "J&A Health and Wellness Services",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Jiva+Med+Spa+Dayton/data=!4m7!3m6!1s0x88409ace526cb33b:0xda8ce7fe9a77ef4a!8m2!3d39.6950259!4d-84.0942805!16s%2Fg%2F1tqclx7m!19sChIJO7NsUs6aQIgRSu93mv7njNo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:30",
+    "keyword": "Med Spas",
+    "name": "Jiva Med Spa Dayton",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Juve+Health+%26+Wellness/data=!4m7!3m6!1s0x6b0e7c0c8d977573:0xa6f7adcf9e9514de!8m2!3d37.6854265!4d-83.6368655!16s%2Fg%2F11y7jpjy6l!19sChIJc3WXjQx8DmsR3hSVns-t96Y?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:08",
+    "keyword": "Med Spas",
+    "name": "Juve Health & Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Kate+Edmondson,+LE+-+Advanced+Skin+Specialist/data=!4m7!3m6!1s0x884085b0a49dfa23:0x4cb68f70665af876!8m2!3d39.7341741!4d-84.1803963!16s%2Fg%2F11fql8c9hs!19sChIJI_qdpLCFQIgRdvhaZnCPtkw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:55",
+    "keyword": "Med Spas",
+    "name": "Kate Edmondson, LE - Advanced Skin Specialist",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Keep+Smiling+Dental+-+Lakeview/data=!4m7!3m6!1s0x88409c62dd93dde7:0xf802bc0dd897d7c8!8m2!3d39.7586799!4d-84.0568411!16s%2Fg%2F1tj538ft!19sChIJ592T3WKcQIgRyNeX2A28Avg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:24",
+    "keyword": "Dental Clinics",
+    "name": "Keep Smiling Dental - Lakeview",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Kettering+Spa/data=!4m7!3m6!1s0x884085967ff91bcf:0xf18794d4b0c20834!8m2!3d39.6962367!4d-84.1068723!16s%2Fg%2F11gsn1lrzr!19sChIJzxv5f5aFQIgRNAjCsNSUh_E?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:01",
+    "keyword": "Med Spas",
+    "name": "Kettering Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/LaDeDa+Le+Salon+20%2B+years+in+business/data=!4m7!3m6!1s0x884085ccecc72443:0x42b8a63b6a6b3642!8m2!3d39.7102528!4d-84.1715717!16s%2Fg%2F1tcw496r!19sChIJQyTH7MyFQIgRQjZrajumuEI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:55",
+    "keyword": "Med Spas",
+    "name": "LaDeDa Le Salon 20+ years in business",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Lisa+Bricker+Skin+Care+Specialist/data=!4m7!3m6!1s0x883f775fc7ad40f9:0x8052cffa672d3fd8!8m2!3d40.0318049!4d-84.2116408!16s%2Fg%2F11h_6xwrnq!19sChIJ-UCtx193P4gR2D8tZ_rPUoA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:59",
+    "keyword": "Med Spas",
+    "name": "Lisa Bricker Skin Care Specialist",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Loft+23+Spa/data=!4m7!3m6!1s0x884088d672fb5b2d:0x2578346e32c1538!8m2!3d39.631189!4d-84.1747989!16s%2Fg%2F11cp1f1ltg!19sChIJLVv7ctaIQIgROBUs40aDVwI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:46",
+    "keyword": "Med Spas",
+    "name": "Loft 23 Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Love+the+Skin+You%27re+In!+Nursing+and+Aesthetics+Svcs.,+LLC/data=!4m7!3m6!1s0x88408fcbe0c50149:0x950adb131c4ee171!8m2!3d39.6397824!4d-84.1021718!16s%2Fg%2F11x68zwftd!19sChIJSQHF4MuPQIgRceFOHBPbCpU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:35",
+    "keyword": "Med Spas",
+    "name": "Love the Skin You're In! Nursing and Aesthetics Svcs., LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Lush+Aesthetics/data=!4m7!3m6!1s0x883f814d7b9799a3:0xe30b3e2961f838ab!8m2!3d39.8618999!4d-84.2877332!16s%2Fg%2F11vbcdwcgc!19sChIJo5mXe02BP4gRqzj4YSk-C-M?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:38",
+    "keyword": "Med Spas",
+    "name": "Lush Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Mandell-Brown+Plastic+Surgery+Center+%28Springboro%29/data=!4m7!3m6!1s0x88408b2d7343ddc1:0x64704df7853d07d4!8m2!3d39.5805531!4d-84.2249979!16s%2Fg%2F11tkb3bjng!19sChIJwd1Dcy2LQIgR1Ac9hfdNcGQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:01",
+    "keyword": "Med Spas",
+    "name": "Mandell-Brown Plastic Surgery Center (Springboro)",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Marta+Rey+European+%26+Clinical+Skin+Care/data=!4m7!3m6!1s0x88408f0ba067851b:0xea20abda4d562e44!8m2!3d39.6847172!4d-84.1692222!16s%2Fg%2F1tct9d87!19sChIJG4VnoAuPQIgRRC5WTdqrIOo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:48",
+    "keyword": "Med Spas",
+    "name": "Marta Rey European & Clinical Skin Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Massage+Envy/data=!4m7!3m6!1s0x88408532e0860f41:0xb1c46f8d7eea5b21!8m2!3d39.695704!4d-84.10266!16s%2Fg%2F1v5_b351!19sChIJQQ-G4DKFQIgRIVvqfo1vxLE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:05",
+    "keyword": "Med Spas",
+    "name": "Massage Envy",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Massage+Envy/data=!4m7!3m6!1s0x8840897554910329:0x9b66a7c56b3e7877!8m2!3d39.6120525!4d-84.2269671!16s%2Fg%2F119wyv5fq!19sChIJKQORVHWJQIgRd3g-a8WnZps?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:06",
+    "keyword": "Med Spas",
+    "name": "Massage Envy",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Massage+Envy/data=!4m7!3m6!1s0x88409c5c4d012e13:0xe1b4c590b6f5d70d!8m2!3d39.7692054!4d-84.0503103!16s%2Fg%2F11b6d9jgm3!19sChIJEy4BTVycQIgRDdf1tpDFtOE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:06",
+    "keyword": "Med Spas",
+    "name": "Massage Envy",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Medical+Massage+Associates,+LLC/data=!4m7!3m6!1s0x88408fd88507719b:0xd89361b2c38ff3f9!8m2!3d39.6906565!4d-84.1692736!16s%2Fg%2F1tdwwcfw!19sChIJm3EHhdiPQIgR-fOPw7Jhk9g?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:01",
+    "keyword": "Med Spas",
+    "name": "Medical Massage Associates, LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Medical+Massage+By+Michelle/data=!4m7!3m6!1s0x884085eab8b1ec13:0x89e81c1ed059788a!8m2!3d39.6897826!4d-84.1655662!16s%2Fg%2F11bwqbl0qv!19sChIJE-yxuOqFQIgRinhZ0B4c6Ik?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:01",
+    "keyword": "Med Spas",
+    "name": "Medical Massage By Michelle",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Mergence+Esthetics/data=!4m7!3m6!1s0x883f5b65fe1651c9:0x1b9340224401d6b6!8m2!3d39.9754012!4d-83.7654956!16s%2Fg%2F11qg2_qpln!19sChIJyVEW_mVbP4gRttYBRCJAkxs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:46",
+    "keyword": "Med Spas",
+    "name": "Mergence Esthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Merit+Dental+-+Kettering,+OH/data=!4m7!3m6!1s0x884085ed0b3efc45:0x343b9c6a3e857d4d!8m2!3d39.6818872!4d-84.1688345!16s%2Fg%2F1td20ymk!19sChIJRfw-C-2FQIgRTX2FPmqcOzQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:24",
+    "keyword": "Dental Clinics",
+    "name": "Merit Dental - Kettering, OH",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Miami+County+Dental+Clinic/data=!4m7!3m6!1s0x883f76f93d348599:0xa164be7852a2aa54!8m2!3d40.0515582!4d-84.2380454!16s%2Fg%2F1tg_b4sw!19sChIJmYU0Pfl2P4gRVKqiUni-ZKE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:24",
+    "keyword": "Dental Clinics",
+    "name": "Miami County Dental Clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Miami+Valley+Hospital+Dental+Center/data=!4m7!3m6!1s0x884086a876e5f445:0x848b43dda5b5bd19!8m2!3d39.745569!4d-84.1844696!16s%2Fg%2F1tpbcnp1!19sChIJRfTldqiGQIgRGb21pd1Di4Q?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:22",
+    "keyword": "Dental Clinics",
+    "name": "Miami Valley Hospital Dental Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Michael%27s+Salon+and+Spa/data=!4m7!3m6!1s0x88408f0eaa6dc8df:0xbbddb663a8836256!8m2!3d39.6455742!4d-84.1502088!16s%2Fg%2F1tp0fbrc!19sChIJ38htqg6PQIgRVmKDqGO23bs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:05",
+    "keyword": "Med Spas",
+    "name": "Michael's Salon and Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Midwest+Vein+and+Laser/data=!4m7!3m6!1s0x883f7e88dec1443f:0x7d9cd5df237ec963!8m2!3d39.8815657!4d-84.1986718!16s%2Fg%2F11f5d4px50!19sChIJP0TB3oh-P4gRY8l-I9_VnH0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:48",
+    "keyword": "Med Spas",
+    "name": "Midwest Vein and Laser",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Midwest+Vein+and+Laser/data=!4m7!3m6!1s0x88408ed927ad48fd:0xb0fb09b8fd239cc!8m2!3d39.6266343!4d-84.1708297!16s%2Fg%2F1tdcmn7_!19sChIJ_UitJ9mOQIgRzDnSj5uwDws?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:48",
+    "keyword": "Med Spas",
+    "name": "Midwest Vein and Laser",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Milan+Laser+Hair+Removal/data=!4m7!3m6!1s0x88408f41e7726f0b:0x3104c662ef2583df!8m2!3d39.6583455!4d-84.1087534!16s%2Fg%2F11k69_n6_c!19sChIJC29y50GPQIgR34Ml72LGBDE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:53",
+    "keyword": "Med Spas",
+    "name": "Milan Laser Hair Removal",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Mirmaid+Esthetics/data=!4m7!3m6!1s0x88409d0a30ae604d:0x80f29c26f2aee711!8m2!3d39.7208404!4d-84.0646409!16s%2Fg%2F11h1fzvd82!19sChIJTWCuMAqdQIgREeeu8iac8oA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:17",
+    "keyword": "Aesthetic Clinics",
+    "name": "Mirmaid Esthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/M~Esthetics+Wellness,+Weight+Loss+%26+IV+Hydration/data=!4m7!3m6!1s0x883f5b545396ac83:0x69d64a53c960974e!8m2!3d39.9754012!4d-83.7654956!16s%2Fg%2F11jsvp6235!19sChIJg6yWU1RbP4gRTpdgyVNK1mk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:32",
+    "keyword": "Med Spas",
+    "name": "M~Esthetics Wellness, Weight Loss & IV Hydration",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Oakwood+Aesthetic+Skin+Care/data=!4m7!3m6!1s0x88408524927f3d45:0xc2cb14d67de1d850!8m2!3d39.7169966!4d-84.1607757!16s%2Fg%2F11mck_vfs5!19sChIJRT1_kiSFQIgRUNjhfdYUy8I?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:57",
+    "keyword": "Med Spas",
+    "name": "Oakwood Aesthetic Skin Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Orient+Spa/data=!4m7!3m6!1s0x8840856d18df9147:0xc7f2e07889b86183!8m2!3d39.6872613!4d-84.1293458!16s%2Fg%2F11b6z3yx0n!19sChIJR5HfGG2FQIgRg2G4iXjg8sc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:59",
+    "keyword": "Med Spas",
+    "name": "Orient Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Pampering+Palms+Therapeutic+Massage/data=!4m7!3m6!1s0x883f7ef37a7f0aaf:0x1c10c673c71e5352!8m2!3d39.8838272!4d-84.2090454!16s%2Fg%2F1q5hrjc91!19sChIJrwp_evN-P4gRUlMex3PGEBw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:55",
+    "keyword": "Med Spas",
+    "name": "Pampering Palms Therapeutic Massage",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Posh+Petals+Spa/data=!4m7!3m6!1s0x8840890e7e95349b:0xe40ecc64426e04e0!8m2!3d39.7382103!4d-84.0864858!16s%2Fg%2F11hhjd727y!19sChIJmzSVfg6JQIgR4ARuQmTMDuQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:35",
+    "keyword": "Med Spas",
+    "name": "Posh Petals Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Preferred+Family+Dental+-+Dayton/data=!4m7!3m6!1s0x883f801e698417b1:0xad64abdc80c7f419!8m2!3d39.8539476!4d-84.2743888!16s%2Fg%2F1vxf_vlq!19sChIJsReEaR6AP4gRGfTHgNyrZK0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:22",
+    "keyword": "Dental Clinics",
+    "name": "Preferred Family Dental - Dayton",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Premier+Medspa/data=!4m7!3m6!1s0x88409c6409cc11ad:0x61f35f357992340c!8m2!3d39.7443472!4d-84.1225014!16s%2Fg%2F11fyzbphgq!19sChIJrRHMCWScQIgRDDSSeTVf82E?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:33",
+    "keyword": "Med Spas",
+    "name": "Premier Medspa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Pure+Aesthetics+Medical+Spa/data=!4m7!3m6!1s0x88408fcb8017e1c5:0xe6983efeac999395!8m2!3d39.6684107!4d-84.1646772!16s%2Fg%2F11q3__lzn2!19sChIJxeEXgMuPQIgRlZOZrP4-mOY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:32",
+    "keyword": "Med Spas",
+    "name": "Pure Aesthetics Medical Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Pure+Glow+Wellness/data=!4m7!3m6!1s0xc102c11d22b441f:0x87484c5e84da92f7!8m2!3d40.051556!4d-84.1931297!16s%2Fg%2F11kk6qz40w!19sChIJH0Qr0hEsEAwR95LahF5MSIc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:36",
+    "keyword": "Med Spas",
+    "name": "Pure Glow Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Pure+Lux+Day+Spa/data=!4m7!3m6!1s0x883f7bb76d7df889:0xb839f77e3c8cde01!8m2!3d39.9605636!4d-84.1837547!16s%2Fg%2F11xgnhl6fs!19sChIJifh9bbd7P4gRAd6MPH73Obg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:38",
+    "keyword": "Med Spas",
+    "name": "Pure Lux Day Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/PureMD+MedSpa/data=!4m7!3m6!1s0x8840835f6cf1ecdd:0xa8f1341f51a35fa!8m2!3d39.7515431!4d-84.1191049!16s%2Fg%2F1ptwdvpz1!19sChIJ3ezxbF-DQIgR-jUa9UETjwo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:32",
+    "keyword": "Med Spas",
+    "name": "PureMD MedSpa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/PureMD+MedSpa/data=!4m7!3m6!1s0x88409accbd0693d5:0x159a5e6a5c8125e5!8m2!3d39.6931651!4d-84.1014594!16s%2Fg%2F1ttq2snr!19sChIJ1ZMGvcyaQIgR5SWBXGpemhU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:30",
+    "keyword": "Med Spas",
+    "name": "PureMD MedSpa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Rahn+Dental/data=!4m7!3m6!1s0x88408f66a6142207:0x6493545aa8a9a281!8m2!3d39.664337!4d-84.159575!16s%2Fg%2F1tvw5l_r!19sChIJByIUpmaPQIgRgaKpqFpUk2Q?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:24",
+    "keyword": "Dental Clinics",
+    "name": "Rahn Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/ReSculpt+Aesthetics/data=!4m7!3m6!1s0x88409d5e9970a94b:0x27ea6b76772517db!8m2!3d39.7300047!4d-84.0566138!16s%2Fg%2F11wjhphz8g!19sChIJS6lwmV6dQIgR2xcld3Zr6ic?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:38",
+    "keyword": "Med Spas",
+    "name": "ReSculpt Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Renew+Boutique+and+Spa/data=!4m7!3m6!1s0x8840876a688099ed:0xe44710ec0ef8686d!8m2!3d39.6960656!4d-84.1900367!16s%2Fg%2F11j8zfqnb6!19sChIJ7ZmAaGqHQIgRbWj4DuwQR-Q?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:01",
+    "keyword": "Med Spas",
+    "name": "Renew Boutique and Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Renew+U+Troy/data=!4m7!3m6!1s0x883f77082915d029:0x610ac2af6bae3caa!8m2!3d40.0411794!4d-84.207422!16s%2Fg%2F11wvk6djf2!19sChIJKdAVKQh3P4gRqjyua6_CCmE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:48",
+    "keyword": "Med Spas",
+    "name": "Renew U Troy",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Renovate+Health+and+Wellness/data=!4m7!3m6!1s0xd29dca497a2dccb:0x374ee80bfbbf24a3!8m2!3d39.6394833!4d-84.2697173!16s%2Fg%2F11w36nn79j!19sChIJy9yil6TcKQ0RoyS_-wvoTjc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:50",
+    "keyword": "Med Spas",
+    "name": "Renovate Health and Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Renue+Health/data=!4m7!3m6!1s0x88408bcda39597f1:0x37b3cb2a143fd8d4!8m2!3d39.6115386!4d-84.2263521!16s%2Fg%2F12hn1w79l!19sChIJ8ZeVo82LQIgR1Ng_FCrLszc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:48",
+    "keyword": "Med Spas",
+    "name": "Renue Health",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Restore+Hyper+Wellness/data=!4m7!3m6!1s0x88409d850860e589:0x546e74a8a29b4a93!8m2!3d39.7704386!4d-84.050809!16s%2Fg%2F11rtyzxx6m!19sChIJieVgCIWdQIgRk0qboqh0blQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:35",
+    "keyword": "Med Spas",
+    "name": "Restore Hyper Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Royal+Grand+Wellness+Spa/data=!4m7!3m6!1s0x883f7f1ebbaf1cdd:0x71d4c421af81200d!8m2!3d39.8237416!4d-84.290664!16s%2Fg%2F11ptr52kwf!19sChIJ3Ryvux5_P4gRDSCBryHE1HE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:53",
+    "keyword": "Med Spas",
+    "name": "Royal Grand Wellness Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/SAS+Med+Spa/data=!4m7!3m6!1s0x883f5badeb448411:0x7a900e296f4d300a!8m2!3d39.9646397!4d-83.7877655!16s%2Fg%2F11cs6c63t0!19sChIJEYRE661bP4gRCjBNbykOkHo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:28",
+    "keyword": "Med Spas",
+    "name": "SAS Med Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Schulte+Wellness/data=!4m7!3m6!1s0x883f7969851c4831:0x53c59209b611647d!8m2!3d39.9870167!4d-84.1962581!16s%2Fg%2F11sg6ckz5t!19sChIJMUgchWl5P4gRfWQRtgmSxVM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:53",
+    "keyword": "Med Spas",
+    "name": "Schulte Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Serene+Moments+MedSpa/data=!4m7!3m6!1s0x883f7fd73e8a10fd:0xf9bd49868bdbcb0!8m2!3d39.8842689!4d-84.2237488!16s%2Fg%2F11ty4_nmw6!19sChIJ_RCKPtd_P4gRsLy9aJjUmw8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:28",
+    "keyword": "Med Spas",
+    "name": "Serene Moments MedSpa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Sesslar+Family+Medical+Center/data=!4m7!3m6!1s0x88408f98949153bb:0x8b4a7fc70ae39f13!8m2!3d39.6497975!4d-84.1374356!16s%2Fg%2F1q62c5h0p!19sChIJu1ORlJiPQIgRE5_jCsd_Sos?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:05",
+    "keyword": "Med Spas",
+    "name": "Sesslar Family Medical Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Shanti+Medical+Massage+Clinic,+LLC/data=!4m7!3m6!1s0x88408f604c700491:0x16d0fbc217cfed5f!8m2!3d39.630763!4d-84.1744499!16s%2Fg%2F1tmqs0_3!19sChIJkQRwTGCPQIgRX-3PF8L70BY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:57",
+    "keyword": "Med Spas",
+    "name": "Shanti Medical Massage Clinic, LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Siebenthaler+Dental+Center/data=!4m7!3m6!1s0x884081aae94df4df:0x7fb08ac1d70f3487!8m2!3d39.7987863!4d-84.2273719!16s%2Fg%2F1tq6krr8!19sChIJ3_RN6aqBQIgRhzQP18GKsH8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:22",
+    "keyword": "Dental Clinics",
+    "name": "Siebenthaler Dental Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Simply+Skin+%26+Wellness/data=!4m7!3m6!1s0x88408a357fdf29c9:0x26a5dd5c1f7ec79a!8m2!3d39.5713801!4d-84.2301709!16s%2Fg%2F11cs4gpk59!19sChIJySnffzWKQIgRmsd-H1zdpSY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:14",
+    "keyword": "Aesthetic Clinics",
+    "name": "Simply Skin & Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Soin+Medical+Center+-+Kettering+Health/data=!4m7!3m6!1s0x88409cf45c704991:0xf5ecc459e9fccbbe!8m2!3d39.7708926!4d-84.0624667!16s%2Fm%2F0j65v6k!19sChIJkUlwXPScQIgRvsv86VnE7PU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:01",
+    "keyword": "Med Spas",
+    "name": "Soin Medical Center - Kettering Health",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Southwest+Ohio+Ketamine+TMS+and+IV+Therapy/data=!4m7!3m6!1s0x61c19130babc866f:0x16f6f522c34cb398!8m2!3d39.7300567!4d-84.0571169!16s%2Fg%2F11s34r3zms!19sChIJb4a8ujCRwWERmLNMwyL19hY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:50",
+    "keyword": "Med Spas",
+    "name": "Southwest Ohio Ketamine TMS and IV Therapy",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Spa+Medicca/data=!4m7!3m6!1s0x88408f98943f786f:0x9a7233a5528fd791!8m2!3d39.651996!4d-84.1333873!16s%2Fg%2F1tftlx00!19sChIJb3g_lJiPQIgRkdePUqUzcpo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:28",
+    "keyword": "Med Spas",
+    "name": "Spa Medicca",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Swoon+Salon+and+Spa/data=!4m7!3m6!1s0x88408f1dc461c001:0x555b558281b6ec!8m2!3d39.6306327!4d-84.1584999!16s%2Fg%2F11fxff1yym!19sChIJAcBhxB2PQIgR7LaBglVbVQA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:05",
+    "keyword": "Med Spas",
+    "name": "Swoon Salon and Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/TakeTatt+Tattoo+Removal/data=!4m7!3m6!1s0x884089bcfd508a63:0x4b9bca7b3479c98c!8m2!3d39.6354873!4d-84.2184073!16s%2Fg%2F11ry6brym7!19sChIJY4pQ_byJQIgRjMl5NHvKm0s?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:59",
+    "keyword": "Med Spas",
+    "name": "TakeTatt Tattoo Removal",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/The+Beauty+Beneath/data=!4m7!3m6!1s0x883f7feb3d6249d3:0xc0bca274562c6c32!8m2!3d39.8844818!4d-84.2244917!16s%2Fg%2F11rd300vb2!19sChIJ00liPet_P4gRMmwsVnSivMA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:36",
+    "keyword": "Med Spas",
+    "name": "The Beauty Beneath",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Timeless+Skin+Solutions+%7C+Kettering/data=!4m7!3m6!1s0x88408f19697836c3:0x7589acaadc559108!8m2!3d39.6698492!4d-84.1624223!16s%2Fg%2F11y7ct9338!19sChIJwzZ4aRmPQIgRCJFV3KqsiXU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:36",
+    "keyword": "Med Spas",
+    "name": "Timeless Skin Solutions | Kettering",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Tinted+Aesthetics/data=!4m7!3m6!1s0x883f77ba055909e9:0x31f9c8e12fc11dac!8m2!3d40.0487813!4d-84.2252244!16s%2Fg%2F11mlygd5_3!19sChIJ6QlZBbp3P4gRrB3BL-HI-TE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:15",
+    "keyword": "Aesthetic Clinics",
+    "name": "Tinted Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Total+Image+Salon+%26+Day+Spa/data=!4m7!3m6!1s0x883f79e233f2be55:0x57513e31688f2031!8m2!3d39.9976852!4d-84.2013429!16s%2Fg%2F1vfp8wyc!19sChIJVb7yM-J5P4gRMSCPaDE-UVc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:03",
+    "keyword": "Med Spas",
+    "name": "Total Image Salon & Day Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Transforming+Techniques+Skincare+Boutique/data=!4m7!3m6!1s0x88408f65d6f24711:0xec969b35ce9152c4!8m2!3d39.6962278!4d-84.1592354!16s%2Fg%2F1tdcbh5j!19sChIJEUfy1mWPQIgRxFKRzjWbluw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:55",
+    "keyword": "Med Spas",
+    "name": "Transforming Techniques Skincare Boutique",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Turn+Back+Time+Aesthetics+and+Wellness/data=!4m7!3m6!1s0x884091a6c045f44f:0x96c424d7c3595233!8m2!3d39.6359257!4d-84.0722745!16s%2Fg%2F11wg2f46zy!19sChIJT_RFwKaRQIgRM1JZw9ckxJY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:32",
+    "keyword": "Med Spas",
+    "name": "Turn Back Time Aesthetics and Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Van+Buren+Dental/data=!4m7!3m6!1s0x884084f82561ce7b:0xfcfff8788e242602!8m2!3d39.7201461!4d-84.141745!16s%2Fg%2F1tdm8_n7!19sChIJe85hJfiEQIgRAiYkjnj4__w?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:24",
+    "keyword": "Dental Clinics",
+    "name": "Van Buren Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Venom+Aesthetics+%26+Wellness/data=!4m7!3m6!1s0x883f659b5163ffc7:0x6ddf92096fcb476f!8m2!3d39.9408871!4d-84.0250929!16s%2Fg%2F11x8057bh9!19sChIJx_9jUZtlP4gRb0fLbwmS320?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:46",
+    "keyword": "Med Spas",
+    "name": "Venom Aesthetics & Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Viasera+Skincare+Spa/data=!4m7!3m6!1s0x88409c7cfa0680a9:0x98b09244cec59296!8m2!3d39.7551235!4d-84.0557094!16s%2Fg%2F1tm138ps!19sChIJqYAG-nycQIgRlpLFzkSSsJg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:50",
+    "keyword": "Med Spas",
+    "name": "Viasera Skincare Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Vosler+Dental+Office/data=!4m7!3m6!1s0x88408829c0ae9119:0xc988ef2a1ae41554!8m2!3d39.6409948!4d-84.2687332!16s%2Fg%2F1tv24tz2!19sChIJGZGuwCmIQIgRVBXkGirviMk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:51:25",
+    "keyword": "Dental Clinics",
+    "name": "Vosler Dental Office",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Vytality+Blu+Health+%26+Medspa+Yellow+Springs/data=!4m7!3m6!1s0x8840a1ab7ee5e35f:0xd6f5ea9d32174dba!8m2!3d39.803534!4d-83.906006!16s%2Fg%2F11mdj16mk3!19sChIJX-PlfquhQIgRuk0XMp3q9dY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:38",
+    "keyword": "Med Spas",
+    "name": "Vytality Blu Health & Medspa Yellow Springs",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Vytality+Blu+Health+%26+Medspa/data=!4m7!3m6!1s0x8840850b8290661f:0x7e91d650ae3983b9!8m2!3d39.7103043!4d-84.1707809!16s%2Fg%2F11hhc3mrnm!19sChIJH2aQgguFQIgRuYM5rlDWkX4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:36",
+    "keyword": "Med Spas",
+    "name": "Vytality Blu Health & Medspa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Wellness+Center/data=!4m7!3m6!1s0x8840811af24d26cf:0xea602eb37f5b4298!8m2!3d39.767937!4d-84.1927966!16s%2Fg%2F11ny1w5_83!19sChIJzyZN8hqBQIgRmEJbf7MuYOo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:06",
+    "keyword": "Med Spas",
+    "name": "Wellness Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Wilde+Beauty+Collective/data=!4m7!3m6!1s0x884079852f9bff3b:0xd272a35f006ed01e!8m2!3d39.8359638!4d-84.4137185!16s%2Fg%2F11n9t9z8h_!19sChIJO_-bL4V5QIgRHtBuAF-jctI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:17",
+    "keyword": "Aesthetic Clinics",
+    "name": "Wilde Beauty Collective",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Woodhouse+Spa+-+Dayton/data=!4m7!3m6!1s0x88408533554c55ab:0x7d6da0822a3af13e!8m2!3d39.6930364!4d-84.1013301!16s%2Fg%2F12hk6gftb!19sChIJq1VMVTOFQIgRPvE6KoKgbX0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:55",
+    "keyword": "Med Spas",
+    "name": "Woodhouse Spa - Dayton",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Yevo+Semaglutide+%26+Weight+Loss+of+Dayton/data=!4m7!3m6!1s0x270af252d99f618d:0x2a97c55f00a3b62e!8m2!3d39.7762908!4d-84.2229369!16s%2Fg%2F11z1p5d284!19sChIJjWGf2VLyCicRLrajAF_Flyo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:57",
+    "keyword": "Med Spas",
+    "name": "Yevo Semaglutide & Weight Loss of Dayton",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/YhWh+Aesthetics+And+Wellness/data=!4m7!3m6!1s0x88408f41892cb919:0x6f80b68435a0780!8m2!3d39.6412267!4d-84.1618645!16s%2Fg%2F11ltppgd_x!19sChIJGbksiUGPQIgRgAdaQ2gL-AY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:38",
+    "keyword": "Med Spas",
+    "name": "YhWh Aesthetics And Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/Your+CBD+Store+%7C+SUNMED+-+Centerville,+OH/data=!4m7!3m6!1s0x88408f65f4d07f3b:0x4c3581a85fc98734!8m2!3d39.658027!4d-84.108918!16s%2Fg%2F11fnmkwnwc!19sChIJO3_Q9GWPQIgRNIfJX6iBNUw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:06",
+    "keyword": "Med Spas",
+    "name": "Your CBD Store | SUNMED - Centerville, OH",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  },
+  "https://www.google.com/maps/place/p%C4%93komd:+Nickolay+P+Markov,+MD/data=!4m7!3m6!1s0x88408f4a6e62b9c5:0x6999635130819ad6!8m2!3d39.6462263!4d-84.14677!16s%2Fg%2F11v3q8ph3v!19sChIJxblibkqPQIgR1pqBMFFjmWk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:50",
+    "keyword": "Med Spas",
+    "name": "pēkomd: Nickolay P Markov, MD",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Dayton,+OH"
+  }
+}

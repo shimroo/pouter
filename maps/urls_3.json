@@ -1,0 +1,772 @@
+{
+  "https://www.google.com/maps/place/A+Better+You+Med+Spa/data=!4m7!3m6!1s0x885c2f99bffd56c1:0x8ad2310c2c15ae7c!8m2!3d35.912594!4d-84.092678!16s%2Fg%2F11hdfpctt7!19sChIJwVb9v5kvXIgRfK4VLAwx0oo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:33",
+    "keyword": "Med Spas",
+    "name": "A Better You Med Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Above+and+Beyond+Aesthetics+and+Wellness/data=!4m7!3m6!1s0x885c05228bd67cb9:0xaf3bd5ef4526eaa0!8m2!3d35.8703875!4d-83.758982!16s%2Fg%2F11wbvcpgf9!19sChIJuXzWiyIFXIgRoOomRe_VO68?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:35",
+    "keyword": "Med Spas",
+    "name": "Above and Beyond Aesthetics and Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Adam+Eve+Medispa/data=!4m7!3m6!1s0x885c2fd014407401:0x4ba98d1bba06d5e2!8m2!3d35.8856141!4d-84.1556746!16s%2Fg%2F11vm1_r1_t!19sChIJAXRAFNAvXIgR4tUGuhuNqUs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:57",
+    "keyword": "Med Spas",
+    "name": "Adam Eve Medispa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Aesthetic+Elevation+Knoxville/data=!4m7!3m6!1s0x885c23248a4c1257:0xe9dbe1be8fc707bb!8m2!3d35.9371426!4d-84.0147505!16s%2Fg%2F11tnw6mx4j!19sChIJVxJMiiQjXIgRuwfHj77h2-k?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:36",
+    "keyword": "Med Spas",
+    "name": "Aesthetic Elevation Knoxville",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Ageless+Medical+Spa/data=!4m7!3m6!1s0x885c2e8e265668b1:0x89c4a8f7afaa85e9!8m2!3d35.8951004!4d-84.171951!16s%2Fg%2F1tdcmpn2!19sChIJsWhWJo4uXIgR6YWqr_eoxIk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:28",
+    "keyword": "Med Spas",
+    "name": "Ageless Medical Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Align+Health/data=!4m7!3m6!1s0x885e9c28b2d1f64f:0x8055ef2c09245230!8m2!3d35.7123864!4d-84.022807!16s%2Fg%2F1vd72138!19sChIJT_bRsiicXogRMFIkCSzvVYA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:05",
+    "keyword": "Med Spas",
+    "name": "Align Health",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Anti-Aging+Medical+Spa,+Inc/data=!4m7!3m6!1s0x885c3e9e3072fd5b:0x7957dfa06f2bea7c!8m2!3d36.026731!4d-83.9921651!16s%2Fg%2F1v_sny_z!19sChIJW_1yMJ4-XIgRfOorb6DfV3k?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:36",
+    "keyword": "Med Spas",
+    "name": "Anti-Aging Medical Spa, Inc",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Arabella+Medical+Aesthetics/data=!4m7!3m6!1s0x885c255a6b147adb:0xd8d09366cbb0644e!8m2!3d35.9095507!4d-84.0792552!16s%2Fg%2F11j7yww4tw!19sChIJ23oUa1olXIgRTmSwy2aT0Ng?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:35",
+    "keyword": "Med Spas",
+    "name": "Arabella Medical Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Astra+Aesthetics/data=!4m7!3m6!1s0x885e9fe96bbd35ef:0x3b101ece35a147ad!8m2!3d35.970932!4d-83.918304!16s%2Fg%2F11s8y5nb71!19sChIJ7zW9a-mfXogRrUehNc4eEDs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:38",
+    "keyword": "Med Spas",
+    "name": "Astra Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Authentic+Medical+Aesthetics+%26+Wellness/data=!4m7!3m6!1s0x885e9f972aeb8e93:0x57a5aba4f6bb7e21!8m2!3d35.7517657!4d-83.9777652!16s%2Fg%2F11k3rwj3q6!19sChIJk47rKpefXogRIX679qSrpVc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:36",
+    "keyword": "Med Spas",
+    "name": "Authentic Medical Aesthetics & Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/BYou+Laser+Clinic+-+Knoxville+Tennessee/data=!4m7!3m6!1s0x885c250d4d5cd41b:0x494d2f5953340890!8m2!3d35.9291927!4d-84.0310288!16s%2Fg%2F11m62ncq4y!19sChIJG9RcTQ0lXIgRkAg0U1kvTUk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:55",
+    "keyword": "Med Spas",
+    "name": "BYou Laser Clinic - Knoxville Tennessee",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Bear+Haven+-+Cove+Mountain+Resorts/data=!4m7!3m6!1s0x885eaa1a3d2f5b2f:0x201cdb31ee1e002f!8m2!3d35.7332252!4d-83.6682295!16s%2Fg%2F11d_c5q1c7!19sChIJL1svPRqqXogRLwAe7jHbHCA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:07",
+    "keyword": "Med Spas",
+    "name": "Bear Haven - Cove Mountain Resorts",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Beautique+Medical+Anti-Aging+Dandridge/data=!4m7!3m6!1s0x885bf3d692bfc51d:0x6d063be8c511f0a1!8m2!3d36.0469025!4d-83.456545!16s%2Fg%2F11vk7fnkwp!19sChIJHcW_ktbzW4gRofARxeg7Bm0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:52",
+    "keyword": "Med Spas",
+    "name": "Beautique Medical Anti-Aging Dandridge",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Beautique+Medical+Anti-Aging/data=!4m7!3m6!1s0x885c2f05eae55555:0x9ff4e868831ce691!8m2!3d35.8961894!4d-84.1341552!16s%2Fg%2F11ghr1f786!19sChIJVVXl6gUvXIgRkeYcg2jo9J8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:28",
+    "keyword": "Med Spas",
+    "name": "Beautique Medical Anti-Aging",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Bello+Medical+Aesthetics/data=!4m7!3m6!1s0x885c3ccd4d438795:0x32e0cff08eb55c14!8m2!3d35.9332964!4d-84.0128807!16s%2Fg%2F11f_h25w_5!19sChIJlYdDTc08XIgRFFy1jvDP4DI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:38",
+    "keyword": "Med Spas",
+    "name": "Bello Medical Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Bentley+Medical/data=!4m7!3m6!1s0x885c2f78fbd4441b:0xba9c2caaeaf84485!8m2!3d35.8928551!4d-84.1709021!16s%2Fg%2F11ks6fbfwf!19sChIJG0TU-3gvXIgRhUT46qosnLo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:36",
+    "keyword": "Med Spas",
+    "name": "Bentley Medical",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Blazer+Medical+Aesthetics/data=!4m7!3m6!1s0x885c25da66287005:0x732a80d79589fcb0!8m2!3d35.921841!4d-84.0794842!16s%2Fg%2F11trpcfzcn!19sChIJBXAoZtolXIgRsPyJldeAKnM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:03",
+    "keyword": "Med Spas",
+    "name": "Blazer Medical Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Bluberry+Aesthetics/data=!4m7!3m6!1s0x885c257c2c20c8f3:0x883dd9c12a5c6a64!8m2!3d35.9215948!4d-84.090282!16s%2Fg%2F11wnn0_tmt!19sChIJ88ggLHwlXIgRZGpcKsHZPYg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:03",
+    "keyword": "Med Spas",
+    "name": "Bluberry Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Brooke+Nix+Medical+Aesthetics/data=!4m7!3m6!1s0x885c2f15595eebdd:0x2e88f824da1e622b!8m2!3d35.8973279!4d-84.1331722!16s%2Fg%2F11k2_nr_hs!19sChIJ3eteWRUvXIgRK2Ie2iT4iC4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:52",
+    "keyword": "Med Spas",
+    "name": "Brooke Nix Medical Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Brooke+Nix+Medical+Aesthetics/data=!4m7!3m6!1s0x885e9ffbca223f23:0x35e2675cfd0dfb97!8m2!3d35.755867!4d-83.9716024!16s%2Fg%2F11h11w_90c!19sChIJIz8iyvufXogRl_sN_Vxn4jU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:57",
+    "keyword": "Med Spas",
+    "name": "Brooke Nix Medical Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Create+Medical+Aesthetics/data=!4m7!3m6!1s0x885c253284a5918d:0x79c5720f11b7010b!8m2!3d35.9324561!4d-84.0072034!16s%2Fg%2F11nc9l32bq!19sChIJjZGlhDIlXIgRCwG3EQ9yxXk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:33",
+    "keyword": "Med Spas",
+    "name": "Create Medical Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Culture+Aesthetics+%26+Wellness/data=!4m7!3m6!1s0x4e166a5f3a78f883:0xa9e913de4b3d18a1!8m2!3d35.8839621!4d-84.1523923!16s%2Fg%2F11s4tk4fnt!19sChIJg_h4Ol9qFk4RoRg9S94T6ak?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:31",
+    "keyword": "Med Spas",
+    "name": "Culture Aesthetics & Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Culture+Aesthetics+%26+Wellness/data=!4m7!3m6!1s0x885c25006225fd95:0x3fa9ce90c744af77!8m2!3d35.9286526!4d-84.0386458!16s%2Fg%2F11whfztt17!19sChIJlf0lYgAlXIgRd69Ex5DOqT8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:36",
+    "keyword": "Med Spas",
+    "name": "Culture Aesthetics & Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Curate+MedAesthetics/data=!4m7!3m6!1s0x885c2ef4afa0dde3:0xb3b7e92fd98202d4!8m2!3d35.900542!4d-84.1640367!16s%2Fg%2F1pxq79zry!19sChIJ492gr_QuXIgR1AKC2S_pt7M?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:35",
+    "keyword": "Med Spas",
+    "name": "Curate MedAesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Dolce+Medical+Spa/data=!4m7!3m6!1s0x885c2f45c7736d23:0xe84812a265c691f4!8m2!3d35.8954718!4d-84.1319392!16s%2Fg%2F11l395d_6r!19sChIJI21zx0UvXIgR9JHGZaISSOg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:28",
+    "keyword": "Med Spas",
+    "name": "Dolce Medical Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Dollywood%27s+DreamMore+Resort+%26+Spa/data=!4m7!3m6!1s0x885bfec363709ad7:0x9b2d79d9b5041a39!8m2!3d35.8139222!4d-83.5358598!16s%2Fg%2F11b7vwqpcn!19sChIJ15pwY8P-W4gRORoEtdl5LZs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:07",
+    "keyword": "Med Spas",
+    "name": "Dollywood's DreamMore Resort & Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Downtown+Smooth+Spa/data=!4m7!3m6!1s0x885c17c14eaccd17:0xf7f265f2786a609e!8m2!3d35.9626731!4d-83.9145603!16s%2Fg%2F11xmjxqsr!19sChIJF82sTsEXXIgRnmBqePJl8vc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:46",
+    "keyword": "Med Spas",
+    "name": "Downtown Smooth Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Elevation+MedSpa/data=!4m7!3m6!1s0x885bf96ecd3e53b5:0x4a880a6a34a9b3b7!8m2!3d35.8367426!4d-83.5476969!16s%2Fg%2F11j_3z678d!19sChIJtVM-zW75W4gRt7OpNGoKiEo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:30",
+    "keyword": "Med Spas",
+    "name": "Elevation MedSpa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Elite+MedAesthetic/data=!4m7!3m6!1s0x885c2ffc2e238bb1:0xf739e78b95a4cbc1!8m2!3d35.9386436!4d-83.9857933!16s%2Fg%2F11w_pkwth3!19sChIJsYsjLvwvXIgRwcuklYvnOfc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:52",
+    "keyword": "Med Spas",
+    "name": "Elite MedAesthetic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Emory+Aesthetics+Center/data=!4m7!3m6!1s0x885c3f1401291235:0x159efbce54fa2767!8m2!3d36.0523685!4d-83.9932621!16s%2Fg%2F11kpjh1sqk!19sChIJNRIpARQ_XIgRZyf6VM77nhU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:48",
+    "keyword": "Med Spas",
+    "name": "Emory Aesthetics Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Esprit+Medical+Spa/data=!4m7!3m6!1s0x885b9700b44b8811:0x6e075e37e4fb9675!8m2!3d36.2106688!4d-83.2945654!16s%2Fg%2F11dfkq7k3n!19sChIJEYhLtACXW4gRdZb75DdeB24?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:28",
+    "keyword": "Med Spas",
+    "name": "Esprit Medical Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Fallen+Leaf+Medical/data=!4m7!3m6!1s0x885c2f832fc21721:0x106b93f8f2e44fca!8m2!3d35.892691!4d-84.1424166!16s%2Fg%2F11kj_hyc_r!19sChIJIRfCL4MvXIgRyk_k8viTaxA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:07",
+    "keyword": "Med Spas",
+    "name": "Fallen Leaf Medical",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Foothills+Refinery/data=!4m7!3m6!1s0x885e9f771717279b:0xf76b194e010d53f8!8m2!3d35.746263!4d-83.9823413!16s%2Fg%2F11v4vsxsdm!19sChIJmycXF3efXogR-FMNAU4Za_c?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:33",
+    "keyword": "Med Spas",
+    "name": "Foothills Refinery",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Fountain+of+Youth+Medical/data=!4m7!3m6!1s0x885c2f015d885fbd:0x938a6a0fa9203be2!8m2!3d35.8979517!4d-84.1397929!16s%2Fg%2F1yhbn_f2j!19sChIJvV-IXQEvXIgR4jsgqQ9qipM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:38",
+    "keyword": "Med Spas",
+    "name": "Fountain of Youth Medical",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Gallaher+Plastic+Surgery+%26+Spa+MD+Powell,+TN+Location/data=!4m7!3m6!1s0x885c3f758f9a79db:0xb906595dbdbda7e0!8m2!3d36.0533777!4d-83.9944896!16s%2Fg%2F1tkmn8j_!19sChIJ23maj3U_XIgR4Ke9vV1ZBrk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:03",
+    "keyword": "Med Spas",
+    "name": "Gallaher Plastic Surgery & Spa MD Powell, TN Location",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Gallaher+Plastic+Surgery+%26+Spa+MD/data=!4m7!3m6!1s0x885c2335cc9ea0cd:0xad8c820e67f1a77d!8m2!3d35.9347435!4d-83.9931564!16s%2Fg%2F1thtq9jt!19sChIJzaCezDUjXIgRfafxZw6CjK0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:57",
+    "keyword": "Med Spas",
+    "name": "Gallaher Plastic Surgery & Spa MD",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Glow+Medical+Aesthetics,+Weight+Loss,+Wellness+%26+Primary+Care+Knoxville/data=!4m7!3m6!1s0x885c3eea2f6f6c07:0x781c90ebc543fad9!8m2!3d36.0541099!4d-84.0003805!16s%2Fg%2F1thnphgm!19sChIJB2xvL-o-XIgR2fpDxeuQHHg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:31",
+    "keyword": "Med Spas",
+    "name": "Glow Medical Aesthetics, Weight Loss, Wellness & Primary Care Knoxville",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Grace+%26+Glow+Medical+Spa/data=!4m7!3m6!1s0x885c2f5cdcd43dbd:0xd5a5c98b30dde8b4!8m2!3d35.8927597!4d-84.1428407!16s%2Fg%2F11l6mccgcz!19sChIJvT3U3FwvXIgRtOjdMIvJpdU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:33",
+    "keyword": "Med Spas",
+    "name": "Grace & Glow Medical Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Grayce+Skin+Co./data=!4m7!3m6!1s0x885c152f41a398cf:0x69ba6f2535828cf6!8m2!3d36.0309229!4d-83.9289125!16s%2Fg%2F11tms2fg33!19sChIJz5ijQS8VXIgR9oyCNSVvumk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:03",
+    "keyword": "Med Spas",
+    "name": "Grayce Skin Co.",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/InTOXicated/data=!4m7!3m6!1s0x885b8dc293678e25:0xd5172088fcbd3c23!8m2!3d36.1035782!4d-83.4838278!16s%2Fg%2F11xsnl2wdx!19sChIJJY5nk8KNW4gRIzy9_IggF9U?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:03",
+    "keyword": "Med Spas",
+    "name": "InTOXicated",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/JADE+AESTHETICS/data=!4m7!3m6!1s0x885c3fa7abfa0c29:0x1ed26a65fc74323c!8m2!3d36.056268!4d-83.9715944!16s%2Fg%2F11y44xx73q!19sChIJKQz6q6c_XIgRPDJ0_GVq0h4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:55",
+    "keyword": "Med Spas",
+    "name": "JADE AESTHETICS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/JD+Aesthetics+-+Divine+Grace+Medical+Spa/data=!4m7!3m6!1s0x885e9fe4c474e615:0x3531b14bb068fd7c!8m2!3d35.7514163!4d-83.9964867!16s%2Fg%2F11ywlnnffj!19sChIJFeZ0xOSfXogRfP1osEuxMTU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:46",
+    "keyword": "Med Spas",
+    "name": "JD Aesthetics - Divine Grace Medical Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Jessica+Ellam+Medical+Aesthetics/data=!4m7!3m6!1s0x885c259ffa7e1709:0x660b48c780a792e1!8m2!3d35.9001456!4d-84.1269058!16s%2Fg%2F11swt7lm7d!19sChIJCRd--p8lXIgR4ZKngMdIC2Y?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:35",
+    "keyword": "Med Spas",
+    "name": "Jessica Ellam Medical Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Jill+Maze,+RN+at+Pure+Luxe+Medical+Spa/data=!4m7!3m6!1s0x885c2fafe71bc813:0xd11e3319b11b060a!8m2!3d35.9465795!4d-84.1604017!16s%2Fg%2F11r9vy10b7!19sChIJE8gb568vXIgRCgYbsRkzHtE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:59",
+    "keyword": "Med Spas",
+    "name": "Jill Maze, RN at Pure Luxe Medical Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Kersey+Laser+%26+Spa/data=!4m7!3m6!1s0x885c1b9987226d1b:0xf7c93a3b29d3182a!8m2!3d35.9174395!4d-83.8297128!16s%2Fg%2F11fk3s9_bb!19sChIJG20ih5kbXIgRKhjTKTs6yfc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:59",
+    "keyword": "Med Spas",
+    "name": "Kersey Laser & Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/KnoxGlow+Aesthetics/data=!4m7!3m6!1s0x885c2f548757cfc1:0xea484b071b83a718!8m2!3d35.8926309!4d-84.1455748!16s%2Fg%2F11n_z4wf21!19sChIJwc9Xh1QvXIgRGKeDGwdLSOo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:38",
+    "keyword": "Med Spas",
+    "name": "KnoxGlow Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/LightRx+-+Knoxville/data=!4m7!3m6!1s0x885c2e8e645e88bf:0x76b33cb9d05e7d03!8m2!3d35.8963829!4d-84.1711988!16s%2Fg%2F1hhhh8wqs!19sChIJv4heZI4uXIgRA31e0Lk8s3Y?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:38",
+    "keyword": "Med Spas",
+    "name": "LightRx - Knoxville",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Lost+Lagoon+Day+Spa/data=!4m7!3m6!1s0x885c3d7c047518fd:0x76aa6d21c86c9b57!8m2!3d35.9564412!4d-83.9535125!16s%2Fg%2F11rd2cykyh!19sChIJ_Rh1BHw9XIgRV5tsyCFtqnY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:55",
+    "keyword": "Med Spas",
+    "name": "Lost Lagoon Day Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Lotus+Skin+Care/data=!4m7!3m6!1s0x885c3959c730944f:0xe61f68a18052dcc7!8m2!3d36.0315318!4d-84.028525!16s%2Fg%2F11j03bthq4!19sChIJT5Qwx1k5XIgRx9xSgKFoH-Y?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:05",
+    "keyword": "Med Spas",
+    "name": "Lotus Skin Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Luminosity+Aesthetics+and+Wellness/data=!4m7!3m6!1s0xa0b960917f030f65:0xc29ebfb60da13f8e!8m2!3d36.026425!4d-84.084722!16s%2Fg%2F11s8zf302y!19sChIJZQ8Df5FguaARjj-hDba_nsI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:07",
+    "keyword": "Med Spas",
+    "name": "Luminosity Aesthetics and Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/MedAesthetics/data=!4m7!3m6!1s0x885c2590bf08d7fb:0x37d26d1f952cc5bb!8m2!3d35.9244853!4d-84.0383972!16s%2Fg%2F11lzm50wd8!19sChIJ-9cIv5AlXIgRu8UslR9t0jc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:57",
+    "keyword": "Med Spas",
+    "name": "MedAesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Medi+Spa+At+Knoxville:+Bushkell+Jr+Lawrence+L+MD/data=!4m7!3m6!1s0x885c2f75091b9703:0xaa3d6a84d7362425!8m2!3d35.8996903!4d-84.1194845!16s%2Fg%2F1tc_lw70!19sChIJA5cbCXUvXIgRJSQ214RqPao?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:05",
+    "keyword": "Med Spas",
+    "name": "Medi Spa At Knoxville: Bushkell Jr Lawrence L MD",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Medical+Aesthetics+Institute/data=!4m7!3m6!1s0x885c2f78894e7649:0x1c82a35c1bea992d!8m2!3d35.8974041!4d-84.1330923!16s%2Fg%2F11svby8m62!19sChIJSXZOiXgvXIgRLZnqG1yjghw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:03",
+    "keyword": "Med Spas",
+    "name": "Medical Aesthetics Institute",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Medispa+At+Choto/data=!4m7!3m6!1s0x885c2965e156705d:0xf9b6cd07ed9a5d9d!8m2!3d35.8296617!4d-84.1667464!16s%2Fg%2F11gsn1vk4w!19sChIJXXBW4WUpXIgRnV2a7QfNtvk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:33",
+    "keyword": "Med Spas",
+    "name": "Medispa At Choto",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Meridiem+DermSpa+-+Farragut/data=!4m7!3m6!1s0x885c2e90155d1fc3:0x950744c0613c7fe3!8m2!3d35.8926607!4d-84.1741147!16s%2Fg%2F1wrtdl17!19sChIJwx9dFZAuXIgR4388YcBEB5U?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:48",
+    "keyword": "Med Spas",
+    "name": "Meridiem DermSpa - Farragut",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Meridiem+DermSpa+-+Knoxville/data=!4m7!3m6!1s0x885c2f75091b9703:0x60d6de7b25472c03!8m2!3d35.9020494!4d-84.1148139!16s%2Fg%2F1thk9ghs!19sChIJA5cbCXUvXIgRAyxHJXve1mA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:31",
+    "keyword": "Med Spas",
+    "name": "Meridiem DermSpa - Knoxville",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Meridiem+DermSpa+-+Sevierville/data=!4m7!3m6!1s0x885bf91714433823:0x84732566edcd04da!8m2!3d35.8554049!4d-83.5405111!16s%2Fg%2F1thx04sj!19sChIJIzhDFBf5W4gR2gTN7WYlc4Q?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:55",
+    "keyword": "Med Spas",
+    "name": "Meridiem DermSpa - Sevierville",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Michaela+Payne+Esthetics+%26+Med+Spa/data=!4m7!3m6!1s0x885bf979989e5eff:0x7fb9412ccfcd1c16!8m2!3d35.8574704!4d-83.5678227!16s%2Fg%2F11xmvmdrwr!19sChIJ_16emHn5W4gRFhzNzyxBuX8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:55",
+    "keyword": "Med Spas",
+    "name": "Michaela Payne Esthetics & Med Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/New+Image+Medical+Spa/data=!4m7!3m6!1s0x885c2f85b65bf2dd:0x7f961ad5d4399746!8m2!3d35.9423356!4d-84.1656429!16s%2Fg%2F11myzp_r54!19sChIJ3fJbtoUvXIgRRpc51NUaln8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:48",
+    "keyword": "Med Spas",
+    "name": "New Image Medical Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/North+Knox+Wellness/data=!4m7!3m6!1s0x885c3df3b2877d01:0xecd0184437b9fcd!8m2!3d36.0206819!4d-83.9894273!16s%2Fg%2F11ncgnpww0!19sChIJAX2HsvM9XIgRzZ97Q4QBzQ4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:03",
+    "keyword": "Med Spas",
+    "name": "North Knox Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Oak+Haven+Resort+%26+Spa/data=!4m10!3m9!1s0x885c0807e1f6fd03:0xce8b1edb394fcae3!5m2!4m1!1i2!8m2!3d35.9196146!4d-83.6011233!16s%2Fg%2F1v4k771b!19sChIJA_324QcIXIgR48pPOdsei84?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:05",
+    "keyword": "Med Spas",
+    "name": "Oak Haven Resort & Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Oak+Park+Aesthetics/data=!4m7!3m6!1s0x885e9f0cd686e58b:0xcfab2313e470e834!8m2!3d35.747005!4d-83.9814003!16s%2Fg%2F11jsjjxh7k!19sChIJi-WG1gyfXogRNOhw5BMjq88?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:48",
+    "keyword": "Med Spas",
+    "name": "Oak Park Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Old+City+Medspa/data=!4m7!3m6!1s0x885c17649078949f:0x50b5580cab222aba!8m2!3d35.9684378!4d-83.9179993!16s%2Fg%2F11h2p63ftj!19sChIJn5R4kGQXXIgRuioiqwxYtVA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:28",
+    "keyword": "Med Spas",
+    "name": "Old City Medspa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/OptimalJoy+Wellness+%26+Aesthetics/data=!4m7!3m6!1s0x885e9f36234b20cd:0xbee80342edad82c4!8m2!3d35.756043!4d-83.9885183!16s%2Fg%2F11jt29330d!19sChIJzSBLIzafXogRxIKt7UID6L4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:59",
+    "keyword": "Med Spas",
+    "name": "OptimalJoy Wellness & Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Pearl+City+Medspa/data=!4m7!3m6!1s0x885c492e4f2f532f:0x742d4448c28a0307!8m2!3d36.1196449!4d-84.1173748!16s%2Fg%2F11md11_qnl!19sChIJL1MvTy5JXIgRBwOKwkhELXQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:38",
+    "keyword": "Med Spas",
+    "name": "Pearl City Medspa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Pharmhouse+Skin+%26+Wellness/data=!4m7!3m6!1s0x885c151625e0e9d9:0x9f86fbfce301ed0a!8m2!3d36.0387347!4d-83.9319772!16s%2Fg%2F11j109xjyc!19sChIJ2engJRYVXIgRCu0B4_z7hp8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:46",
+    "keyword": "Med Spas",
+    "name": "Pharmhouse Skin & Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Pretty+Girl+Aesthetics/data=!4m7!3m6!1s0x885c2fbe05cee42d:0x7f8ac402b507b90d!8m2!3d35.9147894!4d-84.0874031!16s%2Fg%2F11jmvxlg2l!19sChIJLeTOBb4vXIgRDbkHtQLEin8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:33",
+    "keyword": "Med Spas",
+    "name": "Pretty Girl Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Pure+Haus+Aesthetics/data=!4m7!3m6!1s0x885e9f301d3c8e1d:0x6c998d1fec26392e!8m2!3d35.8510736!4d-83.5353123!16s%2Fg%2F11kqxlrw3r!19sChIJHY48HTCfXogRLjkm7B-NmWw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:57",
+    "keyword": "Med Spas",
+    "name": "Pure Haus Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Pure+Luxe+Medspa/data=!4m7!3m6!1s0x885c25e57cdb5cc1:0x11d2b83857f3e00a!8m2!3d35.9225883!4d-84.0525646!16s%2Fg%2F11h44lt49h!19sChIJwVzbfOUlXIgRCuDzVzi40hE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:46",
+    "keyword": "Med Spas",
+    "name": "Pure Luxe Medspa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Pure+Luxe+Salon,+Spa+%26+Medspa/data=!4m7!3m6!1s0x885c2e20f60a4dbb:0x47f3383d3083d6db!8m2!3d35.9468078!4d-84.1602249!16s%2Fg%2F1tgm3l7h!19sChIJu00K9iAuXIgR29aDMD0480c?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:31",
+    "keyword": "Med Spas",
+    "name": "Pure Luxe Salon, Spa & Medspa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Refine+Dermatology/data=!4m7!3m6!1s0x885c2f9cf05d2b83:0xddf98fdf8fd1b655!8m2!3d35.9021901!4d-84.1132476!16s%2Fg%2F11rqxw4vxm!19sChIJgytd8JwvXIgRVbbRj9-P-d0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:03",
+    "keyword": "Med Spas",
+    "name": "Refine Dermatology",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Refreshology+LLC/data=!4m7!3m6!1s0x885c23bc15a9cc5f:0xa8bf508e56d45fe6!8m2!3d35.9066574!4d-83.9548131!16s%2Fg%2F11tx6p5d2j!19sChIJX8ypFbwjXIgR5l_UVo5Qv6g?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:03",
+    "keyword": "Med Spas",
+    "name": "Refreshology LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/RevitalyzeMD/data=!4m7!3m6!1s0x885c2ec2266cff49:0x89167ed32f00aab9!8m2!3d35.9293008!4d-84.0103149!16s%2Fg%2F11dymnv7yw!19sChIJSf9sJsIuXIgRuaoAL9N-Fok?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:28",
+    "keyword": "Med Spas",
+    "name": "RevitalyzeMD",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/RiverStone+Resort+%26+Spa/data=!4m7!3m6!1s0x885bfe54e6ab17d1:0x8464db9467f22a36!8m2!3d35.7827778!4d-83.5463889!16s%2Fg%2F1tfjrf5f!19sChIJ0Rer5lT-W4gRNiryZ5TbZIQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:07",
+    "keyword": "Med Spas",
+    "name": "RiverStone Resort & Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Rocky+Top+Vitality/data=!4m7!3m6!1s0x885c2faf144a0995:0x2df2e69617132469!8m2!3d35.8803969!4d-84.1590427!16s%2Fg%2F11yjmwlxc9!19sChIJlQlKFK8vXIgRaSQTF5bm8i0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:59",
+    "keyword": "Med Spas",
+    "name": "Rocky Top Vitality",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Sarah+Hitchcox+Aesthetics/data=!4m7!3m6!1s0x885c2febbcf5149d:0x42a506d560dfab04!8m2!3d35.8803969!4d-84.1590427!16s%2Fg%2F11xmc7767n!19sChIJnRT1vOsvXIgRBKvfYNUGpUI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:55",
+    "keyword": "Med Spas",
+    "name": "Sarah Hitchcox Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Sarah+Hitchcox+Aesthetics/data=!4m7!3m6!1s0x885c3daeef676e4f:0x36d0dab4a91039cb!8m2!3d35.9392165!4d-83.988769!16s%2Fg%2F11v_4k8mc8!19sChIJT25n7649XIgRyzkQqbTa0DY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:48",
+    "keyword": "Med Spas",
+    "name": "Sarah Hitchcox Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Shea+Aesthetic+Clinic/data=!4m7!3m6!1s0x885c3315661da857:0xaefa63f30bcd5879!8m2!3d36.0236445!4d-84.2493416!16s%2Fg%2F11gxn71lfb!19sChIJV6gdZhUzXIgReVjNC_Nj-q4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:14",
+    "keyword": "Aesthetic Clinics",
+    "name": "Shea Aesthetic Clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Simply+Ageless+Aesthetics,+LLC/data=!4m7!3m6!1s0x885c6b8b2435dd0d:0xb91cfa3695e8330a!8m2!3d36.1161547!4d-83.8545858!16s%2Fg%2F11l73df7gm!19sChIJDd01JItrXIgRCjPolTb6HLk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:59",
+    "keyword": "Med Spas",
+    "name": "Simply Ageless Aesthetics, LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Skin+%26+Sculpt+Medical+Spa/data=!4m7!3m6!1s0x885c256ec60ab03d:0x5ff724c947d4cabb!8m2!3d35.916107!4d-84.087057!16s%2Fg%2F11b5pjjtzw!19sChIJPbAKxm4lXIgRu8rUR8kk918?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:31",
+    "keyword": "Med Spas",
+    "name": "Skin & Sculpt Medical Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Skin+Solutions/data=!4m7!3m6!1s0x885c2f9d1daa47df:0xe24d54569d3de413!8m2!3d35.9378702!4d-83.9889171!16s%2Fg%2F11clw7khb2!19sChIJ30eqHZ0vXIgRE-Q9nVZUTeI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:46",
+    "keyword": "Med Spas",
+    "name": "Skin Solutions",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Skintentional+Beauty+Spa/data=!4m7!3m6!1s0x885c3f9e27faf8af:0xe7ea3ac02dc10f87!8m2!3d35.928304!4d-84.002231!16s%2Fg%2F11syd08dxf!19sChIJr_j6J54_XIgRhw_BLcA66uc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:28",
+    "keyword": "Med Spas",
+    "name": "Skintentional Beauty Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Smiley+Aesthetics+Medical+Spa+%E2%80%93+Botox+%26+Weight+Loss+Clinic+Knoxville/data=!4m7!3m6!1s0x8fb9b0a7f623fa1:0x25df0dd1436351d5!8m2!3d35.9641629!4d-83.9208569!16s%2Fg%2F11s_wjlprb!19sChIJoT9ifwqb-wgR1VFjQ9EN3yU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:31",
+    "keyword": "Med Spas",
+    "name": "Smiley Aesthetics Medical Spa – Botox & Weight Loss Clinic Knoxville",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Smoky+Mountain+Hydration/data=!4m7!3m6!1s0x2bccfb09066858c3:0x5cfe6b53563d263e!8m2!3d35.73721!4d-83.989358!16s%2Fg%2F11t9d3m19g!19sChIJw1hoBgn7zCsRPiY9VlNr_lw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:03",
+    "keyword": "Med Spas",
+    "name": "Smoky Mountain Hydration",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Southern+Surgical+Arts+Beauty+Bar/data=!4m7!3m6!1s0x885c25850585c1bf:0x69c21a3e1b3b387c!8m2!3d35.9147894!4d-84.0874031!16s%2Fg%2F11p0r9mzgx!19sChIJv8GFBYUlXIgRfDg7Gz4awmk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:03",
+    "keyword": "Med Spas",
+    "name": "Southern Surgical Arts Beauty Bar",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Stafford+Medispa/data=!4m7!3m6!1s0x885c3b0ace096eed:0x47f5d907019fcb2!8m2!3d36.0150856!4d-84.0471008!16s%2Fg%2F11wwg_cqp5!19sChIJ7W4Jzgo7XIgRsvwZcJBdfwQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:03",
+    "keyword": "Med Spas",
+    "name": "Stafford Medispa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Stellar+Medical+Aesthetics/data=!4m7!3m6!1s0x885c2fee20187f9f:0xf21032c7b40b50c7!8m2!3d35.885753!4d-84.150312!16s%2Fg%2F11vdy9ygm9!19sChIJn38YIO4vXIgRx1ALtMcyEPI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:38",
+    "keyword": "Med Spas",
+    "name": "Stellar Medical Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Stretch+Fusion/data=!4m7!3m6!1s0x885c238aa14557cd:0xc7e57864c3d2c822!8m2!3d35.9336996!4d-83.9958088!16s%2Fg%2F11q27snsb7!19sChIJzVdFoYojXIgRIsjSw2R45cc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:05",
+    "keyword": "Med Spas",
+    "name": "Stretch Fusion",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/The+Aesthetic+Company/data=!4m7!3m6!1s0x885c2f0b7e8ff185:0x5233310f64a6b745!8m2!3d35.9052998!4d-84.1092267!16s%2Fg%2F11jslt3r_1!19sChIJhfGPfgsvXIgRRbemZA8xM1I?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:52",
+    "keyword": "Med Spas",
+    "name": "The Aesthetic Company",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/The+Derm+Bar+MD/data=!4m7!3m6!1s0x885c3af98e580383:0x9c660a66ca2b5d77!8m2!3d35.9435036!4d-84.1064521!16s%2Fg%2F11bbrp6pg6!19sChIJgwNYjvk6XIgRd10rymYKZpw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:03",
+    "keyword": "Med Spas",
+    "name": "The Derm Bar MD",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/The+Duchess/data=!4m7!3m6!1s0xa0c5234a9e092b83:0xbf31a0fc39fcf90c!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11ld975717!19sChIJgysJnkojxaARDPn8OfygMb8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:09",
+    "keyword": "Med Spas",
+    "name": "The Duchess",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/The+Face+Place+tm/data=!4m7!3m6!1s0x885c2f5fecb39bdb:0x98b32cb165697b35!8m2!3d35.8987709!4d-84.1261432!16s%2Fg%2F11g0k27pn6!19sChIJ25uz7F8vXIgRNXtpZbEss5g?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:52",
+    "keyword": "Med Spas",
+    "name": "The Face Place tm",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/The+Refinery:+Medical+Aesthetics+and+Wellness/data=!4m7!3m6!1s0x885c3b032a2b6d17:0xa2787a2f33d98960!8m2!3d36.0292454!4d-84.0292303!16s%2Fg%2F11t9hc1d5z!19sChIJF20rKgM7XIgRYInZMy96eKI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:33",
+    "keyword": "Med Spas",
+    "name": "The Refinery: Medical Aesthetics and Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/The+Skin+Bar+A+Medi+Spa+By+Grace+Mears/data=!4m7!3m6!1s0x885c1561995afd5b:0xd56818310793697a!8m2!3d36.0403193!4d-83.9298261!16s%2Fg%2F11wnn2cvfq!19sChIJW_1amWEVXIgRemmTBzEYaNU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:36",
+    "keyword": "Med Spas",
+    "name": "The Skin Bar A Medi Spa By Grace Mears",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/The+Skin+Studio+and+Medspa/data=!4m7!3m6!1s0x885c25b1781493f5:0x2992badaf4770b4a!8m2!3d35.9186749!4d-84.0961294!16s%2Fg%2F11swdmnz00!19sChIJ9ZMUeLElXIgRSgt39Nq6kik?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:35",
+    "keyword": "Med Spas",
+    "name": "The Skin Studio and Medspa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/The+Spring/data=!4m7!3m6!1s0x885c3dac5a17b79f:0x9eba3f11701e301b!8m2!3d35.9746832!4d-83.9811395!16s%2Fg%2F11vprznhyc!19sChIJn7cXWqw9XIgRGzAecBE_up4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:46",
+    "keyword": "Med Spas",
+    "name": "The Spring",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/The+Wellness+Room/data=!4m7!3m6!1s0x885c2fab39e8ea2d:0x44d26e98ee316505!8m2!3d35.9083822!4d-84.1102066!16s%2Fg%2F11ghp4_3g0!19sChIJLeroOasvXIgRBWUx7phu0kQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:30",
+    "keyword": "Med Spas",
+    "name": "The Wellness Room",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Thriving+to+a+New+You/data=!4m7!3m6!1s0x885c3b987dc9b5cb:0x9e8443d3f0999607!8m2!3d36.0283687!4d-84.032961!16s%2Fg%2F11rsdwjv0g!19sChIJy7XJfZg7XIgRB5aZ8NNDhJ4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:59",
+    "keyword": "Med Spas",
+    "name": "Thriving to a New You",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Timeless+Aesthetics/data=!4m7!3m6!1s0x885bf994bd7ef2f1:0x13551388573fd7e1!8m2!3d35.8633149!4d-83.5265591!16s%2Fg%2F11vhvrqpbm!19sChIJ8fJ-vZT5W4gR4dc_V4gTVRM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:52",
+    "keyword": "Med Spas",
+    "name": "Timeless Aesthetics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Total+Hair+and+Body+Medical/data=!4m7!3m6!1s0x885c2f85d1105417:0xc35b8a3d3ef974e3!8m2!3d35.887788!4d-84.1500834!16s%2Fg%2F11f6x9sv39!19sChIJF1QQ0YUvXIgR43T5Pj2KW8M?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:48",
+    "keyword": "Med Spas",
+    "name": "Total Hair and Body Medical",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/TruYou+Aesthetics+Medical+Spa/data=!4m7!3m6!1s0x885e9fda963f334d:0x6cc84b75508b3003!8m2!3d35.7332716!4d-83.9938665!16s%2Fg%2F11pz2dkctg!19sChIJTTM_ltqfXogRAzCLUHVLyGw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:36",
+    "keyword": "Med Spas",
+    "name": "TruYou Aesthetics Medical Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Urban+Radiance+Medical+Spa/data=!4m7!3m6!1s0x885bf956925ef585:0x83b73cb0ea4ebf25!8m2!3d35.8848355!4d-83.5761244!16s%2Fg%2F11yjbsyqq4!19sChIJhfVeklb5W4gRJb9O6rA8t4M?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:55",
+    "keyword": "Med Spas",
+    "name": "Urban Radiance Medical Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Urban+Radiance+Medical+Spa/data=!4m7!3m6!1s0xb47dc4be403e627:0x130050d678aa063!8m2!3d36.1796146!4d-83.3871404!16s%2Fg%2F11sqbd7wmy!19sChIJJ-YD5EvcRwsRY6CKZw0FMAE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:48",
+    "keyword": "Med Spas",
+    "name": "Urban Radiance Medical Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Vitality+Wellness+Spa/data=!4m7!3m6!1s0x885c057b99a7a24d:0xa949194152b73e0f!8m2!3d35.8863056!4d-83.7316598!16s%2Fg%2F11kdb1lf20!19sChIJTaKnmXsFXIgRDz63UkEZSak?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:46",
+    "keyword": "Med Spas",
+    "name": "Vitality Wellness Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Weigh+To+Go+Weight+Loss+Center/data=!4m7!3m6!1s0x885c3e9e3072fd5b:0x8bf8625ddf2d13ed!8m2!3d36.0267472!4d-83.9919936!16s%2Fg%2F1tdzgqkh!19sChIJW_1yMJ4-XIgR7RMt311i-Is?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:07",
+    "keyword": "Med Spas",
+    "name": "Weigh To Go Weight Loss Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/West+Side+Wellness/data=!4m7!3m6!1s0x885c2f9d0334f3b5:0xa4ad720b68c7b499!8m2!3d35.9195226!4d-84.0939634!16s%2Fg%2F11bbrhhy91!19sChIJtfM0A50vXIgRmbTHaAtyraQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:03",
+    "keyword": "Med Spas",
+    "name": "West Side Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Westgate+Smoky+Mountain+Resort+%26+Water+Park/data=!4m7!3m6!1s0x885956118334689b:0xdb1e99d059058976!8m2!3d35.7318576!4d-83.5180537!16s%2Fg%2F1tzvx8l4!19sChIJm2g0gxFWWYgRdokFWdCZHts?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:07",
+    "keyword": "Med Spas",
+    "name": "Westgate Smoky Mountain Resort & Water Park",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Zen259+Luxury+Medical+%26+Spa+Suites/data=!4m7!3m6!1s0x885c25ca5b00b295:0x68c914f4957dd5b9!8m2!3d35.9147894!4d-84.0874031!16s%2Fg%2F11ny32tmht!19sChIJlbIAW8olXIgRudV9lfQUyWg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:53:05",
+    "keyword": "Med Spas",
+    "name": "Zen259 Luxury Medical & Spa Suites",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/Zero+Gravity+Medical/data=!4m7!3m6!1s0x885c2fb70744276f:0xe53054b8323037da!8m2!3d35.9095728!4d-84.1117656!16s%2Fg%2F11w24gxk0p!19sChIJbydEB7cvXIgR2jcwMrhUMOU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:57",
+    "keyword": "Med Spas",
+    "name": "Zero Gravity Medical",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  },
+  "https://www.google.com/maps/place/afromermaid+skincare/data=!4m7!3m6!1s0x885c234125ed99a1:0x96b79c588eaeb35b!8m2!3d35.9386192!4d-83.9858221!16s%2Fg%2F11h8bvl__c!19sChIJoZntJUEjXIgRW7Oujlict5Y?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:52:57",
+    "keyword": "Med Spas",
+    "name": "afromermaid skincare",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Knoxville,+TN"
+  }
+}

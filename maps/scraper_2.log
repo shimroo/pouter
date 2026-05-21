@@ -1,0 +1,93 @@
+01:51:40  [W2]  INFO      Detected Chrome major version: 148
+01:51:40  [W2]  INFO      Driver started (incognito)
+01:51:40  [W2]  INFO      ── City: https://www.google.com/maps/place/Fort+Wayne,+IN
+01:51:48  [W2]  INFO      Clicked: close popup
+01:51:48  [W2]  INFO        ── Keyword: Dental Clinics
+01:51:48  [W2]  INFO      Searched: Dental Clinics
+01:52:02  [W2]  WARNING   Results feed not found: Message: 
+Stacktrace:
+#0 0x5c9b59bb616a <unknown>
+#1 0x5c9b595b36b9 <unknown>
+#2 0x5c9b59607c0d <unknown>
+#3 0x5c9b59607e51 <unknown>
+#4 0x5c9b59652b24 <unknown>
+#5 0x5c9b5964fcbf <unknown>
+#6 0x5c9b595fb222 <unknown>
+#7 0x5c9b595fc011 <unknown>
+#8 0x5c9b59b7ba0b <unknown>
+#9 0x5c9b59b7e92d <unknown>
+#10 0x5c9b59b68948 <unknown>
+#11 0x5c9b59b7f4c0 <unknown>
+#12 0x5c9b59b4f560 <unknown>
+#13 0x5c9b59ba2dd8 <unknown>
+#14 0x5c9b59ba2f75 <unknown>
+#15 0x5c9b59bb4bce <unknown>
+#16 0x736cc009caa4 <unknown>
+#17 0x736cc0129c6c <unknown>
+
+01:52:02  [W2]  INFO        ── Keyword: Orthodontists
+01:52:02  [W2]  INFO      Searched: Orthodontists
+01:52:15  [W2]  WARNING   Results feed not found: Message: 
+Stacktrace:
+#0 0x5c9b59bb616a <unknown>
+#1 0x5c9b595b36b9 <unknown>
+#2 0x5c9b59607c0d <unknown>
+#3 0x5c9b59607e51 <unknown>
+#4 0x5c9b59652b24 <unknown>
+#5 0x5c9b5964fcbf <unknown>
+#6 0x5c9b595fb222 <unknown>
+#7 0x5c9b595fc011 <unknown>
+#8 0x5c9b59b7ba0b <unknown>
+#9 0x5c9b59b7e92d <unknown>
+#10 0x5c9b59b68948 <unknown>
+#11 0x5c9b59b7f4c0 <unknown>
+#12 0x5c9b59b4f560 <unknown>
+#13 0x5c9b59ba2dd8 <unknown>
+#14 0x5c9b59ba2f75 <unknown>
+#15 0x5c9b59bb4bce <unknown>
+#16 0x736cc009caa4 <unknown>
+#17 0x736cc0129c6c <unknown>
+
+01:52:15  [W2]  INFO        ── Keyword: Med Spas
+01:52:15  [W2]  INFO      Searched: Med Spas
+01:52:28  [W2]  INFO      Clicked: 'update results when map moves'
+01:52:30  [W2]  INFO      Saved 7 urls → urls_2.json
+01:52:32  [W2]  INFO      Saved 7 urls → urls_2.json
+01:52:33  [W2]  INFO      Saved 14 urls → urls_2.json
+01:52:35  [W2]  INFO      Saved 20 urls → urls_2.json
+01:52:37  [W2]  INFO      Saved 27 urls → urls_2.json
+01:52:38  [W2]  INFO      Saved 34 urls → urls_2.json
+01:52:40  [W2]  INFO      Saved 40 urls → urls_2.json
+01:52:41  [W2]  INFO      Saved 40 urls → urls_2.json
+01:52:43  [W2]  INFO      Saved 40 urls → urls_2.json
+01:52:45  [W2]  INFO      Saved 40 urls → urls_2.json
+01:52:46  [W2]  INFO      Saved 40 urls → urls_2.json
+01:52:48  [W2]  INFO      Saved 47 urls → urls_2.json
+01:52:50  [W2]  INFO      Saved 54 urls → urls_2.json
+01:52:51  [W2]  INFO      Saved 60 urls → urls_2.json
+01:52:53  [W2]  INFO      Saved 60 urls → urls_2.json
+01:52:55  [W2]  INFO      Saved 67 urls → urls_2.json
+01:52:57  [W2]  INFO      Saved 74 urls → urls_2.json
+01:52:59  [W2]  INFO      Saved 80 urls → urls_2.json
+01:53:01  [W2]  INFO      Saved 87 urls → urls_2.json
+01:53:02  [W2]  INFO      Saved 90 urls → urls_2.json
+01:53:03  [W2]  INFO      End of list reached
+01:53:03  [W2]  INFO      Saved 90 urls → urls_2.json
+01:53:03  [W2]  INFO      [Med Spas] +90 new urls (total: 90)
+01:53:03  [W2]  INFO        ── Keyword: Aesthetic Clinics
+01:53:03  [W2]  INFO      Searched: Aesthetic Clinics
+01:53:09  [W2]  INFO      Saved 91 urls → urls_2.json
+01:53:11  [W2]  INFO      Saved 92 urls → urls_2.json
+01:53:13  [W2]  INFO      Saved 95 urls → urls_2.json
+01:53:14  [W2]  INFO      Saved 102 urls → urls_2.json
+01:53:16  [W2]  INFO      Saved 109 urls → urls_2.json
+01:53:17  [W2]  INFO      Saved 115 urls → urls_2.json
+01:53:19  [W2]  INFO      Saved 115 urls → urls_2.json
+01:53:21  [W2]  INFO      Saved 115 urls → urls_2.json
+01:53:22  [W2]  INFO      Saved 115 urls → urls_2.json
+01:53:24  [W2]  INFO      Saved 115 urls → urls_2.json
+01:53:25  [W2]  INFO      Stalled after 6 scrolls — moving on
+01:53:25  [W2]  INFO      Saved 115 urls → urls_2.json
+01:53:25  [W2]  INFO      [Aesthetic Clinics] +25 new urls (total: 115)
+01:53:25  [W2]  INFO        ── Keyword: Therapy, Mental Health
+01:53:26  [W2]  INFO      Searched: Therapy, Mental Health

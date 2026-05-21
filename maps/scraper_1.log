@@ -1,0 +1,764 @@
+01:38:04  [W1]  INFO      Detected Chrome major version: 148
+01:38:08  [W1]  INFO      patching driver executable /home/rafay/.local/share/undetected_chromedriver/undetected_chromedriver
+01:38:09  [W1]  INFO      Driver started (incognito)
+01:38:09  [W1]  INFO      ── City: https://www.google.com/maps/place/Dayton,+OH
+01:38:16  [W1]  INFO      Clicked: close popup
+01:38:17  [W1]  INFO        ── Keyword: Dental Clinics
+01:38:17  [W1]  INFO      Searched: Dental Clinics
+01:38:20  [W1]  INFO      Clicked: 'update results when map moves'
+01:38:20  [W1]  INFO      Interrupted — saving …
+01:38:20  [W1]  INFO      Saved 0 urls → urls_1.json
+01:38:20  [W1]  INFO      Worker done. Quitting driver.
+01:43:58  [W1]  INFO      Resuming from urls_1.json — 0 urls
+01:44:02  [W1]  INFO      Detected Chrome major version: 148
+01:44:05  [W1]  INFO      patching driver executable /home/rafay/.local/share/undetected_chromedriver/undetected_chromedriver
+01:44:05  [W1]  INFO      Driver started (incognito)
+01:44:05  [W1]  INFO      ── City: https://www.google.com/maps/place/Dayton,+OH
+01:44:12  [W1]  INFO        ── Keyword: Dental Clinics
+01:44:12  [W1]  WARNING   Search box not usable for 'Dental Clinics': Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.167)
+Stacktrace:
+#0 0x55d1825b416a <unknown>
+#1 0x55d181fb16b9 <unknown>
+#2 0x55d181f84898 <unknown>
+#3 0x55d1820338f8 <unknown>
+#4 0x55d18204d678 <unknown>
+#5 0x55d181ff9222 <unknown>
+#6 0x55d181ffa011 <unknown>
+#7 0x55d182579a0b <unknown>
+#8 0x55d18257c92d <unknown>
+#9 0x55d182566948 <unknown>
+#10 0x55d18257d4c0 <unknown>
+#11 0x55d18254d560 <unknown>
+#12 0x55d1825a0dd8 <unknown>
+#13 0x55d1825a0f75 <unknown>
+#14 0x55d1825b2bce <unknown>
+#15 0x7b5668c9caa4 <unknown>
+#16 0x7b5668d29c6c <unknown>
+
+01:44:12  [W1]  INFO        ── Keyword: Orthodontists
+01:44:12  [W1]  WARNING   Search box not usable for 'Orthodontists': Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.167)
+Stacktrace:
+#0 0x55d1825b416a <unknown>
+#1 0x55d181fb16b9 <unknown>
+#2 0x55d181f84898 <unknown>
+#3 0x55d1820338f8 <unknown>
+#4 0x55d18204d678 <unknown>
+#5 0x55d181ff9222 <unknown>
+#6 0x55d181ffa011 <unknown>
+#7 0x55d182579a0b <unknown>
+#8 0x55d18257c92d <unknown>
+#9 0x55d182566948 <unknown>
+#10 0x55d18257d4c0 <unknown>
+#11 0x55d18254d560 <unknown>
+#12 0x55d1825a0dd8 <unknown>
+#13 0x55d1825a0f75 <unknown>
+#14 0x55d1825b2bce <unknown>
+#15 0x7b5668c9caa4 <unknown>
+#16 0x7b5668d29c6c <unknown>
+
+01:44:12  [W1]  INFO        ── Keyword: Med Spas
+01:44:12  [W1]  WARNING   Search box not usable for 'Med Spas': Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.167)
+Stacktrace:
+#0 0x55d1825b416a <unknown>
+#1 0x55d181fb16b9 <unknown>
+#2 0x55d181f84898 <unknown>
+#3 0x55d1820338f8 <unknown>
+#4 0x55d18204d678 <unknown>
+#5 0x55d181ff9222 <unknown>
+#6 0x55d181ffa011 <unknown>
+#7 0x55d182579a0b <unknown>
+#8 0x55d18257c92d <unknown>
+#9 0x55d182566948 <unknown>
+#10 0x55d18257d4c0 <unknown>
+#11 0x55d18254d560 <unknown>
+#12 0x55d1825a0dd8 <unknown>
+#13 0x55d1825a0f75 <unknown>
+#14 0x55d1825b2bce <unknown>
+#15 0x7b5668c9caa4 <unknown>
+#16 0x7b5668d29c6c <unknown>
+
+01:44:12  [W1]  INFO        ── Keyword: Aesthetic Clinics
+01:44:12  [W1]  WARNING   Search box not usable for 'Aesthetic Clinics': Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.167)
+Stacktrace:
+#0 0x55d1825b416a <unknown>
+#1 0x55d181fb16b9 <unknown>
+#2 0x55d181f84898 <unknown>
+#3 0x55d1820338f8 <unknown>
+#4 0x55d18204d678 <unknown>
+#5 0x55d181ff9222 <unknown>
+#6 0x55d181ffa011 <unknown>
+#7 0x55d182579a0b <unknown>
+#8 0x55d18257c92d <unknown>
+#9 0x55d182566948 <unknown>
+#10 0x55d18257d4c0 <unknown>
+#11 0x55d18254d560 <unknown>
+#12 0x55d1825a0dd8 <unknown>
+#13 0x55d1825a0f75 <unknown>
+#14 0x55d1825b2bce <unknown>
+#15 0x7b5668c9caa4 <unknown>
+#16 0x7b5668d29c6c <unknown>
+
+01:44:12  [W1]  INFO        ── Keyword: Therapy, Mental Health
+01:44:12  [W1]  WARNING   Search box not usable for 'Therapy, Mental Health': Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.167)
+Stacktrace:
+#0 0x55d1825b416a <unknown>
+#1 0x55d181fb16b9 <unknown>
+#2 0x55d181f84898 <unknown>
+#3 0x55d1820338f8 <unknown>
+#4 0x55d18204d678 <unknown>
+#5 0x55d181ff9222 <unknown>
+#6 0x55d181ffa011 <unknown>
+#7 0x55d182579a0b <unknown>
+#8 0x55d18257c92d <unknown>
+#9 0x55d182566948 <unknown>
+#10 0x55d18257d4c0 <unknown>
+#11 0x55d18254d560 <unknown>
+#12 0x55d1825a0dd8 <unknown>
+#13 0x55d1825a0f75 <unknown>
+#14 0x55d1825b2bce <unknown>
+#15 0x7b5668c9caa4 <unknown>
+#16 0x7b5668d29c6c <unknown>
+
+01:44:12  [W1]  INFO        ── Keyword: Rehab Practices
+01:44:12  [W1]  WARNING   Search box not usable for 'Rehab Practices': Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.167)
+Stacktrace:
+#0 0x55d1825b416a <unknown>
+#1 0x55d181fb16b9 <unknown>
+#2 0x55d181f84898 <unknown>
+#3 0x55d1820338f8 <unknown>
+#4 0x55d18204d678 <unknown>
+#5 0x55d181ff9222 <unknown>
+#6 0x55d181ffa011 <unknown>
+#7 0x55d182579a0b <unknown>
+#8 0x55d18257c92d <unknown>
+#9 0x55d182566948 <unknown>
+#10 0x55d18257d4c0 <unknown>
+#11 0x55d18254d560 <unknown>
+#12 0x55d1825a0dd8 <unknown>
+#13 0x55d1825a0f75 <unknown>
+#14 0x55d1825b2bce <unknown>
+#15 0x7b5668c9caa4 <unknown>
+#16 0x7b5668d29c6c <unknown>
+
+01:44:12  [W1]  INFO        ── Keyword: Chiropractic
+01:44:12  [W1]  WARNING   Search box not usable for 'Chiropractic': Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.167)
+Stacktrace:
+#0 0x55d1825b416a <unknown>
+#1 0x55d181fb16b9 <unknown>
+#2 0x55d181f84898 <unknown>
+#3 0x55d1820338f8 <unknown>
+#4 0x55d18204d678 <unknown>
+#5 0x55d181ff9222 <unknown>
+#6 0x55d181ffa011 <unknown>
+#7 0x55d182579a0b <unknown>
+#8 0x55d18257c92d <unknown>
+#9 0x55d182566948 <unknown>
+#10 0x55d18257d4c0 <unknown>
+#11 0x55d18254d560 <unknown>
+#12 0x55d1825a0dd8 <unknown>
+#13 0x55d1825a0f75 <unknown>
+#14 0x55d1825b2bce <unknown>
+#15 0x7b5668c9caa4 <unknown>
+#16 0x7b5668d29c6c <unknown>
+
+01:44:12  [W1]  INFO        ── Keyword: Physical Therapy Clinics
+01:44:12  [W1]  WARNING   Search box not usable for 'Physical Therapy Clinics': Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.167)
+Stacktrace:
+#0 0x55d1825b416a <unknown>
+#1 0x55d181fb16b9 <unknown>
+#2 0x55d181f84898 <unknown>
+#3 0x55d1820338f8 <unknown>
+#4 0x55d18204d678 <unknown>
+#5 0x55d181ff9222 <unknown>
+#6 0x55d181ffa011 <unknown>
+#7 0x55d182579a0b <unknown>
+#8 0x55d18257c92d <unknown>
+#9 0x55d182566948 <unknown>
+#10 0x55d18257d4c0 <unknown>
+#11 0x55d18254d560 <unknown>
+#12 0x55d1825a0dd8 <unknown>
+#13 0x55d1825a0f75 <unknown>
+#14 0x55d1825b2bce <unknown>
+#15 0x7b5668c9caa4 <unknown>
+#16 0x7b5668d29c6c <unknown>
+
+01:44:12  [W1]  INFO        ── Keyword: Veterinary Clinics
+01:44:12  [W1]  WARNING   Search box not usable for 'Veterinary Clinics': Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.167)
+Stacktrace:
+#0 0x55d1825b416a <unknown>
+#1 0x55d181fb16b9 <unknown>
+#2 0x55d181f84898 <unknown>
+#3 0x55d1820338f8 <unknown>
+#4 0x55d18204d678 <unknown>
+#5 0x55d181ff9222 <unknown>
+#6 0x55d181ffa011 <unknown>
+#7 0x55d182579a0b <unknown>
+#8 0x55d18257c92d <unknown>
+#9 0x55d182566948 <unknown>
+#10 0x55d18257d4c0 <unknown>
+#11 0x55d18254d560 <unknown>
+#12 0x55d1825a0dd8 <unknown>
+#13 0x55d1825a0f75 <unknown>
+#14 0x55d1825b2bce <unknown>
+#15 0x7b5668c9caa4 <unknown>
+#16 0x7b5668d29c6c <unknown>
+
+01:44:12  [W1]  INFO        ── Keyword: HVAC Contractors
+01:44:12  [W1]  WARNING   Search box not usable for 'HVAC Contractors': Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.167)
+Stacktrace:
+#0 0x55d1825b416a <unknown>
+#1 0x55d181fb16b9 <unknown>
+#2 0x55d181f84898 <unknown>
+#3 0x55d1820338f8 <unknown>
+#4 0x55d18204d678 <unknown>
+#5 0x55d181ff9222 <unknown>
+#6 0x55d181ffa011 <unknown>
+#7 0x55d182579a0b <unknown>
+#8 0x55d18257c92d <unknown>
+#9 0x55d182566948 <unknown>
+#10 0x55d18257d4c0 <unknown>
+#11 0x55d18254d560 <unknown>
+#12 0x55d1825a0dd8 <unknown>
+#13 0x55d1825a0f75 <unknown>
+#14 0x55d1825b2bce <unknown>
+#15 0x7b5668c9caa4 <unknown>
+#16 0x7b5668d29c6c <unknown>
+
+01:44:12  [W1]  INFO        ── Keyword: Plumbing Services
+01:44:12  [W1]  WARNING   Search box not usable for 'Plumbing Services': Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.167)
+Stacktrace:
+#0 0x55d1825b416a <unknown>
+#1 0x55d181fb16b9 <unknown>
+#2 0x55d181f84898 <unknown>
+#3 0x55d1820338f8 <unknown>
+#4 0x55d18204d678 <unknown>
+#5 0x55d181ff9222 <unknown>
+#6 0x55d181ffa011 <unknown>
+#7 0x55d182579a0b <unknown>
+#8 0x55d18257c92d <unknown>
+#9 0x55d182566948 <unknown>
+#10 0x55d18257d4c0 <unknown>
+#11 0x55d18254d560 <unknown>
+#12 0x55d1825a0dd8 <unknown>
+#13 0x55d1825a0f75 <unknown>
+#14 0x55d1825b2bce <unknown>
+#15 0x7b5668c9caa4 <unknown>
+#16 0x7b5668d29c6c <unknown>
+
+01:44:12  [W1]  INFO        ── Keyword: Roofing Contractors
+01:44:12  [W1]  WARNING   Search box not usable for 'Roofing Contractors': Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.167)
+Stacktrace:
+#0 0x55d1825b416a <unknown>
+#1 0x55d181fb16b9 <unknown>
+#2 0x55d181f84898 <unknown>
+#3 0x55d1820338f8 <unknown>
+#4 0x55d18204d678 <unknown>
+#5 0x55d181ff9222 <unknown>
+#6 0x55d181ffa011 <unknown>
+#7 0x55d182579a0b <unknown>
+#8 0x55d18257c92d <unknown>
+#9 0x55d182566948 <unknown>
+#10 0x55d18257d4c0 <unknown>
+#11 0x55d18254d560 <unknown>
+#12 0x55d1825a0dd8 <unknown>
+#13 0x55d1825a0f75 <unknown>
+#14 0x55d1825b2bce <unknown>
+#15 0x7b5668c9caa4 <unknown>
+#16 0x7b5668d29c6c <unknown>
+
+01:44:12  [W1]  INFO        ── Keyword: Pest Control
+01:44:12  [W1]  WARNING   Search box not usable for 'Pest Control': Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.167)
+Stacktrace:
+#0 0x55d1825b416a <unknown>
+#1 0x55d181fb16b9 <unknown>
+#2 0x55d181f84898 <unknown>
+#3 0x55d1820338f8 <unknown>
+#4 0x55d18204d678 <unknown>
+#5 0x55d181ff9222 <unknown>
+#6 0x55d181ffa011 <unknown>
+#7 0x55d182579a0b <unknown>
+#8 0x55d18257c92d <unknown>
+#9 0x55d182566948 <unknown>
+#10 0x55d18257d4c0 <unknown>
+#11 0x55d18254d560 <unknown>
+#12 0x55d1825a0dd8 <unknown>
+#13 0x55d1825a0f75 <unknown>
+#14 0x55d1825b2bce <unknown>
+#15 0x7b5668c9caa4 <unknown>
+#16 0x7b5668d29c6c <unknown>
+
+01:44:12  [W1]  INFO        ── Keyword: Termite Services
+01:44:12  [W1]  WARNING   Search box not usable for 'Termite Services': Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.167)
+Stacktrace:
+#0 0x55d1825b416a <unknown>
+#1 0x55d181fb16b9 <unknown>
+#2 0x55d181f84898 <unknown>
+#3 0x55d1820338f8 <unknown>
+#4 0x55d18204d678 <unknown>
+#5 0x55d181ff9222 <unknown>
+#6 0x55d181ffa011 <unknown>
+#7 0x55d182579a0b <unknown>
+#8 0x55d18257c92d <unknown>
+#9 0x55d182566948 <unknown>
+#10 0x55d18257d4c0 <unknown>
+#11 0x55d18254d560 <unknown>
+#12 0x55d1825a0dd8 <unknown>
+#13 0x55d1825a0f75 <unknown>
+#14 0x55d1825b2bce <unknown>
+#15 0x7b5668c9caa4 <unknown>
+#16 0x7b5668d29c6c <unknown>
+
+01:44:12  [W1]  INFO        ── Keyword: Landscaping
+01:44:12  [W1]  WARNING   Search box not usable for 'Landscaping': Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.167)
+Stacktrace:
+#0 0x55d1825b416a <unknown>
+#1 0x55d181fb16b9 <unknown>
+#2 0x55d181f84898 <unknown>
+#3 0x55d1820338f8 <unknown>
+#4 0x55d18204d678 <unknown>
+#5 0x55d181ff9222 <unknown>
+#6 0x55d181ffa011 <unknown>
+#7 0x55d182579a0b <unknown>
+#8 0x55d18257c92d <unknown>
+#9 0x55d182566948 <unknown>
+#10 0x55d18257d4c0 <unknown>
+#11 0x55d18254d560 <unknown>
+#12 0x55d1825a0dd8 <unknown>
+#13 0x55d1825a0f75 <unknown>
+#14 0x55d1825b2bce <unknown>
+#15 0x7b5668c9caa4 <unknown>
+#16 0x7b5668d29c6c <unknown>
+
+01:44:12  [W1]  INFO        ── Keyword: Lawn Care
+01:44:12  [W1]  WARNING   Search box not usable for 'Lawn Care': Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.167)
+Stacktrace:
+#0 0x55d1825b416a <unknown>
+#1 0x55d181fb16b9 <unknown>
+#2 0x55d181f84898 <unknown>
+#3 0x55d1820338f8 <unknown>
+#4 0x55d18204d678 <unknown>
+#5 0x55d181ff9222 <unknown>
+#6 0x55d181ffa011 <unknown>
+#7 0x55d182579a0b <unknown>
+#8 0x55d18257c92d <unknown>
+#9 0x55d182566948 <unknown>
+#10 0x55d18257d4c0 <unknown>
+#11 0x55d18254d560 <unknown>
+#12 0x55d1825a0dd8 <unknown>
+#13 0x55d1825a0f75 <unknown>
+#14 0x55d1825b2bce <unknown>
+#15 0x7b5668c9caa4 <unknown>
+#16 0x7b5668d29c6c <unknown>
+
+01:44:12  [W1]  INFO        ── Keyword: Home Cleaning
+01:44:12  [W1]  WARNING   Search box not usable for 'Home Cleaning': Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.167)
+Stacktrace:
+#0 0x55d1825b416a <unknown>
+#1 0x55d181fb16b9 <unknown>
+#2 0x55d181f84898 <unknown>
+#3 0x55d1820338f8 <unknown>
+#4 0x55d18204d678 <unknown>
+#5 0x55d181ff9222 <unknown>
+#6 0x55d181ffa011 <unknown>
+#7 0x55d182579a0b <unknown>
+#8 0x55d18257c92d <unknown>
+#9 0x55d182566948 <unknown>
+#10 0x55d18257d4c0 <unknown>
+#11 0x55d18254d560 <unknown>
+#12 0x55d1825a0dd8 <unknown>
+#13 0x55d1825a0f75 <unknown>
+#14 0x55d1825b2bce <unknown>
+#15 0x7b5668c9caa4 <unknown>
+#16 0x7b5668d29c6c <unknown>
+
+01:44:12  [W1]  INFO        ── Keyword: Janitorial Services
+01:44:12  [W1]  WARNING   Search box not usable for 'Janitorial Services': Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.167)
+Stacktrace:
+#0 0x55d1825b416a <unknown>
+#1 0x55d181fb16b9 <unknown>
+#2 0x55d181f84898 <unknown>
+#3 0x55d1820338f8 <unknown>
+#4 0x55d18204d678 <unknown>
+#5 0x55d181ff9222 <unknown>
+#6 0x55d181ffa011 <unknown>
+#7 0x55d182579a0b <unknown>
+#8 0x55d18257c92d <unknown>
+#9 0x55d182566948 <unknown>
+#10 0x55d18257d4c0 <unknown>
+#11 0x55d18254d560 <unknown>
+#12 0x55d1825a0dd8 <unknown>
+#13 0x55d1825a0f75 <unknown>
+#14 0x55d1825b2bce <unknown>
+#15 0x7b5668c9caa4 <unknown>
+#16 0x7b5668d29c6c <unknown>
+
+01:44:12  [W1]  INFO        ── Keyword: Auto Repair
+01:44:12  [W1]  WARNING   Search box not usable for 'Auto Repair': Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.167)
+Stacktrace:
+#0 0x55d1825b416a <unknown>
+#1 0x55d181fb16b9 <unknown>
+#2 0x55d181f84898 <unknown>
+#3 0x55d1820338f8 <unknown>
+#4 0x55d18204d678 <unknown>
+#5 0x55d181ff9222 <unknown>
+#6 0x55d181ffa011 <unknown>
+#7 0x55d182579a0b <unknown>
+#8 0x55d18257c92d <unknown>
+#9 0x55d182566948 <unknown>
+#10 0x55d18257d4c0 <unknown>
+#11 0x55d18254d560 <unknown>
+#12 0x55d1825a0dd8 <unknown>
+#13 0x55d1825a0f75 <unknown>
+#14 0x55d1825b2bce <unknown>
+#15 0x7b5668c9caa4 <unknown>
+#16 0x7b5668d29c6c <unknown>
+
+01:44:12  [W1]  INFO        ── Keyword: Body Shops
+01:44:12  [W1]  WARNING   Search box not usable for 'Body Shops': Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.167)
+Stacktrace:
+#0 0x55d1825b416a <unknown>
+#1 0x55d181fb16b9 <unknown>
+#2 0x55d181f84898 <unknown>
+#3 0x55d1820338f8 <unknown>
+#4 0x55d18204d678 <unknown>
+#5 0x55d181ff9222 <unknown>
+#6 0x55d181ffa011 <unknown>
+#7 0x55d182579a0b <unknown>
+#8 0x55d18257c92d <unknown>
+#9 0x55d182566948 <unknown>
+#10 0x55d18257d4c0 <unknown>
+#11 0x55d18254d560 <unknown>
+#12 0x55d1825a0dd8 <unknown>
+#13 0x55d1825a0f75 <unknown>
+#14 0x55d1825b2bce <unknown>
+#15 0x7b5668c9caa4 <unknown>
+#16 0x7b5668d29c6c <unknown>
+
+01:44:12  [W1]  INFO        ── Keyword: Personal Injury
+01:44:12  [W1]  WARNING   Search box not usable for 'Personal Injury': Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.167)
+Stacktrace:
+#0 0x55d1825b416a <unknown>
+#1 0x55d181fb16b9 <unknown>
+#2 0x55d181f84898 <unknown>
+#3 0x55d1820338f8 <unknown>
+#4 0x55d18204d678 <unknown>
+#5 0x55d181ff9222 <unknown>
+#6 0x55d181ffa011 <unknown>
+#7 0x55d182579a0b <unknown>
+#8 0x55d18257c92d <unknown>
+#9 0x55d182566948 <unknown>
+#10 0x55d18257d4c0 <unknown>
+#11 0x55d18254d560 <unknown>
+#12 0x55d1825a0dd8 <unknown>
+#13 0x55d1825a0f75 <unknown>
+#14 0x55d1825b2bce <unknown>
+#15 0x7b5668c9caa4 <unknown>
+#16 0x7b5668d29c6c <unknown>
+
+01:44:12  [W1]  INFO        ── Keyword: Family Law Firms
+01:44:12  [W1]  WARNING   Search box not usable for 'Family Law Firms': Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.167)
+Stacktrace:
+#0 0x55d1825b416a <unknown>
+#1 0x55d181fb16b9 <unknown>
+#2 0x55d181f84898 <unknown>
+#3 0x55d1820338f8 <unknown>
+#4 0x55d18204d678 <unknown>
+#5 0x55d181ff9222 <unknown>
+#6 0x55d181ffa011 <unknown>
+#7 0x55d182579a0b <unknown>
+#8 0x55d18257c92d <unknown>
+#9 0x55d182566948 <unknown>
+#10 0x55d18257d4c0 <unknown>
+#11 0x55d18254d560 <unknown>
+#12 0x55d1825a0dd8 <unknown>
+#13 0x55d1825a0f75 <unknown>
+#14 0x55d1825b2bce <unknown>
+#15 0x7b5668c9caa4 <unknown>
+#16 0x7b5668d29c6c <unknown>
+
+01:44:12  [W1]  INFO        ── Keyword: Bridal, Catering
+01:44:12  [W1]  WARNING   Search box not usable for 'Bridal, Catering': Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.167)
+Stacktrace:
+#0 0x55d1825b416a <unknown>
+#1 0x55d181fb16b9 <unknown>
+#2 0x55d181f84898 <unknown>
+#3 0x55d1820338f8 <unknown>
+#4 0x55d18204d678 <unknown>
+#5 0x55d181ff9222 <unknown>
+#6 0x55d181ffa011 <unknown>
+#7 0x55d182579a0b <unknown>
+#8 0x55d18257c92d <unknown>
+#9 0x55d182566948 <unknown>
+#10 0x55d18257d4c0 <unknown>
+#11 0x55d18254d560 <unknown>
+#12 0x55d1825a0dd8 <unknown>
+#13 0x55d1825a0f75 <unknown>
+#14 0x55d1825b2bce <unknown>
+#15 0x7b5668c9caa4 <unknown>
+#16 0x7b5668d29c6c <unknown>
+
+01:44:12  [W1]  INFO        ── Keyword: Event Planning Vendors
+01:44:12  [W1]  WARNING   Search box not usable for 'Event Planning Vendors': Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.167)
+Stacktrace:
+#0 0x55d1825b416a <unknown>
+#1 0x55d181fb16b9 <unknown>
+#2 0x55d181f84898 <unknown>
+#3 0x55d1820338f8 <unknown>
+#4 0x55d18204d678 <unknown>
+#5 0x55d181ff9222 <unknown>
+#6 0x55d181ffa011 <unknown>
+#7 0x55d182579a0b <unknown>
+#8 0x55d18257c92d <unknown>
+#9 0x55d182566948 <unknown>
+#10 0x55d18257d4c0 <unknown>
+#11 0x55d18254d560 <unknown>
+#12 0x55d1825a0dd8 <unknown>
+#13 0x55d1825a0f75 <unknown>
+#14 0x55d1825b2bce <unknown>
+#15 0x7b5668c9caa4 <unknown>
+#16 0x7b5668d29c6c <unknown>
+
+01:44:12  [W1]  INFO        ── Keyword: Property Management
+01:44:12  [W1]  WARNING   Search box not usable for 'Property Management': Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.167)
+Stacktrace:
+#0 0x55d1825b416a <unknown>
+#1 0x55d181fb16b9 <unknown>
+#2 0x55d181f84898 <unknown>
+#3 0x55d1820338f8 <unknown>
+#4 0x55d18204d678 <unknown>
+#5 0x55d181ff9222 <unknown>
+#6 0x55d181ffa011 <unknown>
+#7 0x55d182579a0b <unknown>
+#8 0x55d18257c92d <unknown>
+#9 0x55d182566948 <unknown>
+#10 0x55d18257d4c0 <unknown>
+#11 0x55d18254d560 <unknown>
+#12 0x55d1825a0dd8 <unknown>
+#13 0x55d1825a0f75 <unknown>
+#14 0x55d1825b2bce <unknown>
+#15 0x7b5668c9caa4 <unknown>
+#16 0x7b5668d29c6c <unknown>
+
+01:44:12  [W1]  INFO      ── City: https://www.google.com/maps/place/Knoxville,+TN
+01:44:12  [W1]  ERROR     Fatal: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.167)
+Stacktrace:
+#0 0x55d1825b416a <unknown>
+#1 0x55d181fb16b9 <unknown>
+#2 0x55d181f84898 <unknown>
+#3 0x55d1820338f8 <unknown>
+#4 0x55d18204d678 <unknown>
+#5 0x55d181ff9222 <unknown>
+#6 0x55d181ffa011 <unknown>
+#7 0x55d182579a0b <unknown>
+#8 0x55d18257c92d <unknown>
+#9 0x55d182566948 <unknown>
+#10 0x55d18257d4c0 <unknown>
+#11 0x55d18254d560 <unknown>
+#12 0x55d1825a0dd8 <unknown>
+#13 0x55d1825a0f75 <unknown>
+#14 0x55d1825b2bce <unknown>
+#15 0x7b5668c9caa4 <unknown>
+#16 0x7b5668d29c6c <unknown>
+Traceback (most recent call last):
+  File "/home/rafay/BCSN/pouter/maps/scrapper.py", line 478, in run_worker
+    driver.get(url)
+  File "/home/rafay/.local/lib/python3.12/site-packages/undetected_chromedriver/__init__.py", line 665, in get
+    return super().get(url)
+           ^^^^^^^^^^^^^^^^
+  File "/home/rafay/.local/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 488, in get
+    self.execute(Command.GET, {"url": url})
+  File "/home/rafay/.local/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 468, in execute
+    self.error_handler.check_response(response)
+  File "/home/rafay/.local/lib/python3.12/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.167)
+Stacktrace:
+#0 0x55d1825b416a <unknown>
+#1 0x55d181fb16b9 <unknown>
+#2 0x55d181f84898 <unknown>
+#3 0x55d1820338f8 <unknown>
+#4 0x55d18204d678 <unknown>
+#5 0x55d181ff9222 <unknown>
+#6 0x55d181ffa011 <unknown>
+#7 0x55d182579a0b <unknown>
+#8 0x55d18257c92d <unknown>
+#9 0x55d182566948 <unknown>
+#10 0x55d18257d4c0 <unknown>
+#11 0x55d18254d560 <unknown>
+#12 0x55d1825a0dd8 <unknown>
+#13 0x55d1825a0f75 <unknown>
+#14 0x55d1825b2bce <unknown>
+#15 0x7b5668c9caa4 <unknown>
+#16 0x7b5668d29c6c <unknown>
+
+01:44:12  [W1]  INFO      Saved 0 urls → urls_1.json
+01:44:12  [W1]  INFO      Worker done. Quitting driver.
+01:47:19  [W1]  INFO      Resuming from urls_1.json — 0 urls
+01:47:19  [W1]  INFO      Detected Chrome major version: 148
+01:47:19  [W1]  INFO      patching driver executable /home/rafay/.local/share/undetected_chromedriver/undetected_chromedriver_1
+01:51:11  [W1]  INFO      Resuming from urls_1.json — 0 urls
+01:51:11  [W1]  INFO      Detected Chrome major version: 148
+01:51:11  [W1]  INFO      Driver started (incognito)
+01:51:11  [W1]  INFO      ── City: https://www.google.com/maps/place/Dayton,+OH
+01:51:18  [W1]  INFO      Clicked: close popup
+01:51:19  [W1]  INFO        ── Keyword: Dental Clinics
+01:51:19  [W1]  INFO      Searched: Dental Clinics
+01:51:22  [W1]  INFO      Clicked: 'update results when map moves'
+01:51:24  [W1]  INFO      Saved 10 urls → urls_1.json
+01:51:25  [W1]  INFO      Saved 19 urls → urls_1.json
+01:51:27  [W1]  INFO      Saved 21 urls → urls_1.json
+01:51:29  [W1]  INFO      Saved 21 urls → urls_1.json
+01:51:30  [W1]  INFO      Saved 21 urls → urls_1.json
+01:51:32  [W1]  INFO      Saved 21 urls → urls_1.json
+01:51:33  [W1]  INFO      Saved 21 urls → urls_1.json
+01:51:35  [W1]  INFO      Interrupted — saving …
+01:51:35  [W1]  INFO      Saved 21 urls → urls_1.json
+01:51:35  [W1]  INFO      Worker done. Quitting driver.
+01:51:40  [W1]  INFO      Resuming from urls_1.json — 21 urls
+01:51:40  [W1]  INFO      Detected Chrome major version: 148
+01:51:40  [W1]  INFO      Driver started (incognito)
+01:51:40  [W1]  INFO      ── City: https://www.google.com/maps/place/Dayton,+OH
+01:51:48  [W1]  INFO      Clicked: close popup
+01:51:48  [W1]  INFO        ── Keyword: Dental Clinics
+01:51:48  [W1]  INFO      Searched: Dental Clinics
+01:52:01  [W1]  WARNING   Results feed not found: Message: 
+Stacktrace:
+#0 0x5eb66cfeb16a <unknown>
+#1 0x5eb66c9e86b9 <unknown>
+#2 0x5eb66ca3cc0d <unknown>
+#3 0x5eb66ca3ce51 <unknown>
+#4 0x5eb66ca87b24 <unknown>
+#5 0x5eb66ca84cbf <unknown>
+#6 0x5eb66ca30222 <unknown>
+#7 0x5eb66ca31011 <unknown>
+#8 0x5eb66cfb0a0b <unknown>
+#9 0x5eb66cfb392d <unknown>
+#10 0x5eb66cf9d948 <unknown>
+#11 0x5eb66cfb44c0 <unknown>
+#12 0x5eb66cf84560 <unknown>
+#13 0x5eb66cfd7dd8 <unknown>
+#14 0x5eb66cfd7f75 <unknown>
+#15 0x5eb66cfe9bce <unknown>
+#16 0x7bcfa449caa4 <unknown>
+#17 0x7bcfa4529c6c <unknown>
+
+01:52:01  [W1]  INFO        ── Keyword: Orthodontists
+01:52:01  [W1]  INFO      Searched: Orthodontists
+01:52:15  [W1]  WARNING   Results feed not found: Message: 
+Stacktrace:
+#0 0x5eb66cfeb16a <unknown>
+#1 0x5eb66c9e86b9 <unknown>
+#2 0x5eb66ca3cc0d <unknown>
+#3 0x5eb66ca3ce51 <unknown>
+#4 0x5eb66ca87b24 <unknown>
+#5 0x5eb66ca84cbf <unknown>
+#6 0x5eb66ca30222 <unknown>
+#7 0x5eb66ca31011 <unknown>
+#8 0x5eb66cfb0a0b <unknown>
+#9 0x5eb66cfb392d <unknown>
+#10 0x5eb66cf9d948 <unknown>
+#11 0x5eb66cfb44c0 <unknown>
+#12 0x5eb66cf84560 <unknown>
+#13 0x5eb66cfd7dd8 <unknown>
+#14 0x5eb66cfd7f75 <unknown>
+#15 0x5eb66cfe9bce <unknown>
+#16 0x7bcfa449caa4 <unknown>
+#17 0x7bcfa4529c6c <unknown>
+
+01:52:15  [W1]  INFO        ── Keyword: Med Spas
+01:52:15  [W1]  INFO      Searched: Med Spas
+01:52:28  [W1]  INFO      Clicked: 'update results when map moves'
+01:52:30  [W1]  INFO      Saved 28 urls → urls_1.json
+01:52:32  [W1]  INFO      Saved 31 urls → urls_1.json
+01:52:33  [W1]  INFO      Saved 36 urls → urls_1.json
+01:52:35  [W1]  INFO      Saved 41 urls → urls_1.json
+01:52:36  [W1]  INFO      Saved 47 urls → urls_1.json
+01:52:38  [W1]  INFO      Saved 54 urls → urls_1.json
+01:52:40  [W1]  INFO      Saved 60 urls → urls_1.json
+01:52:41  [W1]  INFO      Saved 60 urls → urls_1.json
+01:52:43  [W1]  INFO      Saved 60 urls → urls_1.json
+01:52:45  [W1]  INFO      Saved 60 urls → urls_1.json
+01:52:46  [W1]  INFO      Saved 60 urls → urls_1.json
+01:52:48  [W1]  INFO      Saved 67 urls → urls_1.json
+01:52:50  [W1]  INFO      Saved 74 urls → urls_1.json
+01:52:51  [W1]  INFO      Saved 80 urls → urls_1.json
+01:52:53  [W1]  INFO      Saved 80 urls → urls_1.json
+01:52:55  [W1]  INFO      Saved 87 urls → urls_1.json
+01:52:57  [W1]  INFO      Saved 94 urls → urls_1.json
+01:52:59  [W1]  INFO      Saved 100 urls → urls_1.json
+01:53:00  [W1]  INFO      Saved 107 urls → urls_1.json
+01:53:02  [W1]  INFO      Saved 114 urls → urls_1.json
+01:53:04  [W1]  INFO      Saved 120 urls → urls_1.json
+01:53:06  [W1]  INFO      Saved 127 urls → urls_1.json
+01:53:08  [W1]  INFO      Saved 134 urls → urls_1.json
+01:53:08  [W1]  INFO      End of list reached
+01:53:08  [W1]  INFO      Saved 135 urls → urls_1.json
+01:53:08  [W1]  INFO      [Med Spas] +114 new urls (total: 135)
+01:53:08  [W1]  INFO        ── Keyword: Aesthetic Clinics
+01:53:09  [W1]  INFO      Searched: Aesthetic Clinics
+01:53:15  [W1]  INFO      Saved 137 urls → urls_1.json
+01:53:17  [W1]  INFO      Saved 140 urls → urls_1.json
+01:53:18  [W1]  INFO      Saved 143 urls → urls_1.json
+01:53:20  [W1]  INFO      Saved 143 urls → urls_1.json
+01:53:21  [W1]  INFO      Saved 143 urls → urls_1.json
+01:53:23  [W1]  INFO      Saved 143 urls → urls_1.json
+01:53:24  [W1]  INFO      Saved 143 urls → urls_1.json
+01:53:26  [W1]  INFO      Stalled after 6 scrolls — moving on
+01:53:26  [W1]  INFO      Saved 143 urls → urls_1.json
+01:53:26  [W1]  INFO      [Aesthetic Clinics] +8 new urls (total: 143)
+01:53:26  [W1]  INFO        ── Keyword: Therapy, Mental Health
+01:53:26  [W1]  INFO      Searched: Therapy, Mental Health

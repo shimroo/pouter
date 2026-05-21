@@ -23,6 +23,7 @@ import math
 import multiprocessing as mp
 import os
 import re
+import shutil
 import subprocess
 from time import sleep
 from pathlib import Path
@@ -276,7 +277,35 @@ def _chrome_major_version() -> int | None:
     return None
 
 
-def build_driver() -> uc.Chrome:
+_DRIVER_DIR = Path.home() / ".local/share/undetected_chromedriver"
+_BASE_DRIVER = _DRIVER_DIR / "undetected_chromedriver"
+
+
+def _ensure_base_driver(version: int | None) -> None:
+    """Download and patch chromedriver once in the main process."""
+    if _BASE_DRIVER.exists():
+        with _BASE_DRIVER.open("rb") as f:
+            if b"cdc_" not in f.read(2_000_000):
+                log.info("Base chromedriver already patched — skipping download")
+                return
+    log.info("Downloading/patching base chromedriver (version %s) …", version)
+    opts = webdriver.ChromeOptions()
+    opts.add_argument("--headless=new")
+    opts.add_argument("--no-sandbox")
+    opts.add_argument("--disable-dev-shm-usage")
+    tmp = uc.Chrome(options=opts, version_main=version)
+    tmp.quit()
+    log.info("Base chromedriver ready: %s", _BASE_DRIVER)
+
+
+def _copy_driver_for_worker(worker_id: int) -> str:
+    dst = _DRIVER_DIR / f"undetected_chromedriver_{worker_id}"
+    shutil.copy2(_BASE_DRIVER, dst)
+    dst.chmod(0o755)
+    return str(dst)
+
+
+def build_driver(worker_id: int = 0) -> uc.Chrome:
     options = webdriver.ChromeOptions()
     options.add_argument("--incognito")
     options.add_argument("--no-sandbox")
@@ -287,7 +316,9 @@ def build_driver() -> uc.Chrome:
         options.add_argument("--headless=new")
     version = _chrome_major_version()
     log.info("Detected Chrome major version: %s", version)
-    driver = uc.Chrome(options=options, version_main=version)
+    driver_path = _copy_driver_for_worker(worker_id)
+    driver = uc.Chrome(options=options, version_main=version,
+                       driver_executable_path=driver_path)
     log.info("Driver started (incognito)")
     return driver
 
@@ -463,7 +494,7 @@ def run_worker(worker_id: int, cities: list[str],
     log = setup_logging(worker_id)
 
     store  = UrlStore(output_file)
-    driver = build_driver()
+    driver = build_driver(worker_id)
     wait   = WebDriverWait(driver, WAIT_TIME)
 
     try:
@@ -555,6 +586,7 @@ def main() -> None:
     if n == 1:
         run_worker(0, chunks[0], keywords, OUTPUT_FILE)
     else:
+        _ensure_base_driver(_chrome_major_version())
         procs = []
         for i, chunk in enumerate(chunks):
             p = mp.Process(

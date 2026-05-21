@@ -823,3 +823,32 @@ Stacktrace:
 01:24:36  [main]  INFO      50 cities × 25 keywords = 1250 combos across 1 worker(s)
 01:32:24  [main]  INFO      47 cities × 25 keywords = 1175 combos across 1 worker(s)
 01:33:10  [main]  INFO      47 cities × 25 keywords = 1175 combos across 1 worker(s)
+01:38:04  [main]  INFO      25 cities × 25 keywords = 625 combos across 2 worker(s)
+01:38:04  [main]  INFO      Started worker 0 (pid 29927) — 13 cities
+01:38:04  [main]  INFO      Started worker 1 (pid 29928) — 12 cities
+01:43:58  [main]  INFO      25 cities × 25 keywords = 625 combos across 2 worker(s)
+01:43:58  [main]  INFO      Started worker 0 (pid 32672) — 13 cities
+01:43:58  [main]  INFO      Started worker 1 (pid 32673) — 12 cities
+01:44:13  [main]  INFO      All workers finished — merging …
+01:44:13  [main]  INFO      Existing urls.json: 615 urls
+01:44:13  [main]  INFO      Merged urls_0.json: +0 new (total 615)
+01:44:13  [main]  INFO      Merged urls_1.json: +0 new (total 615)
+01:44:13  [main]  INFO      Final: 615 unique urls → urls.json
+01:47:19  [main]  INFO      25 cities × 25 keywords = 625 combos across 2 worker(s)
+01:47:19  [main]  INFO      Started worker 0 (pid 34375) — 13 cities
+01:47:19  [main]  INFO      Started worker 1 (pid 34376) — 12 cities
+01:47:19  [main]  INFO      All workers finished — merging …
+01:47:19  [main]  INFO      Existing urls.json: 615 urls
+01:47:19  [main]  INFO      Merged urls_0.json: +0 new (total 615)
+01:47:19  [main]  INFO      Merged urls_1.json: +0 new (total 615)
+01:47:19  [main]  INFO      Final: 615 unique urls → urls.json
+01:51:11  [main]  INFO      25 cities × 25 keywords = 625 combos across 2 worker(s)
+01:51:11  [main]  INFO      Base chromedriver already patched — skipping download
+01:51:11  [main]  INFO      Started worker 0 (pid 35964) — 13 cities
+01:51:11  [main]  INFO      Started worker 1 (pid 35965) — 12 cities
+01:51:40  [main]  INFO      25 cities × 25 keywords = 625 combos across 4 worker(s)
+01:51:40  [main]  INFO      Base chromedriver already patched — skipping download
+01:51:40  [main]  INFO      Started worker 0 (pid 37589) — 7 cities
+01:51:40  [main]  INFO      Started worker 1 (pid 37590) — 6 cities
+01:51:40  [main]  INFO      Started worker 2 (pid 37593) — 6 cities
+01:51:40  [main]  INFO      Started worker 3 (pid 37596) — 6 cities
