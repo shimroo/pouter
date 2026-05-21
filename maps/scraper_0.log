@@ -1,0 +1,173 @@
+18:47:50  [W0]  INFO      Resuming from urls.json — 229 urls
+18:59:03  [W0]  INFO      Resuming from urls.json — 229 urls
+19:02:26  [W0]  INFO      Resuming from urls.json — 229 urls
+01:07:46  [W0]  INFO      Resuming from urls.json — 229 urls
+01:07:50  [W0]  INFO      patching driver executable /home/rafay/.local/share/undetected_chromedriver/undetected_chromedriver
+01:09:29  [W0]  INFO      Resuming from urls.json — 229 urls
+01:09:32  [W0]  INFO      patching driver executable /home/rafay/.local/share/undetected_chromedriver/undetected_chromedriver
+01:11:00  [W0]  INFO      Resuming from urls.json — 229 urls
+01:11:03  [W0]  INFO      patching driver executable /home/rafay/.local/share/undetected_chromedriver/undetected_chromedriver
+01:11:04  [W0]  INFO      Driver started (incognito)
+01:11:04  [W0]  INFO      ── City: https://www.google.com/maps/place/Indianapolis,+IN
+01:11:11  [W0]  INFO      Clicked: close popup
+01:11:12  [W0]  INFO        ── Keyword: Dental Clinics
+01:11:12  [W0]  INFO      Searched: Dental Clinics
+01:11:15  [W0]  INFO      Clicked: 'update results when map moves'
+01:11:17  [W0]  INFO      Saved 239 urls → urls.json
+01:11:19  [W0]  INFO      Saved 249 urls → urls.json
+01:11:20  [W0]  INFO      Saved 251 urls → urls.json
+01:11:22  [W0]  INFO      Saved 259 urls → urls.json
+01:11:23  [W0]  INFO      Saved 269 urls → urls.json
+01:11:25  [W0]  INFO      Saved 269 urls → urls.json
+01:11:27  [W0]  INFO      Saved 269 urls → urls.json
+01:11:28  [W0]  INFO      Saved 269 urls → urls.json
+01:11:30  [W0]  INFO      Saved 269 urls → urls.json
+01:11:32  [W0]  INFO      Stalled after 6 scrolls — moving on
+01:11:32  [W0]  INFO      Saved 269 urls → urls.json
+01:11:32  [W0]  INFO      [Dental Clinics] +40 new urls (total: 269)
+01:11:32  [W0]  INFO      Spiral: 2 rings → 18 stops
+01:11:32  [W0]  INFO        stop 1/18  target(+519,+299)  delta(+519,+299)
+01:11:52  [W0]  INFO      Saved 299 urls → urls.json
+01:11:54  [W0]  INFO      Saved 300 urls → urls.json
+01:11:55  [W0]  INFO      Saved 301 urls → urls.json
+01:11:57  [W0]  INFO      Saved 308 urls → urls.json
+01:11:59  [W0]  INFO      Saved 317 urls → urls.json
+01:12:01  [W0]  INFO      Saved 326 urls → urls.json
+01:12:02  [W0]  INFO      Saved 336 urls → urls.json
+01:12:04  [W0]  INFO      Saved 345 urls → urls.json
+01:12:05  [W0]  INFO      End of list reached
+01:12:05  [W0]  INFO      Saved 355 urls → urls.json
+01:12:05  [W0]  INFO      [Dental Clinics] +86 new urls (total: 355)
+01:12:05  [W0]  INFO        stop 2/18  target(+0,+600)  delta(-519,+301)
+01:12:18  [W0]  INFO      Saved 379 urls → urls.json
+01:12:19  [W0]  INFO      Saved 379 urls → urls.json
+01:12:21  [W0]  INFO      Saved 379 urls → urls.json
+01:12:23  [W0]  INFO      Saved 379 urls → urls.json
+01:12:25  [W0]  INFO      Saved 379 urls → urls.json
+01:12:26  [W0]  INFO      Saved 379 urls → urls.json
+01:12:28  [W0]  INFO      Saved 379 urls → urls.json
+01:12:30  [W0]  INFO      Saved 379 urls → urls.json
+01:12:30  [W0]  INFO      End of list reached
+01:12:30  [W0]  INFO      Saved 379 urls → urls.json
+01:12:30  [W0]  INFO      [Dental Clinics] +24 new urls (total: 379)
+01:12:30  [W0]  INFO        stop 3/18  target(-519,+300)  delta(-519,-300)
+01:12:43  [W0]  INFO      Saved 379 urls → urls.json
+01:12:45  [W0]  INFO      Saved 379 urls → urls.json
+01:12:46  [W0]  INFO      Saved 379 urls → urls.json
+01:12:48  [W0]  INFO      Saved 379 urls → urls.json
+01:12:50  [W0]  INFO      Saved 379 urls → urls.json
+01:12:52  [W0]  INFO      Saved 379 urls → urls.json
+01:12:54  [W0]  INFO      Saved 379 urls → urls.json
+01:12:56  [W0]  INFO      Saved 379 urls → urls.json
+01:12:56  [W0]  INFO      End of list reached
+01:12:56  [W0]  INFO      Saved 379 urls → urls.json
+01:12:56  [W0]  INFO      [Dental Clinics] +0 new urls (total: 379)
+01:12:56  [W0]  INFO        stop 4/18  target(-519,-299)  delta(+0,-599)
+01:12:59  [W0]  WARNING   Pan drag failed: Message: move target out of bounds
+  (Session info: chrome=148.0.7778.167)
+Stacktrace:
+#0 0x61522fdb616a <unknown>
+#1 0x61522f7b3470 <unknown>
+#2 0x61522f859654 <unknown>
+#3 0x61522f84fcbf <unknown>
+#4 0x61522f7fb222 <unknown>
+#5 0x61522f7fc011 <unknown>
+#6 0x61522fd7ba0b <unknown>
+#7 0x61522fd7e92d <unknown>
+#8 0x61522fd68948 <unknown>
+#9 0x61522fd7f4c0 <unknown>
+#10 0x61522fd4f560 <unknown>
+#11 0x61522fda2dd8 <unknown>
+#12 0x61522fda2f75 <unknown>
+#13 0x61522fdb4bce <unknown>
+#14 0x7ec6fba9caa4 <unknown>
+#15 0x7ec6fbb29c6c <unknown>
+
+01:12:59  [W0]  INFO        stop 5/18  target(+0,-600)  delta(+519,-900)
+01:13:00  [W0]  WARNING   Pan drag failed: Message: move target out of bounds
+  (Session info: chrome=148.0.7778.167)
+Stacktrace:
+#0 0x61522fdb616a <unknown>
+#1 0x61522f7b3470 <unknown>
+#2 0x61522f859654 <unknown>
+#3 0x61522f84fcbf <unknown>
+#4 0x61522f7fb222 <unknown>
+#5 0x61522f7fc011 <unknown>
+#6 0x61522fd7ba0b <unknown>
+#7 0x61522fd7e92d <unknown>
+#8 0x61522fd68948 <unknown>
+#9 0x61522fd7f4c0 <unknown>
+#10 0x61522fd4f560 <unknown>
+#11 0x61522fda2dd8 <unknown>
+#12 0x61522fda2f75 <unknown>
+#13 0x61522fdb4bce <unknown>
+#14 0x7ec6fba9caa4 <unknown>
+#15 0x7ec6fbb29c6c <unknown>
+
+01:13:00  [W0]  INFO        stop 6/18  target(+519,-299)  delta(+1038,-599)
+01:13:03  [W0]  WARNING   Pan drag failed: Message: move target out of bounds
+  (Session info: chrome=148.0.7778.167)
+Stacktrace:
+#0 0x61522fdb616a <unknown>
+#1 0x61522f7b3470 <unknown>
+#2 0x61522f859654 <unknown>
+#3 0x61522f84fcbf <unknown>
+#4 0x61522f7fb222 <unknown>
+#5 0x61522f7fc011 <unknown>
+#6 0x61522fd7ba0b <unknown>
+#7 0x61522fd7e92d <unknown>
+#8 0x61522fd68948 <unknown>
+#9 0x61522fd7f4c0 <unknown>
+#10 0x61522fd4f560 <unknown>
+#11 0x61522fda2dd8 <unknown>
+#12 0x61522fda2f75 <unknown>
+#13 0x61522fdb4bce <unknown>
+#14 0x7ec6fba9caa4 <unknown>
+#15 0x7ec6fbb29c6c <unknown>
+
+01:13:03  [W0]  INFO        stop 7/18  target(+1039,+599)  delta(+1558,+299)
+01:13:09  [W0]  WARNING   Pan drag failed: Message: move target out of bounds
+  (Session info: chrome=148.0.7778.167)
+Stacktrace:
+#0 0x61522fdb616a <unknown>
+#1 0x61522f7b3470 <unknown>
+#2 0x61522f859654 <unknown>
+#3 0x61522f84fcbf <unknown>
+#4 0x61522f7fb222 <unknown>
+#5 0x61522f7fc011 <unknown>
+#6 0x61522fd7ba0b <unknown>
+#7 0x61522fd7e92d <unknown>
+#8 0x61522fd68948 <unknown>
+#9 0x61522fd7f4c0 <unknown>
+#10 0x61522fd4f560 <unknown>
+#11 0x61522fda2dd8 <unknown>
+#12 0x61522fda2f75 <unknown>
+#13 0x61522fdb4bce <unknown>
+#14 0x7ec6fba9caa4 <unknown>
+#15 0x7ec6fbb29c6c <unknown>
+
+01:13:09  [W0]  INFO        stop 8/18  target(+600,+1039)  delta(+1119,+739)
+01:13:11  [W0]  WARNING   Pan drag failed: Message: move target out of bounds
+  (Session info: chrome=148.0.7778.167)
+Stacktrace:
+#0 0x61522fdb616a <unknown>
+#1 0x61522f7b3470 <unknown>
+#2 0x61522f859654 <unknown>
+#3 0x61522f84fcbf <unknown>
+#4 0x61522f7fb222 <unknown>
+#5 0x61522f7fc011 <unknown>
+#6 0x61522fd7ba0b <unknown>
+#7 0x61522fd7e92d <unknown>
+#8 0x61522fd68948 <unknown>
+#9 0x61522fd7f4c0 <unknown>
+#10 0x61522fd4f560 <unknown>
+#11 0x61522fda2dd8 <unknown>
+#12 0x61522fda2f75 <unknown>
+#13 0x61522fdb4bce <unknown>
+#14 0x7ec6fba9caa4 <unknown>
+#15 0x7ec6fbb29c6c <unknown>
+
+01:13:11  [W0]  INFO        stop 9/18  target(+0,+1200)  delta(+519,+900)
+01:13:12  [W0]  INFO      Interrupted — saving …
+01:13:12  [W0]  INFO      Saved 379 urls → urls.json
+01:13:12  [W0]  INFO      Worker done. Quitting driver.

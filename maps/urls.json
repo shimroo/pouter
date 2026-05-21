@@ -1,10 +1,59 @@
 {
+  "https://www.google.com/maps/place/24%2F7+Dental+-+Emergency+Dental+Care/data=!4m7!3m6!1s0x886b4323684dfb27:0x731bb448e633e9bf!8m2!3d39.6682!4d-86.0818401!16s%2Fg%2F11ks2yjnv6!19sChIJJ_tNaCNDa4gRv-kz5ki0G3M?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:15",
+    "keyword": "Dental Clinics",
+    "name": "24/7 Dental - Emergency Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/24%2F7+Dental+-+Emergency+Dental+Care/data=!4m7!3m6!1s0x886b4fde6bfee0eb:0x8ded5104486e58fd!8m2!3d39.7812799!4d-86.0447645!16s%2Fg%2F11jyxrnz6h!19sChIJ6-D-a95Pa4gR_VhuSARR7Y0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:15",
+    "keyword": "Dental Clinics",
+    "name": "24/7 Dental - Emergency Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/24%2F7+Dental+-+Emergency+Dental+Care/data=!4m7!3m6!1s0x886ca950c30ec1c5:0xc47274f0af15ba01!8m2!3d39.7787274!4d-86.2897429!16s%2Fg%2F11pcs2d8tt!19sChIJxcEOw1CpbIgRAboVr_B0csQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:15",
+    "keyword": "Dental Clinics",
+    "name": "24/7 Dental - Emergency Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/7+Days+Family+Dental+-+Southport/data=!4m7!3m6!1s0x886b5c70ebd74db3:0xcc5796175a6fde4d!8m2!3d39.6640616!4d-86.1459935!16s%2Fg%2F11fz9z4n07!19sChIJs03X63Bca4gRTd5vWheWV8w?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:50",
+    "keyword": "Dental Clinics",
+    "name": "7 Days Family Dental - Southport",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/7+Days+Family+Dental+of+Beech+Grove/data=!4m7!3m6!1s0x886b4539fc4ddd19:0x2026bb8afb8be933!8m2!3d39.6950038!4d-86.082942!16s%2Fg%2F11y98zvjfm!19sChIJGd1N_DlFa4gRM-mL-4q7JiA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:05",
+    "keyword": "Dental Clinics",
+    "name": "7 Days Family Dental of Beech Grove",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/86th+Street+Complete+Dental/data=!4m7!3m6!1s0x886b55304c059473:0xdf6ea85d83726392!8m2!3d39.912077!4d-86.2276266!16s%2Fg%2F11g9qfsf0y!19sChIJc5QFTDBVa4gRkmNyg12obt8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:15",
+    "keyword": "Dental Clinics",
+    "name": "86th Street Complete Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Accelerated+Academy+%7C+Dental+Assisting+-+Greenville,+SC/data=!4m7!3m6!1s0x88582f7472ee4d2d:0xe4887714c0570523!8m2!3d34.8785458!4d-82.3180994!16s%2Fg%2F11y270rp66!19sChIJLU3ucnQvWIgRIwVXwBR3iOQ?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:36:35",
     "keyword": "orthodontist",
     "name": "Accelerated Academy | Dental Assisting - Greenville, SC",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Advanced+Dental+Care+of+Summerlin+Place/data=!4m7!3m6!1s0x886b51404844360d:0x9ac1821afb9918f1!8m2!3d39.8170089!4d-86.1563415!16s%2Fg%2F1tfd7qr_!19sChIJDTZESEBRa4gR8RiZ-xqCwZo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:57",
+    "keyword": "Dental Clinics",
+    "name": "Advanced Dental Care of Summerlin Place",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
   "https://www.google.com/maps/place/Advanced+Family+Dentistry/data=!4m7!3m6!1s0x885837e4495d1285:0x78c811b9255c69b!8m2!3d34.8260132!4d-82.5542118!16s%2Fg%2F1tffq1g6!19sChIJhRJdSeQ3WIgRm8ZVkhuBjAc?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:12",
@@ -20,12 +69,33 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Affordable+Dental+East/data=!4m7!3m6!1s0x886b49548c63bd57:0xd8ee729cb62e69d7!8m2!3d39.83064!4d-86.0369857!16s%2Fg%2F1262wxhyx!19sChIJV71jjFRJa4gR12kutpxy7tg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:17",
+    "keyword": "Dental Clinics",
+    "name": "Affordable Dental East",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Affordable+Dentures+%26+Implants/data=!4m7!3m6!1s0x88582557c336c351:0x5c8ac56bf1b072d7!8m2!3d34.7987779!4d-82.3790517!16s%2Fg%2F1tdwl6kk!19sChIJUcM2w1clWIgR13Kw8WvFilw?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:36:30",
     "keyword": "orthodontist",
     "name": "Affordable Dentures & Implants",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Affordable+Dentures+%26+Implants/data=!4m7!3m6!1s0x886b4996c212ac55:0x1b36f06438f1cf0!8m2!3d39.7728213!4d-85.9938034!16s%2Fg%2F11flr2qxyb!19sChIJVawSwpZJa4gR8ByPQwZvswE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:16",
+    "keyword": "Dental Clinics",
+    "name": "Affordable Dentures & Implants",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Affordable+Westend+Dental/data=!4m7!3m6!1s0x886b5659c9b80a0f:0x76afa100b4355973!8m2!3d39.8080572!4d-86.2184427!16s%2Fg%2F1w0sdm2h!19sChIJDwq4yVlWa4gRc1k1tAChr3Y?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:17",
+    "keyword": "Dental Clinics",
+    "name": "Affordable Westend Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
   "https://www.google.com/maps/place/Agape+Dental/data=!4m7!3m6!1s0x88582893279ef49b:0x4f96f0688dc25fa3!8m2!3d34.8146217!4d-82.2719986!16s%2Fg%2F1tf_1srv!19sChIJm_SeJ5MoWIgRo1_CjWjwlk8?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:27",
@@ -34,12 +104,40 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Alivio+Dental+clinic/data=!4m7!3m6!1s0x886b4efc78b3e335:0xb310e6d8c6747402!8m2!3d39.79615!4d-86.0472987!16s%2Fg%2F1tgx7bqc!19sChIJNeOzePxOa4gRAnR0xtjmELM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:20",
+    "keyword": "Dental Clinics",
+    "name": "Alivio Dental clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/All+Smiles+Dental+Group+LLC/data=!4m7!3m6!1s0x88582ae8829633a1:0x1671baad6cd9d264!8m2!3d34.9293129!4d-82.292993!16s%2Fg%2F1q6j4t25y!19sChIJoTOWgugqWIgRZNLZbK26cRY?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:36:36",
     "keyword": "orthodontist",
     "name": "All Smiles Dental Group LLC",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Allisonville+Dental+Centre/data=!4m7!3m6!1s0x886b5223d2dfc59d:0xde9702d4822b6ac5!8m2!3d39.839974!4d-86.116712!16s%2Fg%2F1wk6_h_b!19sChIJncXf0iNSa4gRxWorgtQCl94?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:16",
+    "keyword": "Dental Clinics",
+    "name": "Allisonville Dental Centre",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Amazing+Family+Dental/data=!4m7!3m6!1s0x886b5a8969838185:0xd56d7ae89cbb06ff!8m2!3d39.738064!4d-86.130869!16s%2Fg%2F1vc82kc8!19sChIJhYGDaYlaa4gR_wa7nOh6bdU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:16",
+    "keyword": "Dental Clinics",
+    "name": "Amazing Family Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/AmeriPlex+Family+Dental+Care:+Keenan+Cave,+DMD/data=!4m7!3m6!1s0x886ca72e9f05f24d:0x493f2fe535d59614!8m2!3d39.6806483!4d-86.2906507!16s%2Fg%2F1tg_mcmw!19sChIJTfIFny6nbIgRFJbVNeUvP0k?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:50",
+    "keyword": "Dental Clinics",
+    "name": "AmeriPlex Family Dental Care: Keenan Cave, DMD",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
   "https://www.google.com/maps/place/Andrew+E.+Floyd,+Jr.,+DMD/data=!4m7!3m6!1s0x8857836bcf8918f7:0x1a4f882ebfb05163!8m2!3d34.8852035!4d-82.0658539!16s%2Fg%2F1tdmqs4d!19sChIJ9xiJz2uDV4gRY1Gwvy6ITxo?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:36:36",
@@ -111,6 +209,41 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Aspen+Dental+-+Greenwood,+IN/data=!4m7!3m6!1s0x886b5dc1bc1342d7:0xa929f0d48ba42e4c!8m2!3d39.6101951!4d-86.157741!16s%2Fg%2F1tg5vt54!19sChIJ10ITvMFda4gRTC6ki9TwKak?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:16",
+    "keyword": "Dental Clinics",
+    "name": "Aspen Dental - Greenwood, IN",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Aspen+Dental+-+Indianapolis,+IN+-+Lawrence/data=!4m7!3m6!1s0x886b4b9580e07c33:0x6b53c6faa9e94e31!8m2!3d39.853741!4d-85.992112!16s%2Fg%2F1tlkd34f!19sChIJM3zggJVLa4gRMU7pqfrGU2s?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:50",
+    "keyword": "Dental Clinics",
+    "name": "Aspen Dental - Indianapolis, IN - Lawrence",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Aspen+Dental+-+Indianapolis,+IN+-+Southport+Rd/data=!4m7!3m6!1s0x886b5cabdcf73233:0x1cb42e30da1f0ac!8m2!3d39.6649901!4d-86.0986438!16s%2Fg%2F1tfmcz_9!19sChIJMzL33Ktca4gRrPChDeNCywE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:59",
+    "keyword": "Dental Clinics",
+    "name": "Aspen Dental - Indianapolis, IN - Southport Rd",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Augusta+Dental+Office/data=!4m7!3m6!1s0x886b54f96266278f:0x6083c34f5beb6a9d!8m2!3d39.883561!4d-86.2083072!16s%2Fg%2F1vk6zzwt!19sChIJjydmYvlUa4gRnWrrW0_Dg2A?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:03",
+    "keyword": "Dental Clinics",
+    "name": "Augusta Dental Office",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Bacsa+Family+Dental+and+Implant+Center/data=!4m7!3m6!1s0x886b44dab7617725:0xddec2a8255d3271!8m2!3d39.6943422!4d-86.0656605!16s%2Fg%2F1td4kw8r!19sChIJJXdht9pEa4gRcTJdJajC3g0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:20",
+    "keyword": "Dental Clinics",
+    "name": "Bacsa Family Dental and Implant Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Bella+Vista+Dental/data=!4m7!3m6!1s0x88582dfe0ccf96ef:0x102bfc2c361b48d6!8m2!3d34.8656737!4d-82.3320618!16s%2Fg%2F11b7vczl76!19sChIJ75bPDP4tWIgR1kgbNiz8KxA?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:15",
     "keyword": "dentist",
@@ -139,6 +272,48 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Blue+River+Dental+Care/data=!4m7!3m6!1s0x886b178e7ee580af:0x929da5e91f919020!8m2!3d39.5495113!4d-85.7746682!16s%2Fg%2F1tj3lv09!19sChIJr4Dlfo4Xa4gRIJCRH-mlnZI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:59",
+    "keyword": "Dental Clinics",
+    "name": "Blue River Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Bridgewater+Dental+Care/data=!4m7!3m6!1s0x8814b1e0908ee7f7:0xd14e2da564c697ac!8m2!3d40.0173629!4d-86.0905988!16s%2Fg%2F1tg79n75!19sChIJ9-eOkOCxFIgRrJfGZKUtTtE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:50",
+    "keyword": "Dental Clinics",
+    "name": "Bridgewater Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Bright+Now!+Dental+%26+Orthodontics+-+Indianapolis,+IN/data=!4m7!3m6!1s0x886b4d8d6824f709:0x2a7f62a7220aa1b8!8m2!3d39.854749!4d-86.085088!16s%2Fg%2F1trc5q24!19sChIJCfckaI1Na4gRuKEKIqdifyo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:57",
+    "keyword": "Dental Clinics",
+    "name": "Bright Now! Dental & Orthodontics - Indianapolis, IN",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Bright+Smile+Dental+Care/data=!4m7!3m6!1s0x8814b30867b3a953:0x8a233e1e64e49ec0!8m2!3d39.9340667!4d-86.0597381!16s%2Fg%2F1tklr4k9!19sChIJU6mzZwizFIgRwJ7kZB4-I4o?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:56",
+    "keyword": "Dental Clinics",
+    "name": "Bright Smile Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Brookschool+Dental+Care/data=!4m7!3m6!1s0x8814b59b16da5337:0xf0fc5f8875de922a!8m2!3d39.959122!4d-85.941727!16s%2Fg%2F1tf_j00j!19sChIJN1PaFpu1FIgRKpLedYhf_PA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:05",
+    "keyword": "Dental Clinics",
+    "name": "Brookschool Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Brookside+Dental+Care/data=!4m7!3m6!1s0x886b50466c97ca8b:0x97f9f3b4760e10e6!8m2!3d39.7815944!4d-86.1182995!16s%2Fg%2F11bvqh94c7!19sChIJi8qXbEZQa4gR5hAOdrTz-Zc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:20",
+    "keyword": "Dental Clinics",
+    "name": "Brookside Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Brown+Family+Dentistry+Group/data=!4m7!3m6!1s0x88582e7268b795ef:0x2d3813b1b5796af1!8m2!3d34.8750712!4d-82.3587744!16s%2Fg%2F1tdwqth1!19sChIJ75W3aHIuWIgR8Wp5tbETOC0?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:14",
     "keyword": "dentist",
@@ -160,12 +335,26 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Care+Dental+Dr+Haifeng+Xu/data=!4m7!3m6!1s0x886b50a11b5e2cd9:0xbf04ca82cd40fd97!8m2!3d39.7783562!4d-86.152413!16s%2Fg%2F11cs9yzls2!19sChIJ2SxeG6FQa4gRl_1AzYLKBL8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:22",
+    "keyword": "Dental Clinics",
+    "name": "Care Dental Dr Haifeng Xu",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Caring+Family+Dentistry/data=!4m7!3m6!1s0x8858303979c5cf21:0xb358f29ec876ebd1!8m2!3d34.831712!4d-82.405478!16s%2Fg%2F1td9fghm!19sChIJIc_FeTkwWIgR0et2yJ7yWLM?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T01:08:38",
     "keyword": "dentist",
     "name": "Caring Family Dentistry",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Carmel+Dental+Care,+PC/data=!4m7!3m6!1s0x8814ada74536b135:0xfeb815a02d187303!8m2!3d39.9569775!4d-86.11996!16s%2Fg%2F1vg4kdhh!19sChIJNbE2RaetFIgRA3MYLaAVuP4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:01",
+    "keyword": "Dental Clinics",
+    "name": "Carmel Dental Care, PC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
   "https://www.google.com/maps/place/Carolina+Dental+Alliance-Piedmont/data=!4m7!3m6!1s0x88583cb7675a7eaf:0xaf1985c827ceabdd!8m2!3d34.6958209!4d-82.3991673!16s%2Fg%2F1yg4fj370!19sChIJr35aZ7c8WIgR3avOJ8iFGa8?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:27",
@@ -265,6 +454,34 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Clinica+Dental+Avila/data=!4m7!3m6!1s0x886b5608a9aa3793:0x332509ca8dee8e53!8m2!3d39.8340638!4d-86.246496!16s%2Fg%2F1hc2t63yl!19sChIJkzeqqQhWa4gRU47ujcoJJTM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:05",
+    "keyword": "Dental Clinics",
+    "name": "Clinica Dental Avila",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Comdent+Dental+Services/data=!4m7!3m6!1s0x886b5bb7abc553b3:0xdbd00a58a3b7cc21!8m2!3d39.7030671!4d-86.1517536!16s%2Fg%2F1tf3_33l!19sChIJs1PFq7dba4gRIcy3o1gK0Ns?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:57",
+    "keyword": "Dental Clinics",
+    "name": "Comdent Dental Services",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Comfort+Dental+Care/data=!4m7!3m6!1s0x886ca8a2271b679f:0x884111f9decbf1e3!8m2!3d39.7634799!4d-86.3190539!16s%2Fg%2F1tf7ygmf!19sChIJn2cbJ6KobIgR4_HL3vkRQYg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:01",
+    "keyword": "Dental Clinics",
+    "name": "Comfort Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Complete+Dental+Care+of+Avon/data=!4m7!3m6!1s0x886ca8a949a277e1:0xa6b75aabdf9d9dcd!8m2!3d39.7647079!4d-86.3322564!16s%2Fg%2F1tfzn27j!19sChIJ4XeiSamobIgRzZ2d36tat6Y?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:15",
+    "keyword": "Dental Clinics",
+    "name": "Complete Dental Care of Avon",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Complete+Dental+Care+of+Easley/data=!4m7!3m6!1s0x885837e4ee009f9f:0x6bc979a22bd627eb!8m2!3d34.824137!4d-82.554765!16s%2Fg%2F1z44b8vvs!19sChIJn58A7uQ3WIgR6yfWK6J5yWs?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:36:27",
     "keyword": "orthodontist",
@@ -272,12 +489,33 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Complete+Dental+Care+of+Fishers/data=!4m7!3m6!1s0x8814b38048b76cb7:0x916647e95f25e285!8m2!3d39.955526!4d-86.0140482!16s%2Fg%2F1tq6f2jb!19sChIJt2y3SICzFIgRheIlX-lHZpE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:50",
+    "keyword": "Dental Clinics",
+    "name": "Complete Dental Care of Fishers",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Complete+Family+Dentistry/data=!4m7!3m6!1s0x886ca9c588420eff:0x3ae9543a81436060!8m2!3d39.8088389!4d-86.269436!16s%2Fg%2F1tfbtmnf!19sChIJ_w5CiMWpbIgRYGBDgTpU6To?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:16",
+    "keyword": "Dental Clinics",
+    "name": "Complete Family Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Cook+Dentistry/data=!4m7!3m6!1s0x88583ea73ab3fb07:0x458835ffb3b90d2!8m2!3d34.7030071!4d-82.4797052!16s%2Fg%2F1s049w_bs!19sChIJB_uzOqc-WIgR0pA7-1-DWAQ?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:29",
     "keyword": "dentist",
     "name": "Cook Dentistry",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Cornerstone+Family+Dentistry/data=!4m7!3m6!1s0x886b48d47486e777:0x64df6762bcde36f4!8m2!3d39.7823621!4d-86.0159433!16s%2Fg%2F1tdfcvl8!19sChIJd-eGdNRIa4gR9DbevGJn32Q?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:01",
+    "keyword": "Dental Clinics",
+    "name": "Cornerstone Family Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
   "https://www.google.com/maps/place/Cove+Dental+Care+Easley/data=!4m7!3m6!1s0x8858377e0d9199fd:0x3ad28072c16b0d01!8m2!3d34.8097479!4d-82.5138048!16s%2Fg%2F1tcysjzb!19sChIJ_ZmRDX43WIgRAQ1rwXKA0jo?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T01:13:42",
@@ -314,6 +552,13 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Crosspoint+Family+Dental+Care/data=!4m7!3m6!1s0x8814b341f42da871:0x8e1f34010e50941f!8m2!3d39.9336263!4d-86.0280543!16s%2Fg%2F1tgwsw9p!19sChIJcagt9EGzFIgRH5RQDgE0H44?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:50",
+    "keyword": "Dental Clinics",
+    "name": "Crosspoint Family Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Crowns+Now+Family+Dentistry+-+Greenville+-+Cleveland+Court/data=!4m7!3m6!1s0x88582fc2c39b43c3:0x256f656d64c1a196!8m2!3d34.8240607!4d-82.3769331!16s%2Fg%2F1vq75kz2!19sChIJw0Obw8IvWIgRlqHBZG1lbyU?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:08",
     "keyword": "dentist",
@@ -334,6 +579,20 @@
     "name": "Crowns Now Family Dentistry Greer",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Czarkowski+Pediatric+Dentistry/data=!4m7!3m6!1s0x886b52510441be4f:0xcf889b9304ada94a!8m2!3d39.868408!4d-86.127237!16s%2Fg%2F11b6hmb_ny!19sChIJT75BBFFSa4gRSqmtBJObiM8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:15",
+    "keyword": "Dental Clinics",
+    "name": "Czarkowski Pediatric Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Danville+Dental+Clinic/data=!4m7!3m6!1s0x886cba0a5eb95147:0xe246c26668c93831!8m2!3d39.762061!4d-86.482219!16s%2Fg%2F1td_5yf2!19sChIJR1G5Xgq6bIgRMTjJaGbCRuI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:50",
+    "keyword": "Dental Clinics",
+    "name": "Danville Dental Clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
   "https://www.google.com/maps/place/Davis+Orthodontics/data=!4m7!3m6!1s0x885826ff75c5dc0f:0x2e65bd3d823eed98!8m2!3d34.7484406!4d-82.2614625!16s%2Fg%2F1tplr0q1!19sChIJD9zFdf8mWIgRmO0-gj29ZS4?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:06:05",
@@ -370,6 +629,13 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Decatur+Woods+Dental+-+Dr.+John+Keller/data=!4m7!3m6!1s0x886b594fdd34f0ad:0xefb0811f2d9fb145!8m2!3d39.7119354!4d-86.2421944!16s%2Fg%2F11qnk7v888!19sChIJrfA03U9Za4gRRbGfLR-BsO8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:05",
+    "keyword": "Dental Clinics",
+    "name": "Decatur Woods Dental - Dr. John Keller",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Dedicated+Dentistry/data=!4m7!3m6!1s0x885831d04c97e227:0x309a6a9417fe8bc6!8m2!3d34.8537606!4d-82.3979526!16s%2Fg%2F1tcxkgzg!19sChIJJ-KXTNAxWIgRxov-F5RqmjA?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T01:08:38",
     "keyword": "dentist",
@@ -384,6 +650,20 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Dental+Care+at+Plainfield+Crossing/data=!4m7!3m6!1s0x886ca44c40e40051:0xfa30e2325de2d268!8m2!3d39.714224!4d-86.364899!16s%2Fg%2F11bwkycz_0!19sChIJUQDkQEykbIgRaNLiXTLiMPo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:59",
+    "keyword": "Dental Clinics",
+    "name": "Dental Care at Plainfield Crossing",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Dental+Care+of+Franklin+Township/data=!4m7!3m6!1s0x886b455a76d5ae17:0x3b4af0b6aa0724f!8m2!3d39.667219!4d-86.021381!16s%2Fg%2F11sszrmyg1!19sChIJF67VdlpFa4gRT3KgaguvtAM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:50",
+    "keyword": "Dental Clinics",
+    "name": "Dental Care of Franklin Township",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Dental+Care+on+East+Main/data=!4m7!3m6!1s0x88584817268d39df:0xe29e81bd192b0498!8m2!3d34.829724!4d-82.575128!16s%2Fg%2F1tgdjq8n!19sChIJ3zmNJhdIWIgRmAQrGb2BnuI?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:07",
     "keyword": "dentist",
@@ -391,12 +671,33 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Dental+Faculty+Pvt+Practice/data=!4m7!3m6!1s0x886b5749fbd887c7:0x8e0574956fd4dc3e!8m2!3d39.7739758!4d-86.1799838!16s%2Fg%2F1tnplrgs!19sChIJx4fY-0lXa4gRPtzUb5V0BY4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:16",
+    "keyword": "Dental Clinics",
+    "name": "Dental Faculty Pvt Practice",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Dental+Innovations+**NEW+OWNER+%2F+DOCTOR+MAY+2024+-+-+Dr.+James+Hicks/data=!4m7!3m6!1s0x88582ee10db9c8bf:0xaacd83233d3a114!8m2!3d34.8501119!4d-82.3175583!16s%2Fg%2F11b6xk6l5p!19sChIJv8i5DeEuWIgRFKHTMzLYrAo?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T01:08:38",
     "keyword": "dentist",
     "name": "Dental Innovations **NEW OWNER / DOCTOR MAY 2024 - - Dr. James Hicks",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/DentalSpa+Indianapolis/data=!4m7!3m6!1s0x886b4d4f7af05abf:0x6676c4dfc6fd1ec6!8m2!3d39.9251762!4d-86.1073032!16s%2Fg%2F1tg9j94c!19sChIJv1rwek9Na4gRxh79xt_EdmY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:56",
+    "keyword": "Dental Clinics",
+    "name": "DentalSpa Indianapolis",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/DentalWorks+%26+Orthodontics+Clearwater/data=!4m7!3m6!1s0x886b4d30934321e9:0x893b96f484b45015!8m2!3d39.9069909!4d-86.0969482!16s%2Fg%2F1hc7z7tpr!19sChIJ6SFDkzBNa4gRFVC0hPSWO4k?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:54",
+    "keyword": "Dental Clinics",
+    "name": "DentalWorks & Orthodontics Clearwater",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
   "https://www.google.com/maps/place/DentalWorks+Greenville+SC/data=!4m7!3m6!1s0x885828cd04ef2013:0x99e94609728081b6!8m2!3d34.8258343!4d-82.2996522!16s%2Fg%2F1v831tnn!19sChIJEyDvBM0oWIgRtoGAcglG6Zk?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:36:29",
@@ -419,12 +720,40 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Dentistry+of+Fishers/data=!4m7!3m6!1s0x8814b402b9abdcb7:0xac7d4fe0f016ee00!8m2!3d39.9735324!4d-86.0029699!16s%2Fg%2F1w96hbkr!19sChIJt9yruQK0FIgRAO4W8OBPfaw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:57",
+    "keyword": "Dental Clinics",
+    "name": "Dentistry of Fishers",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Dentistry+on+116/data=!4m7!3m6!1s0x8814acf8ee21eec1:0xed732eb5e627772b!8m2!3d39.9568939!4d-86.1415176!16s%2Fg%2F1ts_76cd!19sChIJwe4h7visFIgRK3cn5rUuc-0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:16",
+    "keyword": "Dental Clinics",
+    "name": "Dentistry on 116",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Destination+Dental+Multi+Specialty+Dental+Center/data=!4m7!3m6!1s0x8857833336e254d5:0xf20b72877e0ac5d3!8m2!3d34.9083701!4d-82.0992208!16s%2Fg%2F11lfgnr4gq!19sChIJ1VTiNjODV4gR08UKfodyC_I?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:36:35",
     "keyword": "orthodontist",
     "name": "Destination Dental Multi Specialty Dental Center",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Destiny+Dental/data=!4m7!3m6!1s0x886b4c1b16a9e70d:0x6115046c6fc9ea2e!8m2!3d39.8373159!4d-86.022516!16s%2Fg%2F11b826lhfm!19sChIJDeepFhtMa4gRLurJb2wEFWE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:50",
+    "keyword": "Dental Clinics",
+    "name": "Destiny Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Devington+Dental+Office/data=!4m7!3m6!1s0x886b4ddaf6f870b7:0x645f98d93eece317!8m2!3d39.8407594!4d-86.0635118!16s%2Fg%2F1w2y_5rt!19sChIJt3D49tpNa4gRF-PsPtmYX2Q?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:17",
+    "keyword": "Dental Clinics",
+    "name": "Devington Dental Office",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
   "https://www.google.com/maps/place/Disher+Orthodontics/data=!4m7!3m6!1s0x88583168cc0a6201:0x7a6b9f1cb76a0b3f!8m2!3d34.8797406!4d-82.4487705!16s%2Fg%2F1txnq55c!19sChIJAWIKzGgxWIgRPwtqtxyfa3o?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:36:32",
@@ -439,6 +768,13 @@
     "name": "Downtown Dental",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Dr+Nassers+Dental+Office/data=!4m7!3m6!1s0x8814ac66710cacc9:0x82e97660d588279c!8m2!3d39.9675738!4d-86.1589612!16s%2Fg%2F11dxqh_4ml!19sChIJyawMcWasFIgRnCeI1WB26YI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:05",
+    "keyword": "Dental Clinics",
+    "name": "Dr Nassers Dental Office",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
   "https://www.google.com/maps/place/Dr.+David+A.+Waters,+DMD/data=!4m7!3m6!1s0x885837f97ecc655d:0xc3223ad04b9447c9!8m2!3d34.8146915!4d-82.5519299!16s%2Fg%2F1tcw4bbl!19sChIJXWXMfvk3WIgRyUeUS9A6IsM?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:36:23",
@@ -503,12 +839,33 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Eagle+Creek+Dentistry+-+Dr.+Preeti+Singh/data=!4m7!3m6!1s0x886caa0e7eb880cf:0x22220d6cbaf60036!8m2!3d39.854609!4d-86.263904!16s%2Fg%2F1tf3pn7t!19sChIJz4C4fg6qbIgRNgD2umwNIiI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:01",
+    "keyword": "Dental Clinics",
+    "name": "Eagle Creek Dentistry - Dr. Preeti Singh",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/East+Indy+Dental+Care/data=!4m7!3m6!1s0x886b4f9565e03daf:0x753360d0a51b66fa!8m2!3d39.7704511!4d-86.0717174!16s%2Fg%2F1tsbmwbd!19sChIJrz3gZZVPa4gR-mYbpdBgM3U?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:20",
+    "keyword": "Dental Clinics",
+    "name": "East Indy Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Eastside+Pediatric+Dentistry/data=!4m7!3m6!1s0x88582ef409290f97:0x3ce84936ea2a83c2!8m2!3d34.8583449!4d-82.3408106!16s%2Fg%2F1td_hzh9!19sChIJlw8pCfQuWIgRwoMq6jZJ6Dw?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:36:36",
     "keyword": "orthodontist",
     "name": "Eastside Pediatric Dentistry",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Edgewood+Family+Dental/data=!4m7!3m6!1s0x886b5b77566a5cf1:0x61dfa95b7f25fa5f!8m2!3d39.681271!4d-86.130201!16s%2Fg%2F1tjdmh1w!19sChIJ8VxqVndba4gRX_olf1up32E?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:16",
+    "keyword": "Dental Clinics",
+    "name": "Edgewood Family Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
   "https://www.google.com/maps/place/Emergency+Dental+Care+USA/data=!4m7!3m6!1s0x885827528eff739b:0xd1957b8fc3b71148!8m2!3d34.7459822!4d-82.2609698!16s%2Fg%2F11vzy9tb0s!19sChIJm3P_jlInWIgRSBG3w497ldE?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T01:08:38",
@@ -517,12 +874,33 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Emergency+Dental/data=!4m7!3m6!1s0x886b551d1ce20951:0xd27fe9234f0da7dd!8m2!3d39.916002!4d-86.2263939!16s%2Fg%2F11l59y1x8z!19sChIJUQniHB1Va4gR3acNTyPpf9I?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:19",
+    "keyword": "Dental Clinics",
+    "name": "Emergency Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Falls+Park+Dentistry/data=!4m7!3m6!1s0x885831d1ed228e89:0x4d1598e00325b50c!8m2!3d34.8516992!4d-82.3983827!16s%2Fg%2F1tyyxv29!19sChIJiY4i7dExWIgRDLUlA-CYFU0?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T01:08:38",
     "keyword": "dentist",
     "name": "Falls Park Dentistry",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Familia+Dental/data=!4m7!3m6!1s0x886b518d347a65a1:0x528b07a7ba6b8ab4!8m2!3d39.8263868!4d-86.112745!16s%2Fg%2F11f03l5sd6!19sChIJoWV6NI1Ra4gRtIpruqcHi1I?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:15",
+    "keyword": "Dental Clinics",
+    "name": "Familia Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Familia+Dental/data=!4m7!3m6!1s0x886b571c2a075b25:0x729ec9b0ad26f738!8m2!3d39.8396953!4d-86.2447391!16s%2Fg%2F11r7k3_xw2!19sChIJJVsHKhxXa4gROPcmrbDJnnI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:56",
+    "keyword": "Dental Clinics",
+    "name": "Familia Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
   "https://www.google.com/maps/place/Family+Dental+-+Greenville/data=!4m7!3m6!1s0x885839e3b9e652f1:0xdd12cb111a0ff46b!8m2!3d34.8556567!4d-82.4535895!16s%2Fg%2F1hc547wfz!19sChIJ8VLmueM5WIgRa_QPGhHLEt0?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:15",
@@ -678,6 +1056,13 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Fishers+Dental+Care/data=!4m7!3m6!1s0x8814b30867b3a953:0xefd623575e34d154!8m2!3d39.961057!4d-86.0361464!16s%2Fg%2F1txfprvj!19sChIJU6mzZwizFIgRVNE0Xlcj1u8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:50",
+    "keyword": "Dental Clinics",
+    "name": "Fishers Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Five+Forks+Dental+Care,+Inc./data=!4m7!3m6!1s0x885828197ee36a63:0x2627d2ae3759de4f!8m2!3d34.8070695!4d-82.2229636!16s%2Fg%2F1tctmhnm!19sChIJY2rjfhkoWIgRT95ZN67SJyY?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:10",
     "keyword": "dentist",
@@ -713,6 +1098,20 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Forest+Creek+Family+Dental+Care/data=!4m7!3m6!1s0x886b5b897145629b:0xe7bc46d7b61c3955!8m2!3d39.672146!4d-86.1486304!16s%2Fg%2F1tp2806l!19sChIJm2JFcYlba4gRVTkcttdGvOc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:01",
+    "keyword": "Dental Clinics",
+    "name": "Forest Creek Family Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Forest+Manor+Dental/data=!4m7!3m6!1s0x886b51fa61ae00bb:0xe414ea920021bb19!8m2!3d39.8263546!4d-86.1036984!16s%2Fg%2F1tj3lv1g!19sChIJuwCuYfpRa4gRGbshAJLqFOQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:16",
+    "keyword": "Dental Clinics",
+    "name": "Forest Manor Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Fountain+Inn+Dental/data=!4m7!3m6!1s0x885820ab3fae54c3:0x74faad08c27a63f6!8m2!3d34.7013739!4d-82.218867!16s%2Fg%2F11fzqbzp4r!19sChIJw1SuP6sgWIgR9mN6wgit-nQ?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:27",
     "keyword": "dentist",
@@ -741,6 +1140,34 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Geist+Dental+Care/data=!4m7!3m6!1s0x886b4acfc217660d:0xe3c780b3c0fe92dc!8m2!3d39.901306!4d-85.958139!16s%2Fg%2F1tf6bsvl!19sChIJDWYXws9Ka4gR3JL-wLOAx-M?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:22",
+    "keyword": "Dental Clinics",
+    "name": "Geist Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Gennesaret+Free+Dental+Clinic/data=!4m7!3m6!1s0x886b50c1dc96f1e3:0xebf254255f885d2f!8m2!3d39.777268!4d-86.1353495!16s%2Fg%2F1tcz91l6!19sChIJ4_GW3MFQa4gRL12IXyVU8us?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:52",
+    "keyword": "Dental Clinics",
+    "name": "Gennesaret Free Dental Clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Gentle+Dentist/data=!4m7!3m6!1s0x886b4cc8c6e2d035:0x8754ec1be7e583dd!8m2!3d39.8858109!4d-86.0453142!16s%2Fg%2F11dftkcf62!19sChIJNdDixshMa4gR3YPl5xvsVIc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:01",
+    "keyword": "Dental Clinics",
+    "name": "Gentle Dentist",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Georgetown+Dental+Center/data=!4m7!3m6!1s0x886b55e913e843c7:0x67ea3e0b35cb315e!8m2!3d39.8521417!4d-86.2394834!16s%2Fg%2F1hc2xzpgg!19sChIJx0PoE-lVa4gRXjHLNQs-6mc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:20",
+    "keyword": "Dental Clinics",
+    "name": "Georgetown Dental Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Gilder+Creek+Dental+Care/data=!4m7!3m6!1s0x88582937e9a8d171:0x565502e36dc53280!8m2!3d34.805634!4d-82.22598!16s%2Fg%2F11g_x46m87!19sChIJcdGo6TcpWIgRgDLFbeMCVVY?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:36:29",
     "keyword": "orthodontist",
@@ -748,12 +1175,40 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Glendale+Family+Dentistry/data=!4m7!3m6!1s0x886b525b92cc6d63:0xaf8ee5b4ca8165ab!8m2!3d39.8690149!4d-86.1199395!16s%2Fg%2F1tdlw02t!19sChIJY23MkltSa4gRq2WByrTljq8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:50",
+    "keyword": "Dental Clinics",
+    "name": "Glendale Family Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Global+Smiles+Dental/data=!4m7!3m6!1s0x886b434874055a41:0x5f4af42029135e28!8m2!3d39.6495071!4d-86.0833149!16s%2Fg%2F12m933rvz!19sChIJQVoFdEhDa4gRKF4TKSD0Sl8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:50",
+    "keyword": "Dental Clinics",
+    "name": "Global Smiles Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Great+Oaks+Dental/data=!4m7!3m6!1s0x88584f1ef48d6f2f:0x1ffb2e84df1758fd!8m2!3d34.8593272!4d-82.6738633!16s%2Fg%2F1tdmqs6j!19sChIJL2-N9B5PWIgR_VgX34Qu-x8?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:10",
     "keyword": "dentist",
     "name": "Great Oaks Dental",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Green+Street+Dental+Care/data=!4m7!3m6!1s0x886cadb8e360d169:0x6e5b2e03bd08c299!8m2!3d39.867049!4d-86.390527!16s%2Fg%2F1td05t97!19sChIJadFg47itbIgRmcIIvQMuW24?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:22",
+    "keyword": "Dental Clinics",
+    "name": "Green Street Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Greenfield+Dental+Health+Care/data=!4m7!3m6!1s0x886b31e84ed6ba0f:0xd6c7238b519b8d81!8m2!3d39.8039398!4d-85.7788314!16s%2Fg%2F1tf9n_rc!19sChIJD7rWTugxa4gRgY2bUYsjx9Y?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:16",
+    "keyword": "Dental Clinics",
+    "name": "Greenfield Dental Health Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
   "https://www.google.com/maps/place/Greenville+Dental+Studio+Dr.+Sergey+Zakharov/data=!4m7!3m6!1s0x885831dbfe084a73:0xbbe0df31d20e4260!8m2!3d34.8611852!4d-82.3936765!16s%2Fg%2F11fxb3sv26!19sChIJc0oI_tsxWIgRYEIO0jHf4Ls?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:19",
@@ -797,6 +1252,27 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Greenwood+Dental+Care:+Nick+Daily+DMD;+William+Johnson+DDS/data=!4m7!3m6!1s0x886b5d313a5f8301:0xfb3955cc6caf05f5!8m2!3d39.6215537!4d-86.1574648!16s%2Fg%2F11ry6t3xdf!19sChIJAYNfOjFda4gR9QWvbMxVOfs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:01",
+    "keyword": "Dental Clinics",
+    "name": "Greenwood Dental Care: Nick Daily DMD; William Johnson DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Greenwood+Dental+Smiles/data=!4m7!3m6!1s0x886b5dcbcbd2ba99:0x6bab126ed4e555d8!8m2!3d39.6257482!4d-86.1575732!16s%2Fg%2F1tvdkjxj!19sChIJmbrSy8tda4gR2FXl1G4Sq2s?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:05",
+    "keyword": "Dental Clinics",
+    "name": "Greenwood Dental Smiles",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Greenwood+Springs+Family+Dental+Care/data=!4m7!3m6!1s0x886b4325098e4467:0x21df19ee1d751103!8m2!3d39.6349894!4d-86.0821339!16s%2Fg%2F1pty16qsm!19sChIJZ0SOCSVDa4gRAxF1He4Z3yE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:56",
+    "keyword": "Dental Clinics",
+    "name": "Greenwood Springs Family Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Greer+Dental+Studio/data=!4m7!3m6!1s0x88582bde821f7909:0xbaa46afe7f1b15a7!8m2!3d34.9309193!4d-82.2492174!16s%2Fg%2F11srzf0x8g!19sChIJCXkfgt4rWIgRpxUbf_5qpLo?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:21",
     "keyword": "dentist",
@@ -839,6 +1315,41 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/HealthNet+Barrington+Health+%26+Dental+Center/data=!4m7!3m6!1s0x886b5abbea5cbcd5:0x2552dcaba8e0e71a!8m2!3d39.7376102!4d-86.1084315!16s%2Fg%2F1tl8lg34!19sChIJ1bxc6rtaa4gRGufgqKvcUiU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:16",
+    "keyword": "Dental Clinics",
+    "name": "HealthNet Barrington Health & Dental Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/HealthNet+People%27s+Health+%26+Dental+Center/data=!4m7!3m6!1s0x886b50459f8fa349:0xd0dbcfbc1ddb2756!8m2!3d39.7815066!4d-86.1217888!16s%2Fg%2F1tdqj6r4!19sChIJSaOPn0VQa4gRVifbHbzP29A?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:16",
+    "keyword": "Dental Clinics",
+    "name": "HealthNet People's Health & Dental Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/HealthNet+Southeast+Health+%26+Dental+Center/data=!4m7!3m6!1s0x886b50818ed757f9:0xa8758399a64c00e3!8m2!3d39.754634!4d-86.1393662!16s%2Fg%2F1tq6ktt9!19sChIJ-VfXjoFQa4gR4wBMppmDdag?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:59",
+    "keyword": "Dental Clinics",
+    "name": "HealthNet Southeast Health & Dental Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/HealthNet+Southwest+Health+%26+Dental+Center/data=!4m7!3m6!1s0x886b59e3abf41b01:0xf8d306dc37a2ad55!8m2!3d39.751493!4d-86.1881371!16s%2Fg%2F1tk8pbc2!19sChIJARv0q-NZa4gRVa2iN9wG0_g?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:50",
+    "keyword": "Dental Clinics",
+    "name": "HealthNet Southwest Health & Dental Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Heartland+Crossing+Dental+Care/data=!4m7!3m6!1s0x886ca17b9ce64611:0xc85ec8b7f78932f4!8m2!3d39.644427!4d-86.331047!16s%2Fg%2F1tpn39lr!19sChIJEUbmnHuhbIgR9DKJ97fIXsg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:03",
+    "keyword": "Dental Clinics",
+    "name": "Heartland Crossing Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Heritage+Dentistry+-+Greenville/data=!4m7!3m6!1s0x88582ea24154b14b:0x6cb8368ef796ac7!8m2!3d34.8772315!4d-82.3217994!16s%2Fg%2F1td7zt46!19sChIJS7FUQaIuWIgRx2p572iDywY?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:01:59",
     "keyword": "dentist",
@@ -859,6 +1370,13 @@
     "name": "Hillcrest Cosmetic and Family Dentistry",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Holistic+Dental+Wellness/data=!4m7!3m6!1s0x8814ae7be5ab2ef7:0x37a8eabe9ad31d59!8m2!3d40.0044789!4d-86.1287217!16s%2Fg%2F1td596j0!19sChIJ9y6r5XuuFIgRWR3Tmr7qqDc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:50",
+    "keyword": "Dental Clinics",
+    "name": "Holistic Dental Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
   "https://www.google.com/maps/place/Holliday+Dental/data=!4m7!3m6!1s0x88582f1047b20675:0x5337a1af2c14edca!8m2!3d34.8287391!4d-82.3313064!16s%2Fg%2F1261lq4f1!19sChIJdQayRxAvWIgRyu0ULK-hN1M?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:36:32",
@@ -909,6 +1427,41 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Immediate+Dental+Center/data=!4m7!3m6!1s0x886b59524f13e437:0xd25a58ad6825cf06!8m2!3d39.7114961!4d-86.2425952!16s%2Fg%2F11s0611zmh!19sChIJN-QTT1JZa4gRBs8laK1YWtI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:20",
+    "keyword": "Dental Clinics",
+    "name": "Immediate Dental Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Indiana+Dental+Center/data=!4m7!3m6!1s0x886b51e55acd9cfb:0xbad48a748c20878f!8m2!3d39.8227754!4d-86.1033015!16s%2Fg%2F1trprk02!19sChIJ-5zNWuVRa4gRj4cgjHSK1Lo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:16",
+    "keyword": "Dental Clinics",
+    "name": "Indiana Dental Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Indiana+Emergency+Dental/data=!4m7!3m6!1s0x886b5d869f4c85d9:0xf945a37b35815071!8m2!3d39.663537!4d-86.1458819!16s%2Fg%2F11l2p3bnfb!19sChIJ2YVMn4Zda4gRcVCBNXujRfk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:57",
+    "keyword": "Dental Clinics",
+    "name": "Indiana Emergency Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Indianapolis+Dentistry/data=!4m7!3m6!1s0x886b5c6fe25d76f7:0xb54eadd29e85f979!8m2!3d39.660312!4d-86.145135!16s%2Fg%2F1tfh5ddy!19sChIJ93Zd4m9ca4gRefmFntKtTrU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:50",
+    "keyword": "Dental Clinics",
+    "name": "Indianapolis Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Indianapolis+Family+Dentistry/data=!4m7!3m6!1s0x886b4f2c4a16fa5b:0xc304415af74bfad0!8m2!3d39.7823712!4d-86.0159468!16s%2Fg%2F1tfgdzx8!19sChIJW_oWSixPa4gR0PpL91pBBMM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:59",
+    "keyword": "Dental Clinics",
+    "name": "Indianapolis Family Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Indigo+Dental/data=!4m7!3m6!1s0x88582533cc568801:0x9b2cdf405e14eeb8!8m2!3d34.7752228!4d-82.3276099!16s%2Fg%2F11n04td0ln!19sChIJAYhWzDMlWIgRuO4UXkDfLJs?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:03",
     "keyword": "dentist",
@@ -923,12 +1476,47 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Indy+Dental+Group/data=!4m7!3m6!1s0x8814abbd13861a95:0xa844a71e5300f83f!8m2!3d39.9719596!4d-86.1970791!16s%2Fg%2F1tf0r6nh!19sChIJlRqGE72rFIgRP_gAUx6nRKg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:16",
+    "keyword": "Dental Clinics",
+    "name": "Indy Dental Group",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Indy+Dental+Group/data=!4m7!3m6!1s0x8814acb6ace20c9b:0xcc639ca791e6bb2e!8m2!3d39.9234042!4d-86.1600319!16s%2Fg%2F1tggv3jq!19sChIJmwzirLasFIgRLrvmkaecY8w?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:16",
+    "keyword": "Dental Clinics",
+    "name": "Indy Dental Group",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Indy+Dental+Group/data=!4m7!3m6!1s0x8814aeee4a903449:0xd7e3f70f5f55e2a!8m2!3d40.0267914!4d-86.1454452!16s%2Fg%2F1td61b8f!19sChIJSTSQSu6uFIgRKl719XA_fg0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:16",
+    "keyword": "Dental Clinics",
+    "name": "Indy Dental Group",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Indy+Dental+Health/data=!4m7!3m6!1s0x886b54b8214e2ee1:0x1f4dd08cf9e78cf2!8m2!3d39.9242437!4d-86.1571324!16s%2Fg%2F1tm0ck52!19sChIJ4S5OIbhUa4gR8ozn-YzQTR8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:03",
+    "keyword": "Dental Clinics",
+    "name": "Indy Dental Health",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Issaqueena+Pediatric+Dentistry+and+Orthodontics/data=!4m7!3m6!1s0x88583939bf54be1d:0x66dc16936f13d000!8m2!3d34.7872503!4d-82.4808818!16s%2Fg%2F11q1pm23ng!19sChIJHb5Uvzk5WIgRANATb5MW3GY?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:06:07",
     "keyword": "orthodontist",
     "name": "Issaqueena Pediatric Dentistry and Orthodontics",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Jane+Pauley+Community+Health+Center,+16th+Street+Dental/data=!4m7!3m6!1s0x886b4f7f1d1b0247:0x1597592216cad786!8m2!3d39.7882465!4d-86.0776485!16s%2Fg%2F11bw40dlvr!19sChIJRwIbHX9Pa4gRhtfKFiJZlxU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:50",
+    "keyword": "Dental Clinics",
+    "name": "Jane Pauley Community Health Center, 16th Street Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
   "https://www.google.com/maps/place/John+Ensley,+DMD+MS/data=!4m7!3m6!1s0x885829f870e1cbad:0xf5df6fa30cc183c2!8m2!3d34.8229027!4d-82.2568356!16s%2Fg%2F11vb8c2v0h!19sChIJrcvhcPgpWIgRwoPBDKNv3_U?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:36:36",
@@ -958,12 +1546,33 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Keystone+Dental+Group/data=!4m7!3m6!1s0x886b52efd26cdd4b:0x6970680dcf5d6031!8m2!3d39.8868142!4d-86.1214697!16s%2Fg%2F1q69yn1ht!19sChIJS91s0u9Sa4gRMWBdzw1ocGk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:01",
+    "keyword": "Dental Clinics",
+    "name": "Keystone Dental Group",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Kids+%26+Adult+Dental+Center/data=!4m7!3m6!1s0x886b4584b344da23:0x6260d6b486f58603!8m2!3d39.700082!4d-86.0811129!16s%2Fg%2F11fqy8r4l2!19sChIJI9pEs4RFa4gRA4b1hrTWYGI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:03",
+    "keyword": "Dental Clinics",
+    "name": "Kids & Adult Dental Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Ladd+Family+Dental/data=!4m7!3m6!1s0x885831cc3985746d:0xdbf633bf1aba7bec!8m2!3d34.8288265!4d-82.4094201!16s%2Fg%2F11pdlwkkk6!19sChIJbXSFOcwxWIgR7Hu6Gr8z9ts?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:17",
     "keyword": "dentist",
     "name": "Ladd Family Dental",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Lasting+Impressions+Family+Dental+Care/data=!4m7!3m6!1s0x8814ac68fe146ef7:0xeae8e8c970a2f238!8m2!3d40.0019674!4d-86.0916643!16s%2Fg%2F1td432mf!19sChIJ924U_misFIgROPKicMno6Oo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:59",
+    "keyword": "Dental Clinics",
+    "name": "Lasting Impressions Family Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
   "https://www.google.com/maps/place/Lemon+Tree+Dental+Greenville/data=!4m7!3m6!1s0x885831c2e26f8b83:0x41655d0cb77c9d21!8m2!3d34.8154818!4d-82.4210813!16s%2Fg%2F11l5lvcktt!19sChIJg4tv4sIxWIgRIZ18twxdZUE?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:10",
@@ -972,12 +1581,40 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Lily+Dental/data=!4m7!3m6!1s0x886b4f24ee6f7515:0x74b9e426cb1af7a5!8m2!3d39.7815838!4d-86.0256307!16s%2Fg%2F1v1kqfz0!19sChIJFXVv7iRPa4gRpfcayybkuXQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:50",
+    "keyword": "Dental Clinics",
+    "name": "Lily Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Luxia+Dental/data=!4m7!3m6!1s0xe84401fd1dbc8bb:0xb718409f02a29fab!8m2!3d39.7651308!4d-86.2894813!16s%2Fg%2F11ycbtqxc5!19sChIJu8jb0R9AhA4Rq5-iAp9AGLc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:22",
+    "keyword": "Dental Clinics",
+    "name": "Luxia Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Lyman+Family+Dentistry/data=!4m7!3m6!1s0x8857820473945e77:0x5fa213cbd8972041!8m2!3d34.952202!4d-82.1219919!16s%2Fg%2F1tghq92l!19sChIJd16UcwSCV4gRQSCX2MsTol8?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T01:08:38",
     "keyword": "dentist",
     "name": "Lyman Family Dentistry",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/MB+Dental/data=!4m7!3m6!1s0x8813556cfaa9f04f:0xa7d7023ea40763b1!8m2!3d39.949494!4d-86.2744495!16s%2Fg%2F1th7yyv5!19sChIJT_Cp-mxVE4gRsWMHpD4C16c?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:16",
+    "keyword": "Dental Clinics",
+    "name": "MB Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Madison+Ave+Dental/data=!4m7!3m6!1s0x886b5d21c8a02509:0xb40979461fef32ca!8m2!3d39.6250741!4d-86.1130408!16s%2Fg%2F1tdh00x4!19sChIJCSWgyCFda4gRyjLvH0Z5CbQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:22",
+    "keyword": "Dental Clinics",
+    "name": "Madison Ave Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
   "https://www.google.com/maps/place/Magnolia+Dental/data=!4m7!3m6!1s0x88582fb54293060b:0x787946c2f58b4be1!8m2!3d34.8418965!4d-82.3663012!16s%2Fg%2F11by_x51_w!19sChIJCwaTQrUvWIgR4UuL9cJGeXg?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:21",
@@ -986,6 +1623,20 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Magnus+Dentistry/data=!4m7!3m6!1s0x886b4cd953ef7c7b:0xeb0a75f79045570a!8m2!3d39.8897972!4d-86.0470352!16s%2Fg%2F1263kkwgl!19sChIJe3zvU9lMa4gRCldFkPd1Cus?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:16",
+    "keyword": "Dental Clinics",
+    "name": "Magnus Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Main+Street+Dental+Care+Brownsburg/data=!4m7!3m6!1s0x886cae79b248338b:0xf2bbd5e9307649d2!8m2!3d39.8407114!4d-86.3875394!16s%2Fg%2F1x5fc32x!19sChIJizNIsnmubIgR0kl2MOnVu_I?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:05",
+    "keyword": "Dental Clinics",
+    "name": "Main Street Dental Care Brownsburg",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Mark+V+Muncy+DDS/data=!4m7!3m6!1s0x8858298310334f2d:0xddfe40db375a7337!8m2!3d34.8706087!4d-82.2553739!16s%2Fg%2F1tdfjd6s!19sChIJLU8zEIMpWIgRN3NaN9tA_t0?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:36:32",
     "keyword": "orthodontist",
@@ -993,12 +1644,40 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Marketplace+Dental+Care/data=!4m7!3m6!1s0x886b5c36f3b7e295:0x7e81ba21a6cc5801!8m2!3d39.636122!4d-86.157643!16s%2Fg%2F1wl4rbrh!19sChIJleK38zZca4gRAVjMpiG6gX4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:17",
+    "keyword": "Dental Clinics",
+    "name": "Marketplace Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Marshall+Orthodontics+-+Simpsonville+Orthodontist/data=!4m7!3m6!1s0x8858212df05df455:0x7ca2277d3b99d969!8m2!3d34.7006136!4d-82.2686464!16s%2Fg%2F11c0swnxgn!19sChIJVfRd8C0hWIgRadmZO30nonw?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:05:57",
     "keyword": "orthodontist",
     "name": "Marshall Orthodontics - Simpsonville Orthodontist",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Martin+Dentistry+Broad+Ripple/data=!4m7!3m6!1s0x886b52511b94e1a7:0xe40a2ac58c7a1cd7!8m2!3d39.868898!4d-86.1297674!16s%2Fg%2F1tdx08s9!19sChIJp-GUG1FSa4gR1xx6jMUqCuQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:56",
+    "keyword": "Dental Clinics",
+    "name": "Martin Dentistry Broad Ripple",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Martin+Dentistry+Fishers/data=!4m7!3m6!1s0x8814ca649dccbb27:0x2eef694b22948223!8m2!3d39.9685903!4d-85.9194328!16s%2Fg%2F1tfcnyv5!19sChIJJ7vMnWTKFIgRI4KUIktp7y4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:01",
+    "keyword": "Dental Clinics",
+    "name": "Martin Dentistry Fishers",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Martinez+Dentistry/data=!4m7!3m6!1s0x8814ace86c9be095:0x900d2d29b5839818!8m2!3d39.9392876!4d-86.1455794!16s%2Fg%2F12q4sssm8!19sChIJleCbbOisFIgRGJiDtSktDZA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:16",
+    "keyword": "Dental Clinics",
+    "name": "Martinez Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
   "https://www.google.com/maps/place/Mauldin+Family+Dentistry+-+Dr.+Daniel+J.+Halasz/data=!4m7!3m6!1s0x885825df96c3d5bf:0x7cde60a820cfdba4!8m2!3d34.7715915!4d-82.3028875!16s%2Fg%2F1tcx276c!19sChIJv9XDlt8lWIgRpNvPIKhg3nw?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:25",
@@ -1042,6 +1721,13 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Meridian+Dental+Center/data=!4m7!3m6!1s0x886b512184bd2897:0x4616552a76554ed8!8m2!3d39.7989544!4d-86.1566379!16s%2Fg%2F1tl_mg9x!19sChIJlyi9hCFRa4gR2E5VdipVFkY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:57",
+    "keyword": "Dental Clinics",
+    "name": "Meridian Dental Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Meyer+Cosmetic+and+General+Dentistry/data=!4m7!3m6!1s0x88582e93a53574d5:0xbed8a388b3a59232!8m2!3d34.8661078!4d-82.3301664!16s%2Fg%2F1tj5lwf1!19sChIJ1XQ1pZMuWIgRMpKls4ij2L4?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:08",
     "keyword": "dentist",
@@ -1063,6 +1749,20 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Mooresville+Dental+Care/data=!4m7!3m6!1s0x886ca2608f134cd5:0x78732e61b5b249f9!8m2!3d39.615412!4d-86.375489!16s%2Fg%2F1tz96hcl!19sChIJ1UwTj2CibIgR-UmytWEuc3g?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:15",
+    "keyword": "Dental Clinics",
+    "name": "Mooresville Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Mooresville+Dental+Care/data=!4m7!3m6!1s0x886ca2608f134cd5:0x78732e61b5b249f9!8m2!3d39.6154122!4d-86.3754887!16s%2Fg%2F1tz96hcl!19sChIJ1UwTj2CibIgR-UmytWEuc3g?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:59",
+    "keyword": "Dental Clinics",
+    "name": "Mooresville Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Mountain+View+Pediatric+Dentistry/data=!4m7!3m6!1s0x88582b86fd348d7d:0x31f2407ddba74115!8m2!3d34.9478311!4d-82.2344381!16s%2Fg%2F11t1j_qg4m!19sChIJfY00_YYrWIgRFUGn231A8jE?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:27",
     "keyword": "dentist",
@@ -1070,12 +1770,33 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Murphy%27s+Landing+Family+Dental/data=!4m7!3m6!1s0x886b5eb1c8fc7c91:0xbfeb675d2fcc00bc!8m2!3d39.6647513!4d-86.1863842!16s%2Fg%2F1td0tmzd!19sChIJkXz8yLFea4gRvADML11n678?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:16",
+    "keyword": "Dental Clinics",
+    "name": "Murphy's Landing Family Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/My+Affordable+Braces/data=!4m7!3m6!1s0x8858321e77495555:0x7b3dfd44075d8284!8m2!3d34.8916454!4d-82.4051599!16s%2Fg%2F11wy3wjxxt!19sChIJVVVJdx4yWIgRhIJdB0T9PXs?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:36:35",
     "keyword": "orthodontist",
     "name": "My Affordable Braces",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/My+Dental+Care/data=!4m7!3m6!1s0x8814b2dc2e00cbd9:0x13a0490c9c4cea36!8m2!3d39.9320025!4d-86.0587272!16s%2Fg%2F1tr8m5g0!19sChIJ2csALtyyFIgRNupMnAxJoBM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:56",
+    "keyword": "Dental Clinics",
+    "name": "My Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/My+Indy+Dental+Center/data=!4m7!3m6!1s0x886b51680a8dba51:0x6e5d070aae68e435!8m2!3d39.8252196!4d-86.1538026!16s%2Fg%2F1tdmwc5_!19sChIJUbqNCmhRa4gRNeRorgoHXW4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:22",
+    "keyword": "Dental Clinics",
+    "name": "My Indy Dental Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
   "https://www.google.com/maps/place/New+Horizon+Family+Dental+Care/data=!4m7!3m6!1s0x885830657b0249e7:0xfbe8e751d70d9b00!8m2!3d34.8164583!4d-82.4207988!16s%2Fg%2F1tc_rqrf!19sChIJ50kCe2UwWIgRAJsN11Hn6Ps?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T01:13:39",
@@ -1091,12 +1812,40 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Noblesville+Dental/data=!4m7!3m6!1s0x8814b72efcd82b0b:0x9d908932d3c4da99!8m2!3d40.0281631!4d-86.0123509!16s%2Fg%2F1vfp8tlw!19sChIJCyvY_C63FIgRmdrE0zKJkJ0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:16",
+    "keyword": "Dental Clinics",
+    "name": "Noblesville Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Nora+Dental+Associates,+PC/data=!4m7!3m6!1s0x886b532dcf132693:0x6dcbfd163f549ed!8m2!3d39.9130567!4d-86.1425361!16s%2Fg%2F1td7jg_q!19sChIJkyYTzy1Ta4gR7Un1Y9G_3AY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:05",
+    "keyword": "Dental Clinics",
+    "name": "Nora Dental Associates, PC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/North+Main+Dental/data=!4m7!3m6!1s0x88582f9fab04b1fb:0x893874c911e99a5d!8m2!3d34.8604064!4d-82.3882627!16s%2Fg%2F11fkrxfjyv!19sChIJ-7EEq58vWIgRXZrpEcl0OIk?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:19",
     "keyword": "dentist",
     "name": "North Main Dental",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Northside+Dental/data=!4m7!3m6!1s0x8814afc66b183c93:0xb63577a2e1ff78c8!8m2!3d40.0063391!4d-86.1287793!16s%2Fg%2F11g2zt5kkz!19sChIJkzwYa8avFIgRyHj_4aJ3NbY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:17",
+    "keyword": "Dental Clinics",
+    "name": "Northside Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Northview+Dental/data=!4m7!3m6!1s0x8814acb57dd1126f:0x4c59b4bd03a8156e!8m2!3d39.9201063!4d-86.1550101!16s%2Fg%2F12hlc443g!19sChIJbxLRfbWsFIgRbhWoA720WUw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:50",
+    "keyword": "Dental Clinics",
+    "name": "Northview Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
   "https://www.google.com/maps/place/Novus+Orthodontics/data=!4m7!3m6!1s0x8858331a846ada09:0xed5136465e7880bb!8m2!3d34.8915581!4d-82.4051018!16s%2Fg%2F12qf5s4w0!19sChIJCdpqhBozWIgRu4B4XkY2Ue0?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:05:56",
@@ -1111,6 +1860,13 @@
     "name": "Nth Degree Orthodontics",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Olive+Branch+Dental+Lafayette+Rd+-+Best+Dental+Office+in+Indianapolis/data=!4m7!3m6!1s0x886cabd086327fd5:0xec8338053f32cf01!8m2!3d39.850958!4d-86.2619716!16s%2Fg%2F11swxxf94m!19sChIJ1X8yhtCrbIgRAc8yPwU4g-w?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:50",
+    "keyword": "Dental Clinics",
+    "name": "Olive Branch Dental Lafayette Rd - Best Dental Office in Indianapolis",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
   "https://www.google.com/maps/place/Orthodontic+Associates+of+Greenville/data=!4m7!3m6!1s0x88582fc2ee893ae1:0x5518dcb22c71e158!8m2!3d34.8237362!4d-82.3776062!16s%2Fg%2F1thhl6vc!19sChIJ4TqJ7sIvWIgRWOFxLLLcGFU?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:05:56",
@@ -1182,6 +1938,34 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Paradise+Dental+-+Huong+Vu,+D.D.S./data=!4m7!3m6!1s0x886b4db8ccf01b23:0x2c574e1dd78e04f1!8m2!3d39.8389739!4d-86.1455459!16s%2Fg%2F11gl294zsc!19sChIJIxvwzLhNa4gR8QSO1x1OVyw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:57",
+    "keyword": "Dental Clinics",
+    "name": "Paradise Dental - Huong Vu, D.D.S.",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Paradox+Dental/data=!4m7!3m6!1s0x886b4348988cad01:0xa8dd09697b1bb9f!8m2!3d39.6516557!4d-86.0842101!16s%2Fg%2F1tgx2s46!19sChIJAa2MmEhDa4gRn7uxl5bQjQo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:50",
+    "keyword": "Dental Clinics",
+    "name": "Paradox Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Park+100+Dental+Care/data=!4m7!3m6!1s0x886ca9c239bafc77:0x8caccd1551585578!8m2!3d39.9100587!4d-86.2676916!16s%2Fg%2F1tcw4cd8!19sChIJd_y6OcKpbIgReFVYURXNrIw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:56",
+    "keyword": "Dental Clinics",
+    "name": "Park 100 Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Parkway+Dental+Care/data=!4m7!3m6!1s0x8813549e0b25c539:0x303cb4f99499a5e6!8m2!3d39.9490325!4d-86.334449!16s%2Fg%2F11fzfff4mz!19sChIJOcUlC55UE4gR5qWZlPm0PDA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:59",
+    "keyword": "Dental Clinics",
+    "name": "Parkway Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Pasui+Dentistry/data=!4m7!3m6!1s0x885839d3e5466ac7:0xd7fceeb14713079e!8m2!3d34.8108349!4d-82.5160046!16s%2Fg%2F1v2yzl2w!19sChIJx2pG5dM5WIgRngcTR7Hu_Nc?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:17",
     "keyword": "dentist",
@@ -1217,6 +2001,13 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Pippin+Dental+%26+Braces/data=!4m7!3m6!1s0x886b5ba01dfca49d:0xa5faad02a5129187!8m2!3d39.7136732!4d-86.1507322!16s%2Fg%2F11f9zx_0v8!19sChIJnaT8HaBba4gRh5ESpQKt-qU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:16",
+    "keyword": "Dental Clinics",
+    "name": "Pippin Dental & Braces",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Pleasantburg+Family+Dentistry/data=!4m7!3m6!1s0x88582fb6685bd9d3:0xe0b179a66042e16c!8m2!3d34.8382951!4d-82.3641597!16s%2Fg%2F11bc73bbsb!19sChIJ09lbaLYvWIgRbOFCYKZ5seA?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T01:08:38",
     "keyword": "dentist",
@@ -1230,6 +2021,13 @@
     "name": "Poinsett Dental Associates",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Post+Road+Family+Dental/data=!4m7!3m6!1s0x886b48d59b88642f:0x66ff2a7980c7b6e0!8m2!3d39.7883529!4d-86.0084838!16s%2Fg%2F1tcwgqw9!19sChIJL2SIm9VIa4gR4LbHgHkq_2Y?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:50",
+    "keyword": "Dental Clinics",
+    "name": "Post Road Family Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
   "https://www.google.com/maps/place/Powdersville+Orthodontics/data=!4m7!3m6!1s0x885839e5519b84af:0xa882240b69ee8436!8m2!3d34.7965011!4d-82.4870529!16s%2Fg%2F11dft8247g!19sChIJr4SbUeU5WIgRNoTuaQskgqg?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:06:05",
@@ -1245,12 +2043,47 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Prairie+Lakes+Dental+Care/data=!4m7!3m6!1s0x8814b402a997033d:0x7290c7afbc646bc8!8m2!3d39.994841!4d-86.00231!16s%2Fg%2F1tdhflx2!19sChIJPQOXqQK0FIgRyGtkvK_HkHI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:50",
+    "keyword": "Dental Clinics",
+    "name": "Prairie Lakes Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Precision+Dental/data=!4m7!3m6!1s0x88582e66444a88cf:0x4e3d1cf3787c5d0a!8m2!3d34.8678638!4d-82.3541697!16s%2Fg%2F11bw3b96py!19sChIJz4hKRGYuWIgRCl18ePMcPU4?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:14",
     "keyword": "dentist",
     "name": "Precision Dental",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Preferred+Dental+Care/data=!4m7!3m6!1s0x886b5526bdc1a28b:0x5fef3a234b10b80d!8m2!3d39.9055277!4d-86.2206511!16s%2Fg%2F1wf39bzr!19sChIJi6LBvSZVa4gRDbgQSyM6718?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:22",
+    "keyword": "Dental Clinics",
+    "name": "Preferred Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Premier+Dental+Care/data=!4m7!3m6!1s0x886b5c76ccdda191:0x7e5f8feacb7e7e8f!8m2!3d39.6653434!4d-86.1483481!16s%2Fg%2F1trprk0q!19sChIJkaHdzHZca4gRj35-y-qPX34?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:17",
+    "keyword": "Dental Clinics",
+    "name": "Premier Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Prime+Smile+East/data=!4m7!3m6!1s0x886b4feaa01a1d1f:0x493e62b0b87e6c0a!8m2!3d39.7708129!4d-86.0637969!16s%2Fg%2F11b6gkphx2!19sChIJHx0aoOpPa4gRCmx-uLBiPkk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:17",
+    "keyword": "Dental Clinics",
+    "name": "Prime Smile East",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/PrimeCare+Family+Dental+-+Pendleton+Pike/data=!4m7!3m6!1s0x886b4dba68d435ef:0x866e60cc96149986!8m2!3d39.8389086!4d-86.0228792!16s%2Fg%2F11smps1j7b!19sChIJ7zXUaLpNa4gRhpkUlsxgboY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:22",
+    "keyword": "Dental Clinics",
+    "name": "PrimeCare Family Dental - Pendleton Pike",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
   "https://www.google.com/maps/place/ProGrin+Dental+of+Augusta+Road/data=!4m7!3m6!1s0x8858273b22a58e33:0xf555af0b5cf7dc39!8m2!3d34.8311021!4d-82.4031571!16s%2Fg%2F1tmxx964!19sChIJM46lIjsnWIgROdz3XAuvVfU?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:01:59",
@@ -1315,6 +2148,13 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Renew+Dental+Arts/data=!4m7!3m6!1s0x886b511f109f721d:0x3c1dd838653375c0!8m2!3d39.7977888!4d-86.1528392!16s%2Fg%2F11c2lg02lt!19sChIJHXKfEB9Ra4gRwHUzZTjYHTw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:20",
+    "keyword": "Dental Clinics",
+    "name": "Renew Dental Arts",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Restoration+Family+%26+Cosmetic+Dentistry/data=!4m7!3m6!1s0x88582ae8f3a29eed:0x1f967690a8a204d!8m2!3d34.9418351!4d-82.2467931!16s%2Fg%2F11b6hyt1yv!19sChIJ7Z6i8-gqWIgRTSCKCmln-QE?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:14",
     "keyword": "dentist",
@@ -1342,6 +2182,27 @@
     "name": "Rocky Creek Dental Care",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Salazar+Family+Dental/data=!4m7!3m6!1s0x886b5742a3cad835:0xfb221222ba97dea2!8m2!3d39.7658798!4d-86.1956605!16s%2Fg%2F1tfctzn7!19sChIJNdjKo0JXa4gRot6XuiISIvs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:59",
+    "keyword": "Dental Clinics",
+    "name": "Salazar Family Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Same+Day+Dental/data=!4m7!3m6!1s0x886b4cda2f33155d:0xe345ec8175001b89!8m2!3d39.9019391!4d-86.0473573!16s%2Fg%2F11c2l1g_d0!19sChIJXRUzL9pMa4gRiRsAdYHsReM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:15",
+    "keyword": "Dental Clinics",
+    "name": "Same Day Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Same+Day+Dental/data=!4m7!3m6!1s0x886b5c654b05cf0b:0xcf0efade47e0612a!8m2!3d39.6600386!4d-86.1435292!16s%2Fg%2F11bw5_gptb!19sChIJC88FS2Vca4gRKmHgR976Ds8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:15",
+    "keyword": "Dental Clinics",
+    "name": "Same Day Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
   "https://www.google.com/maps/place/Signature+Smiles/data=!4m7!3m6!1s0x88582fc2c72ed1c7:0x929c98a92f3bad53!8m2!3d34.8239777!4d-82.377156!16s%2Fg%2F1wfcpv_7!19sChIJx9Eux8IvWIgRU607L6mYnJI?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:07",
@@ -1378,6 +2239,34 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/SmileVibe+Dental+Clinic/data=!4m7!3m6!1s0x8813550d8120ff73:0x892490d869bc4f0b!8m2!3d39.9486019!4d-86.2784363!16s%2Fg%2F11vszkdrm4!19sChIJc_8ggQ1VE4gRC0-8adiQJIk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:03",
+    "keyword": "Dental Clinics",
+    "name": "SmileVibe Dental Clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Smiles+in+the+Village+Dentistry/data=!4m7!3m6!1s0x8814abbcff3eab53:0x24b5fcc9ba061d9c!8m2!3d39.9729185!4d-86.1962014!16s%2Fg%2F1yg4lwmk_!19sChIJU6s-_7yrFIgRnB0Gusn8tSQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:16",
+    "keyword": "Dental Clinics",
+    "name": "Smiles in the Village Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Sonrisa+Dental/data=!4m7!3m6!1s0x886b50c8008acc01:0x6854b7a8e74d4aab!8m2!3d39.774428!4d-86.1655626!16s%2Fg%2F1tj85l8f!19sChIJAcyKAMhQa4gRq0pN56i3VGg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:01",
+    "keyword": "Dental Clinics",
+    "name": "Sonrisa Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/South+Circle+Dental+Care/data=!4m7!3m6!1s0x886b5d0519ef7341:0xc9472532888ee351!8m2!3d39.6357935!4d-86.1404974!16s%2Fg%2F11td88ml1p!19sChIJQXPvGQVda4gRUeOOiDIlR8k?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:03",
+    "keyword": "Dental Clinics",
+    "name": "South Circle Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Southeastern+Dental/data=!4m7!3m6!1s0x88582ee277a1071f:0x12b33fb7737b3b1c!8m2!3d34.8373873!4d-82.3349679!16s%2Fg%2F1tfg3t8n!19sChIJHwehd-IuWIgRHDt7c7c_sxI?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:25",
     "keyword": "dentist",
@@ -1413,6 +2302,13 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Star+Dental+Clinic/data=!4m7!3m6!1s0x886b58015fb1add7:0xf8a395ce14c985f4!8m2!3d39.7526052!4d-86.2516885!16s%2Fg%2F1hc2srh6l!19sChIJ162xXwFYa4gR9IXJFM6Vo_g?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:19",
+    "keyword": "Dental Clinics",
+    "name": "Star Dental Clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Stone+Lake+Family+Dentistry/data=!4m7!3m6!1s0x88582e088f11635d:0x73128949d7f7bd45!8m2!3d34.8846867!4d-82.376955!16s%2Fg%2F11cnd9gw2y!19sChIJXWMRjwguWIgRRb3310mJEnM?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:08",
     "keyword": "dentist",
@@ -1434,6 +2330,13 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Sunnyside+Dental+Care/data=!4m7!3m6!1s0x886b4a5310956c3b:0xc44d0a0b63120782!8m2!3d39.8631784!4d-85.9696685!16s%2Fg%2F1td7ty6w!19sChIJO2yVEFNKa4gRggcSYwsKTcQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:05",
+    "keyword": "Dental Clinics",
+    "name": "Sunnyside Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Swamp+Rabbit+Dental/data=!4m7!3m6!1s0x88582f752381c489:0x8bda6bc557887714!8m2!3d34.852205!4d-82.3818589!16s%2Fg%2F11jj465km2!19sChIJicSBI3UvWIgRFHeIV8Vr2os?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:21",
     "keyword": "dentist",
@@ -1441,12 +2344,26 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Sweeney+Dental+Care/data=!4m7!3m6!1s0x886ca8ed1fbe24e7:0x6d8b83f57d94c73a!8m2!3d39.7802133!4d-86.309691!16s%2Fg%2F11hy_xtt73!19sChIJ5yS-H-2obIgROseUffWDi20?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:05",
+    "keyword": "Dental Clinics",
+    "name": "Sweeney Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Taylors+Dental/data=!4m7!3m6!1s0x88582c68c421011b:0xacdec0806a68d8f3!8m2!3d34.915191!4d-82.3187265!16s%2Fg%2F11b6p6lnm7!19sChIJGwEhxGgsWIgR89hoaoDA3qw?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T01:08:38",
     "keyword": "dentist",
     "name": "Taylors Dental",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Tenth+Street+Family+Dental/data=!4m7!3m6!1s0x886b4f05f5197ef3:0x41671b57704d59af!8m2!3d39.781372!4d-86.0474929!16s%2Fg%2F1tglzqw5!19sChIJ834Z9QVPa4gRr1lNcFcbZ0E?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:50",
+    "keyword": "Dental Clinics",
+    "name": "Tenth Street Family Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
   "https://www.google.com/maps/place/The+Dentist+Office+at+Berea/data=!4m7!3m6!1s0x88583106172db015:0xf8ac476a62f3cf9b!8m2!3d34.8694849!4d-82.4670033!16s%2Fg%2F11kc717hnk!19sChIJFbAtFwYxWIgRm8_zYmpHrPg?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:15",
@@ -1469,6 +2386,20 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Thompson+Dental+Care/data=!4m7!3m6!1s0x8814ad64747d85bf:0xab7320d79747a8e0!8m2!3d39.9969386!4d-86.1301277!16s%2Fg%2F11ww52lk23!19sChIJv4V9dGStFIgR4KhHl9cgc6s?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:50",
+    "keyword": "Dental Clinics",
+    "name": "Thompson Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Thompson+Family+Dental+at+Nora/data=!4m7!3m6!1s0x886b532c72da9de7:0xbbfbfed065a36f1d!8m2!3d39.9184147!4d-86.1588411!16s%2Fg%2F11hc_9ts5y!19sChIJ553acixTa4gRHW-jZdD--7s?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:03",
+    "keyword": "Dental Clinics",
+    "name": "Thompson Family Dental at Nora",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Todays+Dental+@+Greenville/data=!4m7!3m6!1s0x88583159347e9ab5:0x73edad4ca8608090!8m2!3d34.8895058!4d-82.4041528!16s%2Fg%2F11jdxq45jy!19sChIJtZp-NFkxWIgRkIBgqEyt7XM?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:05",
     "keyword": "dentist",
@@ -1483,12 +2414,40 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Top+Dental+Care/data=!4m7!3m6!1s0x886b5d70f3bd6843:0x445151ad458016ed!8m2!3d39.6159802!4d-86.1102486!16s%2Fg%2F11h71hdnmp!19sChIJQ2i983Bda4gR7RaARa1RUUQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:57",
+    "keyword": "Dental Clinics",
+    "name": "Top Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Traders+Point+Dental/data=!4m7!3m6!1s0x886cab891a7e46d7:0x7b77c0709399a654!8m2!3d39.914133!4d-86.261371!16s%2Fg%2F11y63l6rcn!19sChIJ10Z-GomrbIgRVKaZk3DAd3s?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:03",
+    "keyword": "Dental Clinics",
+    "name": "Traders Point Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Trail+West+Family+Dentistry/data=!4m7!3m6!1s0x885831bebbc25221:0x14ed564bd2b43479!8m2!3d34.8878994!4d-82.4571028!16s%2Fg%2F11jnnp_fgs!19sChIJIVLCu74xWIgReTS00ktW7RQ?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:10",
     "keyword": "dentist",
     "name": "Trail West Family Dentistry",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Trillium+Dental+Care/data=!4m7!3m6!1s0x886ca9bd6e0cd56b:0xab68d8360b7adbd6!8m2!3d39.7802133!4d-86.309691!16s%2Fg%2F11g_rmxnsd!19sChIJa9UMbr2pbIgR1tt6CzbYaKs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:20",
+    "keyword": "Dental Clinics",
+    "name": "Trillium Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Trinity+Dental/data=!4m7!3m6!1s0x886b552fdd75735f:0xdc395745124e139f!8m2!3d39.950853!4d-86.3315154!16s%2Fg%2F1td14016!19sChIJX3N13S9Va4gRnxNOEkVXOdw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:16",
+    "keyword": "Dental Clinics",
+    "name": "Trinity Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
   "https://www.google.com/maps/place/Trinity+Park+Dentistry/data=!4m7!3m6!1s0x8858294271118cfb:0x49183c7a60c3e6bb!8m2!3d34.8188295!4d-82.2551999!16s%2Fg%2F11szk77tv9!19sChIJ-4wRcUIpWIgRu-bDYHo8GEk?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T01:08:38",
@@ -1567,6 +2526,55 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Urgent+Dental+Center+%26+Family+Dentistry/data=!4m7!3m6!1s0x886b48ee11c26c23:0x945c3c9750dcb57!8m2!3d39.7738439!4d-85.982408!16s%2Fg%2F11bymw_0x6!19sChIJI2zCEe5Ia4gRV8sNdcnDRQk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:50",
+    "keyword": "Dental Clinics",
+    "name": "Urgent Dental Center & Family Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Urgent+Dental+Center+%26+Family+Dentistry/data=!4m7!3m6!1s0x886b4fbd15e7ade5:0x708001e2f88c169f!8m2!3d39.7793739!4d-86.0951791!16s%2Fg%2F11s8lkmfq6!19sChIJ5a3nFb1Pa4gRnxaM-OIBgHA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:22",
+    "keyword": "Dental Clinics",
+    "name": "Urgent Dental Center & Family Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Urgent+Dental+Center+%26+Family+Dentistry/data=!4m7!3m6!1s0x886b5566b53c64fb:0xf61443c0e2bfe76b!8m2!3d39.8980898!4d-86.2155041!16s%2Fg%2F11gsmt0yww!19sChIJ-2Q8tWZVa4gRa-e_4sBDFPY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:50",
+    "keyword": "Dental Clinics",
+    "name": "Urgent Dental Center & Family Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Urgent+Dental+Center+%26+Family+Dentistry/data=!4m7!3m6!1s0x886b55ff18647d73:0x8bdf707796d313e6!8m2!3d39.8425425!4d-86.2546761!16s%2Fg%2F11c1q84tfw!19sChIJc31kGP9Va4gR5hPTlndw34s?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:50",
+    "keyword": "Dental Clinics",
+    "name": "Urgent Dental Center & Family Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Urgent+Dental+Center+%26+Family+Dentistry/data=!4m7!3m6!1s0x886b5924eed78e35:0x408695decfc3d191!8m2!3d39.7220647!4d-86.2201813!16s%2Fg%2F11vjh9vsj9!19sChIJNY7X7iRZa4gRkdHDz96VhkA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:50",
+    "keyword": "Dental Clinics",
+    "name": "Urgent Dental Center & Family Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Urgent+Dental+Center+%26+Family+Dentistry/data=!4m7!3m6!1s0x886b5d96535c0e8b:0xd17314ccff2dda0b!8m2!3d39.6368331!4d-86.1168212!16s%2Fg%2F11fqc265hp!19sChIJiw5cU5Zda4gRC9ot_8wUc9E?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:57",
+    "keyword": "Dental Clinics",
+    "name": "Urgent Dental Center & Family Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Urgent+Dental+Center+%26+Family+Dentistry/data=!4m7!3m6!1s0x886ca9f6ea6bf239:0xb8a6be29f4b2c881!8m2!3d39.7645839!4d-86.3073509!16s%2Fg%2F11rc76h2hk!19sChIJOfJr6vapbIgRgciy9Cm-prg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:50",
+    "keyword": "Dental Clinics",
+    "name": "Urgent Dental Center & Family Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/Wade+Hampton+Family+Dentistry/data=!4m7!3m6!1s0x88582d95dabf33c1:0xba7a5e9f7bd50714!8m2!3d34.8905312!4d-82.3469718!16s%2Fg%2F1vwlpvf2!19sChIJwTO_2pUtWIgRFAfVe59eero?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T01:08:38",
     "keyword": "dentist",
@@ -1574,12 +2582,54 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Washington+Street+Dentistry/data=!4m7!3m6!1s0x886b48f62d210c7b:0xa3aa185388068e47!8m2!3d39.7752807!4d-85.9718792!16s%2Fg%2F1tdxwmn4!19sChIJewwhLfZIa4gRR44GiFMYqqM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:50",
+    "keyword": "Dental Clinics",
+    "name": "Washington Street Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/West+10th+Dental+Group/data=!4m7!3m6!1s0x886ca83fc76fd9c9:0x5daaf667668410c2!8m2!3d39.7791876!4d-86.2750903!16s%2Fg%2F1tks71gg!19sChIJydlvxz-obIgRwhCEZmf2ql0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:22",
+    "keyword": "Dental Clinics",
+    "name": "West 10th Dental Group",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
   "https://www.google.com/maps/place/West+End+Dental/data=!4m7!3m6!1s0x88583034fdbda95f:0xdf93e0e23093a6b6!8m2!3d34.8443418!4d-82.4035735!16s%2Fg%2F11b5pkgmpl!19sChIJX6m9_TQwWIgRtqaTMOLgk98?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:01:57",
     "keyword": "dentist",
     "name": "West End Dental",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Westend+Dental/data=!4m7!3m6!1s0x886b4f1653678fe1:0x6ed12bc2b533b740!8m2!3d39.7821756!4d-86.0664101!16s%2Fg%2F11h8bbwvk2!19sChIJ4Y9nUxZPa4gRQLcztcIr0W4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:12:03",
+    "keyword": "Dental Clinics",
+    "name": "Westend Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Westend+Dental/data=!4m7!3m6!1s0x886b51f07ad57c0d:0xe07eb861cf39af2e!8m2!3d39.8256553!4d-86.1045471!16s%2Fg%2F11c31plzj7!19sChIJDXzVevBRa4gRLq85z2G4fuA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:17",
+    "keyword": "Dental Clinics",
+    "name": "Westend Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Westend+Dental/data=!4m7!3m6!1s0x886b57af46d2da75:0x4e077b4cbf991c16!8m2!3d39.787414!4d-86.2218784!16s%2Fg%2F11cls6ssc7!19sChIJddrSRq9Xa4gRFhyZv0x7B04?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:17",
+    "keyword": "Dental Clinics",
+    "name": "Westend Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Westend+Dental/data=!4m7!3m6!1s0x886b5a802579c425:0xec9fe1bb5c3d12ee!8m2!3d39.7520259!4d-86.1325437!16s%2Fg%2F11gb3zsdnq!19sChIJJcR5JYBaa4gR7hI9XLvhn-w?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:11:17",
+    "keyword": "Dental Clinics",
+    "name": "Westend Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
   "https://www.google.com/maps/place/Willoughby+Dental+of+Greenville/data=!4m7!3m6!1s0x88584603d619e6b5:0x6fed29bf64041ecc!8m2!3d34.8507041!4d-82.2304094!16s%2Fg%2F1tdx9dr0!19sChIJteYZ1gNGWIgRzB4EZL8p7W8?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:08",

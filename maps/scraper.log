@@ -810,4 +810,13 @@ Stacktrace:
 01:20:20  INFO      Saved 229 urls → urls.json
 01:20:22  INFO      Saved 229 urls → urls.json
 01:20:25  INFO      Saved 229 urls → urls.json
-                                                                                                                                                                                                         
+                                                                                                                                                                                                         21:13:53  [main]  INFO      50 cities × 25 keywords = 1250 combos across 4 worker(s)
+21:13:53  [main]  INFO      Started worker 0 (pid 90369) — 13 cities
+21:13:53  [main]  INFO      Started worker 1 (pid 90370) — 13 cities
+21:13:53  [main]  INFO      Started worker 2 (pid 90371) — 12 cities
+21:13:53  [main]  INFO      Started worker 3 (pid 90372) — 12 cities
+01:07:46  [main]  INFO      50 cities × 25 keywords = 1250 combos across 1 worker(s)
+01:08:51  INFO      Resuming — 229 urls already saved
+01:08:54  INFO      patching driver executable /home/rafay/.local/share/undetected_chromedriver/undetected_chromedriver
+01:09:29  [main]  INFO      50 cities × 25 keywords = 1250 combos across 1 worker(s)
+01:11:00  [main]  INFO      50 cities × 25 keywords = 1250 combos across 1 worker(s)

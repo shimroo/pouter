@@ -268,7 +268,7 @@ def build_driver() -> uc.Chrome:
     options.add_argument("--window-size=1920,1080")
     if HEADLESS:
         options.add_argument("--headless=new")
-    driver = uc.Chrome(options=options)
+    driver = uc.Chrome(options=options, version_main=148)
     log.info("Driver started (incognito)")
     return driver
 
@@ -376,6 +376,11 @@ def pan_map_by(driver, dx: int, dy: int) -> bool:
                     len(MAP_CANVAS_XPATHS))
         return False
     try:
+        size   = canvas.size
+        max_dx = max(1, size["width"]  // 2 - 20)
+        max_dy = max(1, size["height"] // 2 - 20)
+        dx     = max(-max_dx, min(max_dx, dx))
+        dy     = max(-max_dy, min(max_dy, dy))
         sx, sy = dx / PAN_SUBSTEPS, dy / PAN_SUBSTEPS
         ac = ActionChains(driver).move_to_element(canvas).click_and_hold()
         for _ in range(PAN_SUBSTEPS):
