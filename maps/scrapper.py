@@ -42,31 +42,31 @@ from selenium.webdriver.support import expected_conditions as EC
 # Create those files to manage your lists without touching this code.
 
 SEARCH_URLS = [
-    "https://www.google.com/maps/place/Indianapolis,+IN",
-    "https://www.google.com/maps/place/Columbus,+OH",
-    "https://www.google.com/maps/place/Cincinnati,+OH",
-    "https://www.google.com/maps/place/Cleveland,+OH",
-    "https://www.google.com/maps/place/Pittsburgh,+PA",
-    "https://www.google.com/maps/place/Louisville,+KY",
-    "https://www.google.com/maps/place/Birmingham,+AL",
-    "https://www.google.com/maps/place/Memphis,+TN",
-    "https://www.google.com/maps/place/Oklahoma+City,+OK",
-    "https://www.google.com/maps/place/Tulsa,+OK",
-    "https://www.google.com/maps/place/Albuquerque,+NM",
-    "https://www.google.com/maps/place/Tucson,+AZ",
-    "https://www.google.com/maps/place/Fresno,+CA",
-    "https://www.google.com/maps/place/Bakersfield,+CA",
-    "https://www.google.com/maps/place/Riverside,+CA",
-    "https://www.google.com/maps/place/Boise,+ID",
-    "https://www.google.com/maps/place/Spokane,+WA",
-    "https://www.google.com/maps/place/Reno,+NV",
-    "https://www.google.com/maps/place/Colorado+Springs,+CO",
-    "https://www.google.com/maps/place/Provo,+UT",
-    "https://www.google.com/maps/place/Omaha,+NE",
-    "https://www.google.com/maps/place/Des+Moines,+IA",
-    "https://www.google.com/maps/place/Wichita,+KS",
-    "https://www.google.com/maps/place/Overland+Park,+KS",
-    "https://www.google.com/maps/place/Grand+Rapids,+MI",
+    # "https://www.google.com/maps/place/Indianapolis,+IN",
+    # "https://www.google.com/maps/place/Columbus,+OH",
+    # "https://www.google.com/maps/place/Cincinnati,+OH",
+    # "https://www.google.com/maps/place/Cleveland,+OH",
+    # "https://www.google.com/maps/place/Pittsburgh,+PA",
+    # "https://www.google.com/maps/place/Louisville,+KY",
+    # "https://www.google.com/maps/place/Birmingham,+AL",
+    # "https://www.google.com/maps/place/Memphis,+TN",
+    # "https://www.google.com/maps/place/Oklahoma+City,+OK",
+    # "https://www.google.com/maps/place/Tulsa,+OK",
+    # "https://www.google.com/maps/place/Albuquerque,+NM",
+    # "https://www.google.com/maps/place/Tucson,+AZ",
+    # "https://www.google.com/maps/place/Fresno,+CA",
+    # "https://www.google.com/maps/place/Bakersfield,+CA",
+    # "https://www.google.com/maps/place/Riverside,+CA",
+    # "https://www.google.com/maps/place/Boise,+ID",
+    # "https://www.google.com/maps/place/Spokane,+WA",
+    # "https://www.google.com/maps/place/Reno,+NV",
+    # "https://www.google.com/maps/place/Colorado+Springs,+CO",
+    # "https://www.google.com/maps/place/Provo,+UT",
+    # "https://www.google.com/maps/place/Omaha,+NE",
+    # "https://www.google.com/maps/place/Des+Moines,+IA",
+    # "https://www.google.com/maps/place/Wichita,+KS",
+    # "https://www.google.com/maps/place/Overland+Park,+KS",
+    # "https://www.google.com/maps/place/Grand+Rapids,+MI",
     "https://www.google.com/maps/place/Toledo,+OH",
     "https://www.google.com/maps/place/Dayton,+OH",
     "https://www.google.com/maps/place/Fort+Wayne,+IN",
@@ -129,7 +129,7 @@ HEADLESS     = os.environ.get("DISPLAY") is None  # auto-headless on SSH/no-disp
 SCROLL_PAUSE       = 1.5
 SCROLL_STALL_LIMIT = 6
 
-PAN_RINGS       = 2
+PAN_RINGS       = 0
 PAN_BASE_POINTS = 6
 PAN_STEP_PX     = 600
 PAN_SUBSTEPS    = 12

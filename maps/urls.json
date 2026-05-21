@@ -20,6 +20,13 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
+  "https://www.google.com/maps/place/2K+Dental/data=!4m7!3m6!1s0x8830f005729d19b3:0x402b6b33ecebb9fd!8m2!3d41.4700257!4d-81.6998678!16s%2Fg%2F1tfxyp6w!19sChIJsxmdcgXwMIgR_bnr7DNrK0A?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:35",
+    "keyword": "Dental Clinics",
+    "name": "2K Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/7+Days+Family+Dental+-+Southport/data=!4m7!3m6!1s0x886b5c70ebd74db3:0xcc5796175a6fde4d!8m2!3d39.6640616!4d-86.1459935!16s%2Fg%2F11fz9z4n07!19sChIJs03X63Bca4gRTd5vWheWV8w?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:11:50",
     "keyword": "Dental Clinics",
@@ -41,6 +48,34 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
+  "https://www.google.com/maps/place/A%26Z+Dental+Care/data=!4m7!3m6!1s0x8830ff775cd7dfcf:0x375de655aea9eabf!8m2!3d41.5903357!4d-81.5270282!16s%2Fg%2F11wxz535vj!19sChIJz9_XXHf_MIgRv-qprlXmXTc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:32:44",
+    "keyword": "Dental Clinics",
+    "name": "A&Z Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/A+Caring+Dental+Group/data=!4m7!3m6!1s0x8830eda200589647:0x46400a4f2602d1d4!8m2!3d41.4518011!4d-81.8168737!16s%2Fg%2F1tcvvhp3!19sChIJR5ZYAKLtMIgR1NECJk8KQEY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:32:42",
+    "keyword": "Dental Clinics",
+    "name": "A Caring Dental Group",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/AC+Orthodontics/data=!4m7!3m6!1s0x88308d87fa80a4ef:0x8b7857deabfff86!8m2!3d41.477813!4d-81.9218828!16s%2Fg%2F11h5t4mrfq!19sChIJ76SA-oeNMIgRhv-_6n2Ftwg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:01",
+    "keyword": "Orthodontists",
+    "name": "AC Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/ALL+DENTAL+CLINIC+LLC/data=!4m7!3m6!1s0x8830f3359aedf48f:0xc719965cd9fe896c!8m2!3d41.4720728!4d-81.7917796!16s%2Fg%2F11yvcxqj3m!19sChIJj_TtmjXzMIgRbIn-2VyWGcc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:41",
+    "keyword": "Dental Clinics",
+    "name": "ALL DENTAL CLINIC LLC",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Accelerated+Academy+%7C+Dental+Assisting+-+Greenville,+SC/data=!4m7!3m6!1s0x88582f7472ee4d2d:0xe4887714c0570523!8m2!3d34.8785458!4d-82.3180994!16s%2Fg%2F11y270rp66!19sChIJLU3ucnQvWIgRIwVXwBR3iOQ?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:36:35",
     "keyword": "orthodontist",
@@ -48,12 +83,33 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Advanced+Dental+Care+%26+Aesthetics+%7C+Dental+Implants+Cleveland/data=!4m7!3m6!1s0x8830933a116d1619:0xebe6cec5c7bb5e61!8m2!3d41.4200408!4d-81.8777959!16s%2Fg%2F1tcw8txg!19sChIJGRZtETqTMIgRYV67x8XO5us?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:32:42",
+    "keyword": "Dental Clinics",
+    "name": "Advanced Dental Care & Aesthetics | Dental Implants Cleveland",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Advanced+Dental+Care+Lakewood/data=!4m7!3m6!1s0x8830f214b575d0cf:0x9dab20a27b017bc2!8m2!3d41.4843909!4d-81.8011142!16s%2Fg%2F11h809vjl5!19sChIJz9B1tRTyMIgRwnsBe6Igq50?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:32:42",
+    "keyword": "Dental Clinics",
+    "name": "Advanced Dental Care Lakewood",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Advanced+Dental+Care+of+Summerlin+Place/data=!4m7!3m6!1s0x886b51404844360d:0x9ac1821afb9918f1!8m2!3d39.8170089!4d-86.1563415!16s%2Fg%2F1tfd7qr_!19sChIJDTZESEBRa4gR8RiZ-xqCwZo?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:11:57",
     "keyword": "Dental Clinics",
     "name": "Advanced Dental Care of Summerlin Place",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Advanced+Dental+Center/data=!4m7!3m6!1s0x8830eeb484b9db11:0x96072faf7a230c30!8m2!3d41.3880063!4d-81.7618215!16s%2Fg%2F1tfv15yp!19sChIJEdu5hLTuMIgRMAwjeq8vB5Y?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:32:44",
+    "keyword": "Dental Clinics",
+    "name": "Advanced Dental Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Advanced+Family+Dentistry/data=!4m7!3m6!1s0x885837e4495d1285:0x78c811b9255c69b!8m2!3d34.8260132!4d-82.5542118!16s%2Fg%2F1tffq1g6!19sChIJhRJdSeQ3WIgRm8ZVkhuBjAc?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:12",
@@ -69,12 +125,26 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Aerni+Dental:+Dr.+William+M.+Aerni/data=!4m7!3m6!1s0x8830ea931f586b27:0x213775c607af6071!8m2!3d41.330275!4d-81.836311!16s%2Fg%2F1tdxlj6j!19sChIJJ2tYH5PqMIgRcWCvB8Z1NyE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:12",
+    "keyword": "Orthodontists",
+    "name": "Aerni Dental: Dr. William M. Aerni",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Affordable+Dental+East/data=!4m7!3m6!1s0x886b49548c63bd57:0xd8ee729cb62e69d7!8m2!3d39.83064!4d-86.0369857!16s%2Fg%2F1262wxhyx!19sChIJV71jjFRJa4gR12kutpxy7tg?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:11:17",
     "keyword": "Dental Clinics",
     "name": "Affordable Dental East",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Affordable+Dentures+%26+Implants/data=!4m7!3m6!1s0x8830ec6a7afd5057:0xb2a224c80d52aa9d!8m2!3d41.4046699!4d-81.8021338!16s%2Fg%2F11b632ljrw!19sChIJV1D9emrsMIgRnapSDcgkorI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:42",
+    "keyword": "Dental Clinics",
+    "name": "Affordable Dentures & Implants",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Affordable+Dentures+%26+Implants/data=!4m7!3m6!1s0x88582557c336c351:0x5c8ac56bf1b072d7!8m2!3d34.7987779!4d-82.3790517!16s%2Fg%2F1tdwl6kk!19sChIJUcM2w1clWIgR13Kw8WvFilw?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:36:30",
@@ -139,12 +209,96 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
+  "https://www.google.com/maps/place/American+Orthodontic+Labs/data=!4m7!3m6!1s0x883102077a4b8acf:0xec382404481f439a!8m2!3d41.5199318!4d-81.5152098!16s%2Fg%2F1vc6f12b!19sChIJz4pLegcCMYgRmkMfSAQkOOw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:14",
+    "keyword": "Orthodontists",
+    "name": "American Orthodontic Labs",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Amherst+Neighborhood+Dentistry/data=!4m7!3m6!1s0x88309dfd875eb857:0xb1641fa78c6f8cb8!8m2!3d41.4172402!4d-82.2067299!16s%2Fg%2F1tyt5_d1!19sChIJV7heh_2dMIgRuIxvjKcfZLE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:48",
+    "keyword": "Dental Clinics",
+    "name": "Amherst Neighborhood Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Anchor+Dental/data=!4m7!3m6!1s0x8830e462e7f4c563:0x12375aa31d0ff7b6!8m2!3d41.4095434!4d-81.6151338!16s%2Fg%2F12603kbvw!19sChIJY8X052LkMIgRtvcPHaNaNxI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:32:41",
+    "keyword": "Dental Clinics",
+    "name": "Anchor Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Andrew+E.+Floyd,+Jr.,+DMD/data=!4m7!3m6!1s0x8857836bcf8918f7:0x1a4f882ebfb05163!8m2!3d34.8852035!4d-82.0658539!16s%2Fg%2F1tdmqs4d!19sChIJ9xiJz2uDV4gRY1Gwvy6ITxo?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:36:36",
     "keyword": "orthodontist",
     "name": "Andrew E. Floyd, Jr., DMD",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Andrew+Slodov+DDS/data=!4m7!3m6!1s0x8831a3dd020f80cf:0xf3aa5b74253fb00c!8m2!3d41.6660042!4d-81.2417297!16s%2Fg%2F11g4gv0cy6!19sChIJz4APAt2jMYgRDLA_JXRbqvM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:12",
+    "keyword": "Orthodontists",
+    "name": "Andrew Slodov DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Andrew+W.+Skorobatckyj,+DDS/data=!4m7!3m6!1s0x8830e8c1fad6be27:0x4f581f915ca29f71!8m2!3d41.363397!4d-81.717867!16s%2Fg%2F1tk6wk84!19sChIJJ77W-sHoMIgRcZ-iXJEfWE8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:59",
+    "keyword": "Orthodontists",
+    "name": "Andrew W. Skorobatckyj, DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Angel+Dental+Care/data=!4m7!3m6!1s0x88309d19de06de83:0xf61e2e69711046ab!8m2!3d41.4197676!4d-82.1852321!16s%2Fg%2F11j0rh1swb!19sChIJg94G3hmdMIgRq0YQcWkuHvY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:48",
+    "keyword": "Dental Clinics",
+    "name": "Angel Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Angel+Dental+Care/data=!4m7!3m6!1s0x8830e464f2a46c37:0xc88c80328c8c91a0!8m2!3d41.4095067!4d-81.6165979!16s%2Fg%2F1hf1rznn8!19sChIJN2yk8mTkMIgRoJGMjDKAjMg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:32:44",
+    "keyword": "Dental Clinics",
+    "name": "Angel Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Angel+Dental+Care/data=!4m7!3m6!1s0x8830ee0498c56981:0xdc12c939e06fda93!8m2!3d41.4608925!4d-81.7691704!16s%2Fg%2F11b7jld4jv!19sChIJgWnFmATuMIgRk9pv4DnJEtw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:32:42",
+    "keyword": "Dental Clinics",
+    "name": "Angel Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Angel+Dental+Care/data=!4m7!3m6!1s0x8830fa5e1590317f:0x3ed146ee299432dc!8m2!3d41.5021948!4d-81.6679619!16s%2Fg%2F11c601knk5!19sChIJfzGQFV76MIgR3DKUKe5G0T4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:32:41",
+    "keyword": "Dental Clinics",
+    "name": "Angel Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Angel+Dental+Care/data=!4m7!3m6!1s0x8830fad70b7b7661:0xe3074070586614f8!8m2!3d41.4660001!4d-81.650541!16s%2Fg%2F11ddwstww_!19sChIJYXZ7C9f6MIgR-BRmWHBAB-M?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:32:41",
+    "keyword": "Dental Clinics",
+    "name": "Angel Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Angel+Dental+Care/data=!4m7!3m6!1s0x8830fe4ecf023af9:0x5e93507fcade89bc!8m2!3d41.5621898!4d-81.5437328!16s%2Fg%2F1wc48m5x!19sChIJ-ToCz07-MIgRvIneyn9Qk14?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:33",
+    "keyword": "Dental Clinics",
+    "name": "Angel Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Angel+Dental+Care/data=!4m7!3m6!1s0x883101e16b075f9d:0xf027b05a9b935627!8m2!3d41.5830574!4d-81.4876098!16s%2Fg%2F11nsrl1zzv!19sChIJnV8Ha-EBMYgRJ1aTm1qwJ_A?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:32",
+    "keyword": "Dental Clinics",
+    "name": "Angel Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Apple+Seeds+Pediatric+Dentistry+of+Brushy+Creek/data=!4m7!3m6!1s0x88582bfa6e6028d5:0x6c8ae3100f0af48d!8m2!3d34.8933563!4d-82.2945175!16s%2Fg%2F12627y4z6!19sChIJ1ShgbvorWIgRjfQKDxDjimw?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:09:05",
@@ -166,6 +320,13 @@
     "name": "Arnett Dental",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Arnold+Orthodontics/data=!4m7!3m6!1s0x8831024a4bf4528f:0xe295599450e9810b!8m2!3d41.5021177!4d-81.475641!16s%2Fg%2F1tfntnf9!19sChIJj1L0S0oCMYgRC4HpUJRZleI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:04",
+    "keyword": "Orthodontists",
+    "name": "Arnold Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Ashby+Park+Family+Orthodontics+-+Easley/data=!4m7!3m6!1s0x8858485fc18b2ea7:0xbfa8074ccfc7e22!8m2!3d34.83704!4d-82.6037058!16s%2Fg%2F11hbvbx61v!19sChIJpy6LwV9IWIgRIn78zHSA-gs?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:06:05",
@@ -202,6 +363,13 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Aspen+Dental+-+Brooklyn,+OH/data=!4m7!3m6!1s0x8830ee5591dc7f43:0x800addfe1ff14966!8m2!3d41.430789!4d-81.7355207!16s%2Fg%2F1tm1r32z!19sChIJQ3_ckVXuMIgRZknxH_7dCoA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:33",
+    "keyword": "Dental Clinics",
+    "name": "Aspen Dental - Brooklyn, OH",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Aspen+Dental+-+Greenville,+SC/data=!4m7!3m6!1s0x885828c15cc44341:0x18c2b4940b960dfb!8m2!3d34.8297594!4d-82.3048224!16s%2Fg%2F1tf6brx3!19sChIJQUPEXMEoWIgR-w2WC5S0whg?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:27",
     "keyword": "dentist",
@@ -230,6 +398,27 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
+  "https://www.google.com/maps/place/Aspen+Dental+-+Mayfield+Heights,+OH/data=!4m7!3m6!1s0x8830e2bbffffffff:0xed20b6b30f7f70bf!8m2!3d41.5196858!4d-81.4536814!16s%2Fg%2F1thq5yhh!19sChIJ_____7viMIgRv3B_D7O2IO0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:42",
+    "keyword": "Dental Clinics",
+    "name": "Aspen Dental - Mayfield Heights, OH",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Aspen+Dental+-+Parma,+OH/data=!4m7!3m6!1s0x8830e5fbf1cc73fd:0x492c54befe368e73!8m2!3d41.3840479!4d-81.7436412!16s%2Fg%2F1tf29b6d!19sChIJ_XPM8fvlMIgRc442_r5ULEk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:41",
+    "keyword": "Dental Clinics",
+    "name": "Aspen Dental - Parma, OH",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Aspire+Dental+Spa/data=!4m7!3m6!1s0x883102a3043db1db:0x56271364841bfd99!8m2!3d41.4640291!4d-81.5071252!16s%2Fg%2F1tf5qwtb!19sChIJ27E9BKMCMYgRmf0bhGQTJ1Y?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:48",
+    "keyword": "Dental Clinics",
+    "name": "Aspire Dental Spa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Augusta+Dental+Office/data=!4m7!3m6!1s0x886b54f96266278f:0x6083c34f5beb6a9d!8m2!3d39.883561!4d-86.2083072!16s%2Fg%2F1vk6zzwt!19sChIJjydmYvlUa4gRnWrrW0_Dg2A?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:12:03",
     "keyword": "Dental Clinics",
@@ -237,12 +426,61 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
+  "https://www.google.com/maps/place/Avon+Dental+Care/data=!4m7!3m6!1s0x88309015e8c0a255:0x706981488ea0ed69!8m2!3d41.4682053!4d-82.0200593!16s%2Fg%2F1tgw5p0f!19sChIJVaLA6BWQMIgRae2gjkiBaXA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:48",
+    "keyword": "Dental Clinics",
+    "name": "Avon Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Avon+Orthodontics/data=!4m7!3m6!1s0x88309b0002014dd1:0x53d7f878aba7e73e!8m2!3d41.4579216!4d-82.0420839!16s%2Fg%2F11vymrl8kx!19sChIJ0U0BAgCbMIgRPuenq3j411M?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:01",
+    "keyword": "Orthodontists",
+    "name": "Avon Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Avon+Orthodontics/data=!4m7!3m6!1s0x8830c1d2d673ae2f:0x1bb3af1ca7141aef!8m2!3d41.2980232!4d-81.8347136!16s%2Fg%2F11n43nfx81!19sChIJL65z1tLBMIgR7xoUpxyvsxs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:08",
+    "keyword": "Orthodontists",
+    "name": "Avon Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Avon+Pointe+Pediatric+Dentistry+%26+Orthodontics/data=!4m7!3m6!1s0x88309012b9e36979:0xbc7cb1ce058917d0!8m2!3d41.4651886!4d-82.0284956!16s%2Fg%2F1tctmff4!19sChIJeWnjuRKQMIgR0BeJBc6xfLw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:08",
+    "keyword": "Orthodontists",
+    "name": "Avon Pointe Pediatric Dentistry & Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/BAY+DENTAL+OFFICE/data=!4m7!3m6!1s0x88308d8815507c29:0x29303c2cba431e07!8m2!3d41.477813!4d-81.9218828!16s%2Fg%2F1txfpt09!19sChIJKXxQFYiNMIgRBx5Duiw8MCk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:35",
+    "keyword": "Dental Clinics",
+    "name": "BAY DENTAL OFFICE",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Bacsa+Family+Dental+and+Implant+Center/data=!4m7!3m6!1s0x886b44dab7617725:0xddec2a8255d3271!8m2!3d39.6943422!4d-86.0656605!16s%2Fg%2F1td4kw8r!19sChIJJXdht9pEa4gRcTJdJajC3g0?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:11:20",
     "keyword": "Dental Clinics",
     "name": "Bacsa Family Dental and Implant Center",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Ballrick+and+Petts+Orthodontics/data=!4m7!3m6!1s0x8830ed4c117d786d:0xb61396f6fe00eb3e!8m2!3d41.4359189!4d-81.9387077!16s%2Fg%2F1tlvq558!19sChIJbXh9EUztMIgRPusA_vaWE7Y?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:58",
+    "keyword": "Orthodontists",
+    "name": "Ballrick and Petts Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Beachwood+Dental/data=!4m7!3m6!1s0x883102c6a521bc05:0x6c5e79ea131101f1!8m2!3d41.4596784!4d-81.488903!16s%2Fg%2F1tcty5ym!19sChIJBbwhpcYCMYgR8QERE-p5Xmw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:32:44",
+    "keyword": "Dental Clinics",
+    "name": "Beachwood Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Bella+Vista+Dental/data=!4m7!3m6!1s0x88582dfe0ccf96ef:0x102bfc2c361b48d6!8m2!3d34.8656737!4d-82.3320618!16s%2Fg%2F11b7vczl76!19sChIJ75bPDP4tWIgR1kgbNiz8KxA?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:15",
@@ -265,6 +503,27 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Better+Together+Dentistry+%26+Orthodontics+of+Twinsburg/data=!4m7!3m6!1s0x88311f8c02f6e4c7:0xa0c7ad1b6b01280f!8m2!3d41.3116978!4d-81.4385175!16s%2Fg%2F11wpssx85d!19sChIJx-T2AowfMYgRDygBaxutx6A?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:06",
+    "keyword": "Orthodontists",
+    "name": "Better Together Dentistry & Orthodontics of Twinsburg",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Biddulph+Family+Dental/data=!4m7!3m6!1s0x8830ee53356e32a3:0xeed01ce03c323bea!8m2!3d41.4300878!4d-81.734973!16s%2Fg%2F1w112v3c!19sChIJozJuNVPuMIgR6jsyPOAc0O4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:46",
+    "keyword": "Dental Clinics",
+    "name": "Biddulph Family Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Birch+River+Orthodontics/data=!4m7!3m6!1s0x883121be5a2947ff:0x72c2bfafd7f1dc12!8m2!3d41.2376108!4d-81.4389403!16s%2Fg%2F11mvvpb3t5!19sChIJ_0cpWr4hMYgREtzx16-_wnI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:14",
+    "keyword": "Orthodontists",
+    "name": "Birch River Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Blue+Ridge+Dentistry+of+Simpsonville/data=!4m7!3m6!1s0x885827218ec3a347:0xf226eb407b3476fd!8m2!3d34.7247823!4d-82.2530228!16s%2Fg%2F1vd3whzg!19sChIJR6PDjiEnWIgR_XY0e0DrJvI?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:23",
     "keyword": "dentist",
@@ -279,12 +538,40 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
+  "https://www.google.com/maps/place/Braces+by+Souris/data=!4m7!3m6!1s0x883093a2645490ff:0x948c764281779eb2!8m2!3d41.417766!4d-81.917509!16s%2Fg%2F11sghq6j_1!19sChIJ_5BUZKKTMIgRsp53gUJ2jJQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:14",
+    "keyword": "Orthodontists",
+    "name": "Braces by Souris",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Brian+P.+Radulovich,+D.D.S./data=!4m7!3m6!1s0x883094f234fcc5f9:0x6375035a98afaf02!8m2!3d41.372122!4d-81.901507!16s%2Fg%2F1tmpfl06!19sChIJ-cX8NPKUMIgRAq-vmFoDdWM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:12",
+    "keyword": "Orthodontists",
+    "name": "Brian P. Radulovich, D.D.S.",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Bridgewater+Dental+Care/data=!4m7!3m6!1s0x8814b1e0908ee7f7:0xd14e2da564c697ac!8m2!3d40.0173629!4d-86.0905988!16s%2Fg%2F1tg79n75!19sChIJ9-eOkOCxFIgRrJfGZKUtTtE?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:11:50",
     "keyword": "Dental Clinics",
     "name": "Bridgewater Dental Care",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Bright+Now!+Dental+%26+Orthodontics+-+Cleveland,+OH+%28Steelyard+Dr.%29/data=!4m7!3m6!1s0x8830fbfc3377eb21:0x39a86d382dfcb057!8m2!3d41.4645227!4d-81.6869699!16s%2Fg%2F11g22z_d_j!19sChIJIet3M_z7MIgRV7D8LThtqDk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:08",
+    "keyword": "Orthodontists",
+    "name": "Bright Now! Dental & Orthodontics - Cleveland, OH (Steelyard Dr.)",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Bright+Now!+Dental+%26+Orthodontics+-+Elyria,+OH/data=!4m7!3m6!1s0x8830986a118c82c1:0x1bfd8eea1458260e!8m2!3d41.3476431!4d-82.0657398!16s%2Fg%2F1vzv499m!19sChIJwYKMEWqYMIgRDiZYFOqO_Rs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:08",
+    "keyword": "Orthodontists",
+    "name": "Bright Now! Dental & Orthodontics - Elyria, OH",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Bright+Now!+Dental+%26+Orthodontics+-+Indianapolis,+IN/data=!4m7!3m6!1s0x886b4d8d6824f709:0x2a7f62a7220aa1b8!8m2!3d39.854749!4d-86.085088!16s%2Fg%2F1trc5q24!19sChIJCfckaI1Na4gRuKEKIqdifyo?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:11:57",
@@ -293,12 +580,47 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
+  "https://www.google.com/maps/place/Bright+Now!+Dental+%26+Orthodontics+-+Lorain,+OH/data=!4m7!3m6!1s0x88309dfa9052bae7:0x911dffbe416741a8!8m2!3d41.426752!4d-82.204798!16s%2Fg%2F1vp74f0b!19sChIJ57pSkPqdMIgRqEFnQb7_HZE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:10",
+    "keyword": "Orthodontists",
+    "name": "Bright Now! Dental & Orthodontics - Lorain, OH",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Bright+Now!+Dental+%26+Orthodontics+-+Mentor,+OH/data=!4m7!3m6!1s0x8831a5dc099745bd:0x7abb106c48ced1c5!8m2!3d41.67678!4d-81.3119089!16s%2Fg%2F1tj9cn6w!19sChIJvUWXCdylMYgRxdHOSGwQu3o?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:10",
+    "keyword": "Orthodontists",
+    "name": "Bright Now! Dental & Orthodontics - Mentor, OH",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Bright+Now!+Dental+%26+Orthodontics+-+North+Olmsted,+OH/data=!4m7!3m6!1s0x883093122e38844f:0xc88a35291a1129e1!8m2!3d41.4195473!4d-81.8995991!16s%2Fg%2F1tj53782!19sChIJT4Q4LhKTMIgR4SkRGik1isg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:12",
+    "keyword": "Orthodontists",
+    "name": "Bright Now! Dental & Orthodontics - North Olmsted, OH",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Bright+Now!+Dental+%26+Orthodontics+-+Parma+Heights,+OH/data=!4m7!3m6!1s0x8830eeb37f23d93b:0x4d83ee0cf74ff3e1!8m2!3d41.3887548!4d-81.7629019!16s%2Fg%2F1thqhdj8!19sChIJO9kjf7PuMIgR4fNP9wzug00?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:10",
+    "keyword": "Orthodontists",
+    "name": "Bright Now! Dental & Orthodontics - Parma Heights, OH",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Bright+Smile+Dental+Care/data=!4m7!3m6!1s0x8814b30867b3a953:0x8a233e1e64e49ec0!8m2!3d39.9340667!4d-86.0597381!16s%2Fg%2F1tklr4k9!19sChIJU6mzZwizFIgRwJ7kZB4-I4o?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:11:56",
     "keyword": "Dental Clinics",
     "name": "Bright Smile Dental Care",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Brooklyn+Dental+Group/data=!4m7!3m6!1s0x8830efe0fa7be5a5:0xe16075e8e4780924!8m2!3d41.4419708!4d-81.7044525!16s%2Fg%2F11jq8mqzw4!19sChIJpeV7-uDvMIgRJAl45Oh1YOE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:30",
+    "keyword": "Dental Clinics",
+    "name": "Brooklyn Dental Group",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Brookschool+Dental+Care/data=!4m7!3m6!1s0x8814b59b16da5337:0xf0fc5f8875de922a!8m2!3d39.959122!4d-85.941727!16s%2Fg%2F1tf_j00j!19sChIJN1PaFpu1FIgRKpLedYhf_PA?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:12:05",
@@ -328,12 +650,40 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Buckeye+Dental+and+Braces/data=!4m7!3m6!1s0x8830907a35c8bdfb:0x70ec55737c60834!8m2!3d41.4528067!4d-82.0339663!16s%2Fg%2F11xy___bw!19sChIJ-73INXqQMIgRNAjGN1fFDgc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:42",
+    "keyword": "Dental Clinics",
+    "name": "Buckeye Dental and Braces",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Bynum+Aesthetic+Dentistry/data=!4m7!3m6!1s0x885827d52721e667:0x2b1f46aa32be3893!8m2!3d34.7899466!4d-82.257448!16s%2Fg%2F1tdwqtgp!19sChIJZ-YhJ9UnWIgRkzi-MqpGHys?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:19",
     "keyword": "dentist",
     "name": "Bynum Aesthetic Dentistry",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Canepa+Orthodontics/data=!4m7!3m6!1s0x88309c293cab3593:0x7c501f5ad73aa0f5!8m2!3d41.4178278!4d-82.1622112!16s%2Fg%2F1tfj3tfj!19sChIJkzWrPCmcMIgR9aA611ofUHw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:05",
+    "keyword": "Orthodontists",
+    "name": "Canepa Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Canepa+Orthodontics/data=!4m7!3m6!1s0x8830f29863331633:0x288f7921e225c88c!8m2!3d41.479049!4d-81.8435868!16s%2Fg%2F1td8zs5w!19sChIJMxYzY5jyMIgRjMgl4iF5jyg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:03",
+    "keyword": "Orthodontists",
+    "name": "Canepa Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Care+Alliance+Health+Center+-+Central+Neighborhood+Clinic/data=!4m7!3m6!1s0x8830faf50893f201:0x4f1d4e5e2ae0d66e!8m2!3d41.4966439!4d-81.6667528!16s%2Fg%2F11bwl3kgl9!19sChIJAfKTCPX6MIgRbtbgKl5OHU8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:39",
+    "keyword": "Dental Clinics",
+    "name": "Care Alliance Health Center - Central Neighborhood Clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Care+Dental+Dr+Haifeng+Xu/data=!4m7!3m6!1s0x886b50a11b5e2cd9:0xbf04ca82cd40fd97!8m2!3d39.7783562!4d-86.152413!16s%2Fg%2F11cs9yzls2!19sChIJ2SxeG6FQa4gRl_1AzYLKBL8?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:11:22",
@@ -412,6 +762,20 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Carpe+Diem+Dental+Spa+of+Solon/data=!4m7!3m6!1s0x209cc4173d0ed7a3:0x3833bc76a190da9e!8m2!3d41.383018!4d-81.43365!16s%2Fg%2F11tcvcgvms!19sChIJo9cOPRfEnCARntqQoXa8Mzg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:41",
+    "keyword": "Dental Clinics",
+    "name": "Carpe Diem Dental Spa of Solon",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Case+Western+Reserve+University+School+of+Dental+Medicine+Clinic/data=!4m7!3m6!1s0x8830fb1b78823c53:0x46b414a5943dc228!8m2!3d41.5059045!4d-81.6204507!16s%2Fg%2F11gt6dy_s6!19sChIJUzyCeBv7MIgRKMI9lKUUtEY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:39",
+    "keyword": "Dental Clinics",
+    "name": "Case Western Reserve University School of Dental Medicine Clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Cauble+Charles+E+DMD/data=!4m7!3m6!1s0x88582efbc1084cf1:0xd0210edf8234f5b2!8m2!3d34.8492036!4d-82.3401163!16s%2Fg%2F1v27w6cl!19sChIJ8UwIwfsuWIgRsvU0gt8OIdA?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:06:07",
     "keyword": "orthodontist",
@@ -425,6 +789,20 @@
     "name": "Cedar Bluff Family and Cosmetic Dentistry of Simpsonville",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Center+For+Dental+Health+Dr.+Erica+Wazney/data=!4m7!3m6!1s0x883102c6a521bc05:0x9af4654f5b9f5176!8m2!3d41.459689!4d-81.488876!16s%2Fg%2F1tl1p2lz!19sChIJBbwhpcYCMYgRdlGfW09l9Jo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:32",
+    "keyword": "Dental Clinics",
+    "name": "Center For Dental Health Dr. Erica Wazney",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Center+For+Dental+Health/data=!4m7!3m6!1s0x8831abad45b603b9:0x58c1b7a516750b95!8m2!3d41.6427372!4d-81.4617867!16s%2Fg%2F1tfqrlgc!19sChIJuQO2Ra2rMYgRlQt1FqW3wVg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:32",
+    "keyword": "Dental Clinics",
+    "name": "Center For Dental Health",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Chadwell+Orthodontics/data=!4m7!3m6!1s0x8857830d8f7cc2e3:0x1a238e230d94896a!8m2!3d34.8917678!4d-82.0749207!16s%2Fg%2F1tfklw_t!19sChIJ48J8jw2DV4gRaomUDSOOIxo?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:05:57",
@@ -447,12 +825,61 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Chesterland+Family+Dental+Care/data=!4m7!3m6!1s0x883106049a06e485:0x96b41bf0263d4d83!8m2!3d41.5227039!4d-81.3461706!16s%2Fg%2F11ckq_j49r!19sChIJheQGmgQGMYgRg009JvAbtJY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:46",
+    "keyword": "Dental Clinics",
+    "name": "Chesterland Family Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Choice+One+Dental+Care+of+Greenville/data=!4m7!3m6!1s0x88582fc2e88622f9:0x7ec8c5d3844fb287!8m2!3d34.8235969!4d-82.3755985!16s%2Fg%2F1tgcb6r3!19sChIJ-SKG6MIvWIgRh7JPhNPFyH4?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:03",
     "keyword": "dentist",
     "name": "Choice One Dental Care of Greenville",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/City+Dental+Care/data=!4m7!3m6!1s0x8830ed9f8f3ef719:0x4b43eebc8461d0b7!8m2!3d41.450093!4d-81.8205075!16s%2Fg%2F11c55ww217!19sChIJGfc-j5_tMIgRt9BhhLzuQ0s?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:32:44",
+    "keyword": "Dental Clinics",
+    "name": "City Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Cleveland+Dental+Institute+-+Garfield/data=!4m7!3m6!1s0x8830e4648e4bffff:0x505b24e9c5174fe3!8m2!3d41.4095028!4d-81.6166302!16s%2Fg%2F11l5tm58l5!19sChIJ__9LjmTkMIgR408XxekkW1A?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:37",
+    "keyword": "Dental Clinics",
+    "name": "Cleveland Dental Institute - Garfield",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Cleveland+Dental+Institute+-+Lee/data=!4m7!3m6!1s0x8830e32b9f176203:0x5f487dd87c13affb!8m2!3d41.4480523!4d-81.563303!16s%2Fg%2F11f0kvw3pq!19sChIJA2IXnyvjMIgR-68TfNh9SF8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:33",
+    "keyword": "Dental Clinics",
+    "name": "Cleveland Dental Institute - Lee",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Cleveland+Dental+Institute+-+Shaker+Blvd/data=!4m7!3m6!1s0x8830fb7cb3d15fd9:0x8c7e95a9a7a7759b!8m2!3d41.4845814!4d-81.608557!16s%2Fg%2F1tddydxl!19sChIJ2V_Rs3z7MIgRm3Wnp6mVfow?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:32:41",
+    "keyword": "Dental Clinics",
+    "name": "Cleveland Dental Institute - Shaker Blvd",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Cleveland+Family+%26+Implant+Dentistry-Mini+Dental+Implant+Center+of+Cleveland/data=!4m7!3m6!1s0x8830fdad84cb0d25:0x63aa2ee590070ef7!8m2!3d41.4997009!4d-81.556351!16s%2Fg%2F1tfctwfg!19sChIJJQ3LhK39MIgR9w4HkOUuqmM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:32",
+    "keyword": "Dental Clinics",
+    "name": "Cleveland Family & Implant Dentistry-Mini Dental Implant Center of Cleveland",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Cleveland+Smile+Center+-+Bedford+%2F+Oakwood+Dentists/data=!4m7!3m6!1s0x88311dfdf7c4329f:0xcb52f108897f7341!8m2!3d41.367644!4d-81.509462!16s%2Fg%2F1tw_nxg5!19sChIJnzLE9_0dMYgRQXN_iQjxUss?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:06",
+    "keyword": "Orthodontists",
+    "name": "Cleveland Smile Center - Bedford / Oakwood Dentists",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Clinica+Dental+Avila/data=!4m7!3m6!1s0x886b5608a9aa3793:0x332509ca8dee8e53!8m2!3d39.8340638!4d-86.246496!16s%2Fg%2F1hc2t63yl!19sChIJkzeqqQhWa4gRU47ujcoJJTM?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:12:05",
@@ -467,6 +894,13 @@
     "name": "Comdent Dental Services",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Comfort+Dental+Braces+-+Lakewood+OH/data=!4m7!3m6!1s0x8830f37f1dc1f2a3:0xc2b2761c607d12e6!8m2!3d41.4778248!4d-81.8181219!16s%2Fg%2F11tp138ncx!19sChIJo_LBHX_zMIgR5hJ9YBx2ssI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:10",
+    "keyword": "Orthodontists",
+    "name": "Comfort Dental Braces - Lakewood OH",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Comfort+Dental+Care/data=!4m7!3m6!1s0x886ca8a2271b679f:0x884111f9decbf1e3!8m2!3d39.7634799!4d-86.3190539!16s%2Fg%2F1tf7ygmf!19sChIJn2cbJ6KobIgR4_HL3vkRQYg?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:12:01",
@@ -580,6 +1014,13 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Custom+Orthodontics:+Dr.+Thomas+Herberger,+Inc./data=!4m7!3m6!1s0x88309a4711422725:0x6478f1196845fed7!8m2!3d41.4297087!4d-82.0698934!16s%2Fg%2F1262btyfp!19sChIJJSdCEUeaMIgR1_5FaBnxeGQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:01",
+    "keyword": "Orthodontists",
+    "name": "Custom Orthodontics: Dr. Thomas Herberger, Inc.",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Czarkowski+Pediatric+Dentistry/data=!4m7!3m6!1s0x886b52510441be4f:0xcf889b9304ada94a!8m2!3d39.868408!4d-86.127237!16s%2Fg%2F11b6hmb_ny!19sChIJT75BBFFSa4gRSqmtBJObiM8?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:11:15",
     "keyword": "Dental Clinics",
@@ -622,6 +1063,13 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/De+Loach+Orthodontics+Inc/data=!4m7!3m6!1s0x8830fdc58d71a5d3:0xadb326df2ad9928f!8m2!3d41.5158943!4d-81.5479672!16s%2Fg%2F1tdd1b74!19sChIJ06VxjcX9MIgRj5LZKt8ms60?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:10",
+    "keyword": "Orthodontists",
+    "name": "De Loach Orthodontics Inc",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Dean+%26+McInnis+Orthodontics/data=!4m7!3m6!1s0x8858486335f2df5b:0xef761f02028b97f6!8m2!3d34.8252545!4d-82.6013587!16s%2Fg%2F1tg_gs67!19sChIJW9_yNWNIWIgR9peLAgIfdu8?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:06:07",
     "keyword": "orthodontist",
@@ -642,6 +1090,13 @@
     "name": "Dedicated Dentistry",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/DentaCard+Discount+Dental+Plan/data=!4m7!3m6!1s0x883103b513611539:0x71734df1814f1898!8m2!3d41.5399751!4d-81.4436494!16s%2Fg%2F11gzx4bz2!19sChIJORVhE7UDMYgRmBhPgfFNc3E?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:41",
+    "keyword": "Dental Clinics",
+    "name": "DentaCard Discount Dental Plan",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Dental+Associates+of+Easley,+PA/data=!4m7!3m6!1s0x8858487c1f8573ef:0x13f00ef44c5ab636!8m2!3d34.824947!4d-82.6015774!16s%2Fg%2F12hz0m3sy!19sChIJ73OFH3xIWIgRNrZaTPQO8BM?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:14",
@@ -664,6 +1119,20 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
+  "https://www.google.com/maps/place/Dental+Care+of+Oberlin/data=!4m7!3m6!1s0x883a0a6380700001:0x21a8c04b0f79ba86!8m2!3d41.294008!4d-82.2285744!16s%2Fg%2F1tlc8r19!19sChIJAQBwgGMKOogRhrp5D0vAqCE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:35",
+    "keyword": "Dental Clinics",
+    "name": "Dental Care of Oberlin",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Dental+Care+of+Westlake/data=!4m7!3m6!1s0x883092f3286a2aeb:0xe418274ab808b58e!8m2!3d41.4240729!4d-81.9591779!16s%2Fg%2F1w15_26r!19sChIJ6ypqKPOSMIgRjrUIuEonGOQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:37",
+    "keyword": "Dental Clinics",
+    "name": "Dental Care of Westlake",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Dental+Care+on+East+Main/data=!4m7!3m6!1s0x88584817268d39df:0xe29e81bd192b0498!8m2!3d34.829724!4d-82.575128!16s%2Fg%2F1tgdjq8n!19sChIJ3zmNJhdIWIgRmAQrGb2BnuI?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:07",
     "keyword": "dentist",
@@ -677,6 +1146,13 @@
     "name": "Dental Faculty Pvt Practice",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Dental+Group+of+Mentor/data=!4m7!3m6!1s0x8831a5ccb4e434c5:0x12f67b15199b5c1d!8m2!3d41.6837872!4d-81.296785!16s%2Fg%2F1vg_dhwb!19sChIJxTTktMylMYgRHVybGRV79hI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:41",
+    "keyword": "Dental Clinics",
+    "name": "Dental Group of Mentor",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Dental+Innovations+**NEW+OWNER+%2F+DOCTOR+MAY+2024+-+-+Dr.+James+Hicks/data=!4m7!3m6!1s0x88582ee10db9c8bf:0xaacd83233d3a114!8m2!3d34.8501119!4d-82.3175583!16s%2Fg%2F11b6xk6l5p!19sChIJv8i5DeEuWIgRFKHTMzLYrAo?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T01:08:38",
@@ -692,6 +1168,13 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
+  "https://www.google.com/maps/place/DentalWorks+%26+Orthodontics+Avon/data=!4m7!3m6!1s0x8830906bb7dd9f05:0x4d7fe7f5d0d9fb13!8m2!3d41.4607053!4d-82.0222399!16s%2Fg%2F11c58qr206!19sChIJBZ_dt2uQMIgRE_vZ0PXnf00?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:08",
+    "keyword": "Orthodontists",
+    "name": "DentalWorks & Orthodontics Avon",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/DentalWorks+%26+Orthodontics+Clearwater/data=!4m7!3m6!1s0x886b4d30934321e9:0x893b96f484b45015!8m2!3d39.9069909!4d-86.0969482!16s%2Fg%2F1hc7z7tpr!19sChIJ6SFDkzBNa4gRFVC0hPSWO4k?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:11:54",
     "keyword": "Dental Clinics",
@@ -699,12 +1182,33 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
+  "https://www.google.com/maps/place/DentalWorks+%26+Orthodontics+Garfield/data=!4m7!3m6!1s0x8830e38c294768b5:0x27ea586966b51775!8m2!3d41.3992579!4d-81.5953952!16s%2Fg%2F1tcxvww2!19sChIJtWhHKYzjMIgRdRe1ZmlY6ic?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:32:42",
+    "keyword": "Dental Clinics",
+    "name": "DentalWorks & Orthodontics Garfield",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/DentalWorks+%26+Orthodontics+Strongsville/data=!4m7!3m6!1s0x8830c1d685db3b79:0x9f63bdad9c32f44a!8m2!3d41.3166889!4d-81.8345883!16s%2Fg%2F1td_hx7z!19sChIJeTvbhdbBMIgRSvQynK29Y58?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:08",
+    "keyword": "Orthodontists",
+    "name": "DentalWorks & Orthodontics Strongsville",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/DentalWorks+Greenville+SC/data=!4m7!3m6!1s0x885828cd04ef2013:0x99e94609728081b6!8m2!3d34.8258343!4d-82.2996522!16s%2Fg%2F1v831tnn!19sChIJEyDvBM0oWIgRtoGAcglG6Zk?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:36:29",
     "keyword": "orthodontist",
     "name": "DentalWorks Greenville SC",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Dentalworks+%26+Orthodontics+Mayfield+Heights/data=!4m7!3m6!1s0x883101eac0648edb:0xb593252dc0b1e1a0!8m2!3d41.519532!4d-81.4489056!16s%2Fg%2F1thl1hrn!19sChIJ245kwOoBMYgRoOGxwC0lk7U?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:59",
+    "keyword": "Orthodontists",
+    "name": "Dentalworks & Orthodontics Mayfield Heights",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Dentist+in+Greenville/data=!4m7!3m6!1s0x8858298d6b9f4a75:0x9487872bb0380334!8m2!3d34.8258343!4d-82.2996522!16s%2Fg%2F11v_4ycm7k!19sChIJdUqfa40pWIgRNAM4sCuHh5Q?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:14",
@@ -734,6 +1238,20 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
+  "https://www.google.com/maps/place/Dentlife+Dental+Care/data=!4m7!3m6!1s0x8830932d2708a429:0x8e5d48f39882ffbf!8m2!3d41.4162296!4d-81.9221054!16s%2Fg%2F11tsn2vw8_!19sChIJKaQIJy2TMIgRv_-CmPNIXY4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:48",
+    "keyword": "Dental Clinics",
+    "name": "Dentlife Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Department+of+Orthodontics+at+Case+Western+Reserve+University+School+of+Dental+Medicine/data=!4m7!3m6!1s0x8830fc77c10b25c1:0xbd2b35c08558b155!8m2!3d41.5053264!4d-81.603115!16s%2Fg%2F124t314g0!19sChIJwSULwXf8MIgRVbFYhcA1K70?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:10",
+    "keyword": "Orthodontists",
+    "name": "Department of Orthodontics at Case Western Reserve University School of Dental Medicine",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Destination+Dental+Multi+Specialty+Dental+Center/data=!4m7!3m6!1s0x8857833336e254d5:0xf20b72877e0ac5d3!8m2!3d34.9083701!4d-82.0992208!16s%2Fg%2F11lfgnr4gq!19sChIJ1VTiNjODV4gR08UKfodyC_I?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:36:35",
     "keyword": "orthodontist",
@@ -755,12 +1273,26 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
+  "https://www.google.com/maps/place/Diamond+Dental+of+Beachwood;+Barry+Diamond+D.D.S./data=!4m7!3m6!1s0x883103a3a7060f75:0x4191250c40b1a189!8m2!3d41.4596784!4d-81.488903!16s%2Fg%2F11p62092h5!19sChIJdQ8Gp6MDMYgRiaGxQAwlkUE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:41",
+    "keyword": "Dental Clinics",
+    "name": "Diamond Dental of Beachwood; Barry Diamond D.D.S.",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Disher+Orthodontics/data=!4m7!3m6!1s0x88583168cc0a6201:0x7a6b9f1cb76a0b3f!8m2!3d34.8797406!4d-82.4487705!16s%2Fg%2F1txnq55c!19sChIJAWIKzGgxWIgRPwtqtxyfa3o?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:36:32",
     "keyword": "orthodontist",
     "name": "Disher Orthodontics",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Downtown+Dental+Services/data=!4m7!3m6!1s0x8830fa874cc70beb:0x77e24bf966d66bc0!8m2!3d41.500237!4d-81.685095!16s%2Fg%2F1tkp0fdh!19sChIJ6wvHTIf6MIgRwGvWZvlL4nc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:32:41",
+    "keyword": "Dental Clinics",
+    "name": "Downtown Dental Services",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Downtown+Dental/data=!4m7!3m6!1s0x885831d3a3057c6d:0xbe3c063a29102997!8m2!3d34.8476727!4d-82.3895523!16s%2Fg%2F1hc2gh39k!19sChIJbXwFo9MxWIgRlykQKToGPL4?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:01:57",
@@ -775,6 +1307,41 @@
     "name": "Dr Nassers Dental Office",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Dr+Violet+Barbosa/data=!4m7!3m6!1s0x88311f304df055e5:0x67dbc6b0bbe6a0f5!8m2!3d41.3109738!4d-81.4364118!16s%2Fg%2F1v2yzh_4!19sChIJ5VXwTTAfMYgR9aDmu7DG22c?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:10",
+    "keyword": "Orthodontists",
+    "name": "Dr Violet Barbosa",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Aaron+Lundner/data=!4m7!3m6!1s0x8831a157fd23c487:0xd71c2572b2236cd1!8m2!3d41.6648649!4d-81.241486!16s%2Fg%2F11ss_4lrrr!19sChIJh8Qj_VehMYgR0WwjsnIlHNc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:10",
+    "keyword": "Orthodontists",
+    "name": "Dr. Aaron Lundner",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Andrew+Slodov+DDS/data=!4m7!3m6!1s0x88311f3c4e586fbf:0xd1e35fe3118b566!8m2!3d41.5021605!4d-81.4756301!16s%2Fg%2F1vsps45w!19sChIJv29YTjwfMYgRZrUYMf41Hg0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:12",
+    "keyword": "Orthodontists",
+    "name": "Dr. Andrew Slodov DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Casey+O%27Conor,+DDS/data=!4m7!3m6!1s0x88309738f10172b5:0x85d5da68db80852f!8m2!3d41.3909165!4d-82.017017!16s%2Fg%2F1tfmjg5p!19sChIJtXIB8TiXMIgRL4WA22ja1YU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:01",
+    "keyword": "Orthodontists",
+    "name": "Dr. Casey O'Conor, DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Charissa+K.+Mccune,+DDS/data=!4m7!3m6!1s0x88309012b9e36979:0xcbf94005331d2812!8m2!3d41.465183!4d-82.028745!16s%2Fg%2F1td4qbr5!19sChIJeWnjuRKQMIgREigdMwVA-cs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:14",
+    "keyword": "Orthodontists",
+    "name": "Dr. Charissa K. Mccune, DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Dr.+David+A.+Waters,+DMD/data=!4m7!3m6!1s0x885837f97ecc655d:0xc3223ad04b9447c9!8m2!3d34.8146915!4d-82.5519299!16s%2Fg%2F1tcw4bbl!19sChIJXWXMfvk3WIgRyUeUS9A6IsM?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:36:23",
@@ -797,6 +1364,13 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Dr.+Gary+Golovan,+DDS/data=!4m7!3m6!1s0x883102def8c62bd7:0xf1564dc5eaa41e60!8m2!3d41.4620272!4d-81.4749702!16s%2Fg%2F1tfctwfz!19sChIJ1yvG-N4CMYgRYB6k6sVNVvE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:10",
+    "keyword": "Orthodontists",
+    "name": "Dr. Gary Golovan, DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Dr.+Glen+S.+Davis+Jr,+DMD/data=!4m7!3m6!1s0x88582bb5435b8399:0x3494b0e31da1d69c!8m2!3d34.903194!4d-82.2594058!16s%2Fg%2F1vk6zyw4!19sChIJmYNbQ7UrWIgRnNahHeOwlDQ?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:36:30",
     "keyword": "orthodontist",
@@ -810,6 +1384,13 @@
     "name": "Dr. H. Carl Burton Jr, DMD",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Dr.+J.Jeffrey+Arnold,+DDS+MS/data=!4m7!3m6!1s0x8831024a4951d819:0x7bfeafaf1d79cf4!8m2!3d41.5021165!4d-81.475643!16s%2Fg%2F11gc9_wqjs!19sChIJGdhRSUoCMYgR9JzX8frqvwc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:14",
+    "keyword": "Orthodontists",
+    "name": "Dr. J.Jeffrey Arnold, DDS MS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Dr.+Lance+Fogle/data=!4m7!3m6!1s0x885828ce39266095:0x23c3d63aebfa31ec!8m2!3d34.8266648!4d-82.2946127!16s%2Fg%2F11tg6hzg5b!19sChIJlWAmOc4oWIgR7DH66zrWwyM?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:36:36",
@@ -825,6 +1406,13 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Dr.+Mark+G.+Hans,+DDS/data=!4m7!3m6!1s0x8830eb47b3bd181b:0x3063dcb9f8a7614e!8m2!3d41.374939!4d-81.8533284!16s%2Fg%2F1v7tm09f!19sChIJGxi9s0frMIgRTmGn-LncYzA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:08",
+    "keyword": "Orthodontists",
+    "name": "Dr. Mark G. Hans, DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Dr.+Matthew+S.+Warner/data=!4m7!3m6!1s0x8858292f1ecc9dcf:0x73aa31099bd97357!8m2!3d34.8507234!4d-82.2303562!16s%2Fg%2F11gxh8gsbd!19sChIJz53MHi8pWIgRV3PZmwkxqnM?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:36:23",
     "keyword": "orthodontist",
@@ -838,6 +1426,34 @@
     "name": "Dr. Michael S. Johnston, DMD, MS",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Dr.+Philip+Bomeli/data=!4m7!3m6!1s0x88311c6e2ebb3735:0x9e412ed5dcb46aa2!8m2!3d41.3892097!4d-81.4393539!16s%2Fg%2F11qgb71_j8!19sChIJNTe7Lm4cMYgRomq03NUuQZ4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:12",
+    "keyword": "Orthodontists",
+    "name": "Dr. Philip Bomeli",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Ronald+P.+Kolodziej,+Specialist+in+Orthodontics/data=!4m7!3m6!1s0x8830f213435baca3:0x5bfd9c39411f9404!8m2!3d41.482509!4d-81.799517!16s%2Fg%2F11c0r0t87m!19sChIJo6xbQxPyMIgRBJQfQTmc_Vs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:53",
+    "keyword": "Orthodontists",
+    "name": "Dr. Ronald P. Kolodziej, Specialist in Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Samuel+Papandreas/data=!4m7!3m6!1s0x8830e9d2df07c14d:0xcf7d5405a2027e1b!8m2!3d41.3120515!4d-81.7361323!16s%2Fg%2F11p0794nfv!19sChIJTcEH39LpMIgRG34CogVUfc8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:14",
+    "keyword": "Orthodontists",
+    "name": "Dr. Samuel Papandreas",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Dr.+Stephan+Parker/data=!4m7!3m6!1s0x8831014727c567c7:0xced9ea4137da48b6!8m2!3d41.5391974!4d-81.4436436!16s%2Fg%2F11rwxfx345!19sChIJx2fFJ0cBMYgRtkjaN0Hq2c4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:12",
+    "keyword": "Orthodontists",
+    "name": "Dr. Stephan Parker",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Eagle+Creek+Dentistry+-+Dr.+Preeti+Singh/data=!4m7!3m6!1s0x886caa0e7eb880cf:0x22220d6cbaf60036!8m2!3d39.854609!4d-86.263904!16s%2Fg%2F1tf3pn7t!19sChIJz4C4fg6qbIgRNgD2umwNIiI?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:12:01",
@@ -867,6 +1483,20 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
+  "https://www.google.com/maps/place/Elyria+Orthodontics/data=!4m7!3m6!1s0x883098e23bd6502f:0x12bc070a1fad39b9!8m2!3d41.3682089!4d-82.0991425!16s%2Fg%2F1td0z377!19sChIJL1DWO-KYMIgRuTmtHwoHvBI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:55",
+    "keyword": "Orthodontists",
+    "name": "Elyria Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Emerald+Dental+Care/data=!4m7!3m6!1s0x8831008b29690217:0xd444529cef6f4d74!8m2!3d41.5838186!4d-81.4688948!16s%2Fg%2F1tjbstpt!19sChIJFwJpKYsAMYgRdE1v75xSRNQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:33",
+    "keyword": "Dental Clinics",
+    "name": "Emerald Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Emergency+Dental+Care+USA/data=!4m7!3m6!1s0x885827528eff739b:0xd1957b8fc3b71148!8m2!3d34.7459822!4d-82.2609698!16s%2Fg%2F11vzy9tb0s!19sChIJm3P_jlInWIgRSBG3w497ldE?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T01:08:38",
     "keyword": "dentist",
@@ -874,12 +1504,68 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Emergency+Dental+Service/data=!4m7!3m6!1s0x8830eb13d978364b:0x7ceddc2370c53f23!8m2!3d41.3805887!4d-81.7873314!16s%2Fg%2F11y_d_1y1_!19sChIJSzZ42RPrMIgRIz_FcCPc7Xw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:46",
+    "keyword": "Dental Clinics",
+    "name": "Emergency Dental Service",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Emergency+Dental+Service/data=!4m7!3m6!1s0x8830ed8e2af0aa5b:0x2dffc5eb18203244!8m2!3d41.4404181!4d-81.8665336!16s%2Fg%2F11n56znf_8!19sChIJW6rwKo7tMIgRRDIgGOvF_y0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:48",
+    "keyword": "Dental Clinics",
+    "name": "Emergency Dental Service",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Emergency+Dental+Service/data=!4m7!3m6!1s0x8830efb37becdf3b:0xdd3b4570edb08880!8m2!3d41.4587039!4d-81.7686669!16s%2Fg%2F11n56z9lbv!19sChIJO9_se7PvMIgRgIiw7XBFO90?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:46",
+    "keyword": "Dental Clinics",
+    "name": "Emergency Dental Service",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Emergency+Dental+of+Cleveland/data=!4m7!3m6!1s0x8830eb18cf33c4f3:0xea6a1b86690e747d!8m2!3d41.3787785!4d-81.7880071!16s%2Fg%2F11tsmfq49y!19sChIJ88QzzxjrMIgRfXQOaYYbauo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:32:41",
+    "keyword": "Dental Clinics",
+    "name": "Emergency Dental of Cleveland",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Emergency+Dental/data=!4m7!3m6!1s0x886b551d1ce20951:0xd27fe9234f0da7dd!8m2!3d39.916002!4d-86.2263939!16s%2Fg%2F11l59y1x8z!19sChIJUQniHB1Va4gR3acNTyPpf9I?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:11:19",
     "keyword": "Dental Clinics",
     "name": "Emergency Dental",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Emergency+Dentist+24%2F7+Fairview+Park/data=!4m7!3m6!1s0x8830edbdf325f259:0x36d5cb0cebaaee5c!8m2!3d41.4448441!4d-81.8556289!16s%2Fg%2F11fsmx4t3l!19sChIJWfIl873tMIgRXO6q6wzL1TY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:39",
+    "keyword": "Dental Clinics",
+    "name": "Emergency Dentist 24/7 Fairview Park",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Emergency+Dentist+24%2F7+Seven+Hills/data=!4m7!3m6!1s0x8830e7cb3381aec5:0x6451f6fa254858db!8m2!3d41.3530167!4d-81.6831998!16s%2Fg%2F11j8lq12x9!19sChIJxa6BM8vnMIgR21hIJfr2UWQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:42",
+    "keyword": "Dental Clinics",
+    "name": "Emergency Dentist 24/7 Seven Hills",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Exceptional+Smiles+at+Landerbrook/data=!4m7!3m6!1s0x883103b556fd934d:0x1ce1a2beecf863e9!8m2!3d41.5035934!4d-81.4714965!16s%2Fg%2F1td9fd8p!19sChIJTZP9VrUDMYgR6WP47L6i4Rw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:08",
+    "keyword": "Orthodontists",
+    "name": "Exceptional Smiles at Landerbrook",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Fairview+Park+Dental+Care/data=!4m7!3m6!1s0x8830ed2e8a754aeb:0xf2e3a74ba3e34b45!8m2!3d41.4430313!4d-81.8613052!16s%2Fg%2F1tdl2669!19sChIJ60p1ii7tMIgRRUvjo0un4_I?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:39",
+    "keyword": "Dental Clinics",
+    "name": "Fairview Park Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Falls+Park+Dentistry/data=!4m7!3m6!1s0x885831d1ed228e89:0x4d1598e00325b50c!8m2!3d34.8516992!4d-82.3983827!16s%2Fg%2F1tyyxv29!19sChIJiY4i7dExWIgRDLUlA-CYFU0?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T01:08:38",
@@ -922,6 +1608,13 @@
     "name": "Family Dental Care- Greenville",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Family+Dental+Care/data=!4m7!3m6!1s0x8830ef72fc89b73d:0xbf352cd2fb2bbffc!8m2!3d41.4144121!4d-81.7109361!16s%2Fg%2F1thmlm_b!19sChIJPbeJ_HLvMIgR_L8r-9IsNb8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:33",
+    "keyword": "Dental Clinics",
+    "name": "Family Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Family+Dental+Health+of+Blue+Ridge/data=!4m7!3m6!1s0x88582ca624e19c7d:0x55e1e9ce4ea163a7!8m2!3d34.9593443!4d-82.3058513!16s%2Fg%2F1tlwgbzx!19sChIJfZzhJKYsWIgRp2OhTs7p4VU?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:01:59",
@@ -1056,6 +1749,41 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Fehring+Family+Dentistry/data=!4m7!3m6!1s0x883093fbc1c79633:0xbb2592eaf5579768!8m2!3d41.405233!4d-81.9465555!16s%2Fg%2F1tmbwrxl!19sChIJM5bHwfuTMIgRaJdX9eqSJbs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:39",
+    "keyword": "Dental Clinics",
+    "name": "Fehring Family Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Fenell+Orthodontics/data=!4m7!3m6!1s0x8831020786ea62a9:0xba0eab466c32efd6!8m2!3d41.5194523!4d-81.5155021!16s%2Fg%2F1tkrmfx9!19sChIJqWLqhgcCMYgR1u8ybEarDro?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:01",
+    "keyword": "Orthodontists",
+    "name": "Fenell Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Fenell+Orthodontics/data=!4m7!3m6!1s0x88310ba469544d69:0xccca38784fd419f0!8m2!3d41.5302238!4d-81.2150344!16s%2Fg%2F11b707trqt!19sChIJaU1UaaQLMYgR8BnUT3g4ysw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:01",
+    "keyword": "Orthodontists",
+    "name": "Fenell Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Fioritto+Family+Dental/data=!4m7!3m6!1s0x8831a1483ba78d87:0xab39c99ed28347f5!8m2!3d41.646245!4d-81.2423722!16s%2Fg%2F11cs04pdpx!19sChIJh42nO0ihMYgR9UeD0p7JOas?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:46",
+    "keyword": "Dental Clinics",
+    "name": "Fioritto Family Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Fioritto+Family+Dental/data=!4m7!3m6!1s0x8831a589b52f6101:0xcdd15e789763a30a!8m2!3d41.6994967!4d-81.3386043!16s%2Fg%2F1tgvf8gr!19sChIJAWEvtYmlMYgRCqNjl3he0c0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:35",
+    "keyword": "Dental Clinics",
+    "name": "Fioritto Family Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Fishers+Dental+Care/data=!4m7!3m6!1s0x8814b30867b3a953:0xefd623575e34d154!8m2!3d39.961057!4d-86.0361464!16s%2Fg%2F1txfprvj!19sChIJU6mzZwizFIgRVNE0Xlcj1u8?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:11:50",
     "keyword": "Dental Clinics",
@@ -1126,6 +1854,13 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Fried+%26+Roth+Orthodontics/data=!4m7!3m6!1s0x8831024a4bf4528f:0xa8a8a27eee53d6f3!8m2!3d41.5021605!4d-81.4756301!16s%2Fg%2F1tmgd1yf!19sChIJj1L0S0oCMYgR89ZT7n6iqKg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:59",
+    "keyword": "Orthodontists",
+    "name": "Fried & Roth Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Friendly+Smiles+of+Greer/data=!4m7!3m6!1s0x88582bd4a78adf2f:0x4e8191757d9854ba!8m2!3d34.900595!4d-82.258464!16s%2Fg%2F11s6169hjd!19sChIJL9-Kp9QrWIgRulSYfXWRgU4?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:36:27",
     "keyword": "orthodontist",
@@ -1188,6 +1923,48 @@
     "name": "Global Smiles Dental",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Good+Health+Dental/data=!4m7!3m6!1s0x88311c7024965119:0xa998d951b819365e!8m2!3d41.390543!4d-81.438294!16s%2Fg%2F11bz_1jb8g!19sChIJGVGWJHAcMYgRXjYZuFHZmKk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:32",
+    "keyword": "Dental Clinics",
+    "name": "Good Health Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Goodrich+Orthodontics/data=!4m7!3m6!1s0x88311b290d478927:0x5dcfcfd1b7a15f79!8m2!3d41.4316182!4d-81.3870952!16s%2Fg%2F11f4_6dh79!19sChIJJ4lHDSkbMYgReV-ht9HPz10?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:05",
+    "keyword": "Orthodontists",
+    "name": "Goodrich Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Great+Expressions+Dental+Centers+-+Great+Northern/data=!4m7!3m6!1s0x88309374d0959421:0xabf3c7f291fd927!8m2!3d41.4156312!4d-81.9068239!16s%2Fg%2F11cmy6nj00!19sChIJIZSV0HSTMIgRJ9kfKX88vwo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:33",
+    "keyword": "Dental Clinics",
+    "name": "Great Expressions Dental Centers - Great Northern",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Great+Expressions+Dental+Centers+-+Severance/data=!4m7!3m6!1s0x8830fdcfe095225d:0xb031919e6619a16c!8m2!3d41.5161546!4d-81.553408!16s%2Fg%2F11cmy825cr!19sChIJXSKV4M_9MIgRbKEZZp6RMbA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:32:42",
+    "keyword": "Dental Clinics",
+    "name": "Great Expressions Dental Centers - Severance",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Great+Expressions+Dental+Centers+-+Willoughby/data=!4m7!3m6!1s0x8831aa3c2b134993:0x5d36a536e805f8da!8m2!3d41.6235847!4d-81.4437637!16s%2Fg%2F11cnxd3437!19sChIJk0kTKzyqMYgR2vgF6DalNl0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:39",
+    "keyword": "Dental Clinics",
+    "name": "Great Expressions Dental Centers - Willoughby",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Great+Lakes+Dental/data=!4m7!3m6!1s0x8831a5ff12c23ac1:0x27a96d51fbb9c0ad!8m2!3d41.6756002!4d-81.3385727!16s%2Fg%2F1tj5ltb7!19sChIJwTrCEv-lMYgRrcC5-1FtqSc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:48",
+    "keyword": "Dental Clinics",
+    "name": "Great Lakes Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Great+Oaks+Dental/data=!4m7!3m6!1s0x88584f1ef48d6f2f:0x1ffb2e84df1758fd!8m2!3d34.8593272!4d-82.6738633!16s%2Fg%2F1tdmqs6j!19sChIJL2-N9B5PWIgR_VgX34Qu-x8?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:10",
@@ -1287,6 +2064,34 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/HD+Orthodontics/data=!4m7!3m6!1s0x8830e152f64f0923:0xf6447b6d3cab2111!8m2!3d41.3146987!4d-81.5333669!16s%2Fg%2F11wfbsc61m!19sChIJIwlP9lLhMIgRESGrPG17RPY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:01",
+    "keyword": "Orthodontists",
+    "name": "HD Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/HD+Orthodontics/data=!4m7!3m6!1s0x8830eb58d8b45bff:0xad83cedeebe98882!8m2!3d41.3741639!4d-81.8235571!16s%2Fg%2F11gxg9514q!19sChIJ_1u02FjrMIgRgojp697Og60?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:59",
+    "keyword": "Orthodontists",
+    "name": "HD Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/HD+Orthodontics/data=!4m7!3m6!1s0x8830fde12d9c62ef:0x75c49ce7f36e428!8m2!3d41.520035!4d-81.5489727!16s%2Fg%2F11l5q0y4vz!19sChIJ72KcLeH9MIgRKOQ2f85JXAc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:06",
+    "keyword": "Orthodontists",
+    "name": "HD Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/HD+Orthodontics/data=!4m7!3m6!1s0x8831a9cee7a1d353:0xed9ccb7ef13ab954!8m2!3d41.6599149!4d-81.3663782!16s%2Fg%2F11lz5ryp3n!19sChIJU9Oh586pMYgRVLk68X7LnO0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:06",
+    "keyword": "Orthodontists",
+    "name": "HD Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/HP+Family+Dentistry/data=!4m7!3m6!1s0x88582f1d37ec5e7f:0x4a2e61554eaf0258!8m2!3d34.8398654!4d-82.333798!16s%2Fg%2F11b5qt9zf2!19sChIJf17sNx0vWIgRWAKvTlVhLko?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:25",
     "keyword": "dentist",
@@ -1308,12 +2113,33 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Hayat+Dental+Centers/data=!4m7!3m6!1s0x883098e22fc99969:0x33f4d05f307d1490!8m2!3d41.3680466!4d-82.0993245!16s%2Fg%2F1td5gs5q!19sChIJaZnJL-KYMIgRkBR9MF_Q9DM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:37",
+    "keyword": "Dental Clinics",
+    "name": "Hayat Dental Centers",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Hayat+Dental+Centers/data=!4m7!3m6!1s0x8830ee0753ee1b17:0xb22b1fc9d3310088!8m2!3d41.4622756!4d-81.766879!16s%2Fg%2F1ptwf90sc!19sChIJFxvuUwfuMIgRiAAx08kfK7I?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:32:42",
+    "keyword": "Dental Clinics",
+    "name": "Hayat Dental Centers",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Haywood+Smile+Designs/data=!4m7!3m6!1s0x88582e9256d36081:0xb07d70f843428beb!8m2!3d34.8656641!4d-82.3320756!16s%2Fg%2F1th5_j2j!19sChIJgWDTVpIuWIgR64tCQ_hwfbA?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:36:10",
     "keyword": "dentist",
     "name": "Haywood Smile Designs",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Health+Education+Campus+Dental+Clinic/data=!4m7!3m6!1s0x8830fb6ea43133f1:0x5a17ee5fb33c4149!8m2!3d41.5059118!4d-81.6207363!16s%2Fg%2F11h1hqqh5k!19sChIJ8TMxpG77MIgRSUE8s1_uF1o?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:46",
+    "keyword": "Dental Clinics",
+    "name": "Health Education Campus Dental Clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/HealthNet+Barrington+Health+%26+Dental+Center/data=!4m7!3m6!1s0x886b5abbea5cbcd5:0x2552dcaba8e0e71a!8m2!3d39.7376102!4d-86.1084315!16s%2Fg%2F1tl8lg34!19sChIJ1bxc6rtaa4gRGufgqKvcUiU?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:12:16",
@@ -1349,6 +2175,13 @@
     "name": "Heartland Crossing Dental Care",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Heights+Family+Dental/data=!4m7!3m6!1s0x8830fc7ad31a3d01:0x7495271f5f8b3953!8m2!3d41.5006861!4d-81.5924425!16s%2Fg%2F1th6405w!19sChIJAT0a03r8MIgRUzmLXx8nlXQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:32:41",
+    "keyword": "Dental Clinics",
+    "name": "Heights Family Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Heritage+Dentistry+-+Greenville/data=!4m7!3m6!1s0x88582ea24154b14b:0x6cb8368ef796ac7!8m2!3d34.8772315!4d-82.3217994!16s%2Fg%2F1td7zt46!19sChIJS7FUQaIuWIgRx2p572iDywY?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:01:59",
@@ -1392,12 +2225,82 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Holt+Orthodontics+-+Twinsburg/data=!4m7!3m6!1s0x88311fc751f8161d:0x1767e52b933fef11!8m2!3d41.31557!4d-81.440969!16s%2Fg%2F11vwwnwxgq!19sChIJHRb4UccfMYgREe8_kyvlZxc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:01",
+    "keyword": "Orthodontists",
+    "name": "Holt Orthodontics - Twinsburg",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Hoskins+Family+%26+Cosmetic+Dentistry/data=!4m7!3m6!1s0x88582ed7793dedff:0xf96b745775582859!8m2!3d34.843506!4d-82.3122099!16s%2Fg%2F1th24j95!19sChIJ_-09edcuWIgRWShYdVd0a_k?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:29",
     "keyword": "dentist",
     "name": "Hoskins Family & Cosmetic Dentistry",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Hudec+Dental/data=!4m7!3m6!1s0x8830c0258ee51439:0xa8c1788c7fe09964!8m2!3d41.304687!4d-81.8333703!16s%2Fg%2F1w3477mm!19sChIJORTljiXAMIgRZJngf4x4wag?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:35",
+    "keyword": "Dental Clinics",
+    "name": "Hudec Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Hudec+Dental/data=!4m7!3m6!1s0x8830e2633b71c813:0x49e3824df3eda98!8m2!3d41.408942!4d-81.5320931!16s%2Fg%2F1tdf1_nv!19sChIJE8hxO2PiMIgRmNo-3yQ4ngQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:32",
+    "keyword": "Dental Clinics",
+    "name": "Hudec Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Hudec+Dental/data=!4m7!3m6!1s0x8830e386ea90ee63:0xe376f14030f4ed99!8m2!3d41.4239351!4d-81.6112962!16s%2Fg%2F1td4f5x9!19sChIJY-6Q6objMIgRme30MEDxduM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:48",
+    "keyword": "Dental Clinics",
+    "name": "Hudec Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Hudec+Dental/data=!4m7!3m6!1s0x8830edc97cdd9257:0x9204fc55c49d794a!8m2!3d41.4333887!4d-81.7973183!16s%2Fg%2F1vhq4bsb!19sChIJV5LdfMntMIgRSnmdxFX8BJI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:32:44",
+    "keyword": "Dental Clinics",
+    "name": "Hudec Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Hudec+Dental/data=!4m7!3m6!1s0x8830ee06940cdbb9:0xea83911c558a57fb!8m2!3d41.4599663!4d-81.7743169!16s%2Fg%2F1tdz0lt7!19sChIJudsMlAbuMIgR-1eKVRyRg-o?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:33",
+    "keyword": "Dental Clinics",
+    "name": "Hudec Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Hudec+Dental/data=!4m7!3m6!1s0x8830ef92d084af43:0x30160ad4748aec96!8m2!3d41.4410734!4d-81.7043356!16s%2Fg%2F1td05q2b!19sChIJQ6-E0JLvMIgRluyKdNQKFjA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:32:42",
+    "keyword": "Dental Clinics",
+    "name": "Hudec Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Hudec+Dental/data=!4m7!3m6!1s0x8830f06e943fde45:0x864163082b4e6c49!8m2!3d41.4871005!4d-81.707453!16s%2Fg%2F1v_nd4bj!19sChIJRd4_lG7wMIgRSWxOKwhjQYY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:32:42",
+    "keyword": "Dental Clinics",
+    "name": "Hudec Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Hudec+Dental/data=!4m7!3m6!1s0x8830f214c57b414d:0xc7526b666975fd6d!8m2!3d41.4771139!4d-81.8052355!16s%2Fg%2F1thlnqpl!19sChIJTUF7xRTyMIgRbf11aWZrUsc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:32:44",
+    "keyword": "Dental Clinics",
+    "name": "Hudec Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Hudec+Dental/data=!4m7!3m6!1s0x8831aaa51195cd3f:0x319926107b4217fe!8m2!3d41.6203816!4d-81.5028147!16s%2Fg%2F1td9ws7c!19sChIJP82VEaWqMYgR_hdCexAmmTE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:32:44",
+    "keyword": "Dental Clinics",
+    "name": "Hudec Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Huggins+Dental/data=!4m7!3m6!1s0x885833512aeb0a49:0x665d4997d71525ea!8m2!3d34.9128527!4d-82.4302049!16s%2Fg%2F11jcbrmb_y!19sChIJSQrrKlEzWIgR6iUV15dJXWY?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:05",
@@ -1426,6 +2329,20 @@
     "name": "Hunt Orthodontics",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Hylan+Dental+Care+-+Fairview+Park/data=!4m7!3m6!1s0x883093b059f5e643:0x801fab9d17a2af25!8m2!3d41.4404907!4d-81.8665542!16s%2Fg%2F11h2y4_gg9!19sChIJQ-b1WbCTMIgRJa-iF52rH4A?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:35",
+    "keyword": "Dental Clinics",
+    "name": "Hylan Dental Care - Fairview Park",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Hylan+Dental+Care+of+Cleveland/data=!4m7!3m6!1s0x8830ee04d8cf4a73:0x1986b1315deb4b9e!8m2!3d41.4587028!4d-81.7686984!16s%2Fg%2F1tff_4c4!19sChIJc0rP2ATuMIgRnkvrXTGxhhk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:32:41",
+    "keyword": "Dental Clinics",
+    "name": "Hylan Dental Care of Cleveland",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Immediate+Dental+Center/data=!4m7!3m6!1s0x886b59524f13e437:0xd25a58ad6825cf06!8m2!3d39.7114961!4d-86.2425952!16s%2Fg%2F11s0611zmh!19sChIJN-QTT1JZa4gRBs8laK1YWtI?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:11:20",
@@ -1504,6 +2421,13 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
+  "https://www.google.com/maps/place/Integrity+Dental+Group/data=!4m7!3m6!1s0x883110753beb8e71:0x52a9e45d884ffa4a!8m2!3d41.4142761!4d-81.3388442!16s%2Fg%2F1tfhh196!19sChIJcY7rO3UQMYgRSvpPiF3kqVI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:46",
+    "keyword": "Dental Clinics",
+    "name": "Integrity Dental Group",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Issaqueena+Pediatric+Dentistry+and+Orthodontics/data=!4m7!3m6!1s0x88583939bf54be1d:0x66dc16936f13d000!8m2!3d34.7872503!4d-82.4808818!16s%2Fg%2F11q1pm23ng!19sChIJHb5Uvzk5WIgRANATb5MW3GY?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:06:07",
     "keyword": "orthodontist",
@@ -1525,6 +2449,20 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Johnson+Orthodontics/data=!4m7!3m6!1s0x88311b6aea5b7b75:0x541208b0620489e8!8m2!3d41.4316023!4d-81.3870892!16s%2Fg%2F11kpwsh1st!19sChIJdXtb6mobMYgR6IkEYrAIElQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:05",
+    "keyword": "Orthodontists",
+    "name": "Johnson Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Johnson+Orthodontics/data=!4m7!3m6!1s0x8831aa234365342d:0xa58d6a93c277d8cf!8m2!3d41.6508361!4d-81.38031!16s%2Fg%2F1td0z3dq!19sChIJLTRlQyOqMYgRz9h3wpNqjaU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:59",
+    "keyword": "Orthodontists",
+    "name": "Johnson Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Johnston+Orthodontics/data=!4m7!3m6!1s0x88582ba556fa8eaf:0x2d7d744d41452663!8m2!3d34.9151353!4d-82.2688109!16s%2Fg%2F1hc3srnn1!19sChIJr476VqUrWIgRYyZFQU10fS0?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:05:57",
     "keyword": "orthodontist",
@@ -1538,6 +2476,13 @@
     "name": "Julian Thomas DMD PA",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Kast+Orthodontics/data=!4m7!3m6!1s0x8830c03981b6a1bf:0x987f2230ce5b9e79!8m2!3d41.296484!4d-81.8358337!16s%2Fg%2F1tmy5ptk!19sChIJv6G2gTnAMIgReZ5bzjAif5g?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:03",
+    "keyword": "Orthodontists",
+    "name": "Kast Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Katie+Pizzo+Orthodontics/data=!4m7!3m6!1s0x88582f8304522d57:0xd0e394272780ac4d!8m2!3d34.8462316!4d-82.3671319!16s%2Fg%2F11w91kzfr6!19sChIJVy1SBIMvWIgRTayAJyeU49A?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:06:05",
@@ -1560,12 +2505,54 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
+  "https://www.google.com/maps/place/Kmentt+Orthodontics/data=!4m7!3m6!1s0x8831a5f430220a47:0x91a9a8d1b01b4124!8m2!3d41.6876586!4d-81.3363475!16s%2Fg%2F1tfgq0yy!19sChIJRwoiMPSlMYgRJEEbsNGoqZE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:05",
+    "keyword": "Orthodontists",
+    "name": "Kmentt Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Kochenour+Orthodontics/data=!4m7!3m6!1s0x883a724075d52559:0x1bf321acd7ad00a!8m2!3d41.4076423!4d-82.3649294!16s%2Fg%2F11f4m6hc3k!19sChIJWSXVdUByOogRCtB6zRoyvwE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:14",
+    "keyword": "Orthodontists",
+    "name": "Kochenour Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Kulick+Dental/data=!4m7!3m6!1s0x8830e6196df49189:0x9321b7a18f82e095!8m2!3d41.364456!4d-81.68349!16s%2Fg%2F1w2yvjqc!19sChIJiZH0bRnmMIgRleCCj6G3IZM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:39",
+    "keyword": "Dental Clinics",
+    "name": "Kulick Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Ladd+Family+Dental/data=!4m7!3m6!1s0x885831cc3985746d:0xdbf633bf1aba7bec!8m2!3d34.8288265!4d-82.4094201!16s%2Fg%2F11pdlwkkk6!19sChIJbXSFOcwxWIgR7Hu6Gr8z9ts?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:17",
     "keyword": "dentist",
     "name": "Ladd Family Dental",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Lakewood+Dental+Group/data=!4m7!3m6!1s0x8830f266b0692209:0xf852cb993d3969d!8m2!3d41.485129!4d-81.8163494!16s%2Fg%2F1tdq_c5d!19sChIJCSJpsGbyMIgRnZbTk7kshQ8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:48",
+    "keyword": "Dental Clinics",
+    "name": "Lakewood Dental Group",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Lakewood+Dental+Wellness/data=!4m7!3m6!1s0x8830f399386e50dd:0x8ab866f437fe3d89!8m2!3d41.4849408!4d-81.7986505!16s%2Fg%2F11rkmbvwz9!19sChIJ3VBuOJnzMIgRiT3-N_RmuIo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:32:44",
+    "keyword": "Dental Clinics",
+    "name": "Lakewood Dental Wellness",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Landerhaven+Dental+Associates/data=!4m7!3m6!1s0x883103c81020177d:0x2173dfdb4ed5ac47!8m2!3d41.504179!4d-81.460577!16s%2Fg%2F1tfmjg9z!19sChIJfRcgEMgDMYgRR6zVTtvfcyE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:35",
+    "keyword": "Dental Clinics",
+    "name": "Landerhaven Dental Associates",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Lasting+Impressions+Family+Dental+Care/data=!4m7!3m6!1s0x8814ac68fe146ef7:0xeae8e8c970a2f238!8m2!3d40.0019674!4d-86.0916643!16s%2Fg%2F1td432mf!19sChIJ924U_misFIgROPKicMno6Oo?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:11:59",
@@ -1574,6 +2561,41 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
+  "https://www.google.com/maps/place/Lawrence+Family+Orthodontics/data=!4m7!3m6!1s0x8831015fed7dc235:0xd794edc3d2c68eaa!8m2!3d41.5203049!4d-81.4902174!16s%2Fg%2F1tf60yfy!19sChIJNcJ97V8BMYgRqo7G0sPtlNc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:55",
+    "keyword": "Orthodontists",
+    "name": "Lawrence Family Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Lccc+dental+clinic/data=!4m7!3m6!1s0x88309b7f746d6773:0xb82fd90c4332b449!8m2!3d41.4121588!4d-82.0713936!16s%2Fg%2F11ss78dd0f!19sChIJc2dtdH-bMIgRSbQyQwzZL7g?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:33",
+    "keyword": "Dental Clinics",
+    "name": "Lccc dental clinic",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Leap+Orthodontics/data=!4m7!3m6!1s0x8830973a268b8083:0x1c6d820342a9ea53!8m2!3d41.3920672!4d-82.0132053!16s%2Fg%2F1tj3lqsb!19sChIJg4CLJjqXMIgRU-qpQgOCbRw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:03",
+    "keyword": "Orthodontists",
+    "name": "Leap Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Leap+Orthodontics/data=!4m7!3m6!1s0x88311000835c92f9:0xed692b3e81376231!8m2!3d41.4308472!4d-81.3397799!16s%2Fg%2F1td6h3p9!19sChIJ-ZJcgwAQMYgRMWI3gT4rae0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:58",
+    "keyword": "Orthodontists",
+    "name": "Leap Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Legacy+Dental+Care-+Jason+Warn+DDS/data=!4m7!3m6!1s0x8831021950920f35:0x47ba664fd240f7a6!8m2!3d41.5204894!4d-81.4719686!16s%2Fg%2F11bc96rp9x!19sChIJNQ-SUBkCMYgRpvdA0k9mukc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:39",
+    "keyword": "Dental Clinics",
+    "name": "Legacy Dental Care- Jason Warn DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Lemon+Tree+Dental+Greenville/data=!4m7!3m6!1s0x885831c2e26f8b83:0x41655d0cb77c9d21!8m2!3d34.8154818!4d-82.4210813!16s%2Fg%2F11l5lvcktt!19sChIJg4tv4sIxWIgRIZ18twxdZUE?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:10",
     "keyword": "dentist",
@@ -1581,12 +2603,33 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Lewicki+David+A+DDS/data=!4m7!3m6!1s0x8831a4b200c54dc5:0x2be085d9024ddb1a!8m2!3d41.665248!4d-81.240471!16s%2Fg%2F1tdl26b0!19sChIJxU3FALKkMYgRGttNAtmF4Cs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:06",
+    "keyword": "Orthodontists",
+    "name": "Lewicki David A DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Lewicki+David+a+DDS/data=!4m7!3m6!1s0x8831aa234365342d:0xc53d3f3cff556a13!8m2!3d41.6369059!4d-81.3719451!16s%2Fg%2F1v8y4p5h!19sChIJLTRlQyOqMYgRE2pV_zw_PcU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:12",
+    "keyword": "Orthodontists",
+    "name": "Lewicki David a DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Lily+Dental/data=!4m7!3m6!1s0x886b4f24ee6f7515:0x74b9e426cb1af7a5!8m2!3d39.7815838!4d-86.0256307!16s%2Fg%2F1v1kqfz0!19sChIJFXVv7iRPa4gRpfcayybkuXQ?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:11:50",
     "keyword": "Dental Clinics",
     "name": "Lily Dental",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Lorain+County+Health+%26+Dentistry/data=!4m7!3m6!1s0x88309cfdeae9cce9:0xbaeac4b66c5070dd!8m2!3d41.4605301!4d-82.1701944!16s%2Fg%2F11b7dzy0hj!19sChIJ6czp6v2cMIgR3XBQbLbE6ro?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:48",
+    "keyword": "Dental Clinics",
+    "name": "Lorain County Health & Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Luxia+Dental/data=!4m7!3m6!1s0xe84401fd1dbc8bb:0xb718409f02a29fab!8m2!3d39.7651308!4d-86.2894813!16s%2Fg%2F11ycbtqxc5!19sChIJu8jb0R9AhA4Rq5-iAp9AGLc?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:11:22",
@@ -1636,6 +2679,27 @@
     "name": "Main Street Dental Care Brownsburg",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Mandana+Mozayeni+Orthodontics/data=!4m7!3m6!1s0x8830efe3713ad4fb:0x93058bb7d8d0f9fe!8m2!3d41.4623198!4d-81.7668672!16s%2Fg%2F11y3bwc74t!19sChIJ-9Q6cePvMIgR_vnQ2LeLBZM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:03",
+    "keyword": "Orthodontists",
+    "name": "Mandana Mozayeni Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Mandana+Mozayeni+Orthodontics/data=!4m7!3m6!1s0x8831a0821ae8f62f:0x400e46c082896be6!8m2!3d41.5845154!4d-81.2139495!16s%2Fg%2F1wbg01ch!19sChIJL_boGoKgMYgR5muJgsBGDkA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:58",
+    "keyword": "Orthodontists",
+    "name": "Mandana Mozayeni Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Mandana+Mozayeni+Orthodontics:+Mandana+Mozayeni,+DDS,+MSD+-+Cleveland/data=!4m7!3m6!1s0x8830ebe37a08c1a7:0x6ef788b36b9a1b1e!8m2!3d41.3750379!4d-81.8234182!16s%2Fg%2F11t_v0p4l0!19sChIJp8EIeuPrMIgRHhuaa7OI924?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:03",
+    "keyword": "Orthodontists",
+    "name": "Mandana Mozayeni Orthodontics: Mandana Mozayeni, DDS, MSD - Cleveland",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Mark+V+Muncy+DDS/data=!4m7!3m6!1s0x8858298310334f2d:0xddfe40db375a7337!8m2!3d34.8706087!4d-82.2553739!16s%2Fg%2F1tdfjd6s!19sChIJLU8zEIMpWIgRN3NaN9tA_t0?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:36:32",
@@ -1707,6 +2771,13 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/McGuire+Orthodontics+and+Facial+Orthopedics/data=!4m7!3m6!1s0x88311c7024965119:0x46ec71f878d31de4!8m2!3d41.390543!4d-81.438294!16s%2Fg%2F1tczwldq!19sChIJGVGWJHAcMYgR5B3TePhx7EY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:03",
+    "keyword": "Orthodontists",
+    "name": "McGuire Orthodontics and Facial Orthopedics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Melissa+Papio+DMD+MS/data=!4m7!3m6!1s0x885829c35130fea9:0xd6ddf217b28d1104!8m2!3d34.8134184!4d-82.2735784!16s%2Fg%2F11gy37vdhx!19sChIJqf4wUcMpWIgRBBGNshfy3dY?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:36:25",
     "keyword": "orthodontist",
@@ -1728,12 +2799,33 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
+  "https://www.google.com/maps/place/MetroHealth+Dental+Associates/data=!4m7!3m6!1s0x8830f0021919b333:0x2643383cc37ca9e7!8m2!3d41.4620067!4d-81.6975352!16s%2Fg%2F1tcylph2!19sChIJM7MZGQLwMIgR56l8wzw4QyY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:32",
+    "keyword": "Dental Clinics",
+    "name": "MetroHealth Dental Associates",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Meyer+Cosmetic+and+General+Dentistry/data=!4m7!3m6!1s0x88582e93a53574d5:0xbed8a388b3a59232!8m2!3d34.8661078!4d-82.3301664!16s%2Fg%2F1tj5lwf1!19sChIJ1XQ1pZMuWIgRMpKls4ij2L4?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:08",
     "keyword": "dentist",
     "name": "Meyer Cosmetic and General Dentistry",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Minich+Orthodontics/data=!4m7!3m6!1s0x88311a78cdd5cd81:0x1fbf9cb7887235b1!8m2!3d41.3891071!4d-81.3426948!16s%2Fg%2F1vv2swx1!19sChIJgc3VzXgaMYgRsTVyiLecvx8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:03",
+    "keyword": "Orthodontists",
+    "name": "Minich Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Minich+Orthodontics/data=!4m7!3m6!1s0x8831a5de6a1e6101:0x389e83c992bf5598!8m2!3d41.674455!4d-81.3162397!16s%2Fg%2F1hc0v95ty!19sChIJAWEeat6lMYgRmFW_ksmDnjg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:01",
+    "keyword": "Orthodontists",
+    "name": "Minich Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Mirror+Lake+Family+Dentistry/data=!4m7!3m6!1s0x88582ef404bd8099:0x743d3de4abb9efd3!8m2!3d34.8577601!4d-82.3397416!16s%2Fg%2F11bbrjbd2k!19sChIJmYC9BPQuWIgR0--5q-Q9PXQ?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:19",
@@ -1798,6 +2890,27 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
+  "https://www.google.com/maps/place/NDS+Orthodontics+-+Chardon,+Dr.+Steven+W.+Gajda/data=!4m7!3m6!1s0x8831a86bdeaabfc1:0x6b59c58c821ee8ea!8m2!3d41.5804389!4d-81.2087157!16s%2Fg%2F1tfk5264!19sChIJwb-q3muoMYgR6ugegozFWWs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:01",
+    "keyword": "Orthodontists",
+    "name": "NDS Orthodontics - Chardon, Dr. Steven W. Gajda",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Naeemah+Lewis/data=!4m7!3m6!1s0x88310218d450a0d3:0xb2284fdf9fa08bd5!8m2!3d41.5204992!4d-81.49633!16s%2Fg%2F11qgb68_c5!19sChIJ06BQ1BgCMYgR1Yugn99PKLI?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:14",
+    "keyword": "Orthodontists",
+    "name": "Naeemah Lewis",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Nemeth+Family+Dental+Care/data=!4m7!3m6!1s0x883103b556fd934d:0x9d9002f596001df!8m2!3d41.5036632!4d-81.4714235!16s%2Fg%2F1tqtyjb5!19sChIJTZP9VrUDMYgR3wFgWS8A2Qk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:35",
+    "keyword": "Dental Clinics",
+    "name": "Nemeth Family Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/New+Horizon+Family+Dental+Care/data=!4m7!3m6!1s0x885830657b0249e7:0xfbe8e751d70d9b00!8m2!3d34.8164583!4d-82.4207988!16s%2Fg%2F1tc_rqrf!19sChIJ50kCe2UwWIgRAJsN11Hn6Ps?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T01:13:39",
     "keyword": "dentist",
@@ -1826,12 +2939,26 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
+  "https://www.google.com/maps/place/North+Coast+Dental/data=!4m7!3m6!1s0x8830e28b22f0e7c1:0xe988782c90ba0690!8m2!3d41.4123653!4d-81.5364334!16s%2Fg%2F1tf6x_b4!19sChIJwefwIoviMIgRkAa6kCx4iOk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:39",
+    "keyword": "Dental Clinics",
+    "name": "North Coast Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/North+Main+Dental/data=!4m7!3m6!1s0x88582f9fab04b1fb:0x893874c911e99a5d!8m2!3d34.8604064!4d-82.3882627!16s%2Fg%2F11fkrxfjyv!19sChIJ-7EEq58vWIgRXZrpEcl0OIk?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:19",
     "keyword": "dentist",
     "name": "North Main Dental",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/North+Royalton+Family+Dental/data=!4m7!3m6!1s0x8830e82dfb32c001:0xf4345987b12f3632!8m2!3d41.3134845!4d-81.7299526!16s%2Fg%2F1jgm38lxc!19sChIJAcAy-y3oMIgRMjYvsYdZNPQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:42",
+    "keyword": "Dental Clinics",
+    "name": "North Royalton Family Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Northside+Dental/data=!4m7!3m6!1s0x8814afc66b183c93:0xb63577a2e1ff78c8!8m2!3d40.0063391!4d-86.1287793!16s%2Fg%2F11g2zt5kkz!19sChIJkzwYa8avFIgRyHj_4aJ3NbY?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:11:17",
@@ -1847,6 +2974,13 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
+  "https://www.google.com/maps/place/Northview+Family+Dental/data=!4m7!3m6!1s0x8830f3c5208a5333:0xf1ce5e343cc163a4!8m2!3d41.4821706!4d-81.833436!16s%2Fg%2F11y48c0dqz!19sChIJM1OKIMXzMIgRpGPBPDRezvE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:41",
+    "keyword": "Dental Clinics",
+    "name": "Northview Family Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Novus+Orthodontics/data=!4m7!3m6!1s0x8858331a846ada09:0xed5136465e7880bb!8m2!3d34.8915581!4d-82.4051018!16s%2Fg%2F12qf5s4w0!19sChIJCdpqhBozWIgRu4B4XkY2Ue0?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:05:56",
     "keyword": "orthodontist",
@@ -1861,6 +2995,20 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/O%27Conor+Casey+L+DDS/data=!4m7!3m6!1s0x8830eda1f3ec919d:0x7ea4977fac2df48e!8m2!3d41.4486051!4d-81.8176384!16s%2Fg%2F1tr9p1qj!19sChIJnZHs86HtMIgRjvQtrH-XpH4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:05",
+    "keyword": "Orthodontists",
+    "name": "O'Conor Casey L DDS",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Ohio+City+Family+Dentistry/data=!4m7!3m6!1s0x8830f167ee707199:0xaf9608ea7c13097d!8m2!3d41.480745!4d-81.711487!16s%2Fg%2F11q36bj3bl!19sChIJmXFw7mfxMIgRfQkTfOoIlq8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:32:42",
+    "keyword": "Dental Clinics",
+    "name": "Ohio City Family Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Olive+Branch+Dental+Lafayette+Rd+-+Best+Dental+Office+in+Indianapolis/data=!4m7!3m6!1s0x886cabd086327fd5:0xec8338053f32cf01!8m2!3d39.850958!4d-86.2619716!16s%2Fg%2F11swxxf94m!19sChIJ1X8yhtCrbIgRAc8yPwU4g-w?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:11:50",
     "keyword": "Dental Clinics",
@@ -1868,12 +3016,40 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
+  "https://www.google.com/maps/place/Orabi+Orthodontics/data=!4m7!3m6!1s0x8830fd2973ff939f:0xd89242a830d5b889!8m2!3d41.4671974!4d-81.5372082!16s%2Fg%2F11wxpsw4k9!19sChIJn5P_cyn9MIgRibjVMKhCktg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:06",
+    "keyword": "Orthodontists",
+    "name": "Orabi Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Orange+Place+Family+Dentistry/data=!4m7!3m6!1s0x8831039455973ec3:0xb7963055de5f8094!8m2!3d41.4570876!4d-81.4873662!16s%2Fg%2F11h7jdvhm2!19sChIJwz6XVZQDMYgRlIBf3lUwlrc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:37",
+    "keyword": "Dental Clinics",
+    "name": "Orange Place Family Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Orthodontic+Associates+of+Greenville/data=!4m7!3m6!1s0x88582fc2ee893ae1:0x5518dcb22c71e158!8m2!3d34.8237362!4d-82.3776062!16s%2Fg%2F1thhl6vc!19sChIJ4TqJ7sIvWIgRWOFxLLLcGFU?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:05:56",
     "keyword": "orthodontist",
     "name": "Orthodontic Associates of Greenville",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Orthodontic+Specialists+of+Lorain+County+Inc./data=!4m7!3m6!1s0x88309d2e57798ac7:0x2112ab7bb8be0198!8m2!3d41.4185137!4d-82.1964705!16s%2Fg%2F11t7t4s7jc!19sChIJx4p5Vy6dMIgRmAG-uHurEiE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:05",
+    "keyword": "Orthodontists",
+    "name": "Orthodontic Specialists of Lorain County Inc.",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Orthodontics+By+Dr.+Ken+Lawrence/data=!4m7!3m6!1s0x8831a5e164846547:0x77d041c96f1c3d78!8m2!3d41.6744665!4d-81.3230017!16s%2Fg%2F1tdml3qf!19sChIJR2WEZOGlMYgReD0cb8lB0Hc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:59",
+    "keyword": "Orthodontists",
+    "name": "Orthodontics By Dr. Ken Lawrence",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Palmer+Distinctive+Dentistry/data=!4m7!3m6!1s0x88577cbf62b0727b:0x862a3c7db5132fea!8m2!3d34.808325!4d-82.28098!16s%2Fg%2F1tfj3wlq!19sChIJe3KwYr98V4gR6i8TtX08KoY?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:12",
@@ -1938,6 +3114,20 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Papandreas+Orthodontics/data=!4m7!3m6!1s0x8830c12fc3a87e93:0x3bbe29b8d80ceb85!8m2!3d41.2386878!4d-81.8122618!16s%2Fg%2F1q69q_0qp!19sChIJk36owy_BMIgRhesM2Lgpvjs?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:12",
+    "keyword": "Orthodontists",
+    "name": "Papandreas Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Papandreas+Orthodontics/data=!4m7!3m6!1s0x8830e9d2df07c46f:0xbd08dedf3546fc69!8m2!3d41.3121757!4d-81.7351379!16s%2Fg%2F1tddbhc4!19sChIJb8QH39LpMIgRafxGNd_eCL0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:53",
+    "keyword": "Orthodontists",
+    "name": "Papandreas Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Paradise+Dental+-+Huong+Vu,+D.D.S./data=!4m7!3m6!1s0x886b4db8ccf01b23:0x2c574e1dd78e04f1!8m2!3d39.8389739!4d-86.1455459!16s%2Fg%2F11gl294zsc!19sChIJIxvwzLhNa4gR8QSO1x1OVyw?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:11:57",
     "keyword": "Dental Clinics",
@@ -1959,6 +3149,13 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
+  "https://www.google.com/maps/place/Parker+Orthodontics/data=!4m7!3m6!1s0x883101472639e55d:0x4056a11eb1c94bef!8m2!3d41.5391974!4d-81.4436436!16s%2Fg%2F1tl_mc6k!19sChIJXeU5JkcBMYgR70vJsR6hVkA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:55",
+    "keyword": "Orthodontists",
+    "name": "Parker Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Parkway+Dental+Care/data=!4m7!3m6!1s0x8813549e0b25c539:0x303cb4f99499a5e6!8m2!3d39.9490325!4d-86.334449!16s%2Fg%2F11fzfff4mz!19sChIJOcUlC55UE4gR5qWZlPm0PDA?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:11:59",
     "keyword": "Dental Clinics",
@@ -1966,12 +3163,33 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
+  "https://www.google.com/maps/place/Parma+Dental+Group/data=!4m7!3m6!1s0x8830ef728f9df985:0xdced3016390ed6a7!8m2!3d41.4128616!4d-81.7108413!16s%2Fg%2F1tjfbxkc!19sChIJhfmdj3LvMIgRp9YOORYw7dw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:42",
+    "keyword": "Dental Clinics",
+    "name": "Parma Dental Group",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Parma+Family+Dentistry/data=!4m7!3m6!1s0x8830efd494adc9e1:0x77ce0cc86d84314c!8m2!3d41.399877!4d-81.7106983!16s%2Fg%2F11f6ydm96r!19sChIJ4cmtlNTvMIgRTDGEbcgMznc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:42",
+    "keyword": "Dental Clinics",
+    "name": "Parma Family Dentistry",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Pasui+Dentistry/data=!4m7!3m6!1s0x885839d3e5466ac7:0xd7fceeb14713079e!8m2!3d34.8108349!4d-82.5160046!16s%2Fg%2F1v2yzl2w!19sChIJx2pG5dM5WIgRngcTR7Hu_Nc?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:17",
     "keyword": "dentist",
     "name": "Pasui Dentistry",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Peak+Dental+of+Lakewood/data=!4m7!3m6!1s0x8830f2052da607a7:0x967dd2bb956dd84d!8m2!3d41.47723!4d-81.78746!16s%2Fg%2F1vd71zlz!19sChIJpwemLQXyMIgRTdhtlbvSfZY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:37",
+    "keyword": "Dental Clinics",
+    "name": "Peak Dental of Lakewood",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Pearl+Dental+Studio/data=!4m7!3m6!1s0x885829dee2d0bb43:0x5434fe7c4855aa0b!8m2!3d34.8090022!4d-82.233006!16s%2Fg%2F11fnrf3__n!19sChIJQ7vQ4t4pWIgRC6pVSHz-NFQ?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:19",
@@ -2057,6 +3275,20 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Precision+Orthodontics/data=!4m7!3m6!1s0x8830ea9af9ae3439:0x586242f35505c431!8m2!3d41.3185455!4d-81.8364024!16s%2Fg%2F1tftlvyr!19sChIJOTSu-ZrqMIgRMcQFVfNCYlg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:03",
+    "keyword": "Orthodontists",
+    "name": "Precision Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Precision+Orthodontics/data=!4m7!3m6!1s0x88310218d693e2df:0xc76af12f483fef7!8m2!3d41.5204594!4d-81.4964075!16s%2Fg%2F1hhglllsd!19sChIJ3-KT1hgCMYgR9_6D9BKvdgw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:05",
+    "keyword": "Orthodontists",
+    "name": "Precision Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Preferred+Dental+Care/data=!4m7!3m6!1s0x886b5526bdc1a28b:0x5fef3a234b10b80d!8m2!3d39.9055277!4d-86.2206511!16s%2Fg%2F1wf39bzr!19sChIJi6LBvSZVa4gRDbgQSyM6718?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:11:22",
     "keyword": "Dental Clinics",
@@ -2064,12 +3296,61 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
+  "https://www.google.com/maps/place/Premier+Dental+Associates+Inc/data=!4m7!3m6!1s0x8831024a4bf4528f:0x429fb13f1b539fa6!8m2!3d41.5022004!4d-81.4756927!16s%2Fg%2F1tzzw4g6!19sChIJj1L0S0oCMYgRpp9TGz-xn0I?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:39",
+    "keyword": "Dental Clinics",
+    "name": "Premier Dental Associates Inc",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Premier+Dental+Care/data=!4m7!3m6!1s0x886b5c76ccdda191:0x7e5f8feacb7e7e8f!8m2!3d39.6653434!4d-86.1483481!16s%2Fg%2F1trprk0q!19sChIJkaHdzHZca4gRj35-y-qPX34?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:11:17",
     "keyword": "Dental Clinics",
     "name": "Premier Dental Care",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Premier+Family+Dental/data=!4m7!3m6!1s0x8830929c7597b2c1:0x45a22c91b7bfc446!8m2!3d41.4700466!4d-81.8948466!16s%2Fg%2F1tdg_yk_!19sChIJwbKXdZySMIgRRsS_t5EsokU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:37",
+    "keyword": "Dental Clinics",
+    "name": "Premier Family Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Premier+Smiles+Orthodontics/data=!4m7!3m6!1s0x8830ef1de3176ce7:0x7f2968d830e23964!8m2!3d41.4090808!4d-81.7341584!16s%2Fg%2F11bv5s2rhj!19sChIJ52wX4x3vMIgRZDniMNhoKX8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:53",
+    "keyword": "Orthodontists",
+    "name": "Premier Smiles Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Premier+Smiles+Orthodontics/data=!4m7!3m6!1s0x8830fcd8e7ca7c49:0xf1d2c1dda160abb5!8m2!3d41.4652974!4d-81.5609256!16s%2Fg%2F1ptvyqcs1!19sChIJSXzK59j8MIgRtatgod3B0vE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:53",
+    "keyword": "Orthodontists",
+    "name": "Premier Smiles Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Premier+Smiles+Orthodontics/data=!4m7!3m6!1s0x8830fdc58d71a5d3:0x51e5926738029560!8m2!3d41.5008569!4d-81.5377288!16s%2Fg%2F11cfb8ng5!19sChIJ06VxjcX9MIgRYJUCOGeS5VE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:53",
+    "keyword": "Orthodontists",
+    "name": "Premier Smiles Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Premier+Smiles+Orthodontics/data=!4m7!3m6!1s0x88311d4786f2ae87:0x39509f37965b8292!8m2!3d41.4340194!4d-81.4940551!16s%2Fg%2F11c3tjnbm5!19sChIJh67yhkcdMYgRkoJbljefUDk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:53",
+    "keyword": "Orthodontists",
+    "name": "Premier Smiles Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Premier+Smiles+Orthodontics/data=!4m7!3m6!1s0x8831ab9bdb201ea7:0xea93182141869254!8m2!3d41.6302358!4d-81.4819963!16s%2Fg%2F11kjzn53kw!19sChIJpx4g25urMYgRVJKGQSEYk-o?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:53",
+    "keyword": "Orthodontists",
+    "name": "Premier Smiles Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Prime+Smile+East/data=!4m7!3m6!1s0x886b4feaa01a1d1f:0x493e62b0b87e6c0a!8m2!3d39.7708129!4d-86.0637969!16s%2Fg%2F11b6gkphx2!19sChIJHx0aoOpPa4gRCmx-uLBiPkk?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:11:17",
@@ -2084,6 +3365,13 @@
     "name": "PrimeCare Family Dental - Pendleton Pike",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Priority+Emergency+Dental+Care/data=!4m7!3m6!1s0x8830ef0032c4da45:0x487276c6c1077aaa!8m2!3d41.4393127!4d-81.7062692!16s%2Fg%2F11lz_xdms7!19sChIJRdrEMgDvMIgRqnoHwcZ2ckg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:37",
+    "keyword": "Dental Clinics",
+    "name": "Priority Emergency Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/ProGrin+Dental+of+Augusta+Road/data=!4m7!3m6!1s0x8858273b22a58e33:0xf555af0b5cf7dc39!8m2!3d34.8311021!4d-82.4031571!16s%2Fg%2F1tmxx964!19sChIJM46lIjsnWIgROdz3XAuvVfU?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:01:59",
@@ -2134,6 +3422,13 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Q+%26+A+Dental+Care/data=!4m7!3m6!1s0x88311f18830800c9:0xb9185218a7bfdccb!8m2!3d41.3141403!4d-81.5029525!16s%2Fg%2F11kh02k2sh!19sChIJyQAIgxgfMYgRy9y_pxhSGLk?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:32",
+    "keyword": "Dental Clinics",
+    "name": "Q & A Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Rae+Family+Dentistry/data=!4m7!3m6!1s0x88583cb75b163837:0x95afe43320f9a6c0!8m2!3d34.6961728!4d-82.3988332!16s%2Fg%2F11sh2cchvs!19sChIJNzgWW7c8WIgRwKb5IDPkr5U?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:29",
     "keyword": "dentist",
@@ -2162,12 +3457,26 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Richard+E.+Gift,+DDS,+MS,+Inc./data=!4m7!3m6!1s0x8830e92a98d1fcab:0x17674c16708fbf5!8m2!3d41.4049148!4d-81.6885012!16s%2Fg%2F1tpn3699!19sChIJq_zRmCrpMIgR9fsIZ8F0dgE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:08",
+    "keyword": "Orthodontists",
+    "name": "Richard E. Gift, DDS, MS, Inc.",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/River+Falls+Orthodontics/data=!4m7!3m6!1s0x885827218d6559a1:0x8aec3ca5d7475026!8m2!3d34.7249585!4d-82.2535834!16s%2Fg%2F1tggv6_v!19sChIJoVlljSEnWIgRJlBH16U87Io?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:05:57",
     "keyword": "orthodontist",
     "name": "River Falls Orthodontics",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Rockside+Family+Dental+Care/data=!4m7!3m6!1s0x8830e5b7d1ea005d:0xd5a93c2b4e323866!8m2!3d41.3987556!4d-81.6564159!16s%2Fg%2F1v44fm7x!19sChIJXQDq0bflMIgRZjgyTis8qdU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:32:41",
+    "keyword": "Dental Clinics",
+    "name": "Rockside Family Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Rocky+Creek+Dental+Care+-+Greenville/data=!4m7!3m6!1s0x88582e2e9c6f7af9:0x892add5f25637a5f!8m2!3d34.8498966!4d-82.381421!16s%2Fg%2F1tgnxygl!19sChIJ-XpvnC4uWIgRX3pjJV_dKok?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:03",
@@ -2182,6 +3491,27 @@
     "name": "Rocky Creek Dental Care",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Ronald+P.+Kolodziej,+DMD,+MS,+Specialist+in+Orthodontics/data=!4m7!3m6!1s0x8830efad2c63fa2b:0x13dc5c8225326a94!8m2!3d41.4317448!4d-81.7348992!16s%2Fg%2F1tgwbk7m!19sChIJK_pjLK3vMIgRlGoyJYJc3BM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:59",
+    "keyword": "Orthodontists",
+    "name": "Ronald P. Kolodziej, DMD, MS, Specialist in Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Ryan+T.+Wenger,+DDS,+MSD/data=!4m7!3m6!1s0x883103b556fd934d:0x934711dae8bf6b37!8m2!3d41.5036632!4d-81.4714235!16s%2Fg%2F1tl0x_83!19sChIJTZP9VrUDMYgRN2u_6NoRR5M?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:10",
+    "keyword": "Orthodontists",
+    "name": "Ryan T. Wenger, DDS, MSD",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Sabrina+E.+Mickel+DDS,+Inc./data=!4m7!3m6!1s0x8830fd40eb9b3d45:0x42b6d89c57823cd!8m2!3d41.464054!4d-81.508476!16s%2Fg%2F1td7jcvx!19sChIJRT2b60D9MIgRzSN4xYltKwQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:25",
+    "keyword": "Dental Clinics",
+    "name": "Sabrina E. Mickel DDS, Inc.",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Salazar+Family+Dental/data=!4m7!3m6!1s0x886b5742a3cad835:0xfb221222ba97dea2!8m2!3d39.7658798!4d-86.1956605!16s%2Fg%2F1tfctzn7!19sChIJNdjKo0JXa4gRot6XuiISIvs?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:11:59",
@@ -2203,6 +3533,48 @@
     "name": "Same Day Dental",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Scher+Dental/data=!4m7!3m6!1s0x883103d443eca0ef:0x1721ee93bdea8f1!8m2!3d41.5195886!4d-81.4623746!16s%2Fg%2F1thnpd_w!19sChIJ76DsQ9QDMYgR8ajeO-kecgE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:42",
+    "keyword": "Dental Clinics",
+    "name": "Scher Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Shaia+Dental+Care/data=!4m7!3m6!1s0x8830ebe35eb4086d:0x1a888d838cbd3543!8m2!3d41.3764523!4d-81.8252541!16s%2Fg%2F1tcxkdq4!19sChIJbQi0XuPrMIgRQzW9jIONiBo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:41",
+    "keyword": "Dental Clinics",
+    "name": "Shaia Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Shaker+Dental+Center/data=!4m7!3m6!1s0x8830fc8334baaaab:0x63fdd0bf7264f53e!8m2!3d41.5021462!4d-81.4756224!16s%2Fg%2F11p07b607q!19sChIJq6q6NIP8MIgRPvVkcr_Q_WM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:41",
+    "keyword": "Dental Clinics",
+    "name": "Shaker Dental Center",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Sher+Smiles+Orthodontics+%26+Periodontics/data=!4m7!3m6!1s0x8831024a4bf4528f:0x3d6481a9f3aebae8!8m2!3d41.5015229!4d-81.464483!16s%2Fg%2F1tdqp941!19sChIJj1L0S0oCMYgR6Lqu86mBZD0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:06",
+    "keyword": "Orthodontists",
+    "name": "Sher Smiles Orthodontics & Periodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Sher+Smiles+Orthodontics+And+Periodontics/data=!4m7!3m6!1s0x8830e62f09296f47:0xc027234ace56c548!8m2!3d41.348755!4d-81.683261!16s%2Fg%2F11gbjp8rhf!19sChIJR28pCS_mMIgRSMVWzkojJ8A?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:55",
+    "keyword": "Orthodontists",
+    "name": "Sher Smiles Orthodontics And Periodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Signature+Smiles+Dental/data=!4m7!3m6!1s0x8830986a16a1c0b9:0x7ca59ddf8ba262be!8m2!3d41.3468369!4d-82.0676518!16s%2Fg%2F11c1x356d1!19sChIJucChFmqYMIgRvmKii9-dpXw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:35",
+    "keyword": "Dental Clinics",
+    "name": "Signature Smiles Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Signature+Smiles/data=!4m7!3m6!1s0x88582fc2c72ed1c7:0x929c98a92f3bad53!8m2!3d34.8239777!4d-82.377156!16s%2Fg%2F1wfcpv_7!19sChIJx9Eux8IvWIgRU607L6mYnJI?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:07",
@@ -2246,6 +3618,27 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
+  "https://www.google.com/maps/place/Smilebliss+Orthodontics/data=!4m7!3m6!1s0x883101695309d643:0xdd229e7de3bc43e6!8m2!3d41.5393864!4d-81.4579569!16s%2Fg%2F11vlb15bbv!19sChIJQ9YJU2kBMYgR5kO8432eIt0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:55",
+    "keyword": "Orthodontists",
+    "name": "Smilebliss Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Smiles+By+White/data=!4m7!3m6!1s0x8830f3051ea836b9:0xea31c212baf04ace!8m2!3d41.4819982!4d-81.8375237!16s%2Fg%2F11hdmw325l!19sChIJuTaoHgXzMIgRzkrwuhLCMeo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:58",
+    "keyword": "Orthodontists",
+    "name": "Smiles By White",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Smiles+By+White/data=!4m7!3m6!1s0x88312176521e31df:0xd99b89d687fb6d9a!8m2!3d41.2415428!4d-81.441658!16s%2Fg%2F1tf9z1rb!19sChIJ3zEeUnYhMYgRmm37h9aJm9k?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:14",
+    "keyword": "Orthodontists",
+    "name": "Smiles By White",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Smiles+in+the+Village+Dentistry/data=!4m7!3m6!1s0x8814abbcff3eab53:0x24b5fcc9ba061d9c!8m2!3d39.9729185!4d-86.1962014!16s%2Fg%2F1yg4lwmk_!19sChIJU6s-_7yrFIgRnB0Gusn8tSQ?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:12:16",
     "keyword": "Dental Clinics",
@@ -2253,12 +3646,40 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
+  "https://www.google.com/maps/place/Snyder+%26+Winks+Dental/data=!4m7!3m6!1s0x8831abadb247a799:0x1ebdaf2111d7fe81!8m2!3d41.6075097!4d-81.4383187!16s%2Fg%2F11h_wyc7fm!19sChIJmadHsq2rMYgRgf7XESGvvR4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:41",
+    "keyword": "Dental Clinics",
+    "name": "Snyder & Winks Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Solon+Orthodontics/data=!4m7!3m6!1s0x88311c7205146631:0x3d882bb934481a1f!8m2!3d41.3892097!4d-81.4393539!16s%2Fg%2F1tz76mlp!19sChIJMWYUBXIcMYgRHxpINLkriD0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:55",
+    "keyword": "Orthodontists",
+    "name": "Solon Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Sonrisa+Dental/data=!4m7!3m6!1s0x886b50c8008acc01:0x6854b7a8e74d4aab!8m2!3d39.774428!4d-86.1655626!16s%2Fg%2F1tj85l8f!19sChIJAcyKAMhQa4gRq0pN56i3VGg?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:12:01",
     "keyword": "Dental Clinics",
     "name": "Sonrisa Dental",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Souris+Orthodontics/data=!4m7!3m6!1s0x883093a2645490ff:0x73be999d3c1b8743!8m2!3d41.417766!4d-81.917509!16s%2Fg%2F1vd95rby!19sChIJ_5BUZKKTMIgRQ4cbPJ2ZvnM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:55",
+    "keyword": "Orthodontists",
+    "name": "Souris Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Souris+Orthodontics/data=!4m7!3m6!1s0x8830978133092537:0xa3fd374a5709b0ee!8m2!3d41.3981768!4d-81.9971534!16s%2Fg%2F11gtyk798r!19sChIJNyUJM4GXMIgR7rAJV0o3_aM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:06",
+    "keyword": "Orthodontists",
+    "name": "Souris Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/South+Circle+Dental+Care/data=!4m7!3m6!1s0x886b5d0519ef7341:0xc9472532888ee351!8m2!3d39.6357935!4d-86.1404974!16s%2Fg%2F11td88ml1p!19sChIJQXPvGQVda4gRUeOOiDIlR8k?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:12:03",
@@ -2302,6 +3723,13 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Spring+%26+Sprout+Pediatric+Dentistry+and+Orthodontics/data=!4m7!3m6!1s0x8830eb95e3c9ae29:0x458e771f74859c09!8m2!3d41.3700781!4d-81.8058982!16s%2Fg%2F1td20xkm!19sChIJKa7J45XrMIgRCZyFdB93jkU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:08",
+    "keyword": "Orthodontists",
+    "name": "Spring & Sprout Pediatric Dentistry and Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Star+Dental+Clinic/data=!4m7!3m6!1s0x886b58015fb1add7:0xf8a395ce14c985f4!8m2!3d39.7526052!4d-86.2516885!16s%2Fg%2F1hc2srh6l!19sChIJ162xXwFYa4gR9IXJFM6Vo_g?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:11:19",
     "keyword": "Dental Clinics",
@@ -2315,6 +3743,48 @@
     "name": "Stone Lake Family Dentistry",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Strongsville+Smile+Keepers/data=!4m7!3m6!1s0x8830c0c89de63511:0x9b2aaa9eca362b8a!8m2!3d41.2933434!4d-81.8360744!16s%2Fg%2F1tfhh15l!19sChIJETXmncjAMIgRiis2yp6qKps?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:33",
+    "keyword": "Dental Clinics",
+    "name": "Strongsville Smile Keepers",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Success+Orthodontics+-+Cleveland/data=!4m7!3m6!1s0x8830f1dfc18c3ff9:0xf4eff2a24a071d1!8m2!3d41.4821263!4d-81.7684104!16s%2Fg%2F11x19939lv!19sChIJ-T-Mwd_xMIgR0XGgJCr_Tg8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:59",
+    "keyword": "Orthodontists",
+    "name": "Success Orthodontics - Cleveland",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Success+Orthodontics+-+Mayfield+Heights/data=!4m7!3m6!1s0x883103d4f169898d:0x6f725ac12455aa74!8m2!3d41.5205647!4d-81.4695306!16s%2Fg%2F1tddsvgf!19sChIJjYlp8dQDMYgRdKpVJMFacm8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:55",
+    "keyword": "Orthodontists",
+    "name": "Success Orthodontics - Mayfield Heights",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Success+Orthodontics+-+Twinsburg/data=!4m7!3m6!1s0x88311ec8586fad47:0xc88d310a07a13e07!8m2!3d41.3399301!4d-81.4369268!16s%2Fg%2F1tf_thxd!19sChIJR61vWMgeMYgRBz6hBwoxjcg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:59",
+    "keyword": "Orthodontists",
+    "name": "Success Orthodontics - Twinsburg",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Sullivan+Orthodontics/data=!4m7!3m6!1s0x8830e7161323b36b:0x3c075deda7303f61!8m2!3d41.3222428!4d-81.6260276!16s%2Fg%2F1hc2d0pfs!19sChIJa7MjExbnMIgRYT8wp-1dBzw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:58",
+    "keyword": "Orthodontists",
+    "name": "Sullivan Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Sullivan+Orthodontics/data=!4m7!3m6!1s0x8830e8d5eb2def27:0x56be6898d2bca80f!8m2!3d41.3801971!4d-81.7341743!16s%2Fg%2F1tq6kqng!19sChIJJ-8t69XoMIgRD6i80phovlY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:58",
+    "keyword": "Orthodontists",
+    "name": "Sullivan Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Summers+Orthodontics+@S.+Hwy+14/data=!4m7!3m6!1s0x88582999b4203dd9:0x80ee23c0e3e40737!8m2!3d34.8229027!4d-82.2568356!16s%2Fg%2F11sbgzz_d9!19sChIJ2T0gtJkpWIgRNwfk48Aj7oA?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:05:56",
@@ -2351,6 +3821,27 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
+  "https://www.google.com/maps/place/Sweeney+Orthodontics/data=!4m7!3m6!1s0x883093745a1086c7:0xe581092364d073cb!8m2!3d41.4136695!4d-81.9068377!16s%2Fg%2F1tsr3vrp!19sChIJx4YQWnSTMIgRy3PQZCMJgeU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:58",
+    "keyword": "Orthodontists",
+    "name": "Sweeney Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/T+Smile+Orthodontics+Middleburg+Heights/data=!4m7!3m6!1s0x8830eb7192f40997:0xe7641410ada1380c!8m2!3d41.3716211!4d-81.8351021!16s%2Fg%2F11wmp9ywkr!19sChIJlwn0knHrMIgRDDihrRAUZOc?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:03",
+    "keyword": "Orthodontists",
+    "name": "T Smile Orthodontics Middleburg Heights",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/T+Smile+Orthodontics+Solon/data=!4m7!3m6!1s0x88311d418a6c60f1:0x1ed2cc07a973a310!8m2!3d41.3884251!4d-81.4390524!16s%2Fg%2F11flgn__98!19sChIJ8WBsikEdMYgREKNzqQfM0h4?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:55",
+    "keyword": "Orthodontists",
+    "name": "T Smile Orthodontics Solon",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Taylors+Dental/data=!4m7!3m6!1s0x88582c68c421011b:0xacdec0806a68d8f3!8m2!3d34.915191!4d-82.3187265!16s%2Fg%2F11b6p6lnm7!19sChIJGwEhxGgsWIgR89hoaoDA3qw?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T01:08:38",
     "keyword": "dentist",
@@ -2378,6 +3869,13 @@
     "name": "The Oaks Dental Group, LLC",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/The+Orthodontic+Spot/data=!4m7!3m6!1s0x8831a1580f903a45:0xe0b2b0258b35a869!8m2!3d41.6648649!4d-81.241486!16s%2Fg%2F1tp300dj!19sChIJRTqQD1ihMYgRaag1iyWwsuA?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:56",
+    "keyword": "Orthodontists",
+    "name": "The Orthodontic Spot",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/The+Orthodontist+%7C+Braces+in+Greenville+-+Dr.+Timothy+E.+Hughes,+DMD/data=!4m7!3m6!1s0x8858303f4dea7385:0x26598be39d9b71a0!8m2!3d34.829449!4d-82.4094401!16s%2Fg%2F1wfvnc6n!19sChIJhXPqTT8wWIgRoHGbneOLWSY?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:05:56",
@@ -2491,6 +3989,41 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Union+Dental+Care/data=!4m7!3m6!1s0x8830eb7592dea08f:0x7f1fb9e2295f5200!8m2!3d41.3741639!4d-81.8235571!16s%2Fg%2F1tl8lbz0!19sChIJj6DeknXrMIgRAFJfKeK5H38?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:32",
+    "keyword": "Dental Clinics",
+    "name": "Union Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/United+Dental+Care,+Willoughby+Hills/data=!4m7!3m6!1s0x883100b093f76f91:0xbf86088bd23e6e2f!8m2!3d41.587316!4d-81.43781!16s%2Fg%2F11b5pl1l42!19sChIJkW_3k7AAMYgRL24-0osIhr8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:37",
+    "keyword": "Dental Clinics",
+    "name": "United Dental Care, Willoughby Hills",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/United+Dental+Care/data=!4m7!3m6!1s0x883102a3043db1db:0x28e41acefb9aed41!8m2!3d41.4640596!4d-81.5071183!16s%2Fg%2F11bw5m9p8d!19sChIJ27E9BKMCMYgRQe2a-84a5Cg?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:37",
+    "keyword": "Dental Clinics",
+    "name": "United Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/University+Dental+Associates/data=!4m7!3m6!1s0x8830fdb21c0e3197:0x31e1143e2e5a536a!8m2!3d41.501137!4d-81.554537!16s%2Fg%2F1vgqdr24!19sChIJlzEOHLL9MIgRalNaLj4U4TE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:06",
+    "keyword": "Orthodontists",
+    "name": "University Dental Associates",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/University+Heights+Dental+-+Dina+Fixler+DMD/data=!4m7!3m6!1s0x8830fd912bb7d3cd:0x3c58853b341827dd!8m2!3d41.5016712!4d-81.5302484!16s%2Fg%2F11cfcf6nj!19sChIJzdO3K5H9MIgR3ScYNDuFWDw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:32:44",
+    "keyword": "Dental Clinics",
+    "name": "University Heights Dental - Dina Fixler DMD",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Upstate+Oral+and+Maxillofacial+Surgery/data=!4m7!3m6!1s0x8858486305cc305d:0x36a451b1e58d5226!8m2!3d34.8273027!4d-82.6018528!16s%2Fg%2F1td7zt4s!19sChIJXTDMBWNIWIgRJlKN5bFRpDY?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:36:35",
     "keyword": "orthodontist",
@@ -2525,6 +4058,13 @@
     "name": "Upstate Smiles",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/Urgent+Dental+Care/data=!4m7!3m6!1s0x8830f1f28276b665:0x839c939251fcd867!8m2!3d41.5010089!4d-81.6954353!16s%2Fg%2F11k9nkzp8s!19sChIJZbZ2gvLxMIgRZ9j8UZKTnIM?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:42",
+    "keyword": "Dental Clinics",
+    "name": "Urgent Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Urgent+Dental+Center+%26+Family+Dentistry/data=!4m7!3m6!1s0x886b48ee11c26c23:0x945c3c9750dcb57!8m2!3d39.7738439!4d-85.982408!16s%2Fg%2F11bymw_0x6!19sChIJI2zCEe5Ia4gRV8sNdcnDRQk?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:11:50",
@@ -2575,6 +4115,27 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
   },
+  "https://www.google.com/maps/place/Valiathan+Orthodontics/data=!4m7!3m6!1s0x88311fc4485911b7:0xf3479225d527eb71!8m2!3d41.314052!4d-81.5008714!16s%2Fg%2F1tgd757s!19sChIJtxFZSMQfMYgRcesn1SWSR_M?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:05",
+    "keyword": "Orthodontists",
+    "name": "Valiathan Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Violet+Orthodontics/data=!4m7!3m6!1s0x883102bd389d1d19:0x61516ca8cd0798ff!8m2!3d41.4653669!4d-81.503869!16s%2Fg%2F11gfj4ty7j!19sChIJGR2dOL0CMYgR_5gHzahsUWE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:14",
+    "keyword": "Orthodontists",
+    "name": "Violet Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Violet+Orthodontics/data=!4m7!3m6!1s0x88311f304df055e5:0x28e20e900b3a8e57!8m2!3d41.3109729!4d-81.43641!16s%2Fg%2F1td38x2b!19sChIJ5VXwTTAfMYgRV446C5AO4ig?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:58",
+    "keyword": "Orthodontists",
+    "name": "Violet Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Wade+Hampton+Family+Dentistry/data=!4m7!3m6!1s0x88582d95dabf33c1:0xba7a5e9f7bd50714!8m2!3d34.8905312!4d-82.3469718!16s%2Fg%2F1vwlpvf2!19sChIJwTO_2pUtWIgRFAfVe59eero?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T01:08:38",
     "keyword": "dentist",
@@ -2582,12 +4143,54 @@
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
   },
+  "https://www.google.com/maps/place/Ward+Orthodontics/data=!4m7!3m6!1s0x88308fdd44118025:0x84a4f85ab905c977!8m2!3d41.492751!4d-82.0179667!16s%2Fg%2F11cn5q7xlv!19sChIJJYARRN2PMIgRd8kFuVr4pIQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:06",
+    "keyword": "Orthodontists",
+    "name": "Ward Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Ward+Orthodontics/data=!4m7!3m6!1s0x8830906e4cd2b201:0x2fd382a31e590248!8m2!3d41.4570392!4d-82.027982!16s%2Fg%2F11bw2hy207!19sChIJAbLSTG6QMIgRSAJZHqOC0y8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:58",
+    "keyword": "Orthodontists",
+    "name": "Ward Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
   "https://www.google.com/maps/place/Washington+Street+Dentistry/data=!4m7!3m6!1s0x886b48f62d210c7b:0xa3aa185388068e47!8m2!3d39.7752807!4d-85.9718792!16s%2Fg%2F1tdxwmn4!19sChIJewwhLfZIa4gRR44GiFMYqqM?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:11:50",
     "keyword": "Dental Clinics",
     "name": "Washington Street Dentistry",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Weiss+%26+Tor+Orthodontics/data=!4m7!3m6!1s0x8830ebec78903cdb:0x11c93f34b5a88123!8m2!3d41.3736878!4d-81.7971616!16s%2Fg%2F1tdbln3p!19sChIJ2zyQeOzrMIgRI4GotTQ_yRE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:55",
+    "keyword": "Orthodontists",
+    "name": "Weiss & Tor Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Weiss+%26+Tor+Orthodontics/data=!4m7!3m6!1s0x883102c6a521bc05:0x8476fbaf34732bc8!8m2!3d41.4573449!4d-81.4872589!16s%2Fg%2F1tf827h4!19sChIJBbwhpcYCMYgRyCtzNK_7doQ?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:53",
+    "keyword": "Orthodontists",
+    "name": "Weiss & Tor Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Wenger+Orthodontics/data=!4m7!3m6!1s0x883103b556fd934d:0xa63dea0322cb80b8!8m2!3d41.5037002!4d-81.4712677!16s%2Fg%2F1td65zcb!19sChIJTZP9VrUDMYgRuIDLIgPqPaY?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:59",
+    "keyword": "Orthodontists",
+    "name": "Wenger Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Wenger+Orthodontics/data=!4m7!3m6!1s0x883119d3f5555e07:0xcf965af620be7c9f!8m2!3d41.3195441!4d-81.3463286!16s%2Fg%2F1hc0vg1xx!19sChIJB15V9dMZMYgRn3y-IPZals8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:58",
+    "keyword": "Orthodontists",
+    "name": "Wenger Orthodontics",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/West+10th+Dental+Group/data=!4m7!3m6!1s0x886ca83fc76fd9c9:0x5daaf667668410c2!8m2!3d39.7791876!4d-86.2750903!16s%2Fg%2F1tks71gg!19sChIJydlvxz-obIgRwhCEZmf2ql0?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:11:22",
@@ -2602,6 +4205,13 @@
     "name": "West End Dental",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Greenville,+SC"
+  },
+  "https://www.google.com/maps/place/West+Park+Dental/data=!4m7!3m6!1s0x8830eda27373d19d:0x2c0b4f111ab733a1!8m2!3d41.4488168!4d-81.8155506!16s%2Fg%2F1whdj_jd!19sChIJndFzc6LtMIgRoTO3GhFPCyw?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:37",
+    "keyword": "Dental Clinics",
+    "name": "West Park Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Westend+Dental/data=!4m7!3m6!1s0x886b4f1653678fe1:0x6ed12bc2b533b740!8m2!3d39.7821756!4d-86.0664101!16s%2Fg%2F11h8bbwvk2!19sChIJ4Y9nUxZPa4gRQLcztcIr0W4?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-22T01:12:03",
@@ -2630,6 +4240,48 @@
     "name": "Westend Dental",
     "scraped": false,
     "source_url": "https://www.google.com/maps/place/Indianapolis,+IN"
+  },
+  "https://www.google.com/maps/place/Westlake+Dental+Associates/data=!4m7!3m6!1s0x8830925b41394a4b:0xffed500e285e96cf!8m2!3d41.4552612!4d-81.9033863!16s%2Fg%2F1tz96d01!19sChIJS0o5QVuSMIgRz5ZeKA5Q7f8?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:33",
+    "keyword": "Dental Clinics",
+    "name": "Westlake Dental Associates",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Westlake+Family+Dental+Care/data=!4m7!3m6!1s0x883092f3286a2aeb:0x9a29101be9bb7f80!8m2!3d41.4550899!4d-81.9018523!16s%2Fg%2F1tftxlt5!19sChIJ6ypqKPOSMIgRgH-76RsQKZo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:35",
+    "keyword": "Dental Clinics",
+    "name": "Westlake Family Dental Care",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Westown+Dental/data=!4m7!3m6!1s0x8830f1efe158ecb7:0x91311a895d6feb62!8m2!3d41.4658077!4d-81.7602867!16s%2Fg%2F11fphgdqv2!19sChIJt-xY4e_xMIgRYutvXYkaMZE?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:32:41",
+    "keyword": "Dental Clinics",
+    "name": "Westown Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Westside+Family+Dental/data=!4m7!3m6!1s0x8830f28f3545044f:0x1d351e8dc3182ae8!8m2!3d41.4811962!4d-81.8276365!16s%2Fg%2F1tmpfl39!19sChIJTwRFNY_yMIgR6CoYw40eNR0?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:42",
+    "keyword": "Dental Clinics",
+    "name": "Westside Family Dental",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Westside+Orthodontics+-+Lakewood/data=!4m7!3m6!1s0x8830f271bdca79d1:0x3a56c18cb2d18695!8m2!3d41.4772764!4d-81.8076084!16s%2Fg%2F1tdfjb0w!19sChIJ0XnKvXHyMIgRlYbRsozBVjo?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:34:03",
+    "keyword": "Orthodontists",
+    "name": "Westside Orthodontics - Lakewood",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
+  },
+  "https://www.google.com/maps/place/Westside+Orthodontics+-+Westlake/data=!4m7!3m6!1s0x883093cc5ede2d39:0xd53e368e84025520!8m2!3d41.4336471!4d-81.9422225!16s%2Fg%2F1tgn5cmz!19sChIJOS3eXsyTMIgRIFUChI42PtU?authuser=0&hl=en&rclk=1": {
+    "discovered_at": "2026-05-22T01:33:53",
+    "keyword": "Orthodontists",
+    "name": "Westside Orthodontics - Westlake",
+    "scraped": false,
+    "source_url": "https://www.google.com/maps/place/Cleveland,+OH"
   },
   "https://www.google.com/maps/place/Willoughby+Dental+of+Greenville/data=!4m7!3m6!1s0x88584603d619e6b5:0x6fed29bf64041ecc!8m2!3d34.8507041!4d-82.2304094!16s%2Fg%2F1tdx9dr0!19sChIJteYZ1gNGWIgRzB4EZL8p7W8?authuser=0&hl=en&rclk=1": {
     "discovered_at": "2026-05-21T00:02:08",

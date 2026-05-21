@@ -821,3 +821,5 @@ Stacktrace:
 01:09:29  [main]  INFO      50 cities × 25 keywords = 1250 combos across 1 worker(s)
 01:11:00  [main]  INFO      50 cities × 25 keywords = 1250 combos across 1 worker(s)
 01:24:36  [main]  INFO      50 cities × 25 keywords = 1250 combos across 1 worker(s)
+01:32:24  [main]  INFO      47 cities × 25 keywords = 1175 combos across 1 worker(s)
+01:33:10  [main]  INFO      47 cities × 25 keywords = 1175 combos across 1 worker(s)

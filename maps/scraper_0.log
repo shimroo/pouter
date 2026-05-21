@@ -202,3 +202,233 @@ Stacktrace:
 01:26:12  [W0]  INFO      Saved 379 urls → urls.json
 01:26:12  [W0]  INFO      [Dental Clinics] +0 new urls (total: 379)
 01:26:12  [W0]  INFO        stop 2/18  target(+0,+600)  delta(-519,+301)
+01:27:30  [W0]  INFO      Saved 379 urls → urls.json
+01:27:31  [W0]  INFO      Saved 379 urls → urls.json
+01:27:33  [W0]  INFO      Saved 379 urls → urls.json
+01:27:35  [W0]  INFO      Saved 379 urls → urls.json
+01:27:36  [W0]  INFO      Saved 379 urls → urls.json
+01:27:38  [W0]  INFO      Saved 379 urls → urls.json
+01:27:40  [W0]  INFO      Stalled after 6 scrolls — moving on
+01:27:40  [W0]  INFO      Saved 379 urls → urls.json
+01:27:40  [W0]  INFO      [Dental Clinics] +0 new urls (total: 379)
+01:27:40  [W0]  INFO        stop 3/18  target(-519,+300)  delta(-519,-300)
+01:28:30  [W0]  INFO      Interrupted — saving …
+01:28:30  [W0]  INFO      Saved 379 urls → urls.json
+01:28:30  [W0]  INFO      Worker done. Quitting driver.
+01:32:24  [W0]  INFO      Resuming from urls.json — 379 urls
+01:32:25  [W0]  INFO      Detected Chrome major version: 148
+01:32:28  [W0]  INFO      patching driver executable /home/rafay/.local/share/undetected_chromedriver/undetected_chromedriver
+01:32:28  [W0]  INFO      Driver started (incognito)
+01:32:28  [W0]  INFO      ── City: https://www.google.com/maps/place/Cleveland,+OH
+01:32:36  [W0]  INFO      Clicked: close popup
+01:32:37  [W0]  INFO        ── Keyword: Dental Clinics
+01:32:37  [W0]  INFO      Searched: Dental Clinics
+01:32:40  [W0]  INFO      Clicked: 'update results when map moves'
+01:32:42  [W0]  INFO      Saved 389 urls → urls.json
+01:32:44  [W0]  INFO      Saved 399 urls → urls.json
+01:32:45  [W0]  INFO      Saved 409 urls → urls.json
+01:32:47  [W0]  INFO      Saved 409 urls → urls.json
+01:32:48  [W0]  INFO      Saved 409 urls → urls.json
+01:32:50  [W0]  INFO      Saved 409 urls → urls.json
+01:32:52  [W0]  INFO      Saved 409 urls → urls.json
+01:32:53  [W0]  INFO      Stalled after 6 scrolls — moving on
+01:32:53  [W0]  INFO      Saved 409 urls → urls.json
+01:32:53  [W0]  INFO      [Dental Clinics] +30 new urls (total: 409)
+01:32:53  [W0]  INFO        ── Keyword: Orthodontists
+01:32:53  [W0]  INFO      Searched: Orthodontists
+01:33:00  [W0]  ERROR     Fatal: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=148.0.7778.167); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+#0 0x571f715b516a <unknown>
+#1 0x571f70fb26b9 <unknown>
+#2 0x571f70fb989b <unknown>
+#3 0x571f70fbc11b <unknown>
+#4 0x571f70fbc1c3 <unknown>
+#5 0x571f710065e9 <unknown>
+#6 0x571f71006e51 <unknown>
+#7 0x571f70ffc043 <unknown>
+#8 0x571f70ffba87 <unknown>
+#9 0x571f7104ecbf <unknown>
+#10 0x571f70ffa222 <unknown>
+#11 0x571f70ffb011 <unknown>
+#12 0x571f7157aa0b <unknown>
+#13 0x571f7157d92d <unknown>
+#14 0x571f71567948 <unknown>
+#15 0x571f7157e4c0 <unknown>
+#16 0x571f7154e560 <unknown>
+#17 0x571f715a1dd8 <unknown>
+#18 0x571f715a1f75 <unknown>
+#19 0x571f715b3bce <unknown>
+#20 0x71c52ea9caa4 <unknown>
+#21 0x71c52eb29c6c <unknown>
+Traceback (most recent call last):
+  File "/home/rafay/BCSN/pouter/maps/scrapper.py", line 480, in run_worker
+    collect_urls(driver, wait,
+  File "/home/rafay/BCSN/pouter/maps/scrapper.py", line 364, in collect_urls
+    current_total = len(feed.find_elements(By.XPATH, TILE_LINK_XPATH))
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rafay/.local/lib/python3.12/site-packages/selenium/webdriver/remote/webelement.py", line 556, in find_elements
+    return self._execute(Command.FIND_CHILD_ELEMENTS, {"using": by, "value": value})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rafay/.local/lib/python3.12/site-packages/selenium/webdriver/remote/webelement.py", line 508, in _execute
+    return self._parent.execute(command, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rafay/.local/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 468, in execute
+    self.error_handler.check_response(response)
+  File "/home/rafay/.local/lib/python3.12/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.StaleElementReferenceException: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=148.0.7778.167); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+#0 0x571f715b516a <unknown>
+#1 0x571f70fb26b9 <unknown>
+#2 0x571f70fb989b <unknown>
+#3 0x571f70fbc11b <unknown>
+#4 0x571f70fbc1c3 <unknown>
+#5 0x571f710065e9 <unknown>
+#6 0x571f71006e51 <unknown>
+#7 0x571f70ffc043 <unknown>
+#8 0x571f70ffba87 <unknown>
+#9 0x571f7104ecbf <unknown>
+#10 0x571f70ffa222 <unknown>
+#11 0x571f70ffb011 <unknown>
+#12 0x571f7157aa0b <unknown>
+#13 0x571f7157d92d <unknown>
+#14 0x571f71567948 <unknown>
+#15 0x571f7157e4c0 <unknown>
+#16 0x571f7154e560 <unknown>
+#17 0x571f715a1dd8 <unknown>
+#18 0x571f715a1f75 <unknown>
+#19 0x571f715b3bce <unknown>
+#20 0x71c52ea9caa4 <unknown>
+#21 0x71c52eb29c6c <unknown>
+
+01:33:00  [W0]  INFO      Saved 409 urls → urls.json
+01:33:00  [W0]  INFO      Worker done. Quitting driver.
+01:33:10  [W0]  INFO      Resuming from urls.json — 409 urls
+01:33:10  [W0]  INFO      Detected Chrome major version: 148
+01:33:13  [W0]  INFO      patching driver executable /home/rafay/.local/share/undetected_chromedriver/undetected_chromedriver
+01:33:13  [W0]  INFO      Driver started (incognito)
+01:33:13  [W0]  INFO      ── City: https://www.google.com/maps/place/Cleveland,+OH
+01:33:21  [W0]  INFO      Clicked: close popup
+01:33:21  [W0]  INFO        ── Keyword: Dental Clinics
+01:33:22  [W0]  INFO      Searched: Dental Clinics
+01:33:25  [W0]  INFO      Clicked: 'update results when map moves'
+01:33:27  [W0]  INFO      Saved 410 urls → urls.json
+01:33:28  [W0]  INFO      Saved 410 urls → urls.json
+01:33:30  [W0]  INFO      Saved 410 urls → urls.json
+01:33:32  [W0]  INFO      Saved 411 urls → urls.json
+01:33:33  [W0]  INFO      Saved 420 urls → urls.json
+01:33:35  [W0]  INFO      Saved 430 urls → urls.json
+01:33:37  [W0]  INFO      Saved 440 urls → urls.json
+01:33:38  [W0]  INFO      Saved 450 urls → urls.json
+01:33:40  [W0]  INFO      Saved 460 urls → urls.json
+01:33:42  [W0]  INFO      Saved 470 urls → urls.json
+01:33:44  [W0]  INFO      Saved 480 urls → urls.json
+01:33:46  [W0]  INFO      Saved 480 urls → urls.json
+01:33:47  [W0]  INFO      Saved 487 urls → urls.json
+01:33:48  [W0]  INFO      End of list reached
+01:33:48  [W0]  INFO      Saved 497 urls → urls.json
+01:33:48  [W0]  INFO      [Dental Clinics] +88 new urls (total: 497)
+01:33:48  [W0]  INFO        ── Keyword: Orthodontists
+01:33:48  [W0]  INFO      Searched: Orthodontists
+01:33:55  [W0]  INFO      Saved 506 urls → urls.json
+01:33:56  [W0]  INFO      Saved 516 urls → urls.json
+01:33:58  [W0]  INFO      Saved 517 urls → urls.json
+01:33:59  [W0]  INFO      Saved 527 urls → urls.json
+01:34:01  [W0]  INFO      Saved 537 urls → urls.json
+01:34:03  [W0]  INFO      Saved 547 urls → urls.json
+01:34:04  [W0]  INFO      Saved 557 urls → urls.json
+01:34:06  [W0]  INFO      Saved 566 urls → urls.json
+01:34:08  [W0]  INFO      Saved 576 urls → urls.json
+01:34:10  [W0]  INFO      Saved 586 urls → urls.json
+01:34:11  [W0]  INFO      Saved 596 urls → urls.json
+01:34:13  [W0]  INFO      Saved 605 urls → urls.json
+01:34:14  [W0]  INFO      End of list reached
+01:34:14  [W0]  INFO      Saved 615 urls → urls.json
+01:34:14  [W0]  INFO      [Orthodontists] +118 new urls (total: 615)
+01:34:14  [W0]  INFO        ── Keyword: Med Spas
+01:34:14  [W0]  INFO      Searched: Med Spas
+01:34:19  [W0]  INFO      End of list reached
+01:34:19  [W0]  INFO      Saved 615 urls → urls.json
+01:34:19  [W0]  INFO      [Med Spas] +0 new urls (total: 615)
+01:34:19  [W0]  INFO        ── Keyword: Aesthetic Clinics
+01:34:19  [W0]  INFO      Searched: Aesthetic Clinics
+01:34:25  [W0]  INFO      End of list reached
+01:34:25  [W0]  INFO      Saved 615 urls → urls.json
+01:34:25  [W0]  INFO      [Aesthetic Clinics] +0 new urls (total: 615)
+01:34:25  [W0]  INFO        ── Keyword: Therapy, Mental Health
+01:34:25  [W0]  INFO      Searched: Therapy, Mental Health
+01:34:30  [W0]  INFO      End of list reached
+01:34:30  [W0]  INFO      Saved 615 urls → urls.json
+01:34:30  [W0]  INFO      [Therapy, Mental Health] +0 new urls (total: 615)
+01:34:30  [W0]  INFO        ── Keyword: Rehab Practices
+01:34:30  [W0]  INFO      Searched: Rehab Practices
+01:34:35  [W0]  INFO      End of list reached
+01:34:35  [W0]  INFO      Saved 615 urls → urls.json
+01:34:35  [W0]  INFO      [Rehab Practices] +0 new urls (total: 615)
+01:34:35  [W0]  INFO        ── Keyword: Chiropractic
+01:34:36  [W0]  INFO      Searched: Chiropractic
+01:34:41  [W0]  INFO      End of list reached
+01:34:41  [W0]  INFO      Saved 615 urls → urls.json
+01:34:41  [W0]  INFO      [Chiropractic] +0 new urls (total: 615)
+01:34:41  [W0]  INFO        ── Keyword: Physical Therapy Clinics
+01:34:41  [W0]  INFO      Searched: Physical Therapy Clinics
+01:34:46  [W0]  INFO      End of list reached
+01:34:46  [W0]  INFO      Saved 615 urls → urls.json
+01:34:46  [W0]  INFO      [Physical Therapy Clinics] +0 new urls (total: 615)
+01:34:46  [W0]  INFO        ── Keyword: Veterinary Clinics
+01:34:46  [W0]  INFO      Searched: Veterinary Clinics
+01:34:52  [W0]  INFO      End of list reached
+01:34:52  [W0]  INFO      Saved 615 urls → urls.json
+01:34:52  [W0]  INFO      [Veterinary Clinics] +0 new urls (total: 615)
+01:34:52  [W0]  INFO        ── Keyword: HVAC Contractors
+01:34:52  [W0]  INFO      Searched: HVAC Contractors
+01:34:57  [W0]  INFO      End of list reached
+01:34:57  [W0]  INFO      Saved 615 urls → urls.json
+01:34:57  [W0]  INFO      [HVAC Contractors] +0 new urls (total: 615)
+01:34:57  [W0]  INFO        ── Keyword: Plumbing Services
+01:34:57  [W0]  INFO      Searched: Plumbing Services
+01:35:03  [W0]  INFO      End of list reached
+01:35:03  [W0]  INFO      Saved 615 urls → urls.json
+01:35:03  [W0]  INFO      [Plumbing Services] +0 new urls (total: 615)
+01:35:03  [W0]  INFO        ── Keyword: Roofing Contractors
+01:35:03  [W0]  INFO      Searched: Roofing Contractors
+01:35:08  [W0]  INFO      End of list reached
+01:35:08  [W0]  INFO      Saved 615 urls → urls.json
+01:35:08  [W0]  INFO      [Roofing Contractors] +0 new urls (total: 615)
+01:35:08  [W0]  INFO        ── Keyword: Pest Control
+01:35:08  [W0]  INFO      Searched: Pest Control
+01:35:14  [W0]  INFO      End of list reached
+01:35:14  [W0]  INFO      Saved 615 urls → urls.json
+01:35:14  [W0]  INFO      [Pest Control] +0 new urls (total: 615)
+01:35:14  [W0]  INFO        ── Keyword: Termite Services
+01:35:14  [W0]  INFO      Searched: Termite Services
+01:35:19  [W0]  INFO      End of list reached
+01:35:19  [W0]  INFO      Saved 615 urls → urls.json
+01:35:19  [W0]  INFO      [Termite Services] +0 new urls (total: 615)
+01:35:19  [W0]  INFO        ── Keyword: Landscaping
+01:35:19  [W0]  INFO      Searched: Landscaping
+01:35:24  [W0]  INFO      End of list reached
+01:35:24  [W0]  INFO      Saved 615 urls → urls.json
+01:35:24  [W0]  INFO      [Landscaping] +0 new urls (total: 615)
+01:35:24  [W0]  INFO        ── Keyword: Lawn Care
+01:35:24  [W0]  INFO      Searched: Lawn Care
+01:35:30  [W0]  INFO      End of list reached
+01:35:30  [W0]  INFO      Saved 615 urls → urls.json
+01:35:30  [W0]  INFO      [Lawn Care] +0 new urls (total: 615)
+01:35:30  [W0]  INFO        ── Keyword: Home Cleaning
+01:35:30  [W0]  INFO      Searched: Home Cleaning
+01:35:35  [W0]  INFO      End of list reached
+01:35:35  [W0]  INFO      Saved 615 urls → urls.json
+01:35:35  [W0]  INFO      [Home Cleaning] +0 new urls (total: 615)
+01:35:35  [W0]  INFO        ── Keyword: Janitorial Services
+01:35:35  [W0]  INFO      Searched: Janitorial Services
+01:35:41  [W0]  INFO      End of list reached
+01:35:41  [W0]  INFO      Saved 615 urls → urls.json
+01:35:41  [W0]  INFO      [Janitorial Services] +0 new urls (total: 615)
+01:35:41  [W0]  INFO        ── Keyword: Auto Repair
+01:35:41  [W0]  INFO      Searched: Auto Repair
+01:35:43  [W0]  INFO      Interrupted — saving …
+01:35:43  [W0]  INFO      Saved 615 urls → urls.json
+01:35:43  [W0]  INFO      Worker done. Quitting driver.
