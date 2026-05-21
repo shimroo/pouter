@@ -21,6 +21,9 @@ import json
 import logging
 import math
 import multiprocessing as mp
+import os
+import re
+import subprocess
 from time import sleep
 from pathlib import Path
 from datetime import datetime
@@ -121,7 +124,7 @@ KEYWORDS = [
 
 OUTPUT_FILE  = "urls.json"
 WAIT_TIME    = 10
-HEADLESS     = False
+HEADLESS     = os.environ.get("DISPLAY") is None  # auto-headless on SSH/no-display
 
 SCROLL_PAUSE       = 1.5
 SCROLL_STALL_LIMIT = 6
@@ -259,6 +262,20 @@ class UrlStore:
 
 # ─── DRIVER ──────────────────────────────────────────────────────────────────
 
+def _chrome_major_version() -> int | None:
+    for cmd in ("google-chrome", "google-chrome-stable", "chromium", "chromium-browser"):
+        try:
+            out = subprocess.check_output(
+                [cmd, "--version"], stderr=subprocess.DEVNULL
+            ).decode()
+            m = re.search(r"(\d+)\.\d+\.\d+", out)
+            if m:
+                return int(m.group(1))
+        except Exception:
+            continue
+    return None
+
+
 def build_driver() -> uc.Chrome:
     options = webdriver.ChromeOptions()
     options.add_argument("--incognito")
@@ -268,7 +285,9 @@ def build_driver() -> uc.Chrome:
     options.add_argument("--window-size=1920,1080")
     if HEADLESS:
         options.add_argument("--headless=new")
-    driver = uc.Chrome(options=options, version_main=148)
+    version = _chrome_major_version()
+    log.info("Detected Chrome major version: %s", version)
+    driver = uc.Chrome(options=options, version_main=version)
     log.info("Driver started (incognito)")
     return driver
 

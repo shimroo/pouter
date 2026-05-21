@@ -820,3 +820,4 @@ Stacktrace:
 01:08:54  INFO      patching driver executable /home/rafay/.local/share/undetected_chromedriver/undetected_chromedriver
 01:09:29  [main]  INFO      50 cities × 25 keywords = 1250 combos across 1 worker(s)
 01:11:00  [main]  INFO      50 cities × 25 keywords = 1250 combos across 1 worker(s)
+01:24:36  [main]  INFO      50 cities × 25 keywords = 1250 combos across 1 worker(s)

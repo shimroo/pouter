@@ -171,3 +171,34 @@ Stacktrace:
 01:13:12  [W0]  INFO      Interrupted — saving …
 01:13:12  [W0]  INFO      Saved 379 urls → urls.json
 01:13:12  [W0]  INFO      Worker done. Quitting driver.
+01:24:36  [W0]  INFO      Resuming from urls.json — 379 urls
+01:24:40  [W0]  INFO      patching driver executable /home/rafay/.local/share/undetected_chromedriver/undetected_chromedriver
+01:24:40  [W0]  INFO      Driver started (incognito)
+01:24:40  [W0]  INFO      ── City: https://www.google.com/maps/place/Indianapolis,+IN
+01:24:47  [W0]  INFO      Clicked: close popup
+01:24:48  [W0]  INFO        ── Keyword: Dental Clinics
+01:24:48  [W0]  INFO      Searched: Dental Clinics
+01:24:51  [W0]  INFO      Clicked: 'update results when map moves'
+01:24:53  [W0]  INFO      Saved 379 urls → urls.json
+01:24:55  [W0]  INFO      Saved 379 urls → urls.json
+01:24:56  [W0]  INFO      Saved 379 urls → urls.json
+01:24:58  [W0]  INFO      Saved 379 urls → urls.json
+01:25:00  [W0]  INFO      Saved 379 urls → urls.json
+01:25:01  [W0]  INFO      Saved 379 urls → urls.json
+01:25:03  [W0]  INFO      Saved 379 urls → urls.json
+01:25:04  [W0]  INFO      Saved 379 urls → urls.json
+01:25:06  [W0]  INFO      Stalled after 6 scrolls — moving on
+01:25:06  [W0]  INFO      Saved 379 urls → urls.json
+01:25:06  [W0]  INFO      [Dental Clinics] +0 new urls (total: 379)
+01:25:06  [W0]  INFO      Spiral: 2 rings → 18 stops
+01:25:06  [W0]  INFO        stop 1/18  target(+519,+299)  delta(+519,+299)
+01:26:02  [W0]  INFO      Saved 379 urls → urls.json
+01:26:04  [W0]  INFO      Saved 379 urls → urls.json
+01:26:06  [W0]  INFO      Saved 379 urls → urls.json
+01:26:07  [W0]  INFO      Saved 379 urls → urls.json
+01:26:09  [W0]  INFO      Saved 379 urls → urls.json
+01:26:11  [W0]  INFO      Saved 379 urls → urls.json
+01:26:12  [W0]  INFO      Stalled after 6 scrolls — moving on
+01:26:12  [W0]  INFO      Saved 379 urls → urls.json
+01:26:12  [W0]  INFO      [Dental Clinics] +0 new urls (total: 379)
+01:26:12  [W0]  INFO        stop 2/18  target(+0,+600)  delta(-519,+301)
