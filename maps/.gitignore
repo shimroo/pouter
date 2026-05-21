@@ -1,0 +1,23 @@
+# output data — never sync these between machines
+urls.json
+urls_*.json
+scan_progress.json
+
+# logs
+scraper.log
+scraper_*.log
+pass2.log
+pass2_*.log
+
+# temp files
+*.tmp
+
+# chrome driver copies
+undetected_chromedriver_*
+
+# sqlite
+*.db
+
+# python cache
+__pycache__/
+*.pyc
