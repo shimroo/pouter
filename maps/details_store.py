@@ -249,6 +249,36 @@ class DetailsStore:
             ).fetchall()
         return {r["status"]: r["n"] for r in rows}
 
+    def reset_stale(self, reset_failed: bool = False) -> dict[str, int]:
+        """
+        Force-release any in_progress rows left by a crashed worker,
+        and optionally reset failed rows so they're retried from scratch.
+        Returns counts of rows affected per status.
+        """
+        affected: dict[str, int] = {}
+        with self._tx() as cur:
+            res = cur.execute(
+                """
+                UPDATE places
+                   SET status = 'pending', worker_id = NULL,
+                       lease_expires_at = NULL
+                 WHERE status = 'in_progress'
+                """
+            )
+            affected["in_progress"] = res.rowcount
+            if reset_failed:
+                res = cur.execute(
+                    """
+                    UPDATE places
+                       SET status = 'pending', attempts = 0,
+                           last_error = NULL, worker_id = NULL,
+                           lease_expires_at = NULL
+                     WHERE status = 'failed'
+                    """
+                )
+                affected["failed"] = res.rowcount
+        return affected
+
     # ─── INTERNAL ───────────────────────────────────────────────────────────
 
     @contextmanager

@@ -53,6 +53,7 @@ HEADLESS        = False
 
 IDLE_SLEEP      = 5.0
 HEARTBEAT_EVERY = 60
+LOG_EVERY       = 25    # print queue stats every N completions
 PER_URL_PAUSE   = 1.5
 
 
@@ -208,6 +209,8 @@ def run_worker(worker_id: int = 0, db_path: str = DB_PATH) -> None:
     driver = build_driver(worker_id)
     _wait  = WebDriverWait(driver, WAIT_TIME)  # noqa: F841
 
+    completed_this_run = 0
+
     try:
         while not _stop.is_set():
             row = store.claim_next(wid)
@@ -237,7 +240,11 @@ def run_worker(worker_id: int = 0, db_path: str = DB_PATH) -> None:
                     log.warning("Could not mark completed — lease lost: %s", url)
                 else:
                     n_fields = len(details) - 1  # minus source_url
-                    log.info("✓ completed (%d fields): %s", n_fields, url)
+                    completed_this_run += 1
+                    log.info("✓ [%d] completed (%d fields): %s",
+                             completed_this_run, n_fields, url)
+                    if completed_this_run % LOG_EVERY == 0:
+                        log.info("Progress: %s", store.stats())
 
             except Exception as e:
                 log.exception("Extraction failed: %s", url)
@@ -270,7 +277,34 @@ def main() -> None:
                         help=f"SQLite DB path (default: {DB_PATH})")
     parser.add_argument("-H", "--headless", action="store_true",
                         help="run Chrome in headless mode")
+    parser.add_argument("-s", "--stats",   action="store_true",
+                        help="print DB queue stats and exit (no scraping)")
+    parser.add_argument("-r", "--reset",   action="store_true",
+                        help="reset stale in_progress rows back to pending and exit")
+    parser.add_argument("--reset-failed",  action="store_true",
+                        help="also reset failed rows back to pending (use with -r)")
     args = parser.parse_args()
+
+    if args.reset or args.reset_failed:
+        if not Path(args.db).exists():
+            sys.exit(f"No database found at {args.db}")
+        affected = DetailsStore(args.db).reset_stale(reset_failed=args.reset_failed)
+        for status, n in affected.items():
+            print(f"Reset {n} {status} → pending")
+        sys.exit(0)
+
+    if args.stats:
+        if not Path(args.db).exists():
+            sys.exit(f"No database found at {args.db}")
+        s = DetailsStore(args.db).stats()
+        total = sum(s.values())
+        print(f"\nDB: {args.db}  ({total:,} total)\n")
+        for status in ("completed", "pending", "in_progress", "failed"):
+            n = s.get(status, 0)
+            bar = "█" * (n * 40 // total) if total else ""
+            print(f"  {status:<12} {n:>7,}  {bar}")
+        print()
+        sys.exit(0)
 
     global HEADLESS
     if args.headless:
