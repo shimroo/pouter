@@ -264,11 +264,17 @@ def run_worker(worker_id: int = 0, db_path: str = DB_PATH) -> None:
 def main() -> None:
     parser = argparse.ArgumentParser(
         description="Google Maps detail scraper — pass 2")
-    parser.add_argument("-w", "--workers", type=int, default=1,
+    parser.add_argument("-w", "--workers",  type=int, default=1,
                         help="number of parallel Chrome workers (default: 1)")
-    parser.add_argument("-d", "--db",      default=DB_PATH,
+    parser.add_argument("-d", "--db",       default=DB_PATH,
                         help=f"SQLite DB path (default: {DB_PATH})")
+    parser.add_argument("-H", "--headless", action="store_true",
+                        help="run Chrome in headless mode")
     args = parser.parse_args()
+
+    global HEADLESS
+    if args.headless:
+        HEADLESS = True
 
     if not Path(URLS_JSON).exists() and not Path(args.db).exists():
         log.error("Neither %s nor %s exists — nothing to scrape", URLS_JSON, args.db)
