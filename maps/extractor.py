@@ -29,8 +29,11 @@ from selenium.webdriver.support import expected_conditions as EC
 log = logging.getLogger(__name__)
 
 PAGE_READY_XPATH    = "//h1[contains(@class,'DUwDvf')]"
-PAGE_READY_TIMEOUT  = 15
-POST_LOAD_SLEEP     = 2.0   # lets busy-hours bars and lazy chips settle
+PAGE_READY_TIMEOUT  = 10
+POST_LOAD_SLEEP     = 0.5   # fallback when hours/busy widgets aren't present
+HOURS_WAIT_XPATH    = ("//table[contains(@class,'eK4R0e')] | "
+                       "//div[contains(@class,'g2BVhd')]")
+HOURS_WAIT_TIMEOUT  = 2.0
 
 DAYS = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
 
@@ -57,7 +60,15 @@ def extract_details(driver, url: str) -> dict:
     except Exception:
         pass
 
-    sleep(POST_LOAD_SLEEP)
+    # Smart wait — if hours table or busy-hours block appears, settle briefly;
+    # otherwise fall back to a small fixed sleep for places without hours.
+    try:
+        WebDriverWait(driver, HOURS_WAIT_TIMEOUT).until(
+            EC.presence_of_element_located((By.XPATH, HOURS_WAIT_XPATH))
+        )
+        sleep(0.3)
+    except Exception:
+        sleep(POST_LOAD_SLEEP)
 
     tree = lxml.html.fromstring(driver.page_source)
     details: dict = {"source_url": url}

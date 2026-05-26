@@ -46,7 +46,7 @@ from extractor import extract_details
 URLS_JSON       = "urls.json"
 DB_PATH         = "places.db"
 HTML_DUMP_DIR   = "html"
-SAVE_RAW_HTML   = True
+SAVE_RAW_HTML   = False     # opt-in via --save-html
 
 WAIT_TIME       = 15
 HEADLESS        = False
@@ -54,7 +54,7 @@ HEADLESS        = False
 IDLE_SLEEP      = 5.0
 HEARTBEAT_EVERY = 60
 LOG_EVERY       = 25    # print queue stats every N completions
-PER_URL_PAUSE   = 1.5
+PER_URL_PAUSE   = 0.0   # parallel workers already provide rate-limiting headroom
 
 
 # ─── LOGGING ─────────────────────────────────────────────────────────────────
@@ -140,14 +140,31 @@ def build_driver(worker_id: int = 0) -> uc.Chrome:
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
     options.add_argument("--disable-gpu")
-    options.add_argument("--window-size=1400,1000")
+    options.add_argument("--window-size=1280,900")
+    options.add_argument("--disable-extensions")
+    options.add_argument("--disable-popup-blocking")
+    options.add_argument("--disable-notifications")
+    options.add_argument("--blink-settings=imagesEnabled=false")
+
+    # Don't wait for full network idle — we wait explicitly for the h1 instead.
+    options.page_load_strategy = "eager"
+
+    # Block heavy resources we never read (images, CSS, fonts).
+    prefs = {
+        "profile.managed_default_content_settings.images":      2,
+        "profile.managed_default_content_settings.stylesheets": 2,
+        "profile.managed_default_content_settings.fonts":       2,
+        "profile.default_content_setting_values.notifications": 2,
+    }
+    options.add_experimental_option("prefs", prefs)
+
     if HEADLESS:
         options.add_argument("--headless=new")
     version     = _chrome_major_version()
     driver_path = _copy_driver_for_worker(worker_id)
     driver = uc.Chrome(options=options, version_main=version,
                        driver_executable_path=driver_path)
-    log.info("Driver started (incognito)")
+    log.info("Driver started (incognito, lightweight)")
     return driver
 
 
@@ -277,6 +294,8 @@ def main() -> None:
                         help=f"SQLite DB path (default: {DB_PATH})")
     parser.add_argument("-H", "--headless", action="store_true",
                         help="run Chrome in headless mode")
+    parser.add_argument("--save-html",      action="store_true",
+                        help="dump raw page source per URL (~1 MB each)")
     parser.add_argument("-s", "--stats",   action="store_true",
                         help="print DB queue stats and exit (no scraping)")
     parser.add_argument("-r", "--reset",   action="store_true",
@@ -306,9 +325,11 @@ def main() -> None:
         print()
         sys.exit(0)
 
-    global HEADLESS
+    global HEADLESS, SAVE_RAW_HTML
     if args.headless:
         HEADLESS = True
+    if args.save_html:
+        SAVE_RAW_HTML = True
 
     if not Path(URLS_JSON).exists() and not Path(args.db).exists():
         log.error("Neither %s nor %s exists — nothing to scrape", URLS_JSON, args.db)
